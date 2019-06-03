@@ -7,5 +7,7 @@ export type TypeOfSchema<T> = {
     ? U
     : T[K] extends any[] | object
     ? TypeOfSchema<T[K]>
+    : K extends "_id"
+    ? T[K]
     : never
 }

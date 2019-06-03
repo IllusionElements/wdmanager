@@ -1,0 +1,6 @@
+type Query {
+  dragons: [Dragon]
+  tiers: [Tier]
+  dragon(name: String!): [Dragon]
+  tier(key: String!): [Tier]
+}

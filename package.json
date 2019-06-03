@@ -6,7 +6,8 @@
     "typescript": "^3.5.1"
   },
   "workspaces": [
-    "./packages/*"
+    "packages/core",
+    "packages/services"
   ],
   "dependencies": {
     "dotenv": "^8.0.0"
