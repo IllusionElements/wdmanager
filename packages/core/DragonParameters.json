@@ -1,0 +1,262 @@
+[
+  {
+    "key": "upgradeExpediteCostPerHour",
+    "value": "10",
+    "h": ""
+  },
+  {
+    "key": "percentageHpStartPulsating",
+    "value": "30",
+    "h": ""
+  },
+  {
+    "key": "percentageAmmoTurnRed",
+    "value": "30",
+    "h": ""
+  },
+  {
+    "key": "minEmptyDistanceAtWhichStartAccelerating",
+    "value": "75",
+    "h": ""
+  },
+  {
+    "key": "minEmptyDistanceBeforeAreaToStartAccelerating",
+    "value": "15",
+    "h": ""
+  },
+  {
+    "key": "defaultAcceleration",
+    "value": "6.3",
+    "h": ""
+  },
+  {
+    "key": "teleportAcceleration",
+    "value": "1500",
+    "h": ""
+  },
+  {
+    "key": "emptyPathSpeedChange",
+    "value": "10",
+    "h": ""
+  },
+  {
+    "key": "flamethrowerAmmoPowerupDuration",
+    "value": "3",
+    "h": ""
+  },
+  {
+    "key": "flamethrowerAmmoPowerupPercentage",
+    "value": "60",
+    "h": ""
+  },
+  {
+    "key": "swipeAmmoPowerupNumberOfAttacks",
+    "value": "1",
+    "h": ""
+  },
+  {
+    "key": "swipeAmmoPowerupSpeedMultiplier",
+    "value": "3",
+    "h": ""
+  },
+  {
+    "key": "percentageMaxHpPoisonIndicatorSolid",
+    "value": "5",
+    "h": ""
+  },
+  {
+    "key": "stableCinematics",
+    "value": "dragonFlightPathSmall",
+    "h": ""
+  },
+  {
+    "key": "stableCinematicsProbabilities",
+    "value": "1",
+    "h": ""
+  },
+  {
+    "key": "percentageHpShowUseSpells",
+    "value": "15",
+    "h": ""
+  },
+  {
+    "key": "dragonsSalePercent",
+    "value": "5",
+    "h": ""
+  },
+  {
+    "key": "incubatorHoverCinematic",
+    "value": "dragonIncubatorHover",
+    "h": ""
+  },
+  {
+    "key": "dragonShowcaseScale",
+    "value": "3.2",
+    "h": ""
+  },
+  {
+    "key": "statsViewOffset",
+    "value": "80|-20",
+    "h": ""
+  },
+  {
+    "key": "maxSpellRagePoints",
+    "value": "500",
+    "h": ""
+  },
+  {
+    "key": "startSpellRagePoints",
+    "value": "100",
+    "h": ""
+  },
+  {
+    "key": "autoAttackOffsetOnDragonPathForClosestBuildingToAttack",
+    "value": "5",
+    "h": ""
+  },
+  {
+    "key": "maxDefaultSpellOnADragon",
+    "value": "3",
+    "h": ""
+  },
+  {
+    "key": "minDistanceBeforeFirstBuildingToStartDragonRun",
+    "value": "100",
+    "h": ""
+  },
+  {
+    "key": "invertSpellProjectileParticleEffect",
+    "value": "invert_projectile_effect",
+    "h": ""
+  },
+  {
+    "key": "radialDistanceForWingFlapSoundInner",
+    "value": "300",
+    "h": ""
+  },
+  {
+    "key": "radialDistanceForWingFlapSoundOuter",
+    "value": "500",
+    "h": ""
+  },
+  {
+    "key": "dragonEggCost",
+    "value": "breedingToken:20",
+    "h": ""
+  },
+  {
+    "key": "dragonEggGoldCost",
+    "value": "goldBreedingToken:20",
+    "h": ""
+  },
+  {
+    "key": "dragonEggDistributionForUndefinedDistribution",
+    "value": "parent:40|self:60",
+    "h": ""
+  },
+  {
+    "key": "dragonEggPremiumPurchaseAmount",
+    "value": "20",
+    "h": ""
+  },
+  {
+    "key": "dragonEggPremiumPurchaseCost",
+    "value": "1500",
+    "h": ""
+  },
+  {
+    "key": "dragonEggShowcaseLocation",
+    "value": "0~12~25",
+    "h": ""
+  },
+  {
+    "key": "eggSlotIncrementAmount",
+    "value": "2",
+    "h": ""
+  },
+  {
+    "key": "dragonSlotIncrementAmount",
+    "value": "2",
+    "h": ""
+  },
+  {
+    "key": "healSpellGlowDuration",
+    "value": "0.4",
+    "h": ""
+  },
+  {
+    "key": "eggSellExchangeCurrency",
+    "value": "breedingToken",
+    "h": ""
+  },
+  {
+    "key": "eggSellExchangeAmount",
+    "value": "2",
+    "h": ""
+  },
+  {
+    "key": "maxEggDecksInStorage",
+    "value": "10",
+    "h": ""
+  },
+  {
+    "key": "dragonCirclingCinematicHeightOffset",
+    "value": "-55",
+    "h": ""
+  },
+  {
+    "key": "showcaseTouchDelay",
+    "value": "0.5",
+    "h": ""
+  },
+  {
+    "key": "defaultDragonCirclingNode",
+    "value": "FX_attachpoint_monument00",
+    "h": ""
+  },
+  {
+    "key": "questMenuTitles",
+    "value": "Limited Time Missions|Advised Mission|Dragon Guard Missions|Auxiliary Missions",
+    "h": ""
+  },
+  {
+    "key": "dragonHealExpediteCostMultiplier",
+    "value": "0.75",
+    "h": ""
+  },
+  {
+    "key": "initialBreedingCombination",
+    "value": "T1C1WFdragon|T1C1SEdragon",
+    "h": ""
+  },
+  {
+    "key": "dragonColorByTier",
+    "value": "0:240~58~35|1:240~58~35|2:178~68~157|3:64~81~248|4:230~122~29|5:117~201~51|6:250~212~10|7:229~238~226|8:51~51~153|9:240~58~35|10:117~201~51|11:85~16~51|12:93~222~202|13:255~192~23|14:120~81~192",
+    "h": ""
+  },
+  {
+    "key": "shrineDragonColor",
+    "value": "252~232~79",
+    "h": ""
+  },
+  {
+    "key": "dragonColorNameByTier",
+    "value": "1:Red|2:Purple|3:Blue|4:Orange|5:Green|6:Gold|7:Platinum|8:Sapphire|9:Garnet|10:Emerald|11:Obsidian|12:Harbinger|13:Vanguard|14:Empyrean",
+    "h": ""
+  },
+  {
+    "key": "dragonEggCurrencyByTier",
+    "value": "1:redEggCurrency|2:purpleEggCurrency|3:blueEggCurrency|4:orangeEggCurrency|5:greenEggCurrency|6:goldEggCurrency|7:platinumEggCurrency|8:sapphireEggCurrency|9:garnetEggCurrency|10:emeraldEggCurrency|11:obsidianEggCurrency|12:atlasEggCurrency|13:vanguardEggCurrency|14:empyreanEggCurrency",
+    "h": ""
+  },
+  {
+    "key": "teamAttackDragonXPBonusMultiplierByTier",
+    "value": "0:1.75|1:1.5|2:1.3|3:0.1|4:0.1|5:0.1|6:0.1|7:0.1|8:0.1|9:0.1|10:0.1|11:0.1|12:0.1|13:0.1|14:0.1|15:0.1",
+    "h": ""
+  },
+  {
+    "key": "upgradeLockedLabelText",
+    "value": "Finish Requirements First",
+    "h": "!@#leekfpnbfepjgjee"
+  }
+]

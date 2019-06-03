@@ -1,0 +1,20 @@
+{
+  "name": "@manager/core",
+  "version": "1.0.0",
+  "main": "dist/index.js",
+  "author": "Frydays",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "apollo-server": "^2.6.1",
+    "csvtojson": "^2.0.8",
+    "graphql": "^14.3.1",
+    "node-fetch": "^2.6.0"
+  },
+  "devDependencies": {
+    "chalk": "^2.4.2"
+  },
+  "scripts": {
+    "parse": "node --inspect -r esm ./ "
+  }
+}
