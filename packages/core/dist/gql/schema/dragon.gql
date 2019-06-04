@@ -29,27 +29,33 @@ type Level {
   upgradeReward: [Cost]
   power: Int
 }
-
+enum Rarity {
+  COMMON
+  RARE
+  EPIC
+  LEGENDARY
+  MYTHIC
+}
 type Dragon {
   _id: ID!
   identifier: String!
   displayName: String
   class: String
   title: String
-  rarity: String
+  rarity: Rarity
   element: String
   displayDescription: String
   defaultIconFilename: String
-  minRange: String
-  attackStartVal: String
-  isAttainable: String
-  breedableLevel: String
-  breedingCaveLevel: String
-  incubatingTime: String
-  incubatorLevel: String
-  canUpgrade: String
-  frags: String
+  minRange: Int
+  attackStartVal: Int
+  isAttainable: Boolean
+  breedableLevel: Int
+  breedingCaveLevel: Int
+  incubatingTime: Int
+  incubatorLevel: Int
+  canUpgrade: Boolean
+  frags: Int
   isDivine: Boolean
-  isUnbreedableDragon: String
+  isUnbreedableDragon: Boolean
   levels: [Level]
 }

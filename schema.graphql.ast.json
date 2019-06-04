@@ -1,0 +1,1010 @@
+[
+  {
+    "kind": "Document",
+    "definitions": [
+      {
+        "kind": "ObjectTypeDefinition",
+        "name": {
+          "kind": "Name",
+          "value": "Tier"
+        },
+        "interfaces": [],
+        "directives": [],
+        "fields": [
+          {
+            "kind": "FieldDefinition",
+            "name": {
+              "kind": "Name",
+              "value": "_id"
+            },
+            "arguments": [],
+            "type": {
+              "kind": "NamedType",
+              "name": {
+                "kind": "Name",
+                "value": "ID"
+              }
+            },
+            "directives": []
+          },
+          {
+            "kind": "FieldDefinition",
+            "name": {
+              "kind": "Name",
+              "value": "tier"
+            },
+            "arguments": [],
+            "type": {
+              "kind": "NamedType",
+              "name": {
+                "kind": "Name",
+                "value": "Int"
+              }
+            },
+            "directives": []
+          },
+          {
+            "kind": "FieldDefinition",
+            "name": {
+              "kind": "Name",
+              "value": "name"
+            },
+            "arguments": [],
+            "type": {
+              "kind": "NamedType",
+              "name": {
+                "kind": "Name",
+                "value": "String"
+              }
+            },
+            "directives": []
+          },
+          {
+            "kind": "FieldDefinition",
+            "name": {
+              "kind": "Name",
+              "value": "dragons"
+            },
+            "arguments": [],
+            "type": {
+              "kind": "ListType",
+              "type": {
+                "kind": "NamedType",
+                "name": {
+                  "kind": "Name",
+                  "value": "Dragon"
+                }
+              }
+            },
+            "directives": []
+          }
+        ]
+      },
+      {
+        "kind": "ObjectTypeDefinition",
+        "name": {
+          "kind": "Name",
+          "value": "Cost"
+        },
+        "interfaces": [],
+        "directives": [],
+        "fields": [
+          {
+            "kind": "FieldDefinition",
+            "name": {
+              "kind": "Name",
+              "value": "type"
+            },
+            "arguments": [],
+            "type": {
+              "kind": "NamedType",
+              "name": {
+                "kind": "Name",
+                "value": "String"
+              }
+            },
+            "directives": []
+          },
+          {
+            "kind": "FieldDefinition",
+            "name": {
+              "kind": "Name",
+              "value": "amount"
+            },
+            "arguments": [],
+            "type": {
+              "kind": "NamedType",
+              "name": {
+                "kind": "Name",
+                "value": "Int"
+              }
+            },
+            "directives": []
+          }
+        ]
+      },
+      {
+        "kind": "ObjectTypeDefinition",
+        "name": {
+          "kind": "Name",
+          "value": "Abilities"
+        },
+        "interfaces": [],
+        "directives": [],
+        "fields": [
+          {
+            "kind": "FieldDefinition",
+            "name": {
+              "kind": "Name",
+              "value": "identifier"
+            },
+            "arguments": [],
+            "type": {
+              "kind": "NamedType",
+              "name": {
+                "kind": "Name",
+                "value": "String"
+              }
+            },
+            "directives": []
+          },
+          {
+            "kind": "FieldDefinition",
+            "name": {
+              "kind": "Name",
+              "value": "name"
+            },
+            "arguments": [],
+            "type": {
+              "kind": "NamedType",
+              "name": {
+                "kind": "Name",
+                "value": "String"
+              }
+            },
+            "directives": []
+          }
+        ]
+      },
+      {
+        "kind": "ObjectTypeDefinition",
+        "name": {
+          "kind": "Name",
+          "value": "Level"
+        },
+        "interfaces": [],
+        "directives": [],
+        "fields": [
+          {
+            "kind": "FieldDefinition",
+            "name": {
+              "kind": "Name",
+              "value": "_id"
+            },
+            "arguments": [],
+            "type": {
+              "kind": "NonNullType",
+              "type": {
+                "kind": "NamedType",
+                "name": {
+                  "kind": "Name",
+                  "value": "ID"
+                }
+              }
+            },
+            "directives": []
+          },
+          {
+            "kind": "FieldDefinition",
+            "name": {
+              "kind": "Name",
+              "value": "identifier"
+            },
+            "arguments": [],
+            "type": {
+              "kind": "NonNullType",
+              "type": {
+                "kind": "NamedType",
+                "name": {
+                  "kind": "Name",
+                  "value": "String"
+                }
+              }
+            },
+            "directives": []
+          },
+          {
+            "kind": "FieldDefinition",
+            "name": {
+              "kind": "Name",
+              "value": "level"
+            },
+            "arguments": [],
+            "type": {
+              "kind": "NonNullType",
+              "type": {
+                "kind": "NamedType",
+                "name": {
+                  "kind": "Name",
+                  "value": "Int"
+                }
+              }
+            },
+            "directives": []
+          },
+          {
+            "kind": "FieldDefinition",
+            "name": {
+              "kind": "Name",
+              "value": "upgradeCost"
+            },
+            "arguments": [],
+            "type": {
+              "kind": "ListType",
+              "type": {
+                "kind": "NamedType",
+                "name": {
+                  "kind": "Name",
+                  "value": "Cost"
+                }
+              }
+            },
+            "directives": []
+          },
+          {
+            "kind": "FieldDefinition",
+            "name": {
+              "kind": "Name",
+              "value": "HP"
+            },
+            "arguments": [],
+            "type": {
+              "kind": "NamedType",
+              "name": {
+                "kind": "Name",
+                "value": "Int"
+              }
+            },
+            "directives": []
+          },
+          {
+            "kind": "FieldDefinition",
+            "name": {
+              "kind": "Name",
+              "value": "attackType"
+            },
+            "arguments": [],
+            "type": {
+              "kind": "ListType",
+              "type": {
+                "kind": "NamedType",
+                "name": {
+                  "kind": "Name",
+                  "value": "Cost"
+                }
+              }
+            },
+            "directives": []
+          },
+          {
+            "kind": "FieldDefinition",
+            "name": {
+              "kind": "Name",
+              "value": "attackPower"
+            },
+            "arguments": [],
+            "type": {
+              "kind": "NamedType",
+              "name": {
+                "kind": "Name",
+                "value": "Int"
+              }
+            },
+            "directives": []
+          },
+          {
+            "kind": "FieldDefinition",
+            "name": {
+              "kind": "Name",
+              "value": "battleUseCost"
+            },
+            "arguments": [],
+            "type": {
+              "kind": "ListType",
+              "type": {
+                "kind": "NamedType",
+                "name": {
+                  "kind": "Name",
+                  "value": "Cost"
+                }
+              }
+            },
+            "directives": []
+          },
+          {
+            "kind": "FieldDefinition",
+            "name": {
+              "kind": "Name",
+              "value": "spellRageIdentifier"
+            },
+            "arguments": [],
+            "type": {
+              "kind": "NamedType",
+              "name": {
+                "kind": "Name",
+                "value": "String"
+              }
+            },
+            "directives": []
+          },
+          {
+            "kind": "FieldDefinition",
+            "name": {
+              "kind": "Name",
+              "value": "requiredStableLevel"
+            },
+            "arguments": [],
+            "type": {
+              "kind": "NamedType",
+              "name": {
+                "kind": "Name",
+                "value": "Int"
+              }
+            },
+            "directives": []
+          },
+          {
+            "kind": "FieldDefinition",
+            "name": {
+              "kind": "Name",
+              "value": "xp"
+            },
+            "arguments": [],
+            "type": {
+              "kind": "NamedType",
+              "name": {
+                "kind": "Name",
+                "value": "Int"
+              }
+            },
+            "directives": []
+          },
+          {
+            "kind": "FieldDefinition",
+            "name": {
+              "kind": "Name",
+              "value": "upgradeReward"
+            },
+            "arguments": [],
+            "type": {
+              "kind": "ListType",
+              "type": {
+                "kind": "NamedType",
+                "name": {
+                  "kind": "Name",
+                  "value": "Cost"
+                }
+              }
+            },
+            "directives": []
+          },
+          {
+            "kind": "FieldDefinition",
+            "name": {
+              "kind": "Name",
+              "value": "power"
+            },
+            "arguments": [],
+            "type": {
+              "kind": "NamedType",
+              "name": {
+                "kind": "Name",
+                "value": "Int"
+              }
+            },
+            "directives": []
+          }
+        ]
+      },
+      {
+        "kind": "ObjectTypeDefinition",
+        "name": {
+          "kind": "Name",
+          "value": "Dragon"
+        },
+        "interfaces": [],
+        "directives": [],
+        "fields": [
+          {
+            "kind": "FieldDefinition",
+            "name": {
+              "kind": "Name",
+              "value": "_id"
+            },
+            "arguments": [],
+            "type": {
+              "kind": "NonNullType",
+              "type": {
+                "kind": "NamedType",
+                "name": {
+                  "kind": "Name",
+                  "value": "ID"
+                }
+              }
+            },
+            "directives": []
+          },
+          {
+            "kind": "FieldDefinition",
+            "name": {
+              "kind": "Name",
+              "value": "identifier"
+            },
+            "arguments": [],
+            "type": {
+              "kind": "NonNullType",
+              "type": {
+                "kind": "NamedType",
+                "name": {
+                  "kind": "Name",
+                  "value": "String"
+                }
+              }
+            },
+            "directives": []
+          },
+          {
+            "kind": "FieldDefinition",
+            "name": {
+              "kind": "Name",
+              "value": "displayName"
+            },
+            "arguments": [],
+            "type": {
+              "kind": "NamedType",
+              "name": {
+                "kind": "Name",
+                "value": "String"
+              }
+            },
+            "directives": []
+          },
+          {
+            "kind": "FieldDefinition",
+            "name": {
+              "kind": "Name",
+              "value": "class"
+            },
+            "arguments": [],
+            "type": {
+              "kind": "NamedType",
+              "name": {
+                "kind": "Name",
+                "value": "String"
+              }
+            },
+            "directives": []
+          },
+          {
+            "kind": "FieldDefinition",
+            "name": {
+              "kind": "Name",
+              "value": "title"
+            },
+            "arguments": [],
+            "type": {
+              "kind": "NamedType",
+              "name": {
+                "kind": "Name",
+                "value": "String"
+              }
+            },
+            "directives": []
+          },
+          {
+            "kind": "FieldDefinition",
+            "name": {
+              "kind": "Name",
+              "value": "rarity"
+            },
+            "arguments": [],
+            "type": {
+              "kind": "NamedType",
+              "name": {
+                "kind": "Name",
+                "value": "String"
+              }
+            },
+            "directives": []
+          },
+          {
+            "kind": "FieldDefinition",
+            "name": {
+              "kind": "Name",
+              "value": "element"
+            },
+            "arguments": [],
+            "type": {
+              "kind": "NamedType",
+              "name": {
+                "kind": "Name",
+                "value": "String"
+              }
+            },
+            "directives": []
+          },
+          {
+            "kind": "FieldDefinition",
+            "name": {
+              "kind": "Name",
+              "value": "displayDescription"
+            },
+            "arguments": [],
+            "type": {
+              "kind": "NamedType",
+              "name": {
+                "kind": "Name",
+                "value": "String"
+              }
+            },
+            "directives": []
+          },
+          {
+            "kind": "FieldDefinition",
+            "name": {
+              "kind": "Name",
+              "value": "defaultIconFilename"
+            },
+            "arguments": [],
+            "type": {
+              "kind": "NamedType",
+              "name": {
+                "kind": "Name",
+                "value": "String"
+              }
+            },
+            "directives": []
+          },
+          {
+            "kind": "FieldDefinition",
+            "name": {
+              "kind": "Name",
+              "value": "minRange"
+            },
+            "arguments": [],
+            "type": {
+              "kind": "NamedType",
+              "name": {
+                "kind": "Name",
+                "value": "String"
+              }
+            },
+            "directives": []
+          },
+          {
+            "kind": "FieldDefinition",
+            "name": {
+              "kind": "Name",
+              "value": "attackStartVal"
+            },
+            "arguments": [],
+            "type": {
+              "kind": "NamedType",
+              "name": {
+                "kind": "Name",
+                "value": "String"
+              }
+            },
+            "directives": []
+          },
+          {
+            "kind": "FieldDefinition",
+            "name": {
+              "kind": "Name",
+              "value": "isAttainable"
+            },
+            "arguments": [],
+            "type": {
+              "kind": "NamedType",
+              "name": {
+                "kind": "Name",
+                "value": "String"
+              }
+            },
+            "directives": []
+          },
+          {
+            "kind": "FieldDefinition",
+            "name": {
+              "kind": "Name",
+              "value": "breedableLevel"
+            },
+            "arguments": [],
+            "type": {
+              "kind": "NamedType",
+              "name": {
+                "kind": "Name",
+                "value": "String"
+              }
+            },
+            "directives": []
+          },
+          {
+            "kind": "FieldDefinition",
+            "name": {
+              "kind": "Name",
+              "value": "breedingCaveLevel"
+            },
+            "arguments": [],
+            "type": {
+              "kind": "NamedType",
+              "name": {
+                "kind": "Name",
+                "value": "String"
+              }
+            },
+            "directives": []
+          },
+          {
+            "kind": "FieldDefinition",
+            "name": {
+              "kind": "Name",
+              "value": "incubatingTime"
+            },
+            "arguments": [],
+            "type": {
+              "kind": "NamedType",
+              "name": {
+                "kind": "Name",
+                "value": "String"
+              }
+            },
+            "directives": []
+          },
+          {
+            "kind": "FieldDefinition",
+            "name": {
+              "kind": "Name",
+              "value": "incubatorLevel"
+            },
+            "arguments": [],
+            "type": {
+              "kind": "NamedType",
+              "name": {
+                "kind": "Name",
+                "value": "String"
+              }
+            },
+            "directives": []
+          },
+          {
+            "kind": "FieldDefinition",
+            "name": {
+              "kind": "Name",
+              "value": "canUpgrade"
+            },
+            "arguments": [],
+            "type": {
+              "kind": "NamedType",
+              "name": {
+                "kind": "Name",
+                "value": "String"
+              }
+            },
+            "directives": []
+          },
+          {
+            "kind": "FieldDefinition",
+            "name": {
+              "kind": "Name",
+              "value": "frags"
+            },
+            "arguments": [],
+            "type": {
+              "kind": "NamedType",
+              "name": {
+                "kind": "Name",
+                "value": "String"
+              }
+            },
+            "directives": []
+          },
+          {
+            "kind": "FieldDefinition",
+            "name": {
+              "kind": "Name",
+              "value": "isDivine"
+            },
+            "arguments": [],
+            "type": {
+              "kind": "NamedType",
+              "name": {
+                "kind": "Name",
+                "value": "Boolean"
+              }
+            },
+            "directives": []
+          },
+          {
+            "kind": "FieldDefinition",
+            "name": {
+              "kind": "Name",
+              "value": "isUnbreedableDragon"
+            },
+            "arguments": [],
+            "type": {
+              "kind": "NamedType",
+              "name": {
+                "kind": "Name",
+                "value": "String"
+              }
+            },
+            "directives": []
+          },
+          {
+            "kind": "FieldDefinition",
+            "name": {
+              "kind": "Name",
+              "value": "levels"
+            },
+            "arguments": [],
+            "type": {
+              "kind": "ListType",
+              "type": {
+                "kind": "NamedType",
+                "name": {
+                  "kind": "Name",
+                  "value": "Level"
+                }
+              }
+            },
+            "directives": []
+          }
+        ]
+      }
+    ],
+    "loc": {
+      "start": 0,
+      "end": 961
+    }
+  },
+  {
+    "kind": "Document",
+    "definitions": [
+      {
+        "kind": "ObjectTypeDefinition",
+        "name": {
+          "kind": "Name",
+          "value": "Query"
+        },
+        "interfaces": [],
+        "directives": [],
+        "fields": [
+          {
+            "kind": "FieldDefinition",
+            "name": {
+              "kind": "Name",
+              "value": "dragons"
+            },
+            "arguments": [],
+            "type": {
+              "kind": "ListType",
+              "type": {
+                "kind": "NamedType",
+                "name": {
+                  "kind": "Name",
+                  "value": "Dragon"
+                }
+              }
+            },
+            "directives": []
+          },
+          {
+            "kind": "FieldDefinition",
+            "name": {
+              "kind": "Name",
+              "value": "tiers"
+            },
+            "arguments": [],
+            "type": {
+              "kind": "ListType",
+              "type": {
+                "kind": "NamedType",
+                "name": {
+                  "kind": "Name",
+                  "value": "Tier"
+                }
+              }
+            },
+            "directives": []
+          },
+          {
+            "kind": "FieldDefinition",
+            "name": {
+              "kind": "Name",
+              "value": "dragon"
+            },
+            "arguments": [
+              {
+                "kind": "InputValueDefinition",
+                "name": {
+                  "kind": "Name",
+                  "value": "name"
+                },
+                "type": {
+                  "kind": "NonNullType",
+                  "type": {
+                    "kind": "NamedType",
+                    "name": {
+                      "kind": "Name",
+                      "value": "String"
+                    }
+                  }
+                },
+                "directives": []
+              }
+            ],
+            "type": {
+              "kind": "ListType",
+              "type": {
+                "kind": "NamedType",
+                "name": {
+                  "kind": "Name",
+                  "value": "Dragon"
+                }
+              }
+            },
+            "directives": []
+          },
+          {
+            "kind": "FieldDefinition",
+            "name": {
+              "kind": "Name",
+              "value": "tier"
+            },
+            "arguments": [
+              {
+                "kind": "InputValueDefinition",
+                "name": {
+                  "kind": "Name",
+                  "value": "key"
+                },
+                "type": {
+                  "kind": "NonNullType",
+                  "type": {
+                    "kind": "NamedType",
+                    "name": {
+                      "kind": "Name",
+                      "value": "String"
+                    }
+                  }
+                },
+                "directives": []
+              }
+            ],
+            "type": {
+              "kind": "ListType",
+              "type": {
+                "kind": "NamedType",
+                "name": {
+                  "kind": "Name",
+                  "value": "Tier"
+                }
+              }
+            },
+            "directives": []
+          }
+        ]
+      }
+    ],
+    "loc": {
+      "start": 0,
+      "end": 120
+    }
+  },
+  {
+    "kind": "Document",
+    "definitions": [
+      {
+        "kind": "EnumTypeDefinition",
+        "name": {
+          "kind": "Name",
+          "value": "CacheControlScope"
+        },
+        "directives": [],
+        "values": [
+          {
+            "kind": "EnumValueDefinition",
+            "name": {
+              "kind": "Name",
+              "value": "PUBLIC"
+            },
+            "directives": []
+          },
+          {
+            "kind": "EnumValueDefinition",
+            "name": {
+              "kind": "Name",
+              "value": "PRIVATE"
+            },
+            "directives": []
+          }
+        ]
+      },
+      {
+        "kind": "DirectiveDefinition",
+        "name": {
+          "kind": "Name",
+          "value": "cacheControl"
+        },
+        "arguments": [
+          {
+            "kind": "InputValueDefinition",
+            "name": {
+              "kind": "Name",
+              "value": "maxAge"
+            },
+            "type": {
+              "kind": "NamedType",
+              "name": {
+                "kind": "Name",
+                "value": "Int"
+              }
+            },
+            "directives": []
+          },
+          {
+            "kind": "InputValueDefinition",
+            "name": {
+              "kind": "Name",
+              "value": "scope"
+            },
+            "type": {
+              "kind": "NamedType",
+              "name": {
+                "kind": "Name",
+                "value": "CacheControlScope"
+              }
+            },
+            "directives": []
+          }
+        ],
+        "locations": [
+          {
+            "kind": "Name",
+            "value": "FIELD_DEFINITION"
+          },
+          {
+            "kind": "Name",
+            "value": "OBJECT"
+          },
+          {
+            "kind": "Name",
+            "value": "INTERFACE"
+          }
+        ]
+      }
+    ],
+    "loc": {
+      "start": 0,
+      "end": 245
+    }
+  },
+  {
+    "kind": "Document",
+    "definitions": [
+      {
+        "kind": "ScalarTypeDefinition",
+        "name": {
+          "kind": "Name",
+          "value": "Upload"
+        },
+        "directives": []
+      }
+    ],
+    "loc": {
+      "start": 0,
+      "end": 37
+    }
+  }
+]
