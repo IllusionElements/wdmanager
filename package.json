@@ -1,5 +1,6 @@
 {
   "name": "wdmanager",
+  "license": "MIT",
   "private": true,
   "devDependencies": {
     "@types/graphql": "^14.2.0",
