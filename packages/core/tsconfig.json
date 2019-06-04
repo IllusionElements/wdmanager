@@ -1,9 +1,7 @@
 {
   "extends": "../../tsconfig.json",
   "compilerOptions": {
-    "outDir": "./dist",
-    "paths": {
-      "@manager/services/*": ["../services/src/*"]
-    }
-  }
+    "outDir": "./dist"
+  },
+  "references": [{ "@manager/services": ["../services/dist/"] }]
 }

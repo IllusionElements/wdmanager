@@ -1,10 +1,11 @@
 import { ObjectID } from "mongodb"
 import { model, Schema } from "mongoose"
 import { TypeOfSchema } from "./types/TypeOfSchema"
-import { Optional } from "./types/Optional"
+import { Level } from "./level"
 
 interface Dragon {
   _id: ObjectID
+  levels?: Level[]
 }
 const dragSchema = <const>{
   identifier: String,
@@ -57,7 +58,7 @@ const dragSchema = <const>{
   buffEndTime: Number,
   h: String
 }
-export type IDragon = Optional<TypeOfSchema<typeof dragSchema>> & Dragon
+export type IDragon = TypeOfSchema<typeof dragSchema> & Dragon
 
 const DragonSchema = new Schema(dragSchema)
 

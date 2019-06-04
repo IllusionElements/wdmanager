@@ -1,7 +1,7 @@
 type Tier {
   _id: ID
   tier: Int
-  tierName: String
+  name: String
   dragons: [Dragon]
 }
 
@@ -34,8 +34,8 @@ type Dragon {
   _id: ID!
   identifier: String!
   displayName: String
-  dragonClass: String
-  dragonType: String
+  class: String
+  title: String
   rarity: String
   element: String
   displayDescription: String
@@ -43,13 +43,13 @@ type Dragon {
   minRange: String
   attackStartVal: String
   isAttainable: String
-  minDragonLevelForBreeding: String
-  minBreedingCaveBuildingLevelToBreed: String
+  breedableLevel: String
+  breedingCaveLevel: String
   incubatingTime: String
   incubatorLevel: String
   canUpgrade: String
-  numberOfFragmentsNeeded: String
-  isEvolveDragon: String
+  frags: String
+  isDivine: Boolean
   isUnbreedableDragon: String
   levels: [Level]
 }

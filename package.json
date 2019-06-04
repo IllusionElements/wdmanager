@@ -2,6 +2,7 @@
   "name": "root",
   "private": true,
   "devDependencies": {
+    "@types/graphql": "^14.2.0",
     "lerna": "^3.14.1",
     "typescript": "^3.5.1"
   },
@@ -9,6 +10,9 @@
     "packages/core",
     "packages/services"
   ],
+  "scripts": {
+    "build": "yarn tsc -p packages/core && yarn tsc -p packages/services"
+  },
   "dependencies": {
     "dotenv": "^8.0.0"
   }
