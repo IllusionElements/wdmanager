@@ -1,6 +1,6 @@
 import { IDragon, Level, Tier } from "@manager/services"
 import { MongoClient, Db } from "mongodb"
-import { ResolverContext } from "../ResolverContext"
+import { ResolverContext } from "./ResolverContext"
 
 const findDragonLevels = async (db: Db, identifier: string) => {
   const collection = db.collection<Level>("levels")

@@ -15,7 +15,7 @@ dotenv.config({
 export const server = new ApolloServer({
   typeDefs,
   context: async () => {
-    const { default: ctx } = await import("./gql/ResolverContext")
+    const { default: ctx } = await import("./gql/resolvers/ResolverContext")
     const secrets = new Map().set("MONGO_URL", process.env.MONGO_URL)
     return { ...ctx, secrets }
   },
