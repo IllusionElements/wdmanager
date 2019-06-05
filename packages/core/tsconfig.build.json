@@ -2,7 +2,9 @@
   "extends": "../../tsconfig.build.json",
 
   "compilerOptions": {
+    "declaration": true,
     "outDir": "./dist",
+    "rootDir": "./src",
     "emitDecoratorMetadata": false,
     "experimentalDecorators": false
   },
