@@ -1,3 +1,4 @@
 export * from "./db"
-export { default as DragonService } from "./Dragon"
-export * from "./Tier"
+export { default as DragonService } from "./service/Dragon"
+export * from "./service/Tier"
+export * from "./service/Egg"

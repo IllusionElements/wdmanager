@@ -72,7 +72,6 @@ export const TierType = {
     return result
   }
 }
-export const breeding = {}
 export const Query = {
   tiers: (_root, _, context) => context.tiers.service.getAllTiers(),
   dragons: async (_root, _, context) => {
@@ -94,6 +93,7 @@ export const Query = {
       }
     }
     return data
-  }
+  },
+  breeding
   //TO-DO: ADD DRAGON, TIER, & BREEDING RESOLVERS
 }

@@ -1,6 +1,7 @@
 import { IDragon, Level, Tier } from "@manager/services"
-import { ResolverContext } from "../ResolverContext"
 import { MongoClient, Db } from "mongodb"
+import { ResolverContext } from "../ResolverContext"
+
 const findDragonLevels = async (db: Db, identifier: string) => {
   const collection = db.collection<Level>("levels")
   return collection.find({
@@ -9,13 +10,6 @@ const findDragonLevels = async (db: Db, identifier: string) => {
     }
   })
 }
-const levelLookup = {
-  from: "levels",
-  localField: "identifier",
-  foreignField: "identifier",
-  as: "levels"
-}
-
 const cdn = ""
 const pick = <
   T,
@@ -96,28 +90,4 @@ export const TierType: Record<
   }
 }
 
-export const breeding = {}
-export const Query = {
-  tiers: (_root: IDragon, _: any, context: ResolverContext) =>
-    context.tiers.service.getAllTiers(),
-  dragons: async (_root: any, _: any, context: ResolverContext) => {
-    const {
-      dragons: { db }
-    } = context
-    const aggregate = db.aggregate()
-    const dragonsLookup = aggregate.lookup(levelLookup)
-    const data = await dragonsLookup.exec()
-    if (
-      data.rarity &&
-      ![...context.dragons.service.rarity.values()].some(
-        rarity => rarity === data.rarity
-      )
-    ) {
-      return {
-        ...data,
-        rarity: context.dragons.service.rarity.get(data.rarity)
-      }
-    }
-    return data
-  }
-}
+export { default as Query } from "./Query"
