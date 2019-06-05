@@ -1,3 +1,4 @@
+import { Document, Schema } from "mongoose"
 export type TypeOfSchema<T> = {
   -readonly [K in keyof T]: K extends keyof typeof import("mongoose").Types
     ? T[K]
@@ -9,5 +10,9 @@ export type TypeOfSchema<T> = {
     ? TypeOfSchema<T[K]>
     : K extends "_id"
     ? T[K]
+    : K extends keyof Document
+    ? T[K]
     : never
 }
+
+export type MongoSchemaType<T> = T extends Schema<infer U> ? U : T

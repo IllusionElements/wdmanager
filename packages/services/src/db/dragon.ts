@@ -1,12 +1,8 @@
 import { ObjectID } from "mongodb"
-import { model, Schema } from "mongoose"
+import { model, Schema, Document } from "mongoose"
 import { TypeOfSchema } from "./types/TypeOfSchema"
 import { Level } from "./level"
 
-interface Dragon {
-  _id: ObjectID
-  levels?: Level[]
-}
 const dragSchema = <const>{
   identifier: String,
   inBundle: Number,
@@ -58,8 +54,10 @@ const dragSchema = <const>{
   buffEndTime: Number,
   h: String
 }
-export type IDragon = TypeOfSchema<typeof dragSchema> & Dragon
-
+export interface IDragon extends Document, TypeOfSchema<typeof dragSchema> {
+  _id: ObjectID
+  levels?: Level[]
+}
 const DragonSchema = new Schema(dragSchema)
 
-export const Dragons = model("dragon", DragonSchema)
+export const Dragons = model<IDragon>("dragon", DragonSchema)

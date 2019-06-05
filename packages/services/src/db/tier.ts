@@ -1,16 +1,16 @@
-import { model, Schema } from "mongoose"
-import { MongoCollection } from "./types/IMongoCollection"
+import { model, Schema, Document } from "mongoose"
 import { TypeOfSchema } from "./types/TypeOfSchema"
 import { IDragon } from "./dragon"
-interface ITier extends MongoCollection {
+export interface ITier extends Document {
   tier: NumberConstructor
   tierName: StringConstructor
   dragons?: IDragon[]
 }
-const tierSchema: Omit<ITier, "_id" | "dragons"> = {
+export type Tier = TypeOfSchema<ITier>
+
+const tierSchema: Pick<ITier, "tierName" | "tier"> = {
   tier: Number,
   tierName: String
 }
 const TierSchema = new Schema(tierSchema)
-export type Tier = TypeOfSchema<ITier>
-export const Tiers = model("tier", TierSchema)
+export const Tiers = model<ITier>("tier", TierSchema)

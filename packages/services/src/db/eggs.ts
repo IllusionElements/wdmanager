@@ -1,35 +1,20 @@
-import t from "io-ts"
-import { model, Schema } from "mongoose"
-import { oid } from "./mongo/oid"
-
-const distributionType = t.array(
-  t.type({
-    type: t.string,
-    probability: t.number
-  })
-)
-const EggType = t.type({
-  _id: oid,
-  identifier: t.Int,
-  firstDragonIdentifier: t.string,
-  secondDragonIdentifier: t.string,
-  possibleRawEggDistribution: distributionType,
-  goldPossibleRawEggDistribution: distributionType,
-  eggNumber: t.Int
-})
+import { TypeOfSchema } from "./types/TypeOfSchema"
+import { model, Schema, Document } from "mongoose"
 
 const distSchema = {
   type: String,
   probability: Number
 }
-const EggSchema = new Schema({
+const eggSchema = {
   identifier: Number,
   firstDragonIdentifier: String,
   secondDragonIdentifier: String,
   possibleRawEggDistribution: [distSchema],
   goldPossibleRawEggDistribution: [distSchema],
   eggNumber: Number
-})
+}
 
-export const Eggs = model("egg", EggSchema)
-export type IEgg = t.TypeOf<typeof EggType>
+const EggSchema = new Schema(eggSchema)
+
+export interface IEggs extends TypeOfSchema<typeof eggSchema>, Document {}
+export const Eggs = model<IEggs>("egg", EggSchema)

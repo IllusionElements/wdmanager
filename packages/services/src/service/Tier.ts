@@ -1,7 +1,7 @@
-import { Tiers } from "../db/tier"
+import { Tiers, ITier } from "../db/tier"
 import { service } from "../service"
 import { IDragon } from "../db/dragon"
-
+type ArrayType<T> = T extends (infer U)[] ? U : any
 const tierLookup = {
   from: "dragons",
   //    localField: "tier",
@@ -49,6 +49,6 @@ export class TierService {
       .sort(tierSort)
       .exec())
 
-    return results
+    return results as (ArrayType<typeof results> & ITier)[]
   }
 }
