@@ -1,4 +1,4 @@
-import { Rarity } from "./Rarity";
+import { Rarity } from "../Rarity";
 declare class DragonService {
     private db;
     rarity: Map<number, Rarity>;

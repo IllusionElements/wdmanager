@@ -1,7 +1,7 @@
 import { ObjectID } from "mongodb"
 import { model, Schema, Document } from "mongoose"
 import { TypeOfSchema } from "./types/TypeOfSchema"
-import { Level } from "./level"
+import { ILevel as Level } from "./level"
 
 const dragSchema = <const>{
   identifier: String,

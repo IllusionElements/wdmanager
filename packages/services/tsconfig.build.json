@@ -1,13 +1,10 @@
 {
-  "extends": "../../tsconfig.json",
+  "extends": "../../tsconfig.build.json",
   "compilerOptions": {
     "composite": true,
     "declaration": true,
     "outDir": "./dist",
-    "rootDir": "./src",
-    "paths": {
-      "@manager/services": ["../services/src/"]
-    }
+    "rootDir": "./src"
   },
   "include": ["src/**/*"]
 }

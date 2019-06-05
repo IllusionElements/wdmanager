@@ -1,8 +1,5 @@
-/// <reference types="mongoose" />
-import { MongoCollection } from "./types/IMongoCollection";
+import { Document } from "mongoose";
 import { TypeOfSchema } from "./types/TypeOfSchema";
-interface IDeck extends MongoCollection {
-}
 declare const deckSchema: {
     identifier: StringConstructor;
     possibleOutcomeDistribution: {
@@ -11,6 +8,7 @@ declare const deckSchema: {
         probability: NumberConstructor;
     }[];
 };
-export declare type Deck = IDeck & TypeOfSchema<typeof deckSchema>;
-export declare const Decks: import("mongoose").Model<import("mongoose").Document, {}>;
+export interface Deck extends Document, TypeOfSchema<typeof deckSchema> {
+}
+export declare const Decks: import("mongoose").Model<Deck, {}>;
 export {};

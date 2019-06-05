@@ -18,6 +18,7 @@ interface Identifier {
   id: string
   name: string
 }
+type Omit<T, K extends keyof any> = Pick<T, Exclude<keyof T, K>>
 
 export interface Result extends Omit<Identifier, "name"> {
   _id: string
@@ -182,7 +183,7 @@ export class EggService {
       .unwind("parents")
 
     const parentList = (await deck.exec()) as Result[]
-    const [{ id }] = parentList
+    const [{ id }] = parentList as ({ id: string })[]
     const [{ displayName: dragonName }] = ((await Dragons.find({
       identifier: id
     }).exec()) as unknown) as IDragon[]

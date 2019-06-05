@@ -1,10 +1,10 @@
-/// <reference types="mongoose" />
-import { MongoCollection } from "./types/IMongoCollection";
+import { Document } from "mongoose";
 import { TypeOfSchema } from "./types/TypeOfSchema";
-interface ICurrency extends MongoCollection {
-    tier: NumberConstructor;
-    currency: StringConstructor;
+declare const currencySchema: {
+    readonly tier: NumberConstructor;
+    readonly currency: StringConstructor;
+};
+export interface ICurrency extends Document, TypeOfSchema<typeof currencySchema> {
 }
-export declare type Currency = TypeOfSchema<ICurrency>;
-export declare const Currency: import("mongoose").Model<import("mongoose").Document, {}>;
+export declare const Currency: import("mongoose").Model<ICurrency, {}>;
 export {};

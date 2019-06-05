@@ -1,14 +1,12 @@
-import { model, Schema } from "mongoose"
-import { MongoCollection } from "./types/IMongoCollection"
+import { model, Schema, Document } from "mongoose"
 import { TypeOfSchema } from "./types/TypeOfSchema"
-interface ICurrency extends MongoCollection {
-  tier: NumberConstructor
-  currency: StringConstructor
-}
-const currencySchema: Omit<ICurrency, "_id"> = {
+
+const currencySchema = <const>{
   tier: Number,
   currency: String
 }
 const CurrencySchema = new Schema(currencySchema)
-export type Currency = TypeOfSchema<ICurrency>
-export const Currency = model("egg_currencies", CurrencySchema)
+export interface ICurrency
+  extends Document,
+    TypeOfSchema<typeof currencySchema> {}
+export const Currency = model<ICurrency>("egg_currencies", CurrencySchema)

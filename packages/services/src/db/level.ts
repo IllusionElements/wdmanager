@@ -1,7 +1,5 @@
-import { model, Schema } from "mongoose"
-import { MongoCollection } from "./types/IMongoCollection"
+import { model, Schema, Document } from "mongoose"
 import { TypeOfSchema } from "./types/TypeOfSchema"
-interface ILevel extends MongoCollection {}
 const base = [
   {
     type: String,
@@ -35,5 +33,5 @@ const levelSchema = {
 }
 
 const LevelSchema = new Schema(levelSchema)
-export type Level = ILevel & TypeOfSchema<typeof levelSchema>
-export const Levels = model("level", LevelSchema)
+export interface ILevel extends Document, TypeOfSchema<typeof levelSchema> {}
+export const Levels = model<ILevel>("level", LevelSchema)

@@ -1,4 +1,3 @@
-import { Entry } from "./Entry";
 export declare enum Rarity {
     COMMON = "common",
     RARE = "rare",
@@ -6,4 +5,6 @@ export declare enum Rarity {
     LEGENDARY = "legendary",
     MYTHIC = "mythic"
 }
+declare type Entry<T, U> = [T, U][];
 export declare const Rarities: Entry<number, Rarity>;
+export {};

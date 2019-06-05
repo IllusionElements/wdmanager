@@ -1,7 +1,5 @@
-import { model, Schema } from "mongoose"
-import { MongoCollection } from "./types/IMongoCollection"
+import { model, Schema, Document } from "mongoose"
 import { TypeOfSchema } from "./types/TypeOfSchema"
-interface IDeck extends MongoCollection {}
 const deckSchema = {
   identifier: String,
   possibleOutcomeDistribution: [
@@ -13,6 +11,6 @@ const deckSchema = {
   ]
 }
 const DeckSchema = new Schema(deckSchema)
-export type Deck = IDeck & TypeOfSchema<typeof deckSchema>
+export interface Deck extends Document, TypeOfSchema<typeof deckSchema> {}
 
-export const Decks = model("deck", DeckSchema)
+export const Decks = model<Deck>("deck", DeckSchema)

@@ -8,9 +8,9 @@ var __metadata = (this && this.__metadata) || function (k, v) {
     if (typeof Reflect === "object" && typeof Reflect.metadata === "function") return Reflect.metadata(k, v);
 };
 var DragonService_1;
-import { service } from "./service";
-import { Dragons, Tiers } from "./db/index";
-import { Rarities } from "./Rarity";
+import { service } from "../service";
+import { Dragons, Tiers } from "../db";
+import { Rarities } from "../Rarity";
 let DragonService = DragonService_1 = class DragonService {
     constructor() {
         this.rarity = DragonService_1.rarity;

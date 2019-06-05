@@ -10,5 +10,11 @@
   },
   "devDependencies": {
     "@types/mongoose": "^5.5.3"
+  },
+  "scripts": {
+    "build": "yarn clean && yarn compile",
+    "clean": "rm -rf ./dist && rm -rf ./dist/tsconfig.build.tsbuildinfo",
+    "compile": "tsc -b tsconfig.build.json",
+    "prepublishOnly": "yarn build"
   }
 }

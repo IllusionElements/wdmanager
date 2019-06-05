@@ -1,11 +1,7 @@
-/// <reference types="mongoose" />
 import { ObjectID } from "mongodb";
+import { Document } from "mongoose";
 import { TypeOfSchema } from "./types/TypeOfSchema";
-import { Level } from "./level";
-interface Dragon {
-    _id: ObjectID;
-    levels?: Level[];
-}
+import { ILevel as Level } from "./level";
 declare const dragSchema: {
     readonly identifier: StringConstructor;
     readonly inBundle: NumberConstructor;
@@ -57,6 +53,9 @@ declare const dragSchema: {
     readonly buffEndTime: NumberConstructor;
     readonly h: StringConstructor;
 };
-export declare type IDragon = TypeOfSchema<typeof dragSchema> & Dragon;
-export declare const Dragons: import("mongoose").Model<import("mongoose").Document, {}>;
+export interface IDragon extends Document, TypeOfSchema<typeof dragSchema> {
+    _id: ObjectID;
+    levels?: Level[];
+}
+export declare const Dragons: import("mongoose").Model<IDragon, {}>;
 export {};

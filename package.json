@@ -12,7 +12,7 @@
     "packages/services"
   ],
   "scripts": {
-    "build": "yarn tsc -p packages/core && yarn tsc -p packages/services",
+    "build": "yarn tsc -b tsconfig.build.json",
     "dev": "yarn nodemon --inspect -r esm ./packages/core/dist"
   },
   "dependencies": {

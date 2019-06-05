@@ -1,8 +1,5 @@
-/// <reference types="mongoose" />
-import { MongoCollection } from "./types/IMongoCollection";
+import { Document } from "mongoose";
 import { TypeOfSchema } from "./types/TypeOfSchema";
-interface ILevel extends MongoCollection {
-}
 declare const levelSchema: {
     identifier: StringConstructor;
     level: NumberConstructor;
@@ -38,6 +35,7 @@ declare const levelSchema: {
     }[];
     powerLevel: NumberConstructor;
 };
-export declare type Level = ILevel & TypeOfSchema<typeof levelSchema>;
-export declare const Levels: import("mongoose").Model<import("mongoose").Document, {}>;
+export interface ILevel extends Document, TypeOfSchema<typeof levelSchema> {
+}
+export declare const Levels: import("mongoose").Model<ILevel, {}>;
 export {};

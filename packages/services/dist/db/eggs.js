@@ -1,15 +1,15 @@
-import { model, Schema } from "mongoose"
-
+import { model, Schema } from "mongoose";
 const distSchema = {
-  type: String,
-  probability: Number
-}
-const EggSchema = new Schema({
-  identifier: Number,
-  firstDragonIdentifier: String,
-  secondDragonIdentifier: String,
-  possibleRawEggDistribution: [distSchema],
-  goldPossibleRawEggDistribution: [distSchema],
-  eggNumber: Number
-})
-export const Eggs = model("egg", EggSchema)
+    type: String,
+    probability: Number
+};
+const eggSchema = {
+    identifier: Number,
+    firstDragonIdentifier: String,
+    secondDragonIdentifier: String,
+    possibleRawEggDistribution: [distSchema],
+    goldPossibleRawEggDistribution: [distSchema],
+    eggNumber: Number
+};
+const EggSchema = new Schema(eggSchema);
+export const Eggs = model("egg", EggSchema);
