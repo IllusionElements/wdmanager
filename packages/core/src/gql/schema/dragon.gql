@@ -1,0 +1,61 @@
+type Tier {
+  _id: ID
+  tier: Int
+  name: String
+  dragons: [Dragon]
+}
+
+type Cost {
+  type: String
+  amount: Int
+}
+type Abilities {
+  identifier: String
+  name: String
+}
+
+type Level {
+  _id: ID!
+  identifier: String!
+  level: Int!
+  upgradeCost: [Cost]
+  HP: Int
+  attackType: [Cost]
+  attackPower: Int
+  battleUseCost: [Cost]
+  spellRageIdentifier: String
+  requiredStableLevel: Int
+  xp: Int
+  upgradeReward: [Cost]
+  power: Int
+}
+enum Rarity {
+  COMMON
+  RARE
+  EPIC
+  LEGENDARY
+  MYTHIC
+}
+type Dragon {
+  _id: ID!
+  identifier: String!
+  displayName: String
+  class: String
+  title: String
+  rarity: Rarity
+  element: String
+  displayDescription: String
+  defaultIconFilename: String
+  minRange: Int
+  attackStartVal: Int
+  isAttainable: Boolean
+  breedableLevel: Int
+  breedingCaveLevel: Int
+  incubatingTime: Int
+  incubatorLevel: Int
+  canUpgrade: Boolean
+  frags: Int
+  isDivine: Boolean
+  isUnbreedableDragon: Boolean
+  levels: [Level]
+}
