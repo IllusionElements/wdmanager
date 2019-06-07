@@ -6,7 +6,8 @@
     "outDir": "./dist",
     "rootDir": "./src",
     "paths": {
-      "@manager/services": ["../services/src/"]
+      "@manager/services": ["services/src/"],
+      "@manager/utils": ["utils/src"]
     }
   },
   "include": ["src/**/*"]

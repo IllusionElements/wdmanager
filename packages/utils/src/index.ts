@@ -26,25 +26,19 @@ declare global {
         status: PromiseStatus.REJECTED
       }
     : never
-  interface PromiseConstructor {
-    <T extends Promise<any> | Promise<any>[]>(
-      promises: T extends infer R
-        ? R extends Promise<any>[]
-          ? R
-          : R[]
-        : Promise<T>[]
-    ): Promise<
-      (
-        | {
-            reason: string
-            status: PromiseStatus.REJECTED
-          }
-        | {
-            result: T extends Promise<infer U>[] ? U : any
-            status: PromiseStatus.RESOLVED
-          })[]
-    >
-  }
+  type ArrayParamType<T> = T extends (infer R)[] ? R : T
 }
 
 export { lazy } from "./lazy"
+export { pick } from "./pick"
+export function loadGlobalPolyfills<T extends any[]>(...paths: string[]): void {
+  if (!paths) {
+    require("./allSettled")
+  } else {
+    const pathList = paths.map(path => {
+      const loader = () => require(path)
+      return <Functor<ArrayParamType<T>, []>>loader
+    })
+    pathList.forEach(f => f())
+  }
+}

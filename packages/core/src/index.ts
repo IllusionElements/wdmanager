@@ -1,6 +1,7 @@
 import { ApolloServer } from "apollo-server"
 import dotenv from "dotenv"
-import { Query, Dragon, TierType as Tier } from "./gql/resolvers"
+import { Query, Dragon } from "./gql/resolvers"
+import * as Tier from "./gql/resolvers/Tier"
 import typeDefs from "./schema"
 declare global {
   type ArgumentType<T extends (...args: any[]) => any> = T extends (
