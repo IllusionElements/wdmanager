@@ -14,3 +14,4 @@ export const lazy = <
       : Promise<any>
   }
 }
+

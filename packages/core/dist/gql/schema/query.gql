@@ -12,6 +12,27 @@ input Parent {
 input Child {
   child: ID!
 }
+
+type Parents {
+  first: Dragon
+  second: Dragon
+}
+
+type Deck {
+  _id: String
+  name: String
+  distribution: Int
+  probability: Float
+  fragments: Int
+}
+
+type Breed {
+  _id: ID!
+  identifier: String!
+  parents: Parents
+  egg: Float
+  breedDeck: [Deck]
+}
 type Query {
   dragons: [Dragon]
   tiers: [Tier]

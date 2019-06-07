@@ -4,7 +4,8 @@
     "baseUrl": "./packages" /* Base directory to resolve non-absolute module names. */,
     "paths": {
       "@manager/services": ["services/src"],
-      "@manager/core": ["core/src"]
+      "@manager/core": ["core/src"],
+      "@manager/utils": ["utils/src"]
     }
   }
 }

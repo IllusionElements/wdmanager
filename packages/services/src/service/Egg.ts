@@ -2,18 +2,7 @@ import { Aggregate } from "mongoose"
 import { service } from "../service"
 import { Eggs } from "./../db/eggs"
 import { Dragons, IDragon } from "../db/dragon"
-interface MongoAggregate<T> extends Aggregate<T> {
-  _pipeline: Record<string, any>[]
-}
-const createPipeline = <T>(
-  createAggregate: (aggregate: Aggregate<T>) => Aggregate<T>
-): { pipeline: MongoAggregate<T>["_pipeline"] } => {
-  const aggregation = new Aggregate<T>()
-  const { _pipeline: pipeline } = createAggregate(
-    aggregation
-  ) as MongoAggregate<T>
-  return { pipeline }
-}
+
 interface Identifier {
   id: string
   name: string
@@ -29,6 +18,7 @@ export interface Result extends Omit<Identifier, "name"> {
     secondDragonIdentifier: Identifier
   }
 }
+
 @service(() => ({
   Eggs,
   Dragons
@@ -38,77 +28,39 @@ export class EggService {
     Eggs: typeof Eggs
   }
 
-  private static createMatch(
-    firstDragonIdentifier: string,
-    secondDragonIdentifier: string
-  ) {
+  private static createMatch({
+    first: firstDragonIdentifier,
+    second: secondDragonIdentifier,
+    eggs
+  }: {
+    first: string
+    second: string
+    eggs: Aggregate<any[]>
+  }) {
     const $and = [
       { firstDragonIdentifier },
       {
         secondDragonIdentifier
       }
     ]
-    return {
+    return eggs.match({
       $and
-    }
+    })
   }
 
   public async findChildren(parents: { first: string; second: string }) {
-    const { db } = this
-    const eggAggregation = db.Eggs.aggregate()
-    const match = EggService.createMatch(parents.first, parents.second)
-    const lookup = {
-      from: "decks",
-      let: {
-        deck: "possibleRawEggDistribution.type"
-      },
-      ...createPipeline<unknown>(agg =>
-        agg
-          .match({
-            $expr: {
-              $eq: ["$identifer", "$$deck"]
-            }
-          })
-          .unwind("$possibleOutcomeDistribution")
-          .lookup({
-            from: "dragons",
-            let: {
-              pair: "$possibleOutcomeDistribution.id"
-            },
-            ...createPipeline(drag =>
-              drag.match({
-                $expr: {
-                  $eq: ["$identifier", "$$pair"]
-                }
-              })
-            ),
-            as: "name"
-          })
-          .unwind("name")
-          .replaceRoot({
-            _id: "$_id",
-            identifier: "$identifier",
-            possibleOutcomeDistribution: {
-              _id: "$possibleOutcomeDistribution.id",
-              name: "$name.displayName",
-              distribution: "$possibleOutcomeDistribution.distribution",
-              probability: "$possibleOutcomeDistribution.probability"
-            }
-          })
-          .group({
-            _id: "$_id",
-            breeding: {
-              $push: "$possibleOutcomeDistribution"
-            }
-          })
-      ),
-      as: "breedDeck"
-    }
+    const [{ pipeline }, { db }] = [await import("./pipeline"), this]
+    const match = EggService.createMatch({
+      ...parents,
+      ...this.db,
+      eggs: db.Eggs.aggregate()
+    })
+
     try {
-      const results = await eggAggregation
-        .match(match)
-        .lookup(lookup)
-        .unwind("$breedDeck")
+      const results = await match
+        .lookup(pipeline.$lookup)
+        .unwind(pipeline.$unwind)
+        .replaceRoot(pipeline.$replaceRoot.newRoot)
         .exec()
       return results
     } catch (e) {
