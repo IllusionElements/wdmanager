@@ -9,11 +9,15 @@
   },
   "workspaces": [
     "packages/core",
-    "packages/services"
+    "packages/services",
+    "packages/utils/"
   ],
   "scripts": {
     "build": "yarn tsc -b tsconfig.build.json",
-    "dev": "yarn nodemon --inspect -r esm ./packages/core/dist"
+    "dev": "yarn nodemon --inspect -r esm ./packages/core/dist",
+    "buildAll": "yarn workspaces run build",
+    "push": "git push",
+    "commit": "git commit -m"
   },
   "dependencies": {
     "dotenv": "^8.0.0",
