@@ -761,6 +761,7 @@
     "options": {
       "target": 7,
       "module": 6,
+      "declaration": true,
       "incremental": true,
       "strict": true,
       "noImplicitAny": true,

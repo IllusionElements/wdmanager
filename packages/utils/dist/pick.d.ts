@@ -1,0 +1,1 @@
+export declare const pick: <Context, T, K extends keyof T, X extends (o: Pick<T, K>[K], _: any, ctx: Context) => any = never>(k: K, transform?: X | undefined) => (o: T, args_0: any, args_1: Context) => X | undefined extends undefined ? Pick<T, K>[K] : ReturnType<X>;

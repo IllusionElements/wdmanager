@@ -4,18 +4,17 @@
   "private": true,
   "devDependencies": {
     "@types/graphql": "^14.2.0",
-    "lerna": "^3.14.1",
-    "typescript": "^3.5.1"
+    "lerna": "^3.14.1"
   },
   "workspaces": [
-    "packages/core",
+    "packages/utils/",
     "packages/services",
-    "packages/utils/"
+    "packages/core"
   ],
   "scripts": {
     "build": "yarn tsc -b tsconfig.build.json",
     "dev": "yarn nodemon --inspect -r esm ./packages/core/dist",
-    "buildAll": "yarn workspaces run build",
+    "tsc.build": "yarn workspaces run build",
     "push": "git push",
     "commit": "git add . && git commit -m"
   },

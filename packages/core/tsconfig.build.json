@@ -3,8 +3,11 @@
 
   "compilerOptions": {
     "outDir": "./dist",
-    "emitDecoratorMetadata": false,
-    "experimentalDecorators": false
+    "baseUrl": "../",
+    "paths": {
+      "@manager/services": ["services/src"],
+      "@manager/utils*": ["utils/src*"]
+    }
   },
   "include": ["src/**/*"]
 }

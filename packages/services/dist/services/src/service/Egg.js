@@ -9,38 +9,8 @@ import { service } from "../service";
 import { Eggs } from "./../db/eggs";
 import { Dragons } from "../db/dragon";
 let EggService = EggService_1 = class EggService {
-    static createMatch({ first: firstDragonIdentifier, second: secondDragonIdentifier, eggs }) {
-        const $and = [
-            { firstDragonIdentifier },
-            {
-                secondDragonIdentifier
-            }
-        ];
-        return eggs.match({
-            $and
-        });
-    }
-    async findChildren(parents) {
-        const [{ pipeline }, { db }] = [await import("./pipeline"), this];
-        const match = EggService_1.createMatch({
-            ...parents,
-            ...this.db,
-            eggs: db.Eggs.aggregate()
-        });
-        try {
-            const results = await match
-                .lookup(pipeline.$lookup)
-                .unwind(pipeline.$unwind)
-                .replaceRoot(pipeline.$replaceRoot.newRoot)
-                .exec();
-            return results;
-        }
-        catch (e) {
-            return {
-                status: "REJECTED",
-                reason: e.message
-            };
-        }
+    constructor() {
+        this.findChildren = (parents) => EggService_1.find({ ...parents, db: this.db });
     }
     async findParents(opts) {
         const { db } = this;
@@ -116,6 +86,29 @@ let EggService = EggService_1 = class EggService {
         };
     }
 };
+// private static createMatch({
+//   first: firstDragonIdentifier,
+//   second: secondDragonIdentifier,
+//   eggs
+// }: DragonIdentifier & {
+//   eggs: Aggregate<any[]>
+// }) {
+//   const $and = [
+//     { firstDragonIdentifier },
+//     {
+//       secondDragonIdentifier
+//     }
+//   ]
+//   return eggs.match({
+//     $and
+//   })
+// }
+EggService.find = ({ first: firstDragonIdentifier, second: secondDragonIdentifier, db: { Eggs: db } }) => db
+    .find({
+    firstDragonIdentifier,
+    secondDragonIdentifier
+})
+    .exec();
 EggService = EggService_1 = __decorate([
     service(() => ({
         Eggs,

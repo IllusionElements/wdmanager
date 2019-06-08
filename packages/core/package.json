@@ -21,7 +21,7 @@
   },
   "scripts": {
     "build": "yarn clean && yarn compile && cp ./src/gql/schema ./dist/gql/schema",
-    "clean": "rm -rf ./dist && rm -rf ./dist/tsconfig.build.tsbuildinfo",
+    "clean": "rm -rf ./dist && rm -rf ./tsconfig.build.tsbuildinfo",
     "compile": "tsc -b tsconfig.build.json",
     "prepublishOnly": "yarn build"
   }

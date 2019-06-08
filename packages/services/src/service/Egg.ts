@@ -1,6 +1,6 @@
-import { Aggregate, Model, Document } from "mongoose"
+import { Model } from "mongoose"
 import { service } from "../service"
-import { Eggs, IEggs } from "./../db/eggs"
+import { Eggs } from "./../db/eggs"
 import { Dragons, IDragon } from "../db/dragon"
 
 interface Identifier {
@@ -31,23 +31,24 @@ export class EggService {
     Eggs: typeof Eggs
   }
 
-  private static createMatch({
-    first: firstDragonIdentifier,
-    second: secondDragonIdentifier,
-    eggs
-  }: DragonIdentifier & {
-    eggs: Aggregate<any[]>
-  }) {
-    const $and = [
-      { firstDragonIdentifier },
-      {
-        secondDragonIdentifier
-      }
-    ]
-    return eggs.match({
-      $and
-    })
-  }
+
+  // private static createMatch({
+  //   first: firstDragonIdentifier,
+  //   second: secondDragonIdentifier,
+  //   eggs
+  // }: DragonIdentifier & {
+  //   eggs: Aggregate<any[]>
+  // }) {
+  //   const $and = [
+  //     { firstDragonIdentifier },
+  //     {
+  //       secondDragonIdentifier
+  //     }
+  //   ]
+  //   return eggs.match({
+  //     $and
+  //   })
+  // }
 
   private static find = <T extends Model<any, any>, DB extends { Eggs: T }>({
     first: firstDragonIdentifier,
