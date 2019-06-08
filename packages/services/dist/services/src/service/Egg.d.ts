@@ -14,11 +14,11 @@ export interface Result extends Omit<Identifier, "name"> {
 }
 export declare class EggService {
     private db;
-    private static createMatch;
-    findChildren(parents: {
+    private static find;
+    findChildren: (parents: {
         first: string;
         second: string;
-    }): Promise<any>;
+    }) => Promise<import("../db/eggs").IEggs[]>;
     findParents(opts: {
         child: string;
     }): Promise<{

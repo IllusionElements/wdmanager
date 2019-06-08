@@ -1,9 +1,25 @@
 type Deck {
   _id: ID!
-  id: String!
+  dragon: Dragon!
   distribution: Int
   probability: Float
+  fragments: Int
 }
+
+interface Parents {
+  id: String
+  firstParent: Dragon
+  secondParent: Dragon
+}
+
+type Breeding {
+  id: String
+  parents: Parents
+  eggDistribution: Int
+  eggNumber: Int
+  children: [Deck]
+}
+
 input Parent {
   first: String!
   second: String!
@@ -13,31 +29,11 @@ input Child {
   child: ID!
 }
 
-type Parents {
-  first: Dragon
-  second: Dragon
-}
-
-type Deck {
-  _id: String
-  name: String
-  distribution: Int
-  probability: Float
-  fragments: Int
-}
-
-type Breed {
-  _id: ID!
-  identifier: String!
-  parents: Parents
-  egg: Float
-  breedDeck: [Deck]
-}
 type Query {
   dragons: [Dragon]
   tiers: [Tier]
   dragon(name: String!): [Dragon]
   tier(key: String!): [Tier]
   dragonParents(child: Child!): [Dragon]
-  dragonChildren(parents: Parent!): [Deck]
+  dragonChildren(parents: Parent!): [Breeding]
 }

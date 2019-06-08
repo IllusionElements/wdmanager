@@ -1,157 +1,161 @@
 {
   "program": {
     "fileInfos": {
-      "/mnt/c/Users/Aaron/projects/DragonManager/server/node_modules/typescript/lib/lib.es5.d.ts": {
-        "version": "1f753cee573dea40df8a9dc873fef5566957b19ad513874f6643d8dfb14842d0",
-        "signature": "1f753cee573dea40df8a9dc873fef5566957b19ad513874f6643d8dfb14842d0"
+      "/home/elements/.nvm/versions/node/v10.13.0/lib/node_modules/typescript/lib/lib.es5.d.ts": {
+        "version": "c8665e66018917580e71792b91022bcaf53fb946fab4aaf8dfb0738ed564db88",
+        "signature": "c8665e66018917580e71792b91022bcaf53fb946fab4aaf8dfb0738ed564db88"
       },
-      "/mnt/c/Users/Aaron/projects/DragonManager/server/node_modules/typescript/lib/lib.es2015.d.ts": {
+      "/home/elements/.nvm/versions/node/v10.13.0/lib/node_modules/typescript/lib/lib.es2015.d.ts": {
         "version": "7994d44005046d1413ea31d046577cdda33b8b2470f30281fd9c8b3c99fe2d96",
         "signature": "7994d44005046d1413ea31d046577cdda33b8b2470f30281fd9c8b3c99fe2d96"
       },
-      "/mnt/c/Users/Aaron/projects/DragonManager/server/node_modules/typescript/lib/lib.es2016.d.ts": {
+      "/home/elements/.nvm/versions/node/v10.13.0/lib/node_modules/typescript/lib/lib.es2016.d.ts": {
         "version": "5f217838d25704474d9ef93774f04164889169ca31475fe423a9de6758f058d1",
         "signature": "5f217838d25704474d9ef93774f04164889169ca31475fe423a9de6758f058d1"
       },
-      "/mnt/c/Users/Aaron/projects/DragonManager/server/node_modules/typescript/lib/lib.es2017.d.ts": {
+      "/home/elements/.nvm/versions/node/v10.13.0/lib/node_modules/typescript/lib/lib.es2017.d.ts": {
         "version": "459097c7bdd88fc5731367e56591e4f465f2c9de81a35427a7bd473165c34743",
         "signature": "459097c7bdd88fc5731367e56591e4f465f2c9de81a35427a7bd473165c34743"
       },
-      "/mnt/c/Users/Aaron/projects/DragonManager/server/node_modules/typescript/lib/lib.es2018.d.ts": {
+      "/home/elements/.nvm/versions/node/v10.13.0/lib/node_modules/typescript/lib/lib.es2018.d.ts": {
         "version": "2edd3ddf436ef8e12df876dcae4ecd6a8748577944c477bf4b20d5596e0c9843",
         "signature": "2edd3ddf436ef8e12df876dcae4ecd6a8748577944c477bf4b20d5596e0c9843"
       },
-      "/mnt/c/Users/Aaron/projects/DragonManager/server/node_modules/typescript/lib/lib.es2019.d.ts": {
-        "version": "0fc0f68d3f4d94aa65fab955592e4a9f2066e6f8ee2f66fcc45adf4037fc167b",
-        "signature": "0fc0f68d3f4d94aa65fab955592e4a9f2066e6f8ee2f66fcc45adf4037fc167b"
+      "/home/elements/.nvm/versions/node/v10.13.0/lib/node_modules/typescript/lib/lib.es2019.d.ts": {
+        "version": "6549045e428b5f483bc82d6e8f6d01a72decd0cb7387f650f365f2210fe10808",
+        "signature": "6549045e428b5f483bc82d6e8f6d01a72decd0cb7387f650f365f2210fe10808"
       },
-      "/mnt/c/Users/Aaron/projects/DragonManager/server/node_modules/typescript/lib/lib.esnext.d.ts": {
+      "/home/elements/.nvm/versions/node/v10.13.0/lib/node_modules/typescript/lib/lib.esnext.d.ts": {
         "version": "1c05c805f62c1c06a60b7812cd8de2dff7a5bda2218ce5edda5d9d298b1c48e1",
         "signature": "1c05c805f62c1c06a60b7812cd8de2dff7a5bda2218ce5edda5d9d298b1c48e1"
       },
-      "/mnt/c/Users/Aaron/projects/DragonManager/server/node_modules/typescript/lib/lib.dom.d.ts": {
-        "version": "973df4e41aea3780ce77073777d37dd5896f684124f4c42409f3a832133837a4",
-        "signature": "973df4e41aea3780ce77073777d37dd5896f684124f4c42409f3a832133837a4"
+      "/home/elements/.nvm/versions/node/v10.13.0/lib/node_modules/typescript/lib/lib.dom.d.ts": {
+        "version": "6994c583b66862deca24d7bbf77297d95b9d3da8160dbd9beef6b847cf7c1376",
+        "signature": "6994c583b66862deca24d7bbf77297d95b9d3da8160dbd9beef6b847cf7c1376"
       },
-      "/mnt/c/Users/Aaron/projects/DragonManager/server/node_modules/typescript/lib/lib.dom.iterable.d.ts": {
-        "version": "eb843da29336c7d5840bb439b24cf68a4a1652fd01c6e4e66ec74d8b136e944a",
-        "signature": "eb843da29336c7d5840bb439b24cf68a4a1652fd01c6e4e66ec74d8b136e944a"
+      "/home/elements/.nvm/versions/node/v10.13.0/lib/node_modules/typescript/lib/lib.dom.iterable.d.ts": {
+        "version": "4c892766803cef795d73d69aee436dc7a80157163e0cf35e6d0e86917cbd42f3",
+        "signature": "4c892766803cef795d73d69aee436dc7a80157163e0cf35e6d0e86917cbd42f3"
       },
-      "/mnt/c/Users/Aaron/projects/DragonManager/server/node_modules/typescript/lib/lib.webworker.importscripts.d.ts": {
+      "/home/elements/.nvm/versions/node/v10.13.0/lib/node_modules/typescript/lib/lib.webworker.importscripts.d.ts": {
         "version": "fe4e59403e34c7ff747abe4ff6abbc7718229556d7c1a5b93473fb53156c913b",
         "signature": "fe4e59403e34c7ff747abe4ff6abbc7718229556d7c1a5b93473fb53156c913b"
       },
-      "/mnt/c/Users/Aaron/projects/DragonManager/server/node_modules/typescript/lib/lib.scripthost.d.ts": {
+      "/home/elements/.nvm/versions/node/v10.13.0/lib/node_modules/typescript/lib/lib.scripthost.d.ts": {
         "version": "b9faa17292f17d2ad75e34fac77dd63a6403af1dba02d39cd0cbb9ffdf3de8b9",
         "signature": "b9faa17292f17d2ad75e34fac77dd63a6403af1dba02d39cd0cbb9ffdf3de8b9"
       },
-      "/mnt/c/Users/Aaron/projects/DragonManager/server/node_modules/typescript/lib/lib.es2015.core.d.ts": {
-        "version": "2a0390a665763bcc90f0670e43c587928d8fefe2a94a11209c1e22cba7b09f52",
-        "signature": "2a0390a665763bcc90f0670e43c587928d8fefe2a94a11209c1e22cba7b09f52"
+      "/home/elements/.nvm/versions/node/v10.13.0/lib/node_modules/typescript/lib/lib.es2015.core.d.ts": {
+        "version": "384f66a3422d80014c51de2682159bb26f1e35854029880ccd5f6d1f00e6a36d",
+        "signature": "384f66a3422d80014c51de2682159bb26f1e35854029880ccd5f6d1f00e6a36d"
       },
-      "/mnt/c/Users/Aaron/projects/DragonManager/server/node_modules/typescript/lib/lib.es2015.collection.d.ts": {
+      "/home/elements/.nvm/versions/node/v10.13.0/lib/node_modules/typescript/lib/lib.es2015.collection.d.ts": {
         "version": "dd94d8ef48c562389eb58af8df3a3a34d11367f7c818192aa5f16470d469e3f0",
         "signature": "dd94d8ef48c562389eb58af8df3a3a34d11367f7c818192aa5f16470d469e3f0"
       },
-      "/mnt/c/Users/Aaron/projects/DragonManager/server/node_modules/typescript/lib/lib.es2015.generator.d.ts": {
+      "/home/elements/.nvm/versions/node/v10.13.0/lib/node_modules/typescript/lib/lib.es2015.generator.d.ts": {
         "version": "828413486bdcaa342558e8e4570b1b287b776cb61b4b70b0214bd10c5d9a94c3",
         "signature": "828413486bdcaa342558e8e4570b1b287b776cb61b4b70b0214bd10c5d9a94c3"
       },
-      "/mnt/c/Users/Aaron/projects/DragonManager/server/node_modules/typescript/lib/lib.es2015.iterable.d.ts": {
-        "version": "6c9f73334f8bf47aea685ca5b46a8f7e992a223e96fbceb030f26a4d2324ba21",
-        "signature": "6c9f73334f8bf47aea685ca5b46a8f7e992a223e96fbceb030f26a4d2324ba21"
+      "/home/elements/.nvm/versions/node/v10.13.0/lib/node_modules/typescript/lib/lib.es2015.iterable.d.ts": {
+        "version": "4d1f39313a169b8599b8817688f504b56ba8204c2ebafd03f66ff77ddb1899a4",
+        "signature": "4d1f39313a169b8599b8817688f504b56ba8204c2ebafd03f66ff77ddb1899a4"
       },
-      "/mnt/c/Users/Aaron/projects/DragonManager/server/node_modules/typescript/lib/lib.es2015.promise.d.ts": {
-        "version": "e6b8ff2798f8ebd7a1c7afd8671f2cb67ee1901c422f5964d74b0b34c6574ea2",
-        "signature": "e6b8ff2798f8ebd7a1c7afd8671f2cb67ee1901c422f5964d74b0b34c6574ea2"
+      "/home/elements/.nvm/versions/node/v10.13.0/lib/node_modules/typescript/lib/lib.es2015.promise.d.ts": {
+        "version": "7c07d934680d0e33275a44d22fb11a4ff31d46c8c26a8d056828a478753f1efe",
+        "signature": "7c07d934680d0e33275a44d22fb11a4ff31d46c8c26a8d056828a478753f1efe"
       },
-      "/mnt/c/Users/Aaron/projects/DragonManager/server/node_modules/typescript/lib/lib.es2015.proxy.d.ts": {
+      "/home/elements/.nvm/versions/node/v10.13.0/lib/node_modules/typescript/lib/lib.es2015.proxy.d.ts": {
         "version": "5e72f949a89717db444e3bd9433468890068bb21a5638d8ab15a1359e05e54fe",
         "signature": "5e72f949a89717db444e3bd9433468890068bb21a5638d8ab15a1359e05e54fe"
       },
-      "/mnt/c/Users/Aaron/projects/DragonManager/server/node_modules/typescript/lib/lib.es2015.reflect.d.ts": {
+      "/home/elements/.nvm/versions/node/v10.13.0/lib/node_modules/typescript/lib/lib.es2015.reflect.d.ts": {
         "version": "f5b242136ae9bfb1cc99a5971cccc44e99947ae6b5ef6fd8aa54b5ade553b976",
         "signature": "f5b242136ae9bfb1cc99a5971cccc44e99947ae6b5ef6fd8aa54b5ade553b976"
       },
-      "/mnt/c/Users/Aaron/projects/DragonManager/server/node_modules/typescript/lib/lib.es2015.symbol.d.ts": {
+      "/home/elements/.nvm/versions/node/v10.13.0/lib/node_modules/typescript/lib/lib.es2015.symbol.d.ts": {
         "version": "9ae2860252d6b5f16e2026d8a2c2069db7b2a3295e98b6031d01337b96437230",
         "signature": "9ae2860252d6b5f16e2026d8a2c2069db7b2a3295e98b6031d01337b96437230"
       },
-      "/mnt/c/Users/Aaron/projects/DragonManager/server/node_modules/typescript/lib/lib.es2015.symbol.wellknown.d.ts": {
+      "/home/elements/.nvm/versions/node/v10.13.0/lib/node_modules/typescript/lib/lib.es2015.symbol.wellknown.d.ts": {
         "version": "3e0a459888f32b42138d5a39f706ff2d55d500ab1031e0988b5568b0f67c2303",
         "signature": "3e0a459888f32b42138d5a39f706ff2d55d500ab1031e0988b5568b0f67c2303"
       },
-      "/mnt/c/Users/Aaron/projects/DragonManager/server/node_modules/typescript/lib/lib.es2016.array.include.d.ts": {
+      "/home/elements/.nvm/versions/node/v10.13.0/lib/node_modules/typescript/lib/lib.es2016.array.include.d.ts": {
         "version": "3f96f1e570aedbd97bf818c246727151e873125d0512e4ae904330286c721bc0",
         "signature": "3f96f1e570aedbd97bf818c246727151e873125d0512e4ae904330286c721bc0"
       },
-      "/mnt/c/Users/Aaron/projects/DragonManager/server/node_modules/typescript/lib/lib.es2017.object.d.ts": {
+      "/home/elements/.nvm/versions/node/v10.13.0/lib/node_modules/typescript/lib/lib.es2017.object.d.ts": {
         "version": "ff8ad203e83338289b0f5defc1a5b5c253fb7d251b464db497383f915a0df3f4",
         "signature": "ff8ad203e83338289b0f5defc1a5b5c253fb7d251b464db497383f915a0df3f4"
       },
-      "/mnt/c/Users/Aaron/projects/DragonManager/server/node_modules/typescript/lib/lib.es2017.sharedmemory.d.ts": {
+      "/home/elements/.nvm/versions/node/v10.13.0/lib/node_modules/typescript/lib/lib.es2017.sharedmemory.d.ts": {
         "version": "b8667586a618c5cf64523d4e500ae39e781428abfb28f3de441fc66b56144b6f",
         "signature": "b8667586a618c5cf64523d4e500ae39e781428abfb28f3de441fc66b56144b6f"
       },
-      "/mnt/c/Users/Aaron/projects/DragonManager/server/node_modules/typescript/lib/lib.es2017.string.d.ts": {
+      "/home/elements/.nvm/versions/node/v10.13.0/lib/node_modules/typescript/lib/lib.es2017.string.d.ts": {
         "version": "21df2e0059f14dcb4c3a0e125859f6b6ff01332ee24b0065a741d121250bc71c",
         "signature": "21df2e0059f14dcb4c3a0e125859f6b6ff01332ee24b0065a741d121250bc71c"
       },
-      "/mnt/c/Users/Aaron/projects/DragonManager/server/node_modules/typescript/lib/lib.es2017.intl.d.ts": {
+      "/home/elements/.nvm/versions/node/v10.13.0/lib/node_modules/typescript/lib/lib.es2017.intl.d.ts": {
         "version": "c1759cb171c7619af0d2234f2f8fb2a871ee88e956e2ed91bb61778e41f272c6",
         "signature": "c1759cb171c7619af0d2234f2f8fb2a871ee88e956e2ed91bb61778e41f272c6"
       },
-      "/mnt/c/Users/Aaron/projects/DragonManager/server/node_modules/typescript/lib/lib.es2017.typedarrays.d.ts": {
+      "/home/elements/.nvm/versions/node/v10.13.0/lib/node_modules/typescript/lib/lib.es2017.typedarrays.d.ts": {
         "version": "28569d59e07d4378cb3d54979c4c60f9f06305c9bb6999ffe6cab758957adc46",
         "signature": "28569d59e07d4378cb3d54979c4c60f9f06305c9bb6999ffe6cab758957adc46"
       },
-      "/mnt/c/Users/Aaron/projects/DragonManager/server/node_modules/typescript/lib/lib.es2018.asynciterable.d.ts": {
+      "/home/elements/.nvm/versions/node/v10.13.0/lib/node_modules/typescript/lib/lib.es2018.asynciterable.d.ts": {
         "version": "42102aaeb1bfec213be1e9777466a6d551eeba8567fed18c0cdbca8c35e3c6e4",
         "signature": "42102aaeb1bfec213be1e9777466a6d551eeba8567fed18c0cdbca8c35e3c6e4"
       },
-      "/mnt/c/Users/Aaron/projects/DragonManager/server/node_modules/typescript/lib/lib.es2018.intl.d.ts": {
+      "/home/elements/.nvm/versions/node/v10.13.0/lib/node_modules/typescript/lib/lib.es2018.intl.d.ts": {
         "version": "1b820b57379c726f94af50cd60053674af53ff9d079c1563cc70071e8b757dd0",
         "signature": "1b820b57379c726f94af50cd60053674af53ff9d079c1563cc70071e8b757dd0"
       },
-      "/mnt/c/Users/Aaron/projects/DragonManager/server/node_modules/typescript/lib/lib.es2018.promise.d.ts": {
+      "/home/elements/.nvm/versions/node/v10.13.0/lib/node_modules/typescript/lib/lib.es2018.promise.d.ts": {
         "version": "efe049114bad1035b0aa9a4a0359f50ab776e3897c411521e51d3013079cbd62",
         "signature": "efe049114bad1035b0aa9a4a0359f50ab776e3897c411521e51d3013079cbd62"
       },
-      "/mnt/c/Users/Aaron/projects/DragonManager/server/node_modules/typescript/lib/lib.es2018.regexp.d.ts": {
+      "/home/elements/.nvm/versions/node/v10.13.0/lib/node_modules/typescript/lib/lib.es2018.regexp.d.ts": {
         "version": "e7780d04cd4120ee554c665829db2bbdd6b947cbaa3c150b7d9ea74df3beb2e8",
         "signature": "e7780d04cd4120ee554c665829db2bbdd6b947cbaa3c150b7d9ea74df3beb2e8"
       },
-      "/mnt/c/Users/Aaron/projects/DragonManager/server/node_modules/typescript/lib/lib.es2019.array.d.ts": {
+      "/home/elements/.nvm/versions/node/v10.13.0/lib/node_modules/typescript/lib/lib.es2019.array.d.ts": {
         "version": "fc7c02b980e7dda0ed14d57ee71705c09efc51ec6286a10b971a25a3bb29262b",
         "signature": "fc7c02b980e7dda0ed14d57ee71705c09efc51ec6286a10b971a25a3bb29262b"
       },
-      "/mnt/c/Users/Aaron/projects/DragonManager/server/node_modules/typescript/lib/lib.es2019.object.d.ts": {
-        "version": "989b95205f1189943fab0ce12a39c80570edf8f200aca60e0fdc500afc4d5859",
-        "signature": "989b95205f1189943fab0ce12a39c80570edf8f200aca60e0fdc500afc4d5859"
-      },
-      "/mnt/c/Users/Aaron/projects/DragonManager/server/node_modules/typescript/lib/lib.es2019.string.d.ts": {
+      "/home/elements/.nvm/versions/node/v10.13.0/lib/node_modules/typescript/lib/lib.es2019.string.d.ts": {
         "version": "669427ac10ef9f52b6a7a502a66670eaabba675e0a660eb971041bd73c9894e3",
         "signature": "669427ac10ef9f52b6a7a502a66670eaabba675e0a660eb971041bd73c9894e3"
       },
-      "/mnt/c/Users/Aaron/projects/DragonManager/server/node_modules/typescript/lib/lib.es2019.symbol.d.ts": {
+      "/home/elements/.nvm/versions/node/v10.13.0/lib/node_modules/typescript/lib/lib.es2019.symbol.d.ts": {
         "version": "7a842c21e0fe143eb3ad4d689a1470bab5ed9bc7fd7223fe8b56cbae27038d62",
         "signature": "7a842c21e0fe143eb3ad4d689a1470bab5ed9bc7fd7223fe8b56cbae27038d62"
       },
-      "/mnt/c/Users/Aaron/projects/DragonManager/server/node_modules/typescript/lib/lib.esnext.intl.d.ts": {
+      "/home/elements/.nvm/versions/node/v10.13.0/lib/node_modules/typescript/lib/lib.esnext.intl.d.ts": {
         "version": "f6e0c89daaf72eac38dfb1d5ef0972183f7f26a68da15bfe5bcb7cfccf0c7db8",
         "signature": "f6e0c89daaf72eac38dfb1d5ef0972183f7f26a68da15bfe5bcb7cfccf0c7db8"
       },
-      "/mnt/c/Users/Aaron/projects/DragonManager/server/node_modules/typescript/lib/lib.esnext.bigint.d.ts": {
+      "/home/elements/.nvm/versions/node/v10.13.0/lib/node_modules/typescript/lib/lib.esnext.bigint.d.ts": {
         "version": "63b66918290d794f73832a6d0325be5026236674fe8c0cb0b68d162000d7bbe8",
         "signature": "63b66918290d794f73832a6d0325be5026236674fe8c0cb0b68d162000d7bbe8"
       },
-      "/mnt/c/Users/Aaron/projects/DragonManager/server/node_modules/typescript/lib/lib.esnext.full.d.ts": {
+      "/home/elements/.nvm/versions/node/v10.13.0/lib/node_modules/typescript/lib/lib.esnext.full.d.ts": {
         "version": "b209a815904a485328677714ef8c4ddd2dcf4040154fa204d25cbf31cd4ff0f3",
         "signature": "b209a815904a485328677714ef8c4ddd2dcf4040154fa204d25cbf31cd4ff0f3"
       },
       "/mnt/c/Users/Aaron/projects/DragonManager/server/packages/services/src/Rarity.ts": {
         "version": "c178b224f3cd45b453b19c07c384b61912d721072adb08a224d325c63d0a4119",
         "signature": "7df7ec3bb7390de6a35a2729a42328097a3edfad1ac63e1b48b1aff8a4a364cb"
+      },
+      "/mnt/c/Users/Aaron/projects/DragonManager/server/packages/utils/src/pick.ts": {
+        "version": "5cf2db4cd16a49f178ecfeb97f686c0db9eec5704f005c2361087502e240f677",
+        "signature": "3efe442d66993817673230768e9e836d12d9bec2db60af84329db7df140e2d3e"
+      },
+      "/mnt/c/Users/Aaron/projects/DragonManager/server/packages/services/src/global.d.ts": {
+        "version": "1db632431e86b505a69a5cb8af8cacd419309eecd4cb99b374448a7c88813223",
+        "signature": "1db632431e86b505a69a5cb8af8cacd419309eecd4cb99b374448a7c88813223"
       },
       "/mnt/c/Users/Aaron/projects/DragonManager/server/node_modules/@types/node/globals.d.ts": {
         "version": "3af134c0480536f901a30692d216bd29712a3869fe38a7be066ea1eef34a8561",
@@ -366,8 +370,8 @@
         "signature": "6baa211478e104f170cb907cc1f720847be7bcfa94220c414899cd57b3059a59"
       },
       "/mnt/c/Users/Aaron/projects/DragonManager/server/packages/services/src/db/eggs.ts": {
-        "version": "016e42407faf0c3432c0c08baf6a1d53f4f2d966e837591605b8b1141f5f6519",
-        "signature": "cd25fa925d7048ea86293b337be46bdd7b4a32e73bec264ccd0404b1f23d7d28"
+        "version": "9e556795db5c41111dbed88bc44c0957e8c7d9dce903c1e2399d14eb28a7bc58",
+        "signature": "59f4fee1bc31c3c1f33217853984eca5f3bbc25b5c6c11fe99c4b3ff28ebb0cb"
       },
       "/mnt/c/Users/Aaron/projects/DragonManager/server/packages/services/src/db/tier.ts": {
         "version": "a1705bf6402051ddd42ce64910b211ce86afa6283a261e4c74a9fe4bbdd0c476",
@@ -386,20 +390,20 @@
         "signature": "a7c1378ae90e880a03365d7d6cfb9c1240b5d7568a446f124040252d6da63628"
       },
       "/mnt/c/Users/Aaron/projects/DragonManager/server/packages/services/src/service/Dragon.ts": {
-        "version": "6caeac58f101827ba824c84fff375cdf0fc614653d18bb711d3ff4149bbdec74",
-        "signature": "b7da4bbec1634f0d93a7c592b38a21a145404f1a2695641428aecf48c6dc9372"
+        "version": "bc2ef0177bfb46acbbb615dbf44770eb52c83b91b487cc026844a2ae877e6844",
+        "signature": "eadf3cf2cd767dd4012ee733f0a162a613796f2fc5a1827895e73927a11ea753"
       },
       "/mnt/c/Users/Aaron/projects/DragonManager/server/packages/services/src/service/Tier.ts": {
         "version": "d95579a635841a878db8d18cc91743279e6fd51be190a79cc92974dec01fb3d7",
         "signature": "37edcc6d9595387630f2c4c6c69a95d37ee70c6036175f3119a73d34a8482296"
       },
       "/mnt/c/Users/Aaron/projects/DragonManager/server/packages/services/src/service/Egg.ts": {
-        "version": "e6c8f60bfdec7e49639a66dcefbf5a6ee55c7e070f749dd245c5752dd5228036",
-        "signature": "327c803836e255de35e1e17903e8100d9b6de83b8a961f9a45a15c61aab9d0e8"
+        "version": "8f40867e8a9f338df3da8aa5223ae1f38937177d7e0f0b84aed5e86fc3be0a46",
+        "signature": "36a2f4b8090bea6698b6c11ff3ee43863cbe6e4701893cd4721754e5bb1684d9"
       },
       "/mnt/c/Users/Aaron/projects/DragonManager/server/packages/services/src/index.ts": {
-        "version": "ba6d4ca88b386fc97b6f3151a4748981bc0aef077331767f4c1b78a86e80e26f",
-        "signature": "3998c4462a494b63d0cbbc780bd07a8ea33f8f469b82743b399aa07ee67d45e3"
+        "version": "6d4e02603022aab4426f20dd0e385217afaa502c1709306d0cf9e10d17cf0050",
+        "signature": "f0be53c9593bee80a0a8877971d109a4d8812e15df2446063694663af2734a8c"
       },
       "/mnt/c/Users/Aaron/projects/DragonManager/server/node_modules/fp-ts/lib/HKT.d.ts": {
         "version": "87f274a6d3aa083a6e7d68e7c98eaf0a75fff4563809e330ca4697da59186665",
@@ -552,6 +556,10 @@
       "/mnt/c/Users/Aaron/projects/DragonManager/server/packages/services/src/db/types/Optional.ts": {
         "version": "c178223eab0231b310e3567a44fc783182b19615f83f5d06db4873e64377ce71",
         "signature": "263f2e0f11cd092b4d64520f803d8cf1b6407ec6174c4df230350872ad9c681c"
+      },
+      "/mnt/c/Users/Aaron/projects/DragonManager/server/packages/services/src/service/pipeline.ts": {
+        "version": "d31dc2dacf693d612f841005554c34758dc6c7d1627dfa64f63300e52e1c96b8",
+        "signature": "d53de17e2cd16d0e47f4d560c52277336ad9bf2691483f417f426b086fd2ba84"
       },
       "/mnt/c/Users/Aaron/projects/DragonManager/server/node_modules/@types/accepts/index.d.ts": {
         "version": "6738101ae8e56cd3879ab3f99630ada7d78097fc9fd334df7e766216778ca219",
@@ -959,8 +967,9 @@
       }
     },
     "options": {
-      "target": 8,
+      "target": 7,
       "module": 6,
+      "declaration": true,
       "incremental": true,
       "strict": true,
       "noImplicitAny": true,
@@ -980,162 +989,164 @@
       "preserveSymlinks": true,
       "experimentalDecorators": true,
       "emitDecoratorMetadata": true,
-      "composite": true,
-      "declaration": true,
       "outDir": "/mnt/c/Users/Aaron/projects/DragonManager/server/packages/services/dist",
-      "rootDir": "/mnt/c/Users/Aaron/projects/DragonManager/server/packages/services/src",
       "configFilePath": "/mnt/c/Users/Aaron/projects/DragonManager/server/packages/services/tsconfig.build.json"
     },
     "referencedMap": {
-      "/mnt/c/Users/Aaron/projects/DragonManager/server/node_modules/typescript/lib/lib.es5.d.ts": [
+      "/home/elements/.nvm/versions/node/v10.13.0/lib/node_modules/typescript/lib/lib.es5.d.ts": [
         "/mnt/c/Users/Aaron/projects/DragonManager/server/node_modules/@types/node/util.d.ts",
         "/mnt/c/Users/Aaron/projects/DragonManager/server/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "/mnt/c/Users/Aaron/projects/DragonManager/server/node_modules/typescript/lib/lib.es2015.d.ts": [
+      "/home/elements/.nvm/versions/node/v10.13.0/lib/node_modules/typescript/lib/lib.es2015.d.ts": [
         "/mnt/c/Users/Aaron/projects/DragonManager/server/node_modules/@types/node/util.d.ts",
         "/mnt/c/Users/Aaron/projects/DragonManager/server/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "/mnt/c/Users/Aaron/projects/DragonManager/server/node_modules/typescript/lib/lib.es2016.d.ts": [
+      "/home/elements/.nvm/versions/node/v10.13.0/lib/node_modules/typescript/lib/lib.es2016.d.ts": [
         "/mnt/c/Users/Aaron/projects/DragonManager/server/node_modules/@types/node/util.d.ts",
         "/mnt/c/Users/Aaron/projects/DragonManager/server/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "/mnt/c/Users/Aaron/projects/DragonManager/server/node_modules/typescript/lib/lib.es2017.d.ts": [
+      "/home/elements/.nvm/versions/node/v10.13.0/lib/node_modules/typescript/lib/lib.es2017.d.ts": [
         "/mnt/c/Users/Aaron/projects/DragonManager/server/node_modules/@types/node/util.d.ts",
         "/mnt/c/Users/Aaron/projects/DragonManager/server/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "/mnt/c/Users/Aaron/projects/DragonManager/server/node_modules/typescript/lib/lib.es2018.d.ts": [
+      "/home/elements/.nvm/versions/node/v10.13.0/lib/node_modules/typescript/lib/lib.es2018.d.ts": [
         "/mnt/c/Users/Aaron/projects/DragonManager/server/node_modules/@types/node/util.d.ts",
         "/mnt/c/Users/Aaron/projects/DragonManager/server/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "/mnt/c/Users/Aaron/projects/DragonManager/server/node_modules/typescript/lib/lib.es2019.d.ts": [
+      "/home/elements/.nvm/versions/node/v10.13.0/lib/node_modules/typescript/lib/lib.es2019.d.ts": [
         "/mnt/c/Users/Aaron/projects/DragonManager/server/node_modules/@types/node/util.d.ts",
         "/mnt/c/Users/Aaron/projects/DragonManager/server/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "/mnt/c/Users/Aaron/projects/DragonManager/server/node_modules/typescript/lib/lib.esnext.d.ts": [
+      "/home/elements/.nvm/versions/node/v10.13.0/lib/node_modules/typescript/lib/lib.esnext.d.ts": [
         "/mnt/c/Users/Aaron/projects/DragonManager/server/node_modules/@types/node/util.d.ts",
         "/mnt/c/Users/Aaron/projects/DragonManager/server/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "/mnt/c/Users/Aaron/projects/DragonManager/server/node_modules/typescript/lib/lib.dom.d.ts": [
+      "/home/elements/.nvm/versions/node/v10.13.0/lib/node_modules/typescript/lib/lib.dom.d.ts": [
         "/mnt/c/Users/Aaron/projects/DragonManager/server/node_modules/@types/node/util.d.ts",
         "/mnt/c/Users/Aaron/projects/DragonManager/server/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "/mnt/c/Users/Aaron/projects/DragonManager/server/node_modules/typescript/lib/lib.dom.iterable.d.ts": [
+      "/home/elements/.nvm/versions/node/v10.13.0/lib/node_modules/typescript/lib/lib.dom.iterable.d.ts": [
         "/mnt/c/Users/Aaron/projects/DragonManager/server/node_modules/@types/node/util.d.ts",
         "/mnt/c/Users/Aaron/projects/DragonManager/server/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "/mnt/c/Users/Aaron/projects/DragonManager/server/node_modules/typescript/lib/lib.webworker.importscripts.d.ts": [
+      "/home/elements/.nvm/versions/node/v10.13.0/lib/node_modules/typescript/lib/lib.webworker.importscripts.d.ts": [
         "/mnt/c/Users/Aaron/projects/DragonManager/server/node_modules/@types/node/util.d.ts",
         "/mnt/c/Users/Aaron/projects/DragonManager/server/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "/mnt/c/Users/Aaron/projects/DragonManager/server/node_modules/typescript/lib/lib.scripthost.d.ts": [
+      "/home/elements/.nvm/versions/node/v10.13.0/lib/node_modules/typescript/lib/lib.scripthost.d.ts": [
         "/mnt/c/Users/Aaron/projects/DragonManager/server/node_modules/@types/node/util.d.ts",
         "/mnt/c/Users/Aaron/projects/DragonManager/server/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "/mnt/c/Users/Aaron/projects/DragonManager/server/node_modules/typescript/lib/lib.es2015.core.d.ts": [
+      "/home/elements/.nvm/versions/node/v10.13.0/lib/node_modules/typescript/lib/lib.es2015.core.d.ts": [
         "/mnt/c/Users/Aaron/projects/DragonManager/server/node_modules/@types/node/util.d.ts",
         "/mnt/c/Users/Aaron/projects/DragonManager/server/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "/mnt/c/Users/Aaron/projects/DragonManager/server/node_modules/typescript/lib/lib.es2015.collection.d.ts": [
+      "/home/elements/.nvm/versions/node/v10.13.0/lib/node_modules/typescript/lib/lib.es2015.collection.d.ts": [
         "/mnt/c/Users/Aaron/projects/DragonManager/server/node_modules/@types/node/util.d.ts",
         "/mnt/c/Users/Aaron/projects/DragonManager/server/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "/mnt/c/Users/Aaron/projects/DragonManager/server/node_modules/typescript/lib/lib.es2015.generator.d.ts": [
+      "/home/elements/.nvm/versions/node/v10.13.0/lib/node_modules/typescript/lib/lib.es2015.generator.d.ts": [
         "/mnt/c/Users/Aaron/projects/DragonManager/server/node_modules/@types/node/util.d.ts",
         "/mnt/c/Users/Aaron/projects/DragonManager/server/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "/mnt/c/Users/Aaron/projects/DragonManager/server/node_modules/typescript/lib/lib.es2015.iterable.d.ts": [
+      "/home/elements/.nvm/versions/node/v10.13.0/lib/node_modules/typescript/lib/lib.es2015.iterable.d.ts": [
         "/mnt/c/Users/Aaron/projects/DragonManager/server/node_modules/@types/node/util.d.ts",
         "/mnt/c/Users/Aaron/projects/DragonManager/server/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "/mnt/c/Users/Aaron/projects/DragonManager/server/node_modules/typescript/lib/lib.es2015.promise.d.ts": [
+      "/home/elements/.nvm/versions/node/v10.13.0/lib/node_modules/typescript/lib/lib.es2015.promise.d.ts": [
         "/mnt/c/Users/Aaron/projects/DragonManager/server/node_modules/@types/node/util.d.ts",
         "/mnt/c/Users/Aaron/projects/DragonManager/server/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "/mnt/c/Users/Aaron/projects/DragonManager/server/node_modules/typescript/lib/lib.es2015.proxy.d.ts": [
+      "/home/elements/.nvm/versions/node/v10.13.0/lib/node_modules/typescript/lib/lib.es2015.proxy.d.ts": [
         "/mnt/c/Users/Aaron/projects/DragonManager/server/node_modules/@types/node/util.d.ts",
         "/mnt/c/Users/Aaron/projects/DragonManager/server/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "/mnt/c/Users/Aaron/projects/DragonManager/server/node_modules/typescript/lib/lib.es2015.reflect.d.ts": [
+      "/home/elements/.nvm/versions/node/v10.13.0/lib/node_modules/typescript/lib/lib.es2015.reflect.d.ts": [
         "/mnt/c/Users/Aaron/projects/DragonManager/server/node_modules/@types/node/util.d.ts",
         "/mnt/c/Users/Aaron/projects/DragonManager/server/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "/mnt/c/Users/Aaron/projects/DragonManager/server/node_modules/typescript/lib/lib.es2015.symbol.d.ts": [
+      "/home/elements/.nvm/versions/node/v10.13.0/lib/node_modules/typescript/lib/lib.es2015.symbol.d.ts": [
         "/mnt/c/Users/Aaron/projects/DragonManager/server/node_modules/@types/node/util.d.ts",
         "/mnt/c/Users/Aaron/projects/DragonManager/server/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "/mnt/c/Users/Aaron/projects/DragonManager/server/node_modules/typescript/lib/lib.es2015.symbol.wellknown.d.ts": [
+      "/home/elements/.nvm/versions/node/v10.13.0/lib/node_modules/typescript/lib/lib.es2015.symbol.wellknown.d.ts": [
         "/mnt/c/Users/Aaron/projects/DragonManager/server/node_modules/@types/node/util.d.ts",
         "/mnt/c/Users/Aaron/projects/DragonManager/server/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "/mnt/c/Users/Aaron/projects/DragonManager/server/node_modules/typescript/lib/lib.es2016.array.include.d.ts": [
+      "/home/elements/.nvm/versions/node/v10.13.0/lib/node_modules/typescript/lib/lib.es2016.array.include.d.ts": [
         "/mnt/c/Users/Aaron/projects/DragonManager/server/node_modules/@types/node/util.d.ts",
         "/mnt/c/Users/Aaron/projects/DragonManager/server/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "/mnt/c/Users/Aaron/projects/DragonManager/server/node_modules/typescript/lib/lib.es2017.object.d.ts": [
+      "/home/elements/.nvm/versions/node/v10.13.0/lib/node_modules/typescript/lib/lib.es2017.object.d.ts": [
         "/mnt/c/Users/Aaron/projects/DragonManager/server/node_modules/@types/node/util.d.ts",
         "/mnt/c/Users/Aaron/projects/DragonManager/server/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "/mnt/c/Users/Aaron/projects/DragonManager/server/node_modules/typescript/lib/lib.es2017.sharedmemory.d.ts": [
+      "/home/elements/.nvm/versions/node/v10.13.0/lib/node_modules/typescript/lib/lib.es2017.sharedmemory.d.ts": [
         "/mnt/c/Users/Aaron/projects/DragonManager/server/node_modules/@types/node/util.d.ts",
         "/mnt/c/Users/Aaron/projects/DragonManager/server/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "/mnt/c/Users/Aaron/projects/DragonManager/server/node_modules/typescript/lib/lib.es2017.string.d.ts": [
+      "/home/elements/.nvm/versions/node/v10.13.0/lib/node_modules/typescript/lib/lib.es2017.string.d.ts": [
         "/mnt/c/Users/Aaron/projects/DragonManager/server/node_modules/@types/node/util.d.ts",
         "/mnt/c/Users/Aaron/projects/DragonManager/server/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "/mnt/c/Users/Aaron/projects/DragonManager/server/node_modules/typescript/lib/lib.es2017.intl.d.ts": [
+      "/home/elements/.nvm/versions/node/v10.13.0/lib/node_modules/typescript/lib/lib.es2017.intl.d.ts": [
         "/mnt/c/Users/Aaron/projects/DragonManager/server/node_modules/@types/node/util.d.ts",
         "/mnt/c/Users/Aaron/projects/DragonManager/server/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "/mnt/c/Users/Aaron/projects/DragonManager/server/node_modules/typescript/lib/lib.es2017.typedarrays.d.ts": [
+      "/home/elements/.nvm/versions/node/v10.13.0/lib/node_modules/typescript/lib/lib.es2017.typedarrays.d.ts": [
         "/mnt/c/Users/Aaron/projects/DragonManager/server/node_modules/@types/node/util.d.ts",
         "/mnt/c/Users/Aaron/projects/DragonManager/server/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "/mnt/c/Users/Aaron/projects/DragonManager/server/node_modules/typescript/lib/lib.es2018.asynciterable.d.ts": [
+      "/home/elements/.nvm/versions/node/v10.13.0/lib/node_modules/typescript/lib/lib.es2018.asynciterable.d.ts": [
         "/mnt/c/Users/Aaron/projects/DragonManager/server/node_modules/@types/node/util.d.ts",
         "/mnt/c/Users/Aaron/projects/DragonManager/server/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "/mnt/c/Users/Aaron/projects/DragonManager/server/node_modules/typescript/lib/lib.es2018.intl.d.ts": [
+      "/home/elements/.nvm/versions/node/v10.13.0/lib/node_modules/typescript/lib/lib.es2018.intl.d.ts": [
         "/mnt/c/Users/Aaron/projects/DragonManager/server/node_modules/@types/node/util.d.ts",
         "/mnt/c/Users/Aaron/projects/DragonManager/server/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "/mnt/c/Users/Aaron/projects/DragonManager/server/node_modules/typescript/lib/lib.es2018.promise.d.ts": [
+      "/home/elements/.nvm/versions/node/v10.13.0/lib/node_modules/typescript/lib/lib.es2018.promise.d.ts": [
         "/mnt/c/Users/Aaron/projects/DragonManager/server/node_modules/@types/node/util.d.ts",
         "/mnt/c/Users/Aaron/projects/DragonManager/server/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "/mnt/c/Users/Aaron/projects/DragonManager/server/node_modules/typescript/lib/lib.es2018.regexp.d.ts": [
+      "/home/elements/.nvm/versions/node/v10.13.0/lib/node_modules/typescript/lib/lib.es2018.regexp.d.ts": [
         "/mnt/c/Users/Aaron/projects/DragonManager/server/node_modules/@types/node/util.d.ts",
         "/mnt/c/Users/Aaron/projects/DragonManager/server/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "/mnt/c/Users/Aaron/projects/DragonManager/server/node_modules/typescript/lib/lib.es2019.array.d.ts": [
+      "/home/elements/.nvm/versions/node/v10.13.0/lib/node_modules/typescript/lib/lib.es2019.array.d.ts": [
         "/mnt/c/Users/Aaron/projects/DragonManager/server/node_modules/@types/node/util.d.ts",
         "/mnt/c/Users/Aaron/projects/DragonManager/server/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "/mnt/c/Users/Aaron/projects/DragonManager/server/node_modules/typescript/lib/lib.es2019.object.d.ts": [
+      "/home/elements/.nvm/versions/node/v10.13.0/lib/node_modules/typescript/lib/lib.es2019.string.d.ts": [
         "/mnt/c/Users/Aaron/projects/DragonManager/server/node_modules/@types/node/util.d.ts",
         "/mnt/c/Users/Aaron/projects/DragonManager/server/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "/mnt/c/Users/Aaron/projects/DragonManager/server/node_modules/typescript/lib/lib.es2019.string.d.ts": [
+      "/home/elements/.nvm/versions/node/v10.13.0/lib/node_modules/typescript/lib/lib.es2019.symbol.d.ts": [
         "/mnt/c/Users/Aaron/projects/DragonManager/server/node_modules/@types/node/util.d.ts",
         "/mnt/c/Users/Aaron/projects/DragonManager/server/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "/mnt/c/Users/Aaron/projects/DragonManager/server/node_modules/typescript/lib/lib.es2019.symbol.d.ts": [
+      "/home/elements/.nvm/versions/node/v10.13.0/lib/node_modules/typescript/lib/lib.esnext.intl.d.ts": [
         "/mnt/c/Users/Aaron/projects/DragonManager/server/node_modules/@types/node/util.d.ts",
         "/mnt/c/Users/Aaron/projects/DragonManager/server/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "/mnt/c/Users/Aaron/projects/DragonManager/server/node_modules/typescript/lib/lib.esnext.intl.d.ts": [
+      "/home/elements/.nvm/versions/node/v10.13.0/lib/node_modules/typescript/lib/lib.esnext.bigint.d.ts": [
         "/mnt/c/Users/Aaron/projects/DragonManager/server/node_modules/@types/node/util.d.ts",
         "/mnt/c/Users/Aaron/projects/DragonManager/server/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "/mnt/c/Users/Aaron/projects/DragonManager/server/node_modules/typescript/lib/lib.esnext.bigint.d.ts": [
-        "/mnt/c/Users/Aaron/projects/DragonManager/server/node_modules/@types/node/util.d.ts",
-        "/mnt/c/Users/Aaron/projects/DragonManager/server/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/mnt/c/Users/Aaron/projects/DragonManager/server/node_modules/typescript/lib/lib.esnext.full.d.ts": [
+      "/home/elements/.nvm/versions/node/v10.13.0/lib/node_modules/typescript/lib/lib.esnext.full.d.ts": [
         "/mnt/c/Users/Aaron/projects/DragonManager/server/node_modules/@types/node/util.d.ts",
         "/mnt/c/Users/Aaron/projects/DragonManager/server/node_modules/@types/node/ts3.2/util.d.ts"
       ],
       "/mnt/c/Users/Aaron/projects/DragonManager/server/packages/services/src/Rarity.ts": [
+        "/mnt/c/Users/Aaron/projects/DragonManager/server/node_modules/@types/node/util.d.ts",
+        "/mnt/c/Users/Aaron/projects/DragonManager/server/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/mnt/c/Users/Aaron/projects/DragonManager/server/packages/utils/src/pick.ts": [
+        "/mnt/c/Users/Aaron/projects/DragonManager/server/node_modules/@types/node/util.d.ts",
+        "/mnt/c/Users/Aaron/projects/DragonManager/server/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/mnt/c/Users/Aaron/projects/DragonManager/server/packages/services/src/global.d.ts": [
+        "/mnt/c/Users/Aaron/projects/DragonManager/server/packages/utils/src/pick.ts",
         "/mnt/c/Users/Aaron/projects/DragonManager/server/node_modules/@types/node/util.d.ts",
         "/mnt/c/Users/Aaron/projects/DragonManager/server/node_modules/@types/node/ts3.2/util.d.ts"
       ],
@@ -1522,6 +1533,7 @@
       ],
       "/mnt/c/Users/Aaron/projects/DragonManager/server/packages/services/src/index.ts": [
         "/mnt/c/Users/Aaron/projects/DragonManager/server/packages/services/src/db/index.ts",
+        "/mnt/c/Users/Aaron/projects/DragonManager/server/packages/services/src/db/eggs.ts",
         "/mnt/c/Users/Aaron/projects/DragonManager/server/packages/services/src/service/Dragon.ts",
         "/mnt/c/Users/Aaron/projects/DragonManager/server/packages/services/src/service/Tier.ts",
         "/mnt/c/Users/Aaron/projects/DragonManager/server/packages/services/src/service/Egg.ts",
@@ -1828,6 +1840,10 @@
         "/mnt/c/Users/Aaron/projects/DragonManager/server/node_modules/@types/node/ts3.2/util.d.ts"
       ],
       "/mnt/c/Users/Aaron/projects/DragonManager/server/packages/services/src/db/types/Optional.ts": [
+        "/mnt/c/Users/Aaron/projects/DragonManager/server/node_modules/@types/node/util.d.ts",
+        "/mnt/c/Users/Aaron/projects/DragonManager/server/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/mnt/c/Users/Aaron/projects/DragonManager/server/packages/services/src/service/pipeline.ts": [
         "/mnt/c/Users/Aaron/projects/DragonManager/server/node_modules/@types/node/util.d.ts",
         "/mnt/c/Users/Aaron/projects/DragonManager/server/node_modules/@types/node/ts3.2/util.d.ts"
       ],
@@ -2565,162 +2581,166 @@
       ]
     },
     "exportedModulesMap": {
-      "/mnt/c/Users/Aaron/projects/DragonManager/server/node_modules/typescript/lib/lib.es5.d.ts": [
+      "/home/elements/.nvm/versions/node/v10.13.0/lib/node_modules/typescript/lib/lib.es5.d.ts": [
         "/mnt/c/Users/Aaron/projects/DragonManager/server/node_modules/@types/node/util.d.ts",
         "/mnt/c/Users/Aaron/projects/DragonManager/server/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "/mnt/c/Users/Aaron/projects/DragonManager/server/node_modules/typescript/lib/lib.es2015.d.ts": [
+      "/home/elements/.nvm/versions/node/v10.13.0/lib/node_modules/typescript/lib/lib.es2015.d.ts": [
         "/mnt/c/Users/Aaron/projects/DragonManager/server/node_modules/@types/node/util.d.ts",
         "/mnt/c/Users/Aaron/projects/DragonManager/server/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "/mnt/c/Users/Aaron/projects/DragonManager/server/node_modules/typescript/lib/lib.es2016.d.ts": [
+      "/home/elements/.nvm/versions/node/v10.13.0/lib/node_modules/typescript/lib/lib.es2016.d.ts": [
         "/mnt/c/Users/Aaron/projects/DragonManager/server/node_modules/@types/node/util.d.ts",
         "/mnt/c/Users/Aaron/projects/DragonManager/server/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "/mnt/c/Users/Aaron/projects/DragonManager/server/node_modules/typescript/lib/lib.es2017.d.ts": [
+      "/home/elements/.nvm/versions/node/v10.13.0/lib/node_modules/typescript/lib/lib.es2017.d.ts": [
         "/mnt/c/Users/Aaron/projects/DragonManager/server/node_modules/@types/node/util.d.ts",
         "/mnt/c/Users/Aaron/projects/DragonManager/server/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "/mnt/c/Users/Aaron/projects/DragonManager/server/node_modules/typescript/lib/lib.es2018.d.ts": [
+      "/home/elements/.nvm/versions/node/v10.13.0/lib/node_modules/typescript/lib/lib.es2018.d.ts": [
         "/mnt/c/Users/Aaron/projects/DragonManager/server/node_modules/@types/node/util.d.ts",
         "/mnt/c/Users/Aaron/projects/DragonManager/server/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "/mnt/c/Users/Aaron/projects/DragonManager/server/node_modules/typescript/lib/lib.es2019.d.ts": [
+      "/home/elements/.nvm/versions/node/v10.13.0/lib/node_modules/typescript/lib/lib.es2019.d.ts": [
         "/mnt/c/Users/Aaron/projects/DragonManager/server/node_modules/@types/node/util.d.ts",
         "/mnt/c/Users/Aaron/projects/DragonManager/server/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "/mnt/c/Users/Aaron/projects/DragonManager/server/node_modules/typescript/lib/lib.esnext.d.ts": [
+      "/home/elements/.nvm/versions/node/v10.13.0/lib/node_modules/typescript/lib/lib.esnext.d.ts": [
         "/mnt/c/Users/Aaron/projects/DragonManager/server/node_modules/@types/node/util.d.ts",
         "/mnt/c/Users/Aaron/projects/DragonManager/server/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "/mnt/c/Users/Aaron/projects/DragonManager/server/node_modules/typescript/lib/lib.dom.d.ts": [
+      "/home/elements/.nvm/versions/node/v10.13.0/lib/node_modules/typescript/lib/lib.dom.d.ts": [
         "/mnt/c/Users/Aaron/projects/DragonManager/server/node_modules/@types/node/util.d.ts",
         "/mnt/c/Users/Aaron/projects/DragonManager/server/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "/mnt/c/Users/Aaron/projects/DragonManager/server/node_modules/typescript/lib/lib.dom.iterable.d.ts": [
+      "/home/elements/.nvm/versions/node/v10.13.0/lib/node_modules/typescript/lib/lib.dom.iterable.d.ts": [
         "/mnt/c/Users/Aaron/projects/DragonManager/server/node_modules/@types/node/util.d.ts",
         "/mnt/c/Users/Aaron/projects/DragonManager/server/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "/mnt/c/Users/Aaron/projects/DragonManager/server/node_modules/typescript/lib/lib.webworker.importscripts.d.ts": [
+      "/home/elements/.nvm/versions/node/v10.13.0/lib/node_modules/typescript/lib/lib.webworker.importscripts.d.ts": [
         "/mnt/c/Users/Aaron/projects/DragonManager/server/node_modules/@types/node/util.d.ts",
         "/mnt/c/Users/Aaron/projects/DragonManager/server/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "/mnt/c/Users/Aaron/projects/DragonManager/server/node_modules/typescript/lib/lib.scripthost.d.ts": [
+      "/home/elements/.nvm/versions/node/v10.13.0/lib/node_modules/typescript/lib/lib.scripthost.d.ts": [
         "/mnt/c/Users/Aaron/projects/DragonManager/server/node_modules/@types/node/util.d.ts",
         "/mnt/c/Users/Aaron/projects/DragonManager/server/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "/mnt/c/Users/Aaron/projects/DragonManager/server/node_modules/typescript/lib/lib.es2015.core.d.ts": [
+      "/home/elements/.nvm/versions/node/v10.13.0/lib/node_modules/typescript/lib/lib.es2015.core.d.ts": [
         "/mnt/c/Users/Aaron/projects/DragonManager/server/node_modules/@types/node/util.d.ts",
         "/mnt/c/Users/Aaron/projects/DragonManager/server/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "/mnt/c/Users/Aaron/projects/DragonManager/server/node_modules/typescript/lib/lib.es2015.collection.d.ts": [
+      "/home/elements/.nvm/versions/node/v10.13.0/lib/node_modules/typescript/lib/lib.es2015.collection.d.ts": [
         "/mnt/c/Users/Aaron/projects/DragonManager/server/node_modules/@types/node/util.d.ts",
         "/mnt/c/Users/Aaron/projects/DragonManager/server/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "/mnt/c/Users/Aaron/projects/DragonManager/server/node_modules/typescript/lib/lib.es2015.generator.d.ts": [
+      "/home/elements/.nvm/versions/node/v10.13.0/lib/node_modules/typescript/lib/lib.es2015.generator.d.ts": [
         "/mnt/c/Users/Aaron/projects/DragonManager/server/node_modules/@types/node/util.d.ts",
         "/mnt/c/Users/Aaron/projects/DragonManager/server/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "/mnt/c/Users/Aaron/projects/DragonManager/server/node_modules/typescript/lib/lib.es2015.iterable.d.ts": [
+      "/home/elements/.nvm/versions/node/v10.13.0/lib/node_modules/typescript/lib/lib.es2015.iterable.d.ts": [
         "/mnt/c/Users/Aaron/projects/DragonManager/server/node_modules/@types/node/util.d.ts",
         "/mnt/c/Users/Aaron/projects/DragonManager/server/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "/mnt/c/Users/Aaron/projects/DragonManager/server/node_modules/typescript/lib/lib.es2015.promise.d.ts": [
+      "/home/elements/.nvm/versions/node/v10.13.0/lib/node_modules/typescript/lib/lib.es2015.promise.d.ts": [
         "/mnt/c/Users/Aaron/projects/DragonManager/server/node_modules/@types/node/util.d.ts",
         "/mnt/c/Users/Aaron/projects/DragonManager/server/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "/mnt/c/Users/Aaron/projects/DragonManager/server/node_modules/typescript/lib/lib.es2015.proxy.d.ts": [
+      "/home/elements/.nvm/versions/node/v10.13.0/lib/node_modules/typescript/lib/lib.es2015.proxy.d.ts": [
         "/mnt/c/Users/Aaron/projects/DragonManager/server/node_modules/@types/node/util.d.ts",
         "/mnt/c/Users/Aaron/projects/DragonManager/server/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "/mnt/c/Users/Aaron/projects/DragonManager/server/node_modules/typescript/lib/lib.es2015.reflect.d.ts": [
+      "/home/elements/.nvm/versions/node/v10.13.0/lib/node_modules/typescript/lib/lib.es2015.reflect.d.ts": [
         "/mnt/c/Users/Aaron/projects/DragonManager/server/node_modules/@types/node/util.d.ts",
         "/mnt/c/Users/Aaron/projects/DragonManager/server/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "/mnt/c/Users/Aaron/projects/DragonManager/server/node_modules/typescript/lib/lib.es2015.symbol.d.ts": [
+      "/home/elements/.nvm/versions/node/v10.13.0/lib/node_modules/typescript/lib/lib.es2015.symbol.d.ts": [
         "/mnt/c/Users/Aaron/projects/DragonManager/server/node_modules/@types/node/util.d.ts",
         "/mnt/c/Users/Aaron/projects/DragonManager/server/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "/mnt/c/Users/Aaron/projects/DragonManager/server/node_modules/typescript/lib/lib.es2015.symbol.wellknown.d.ts": [
+      "/home/elements/.nvm/versions/node/v10.13.0/lib/node_modules/typescript/lib/lib.es2015.symbol.wellknown.d.ts": [
         "/mnt/c/Users/Aaron/projects/DragonManager/server/node_modules/@types/node/util.d.ts",
         "/mnt/c/Users/Aaron/projects/DragonManager/server/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "/mnt/c/Users/Aaron/projects/DragonManager/server/node_modules/typescript/lib/lib.es2016.array.include.d.ts": [
+      "/home/elements/.nvm/versions/node/v10.13.0/lib/node_modules/typescript/lib/lib.es2016.array.include.d.ts": [
         "/mnt/c/Users/Aaron/projects/DragonManager/server/node_modules/@types/node/util.d.ts",
         "/mnt/c/Users/Aaron/projects/DragonManager/server/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "/mnt/c/Users/Aaron/projects/DragonManager/server/node_modules/typescript/lib/lib.es2017.object.d.ts": [
+      "/home/elements/.nvm/versions/node/v10.13.0/lib/node_modules/typescript/lib/lib.es2017.object.d.ts": [
         "/mnt/c/Users/Aaron/projects/DragonManager/server/node_modules/@types/node/util.d.ts",
         "/mnt/c/Users/Aaron/projects/DragonManager/server/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "/mnt/c/Users/Aaron/projects/DragonManager/server/node_modules/typescript/lib/lib.es2017.sharedmemory.d.ts": [
+      "/home/elements/.nvm/versions/node/v10.13.0/lib/node_modules/typescript/lib/lib.es2017.sharedmemory.d.ts": [
         "/mnt/c/Users/Aaron/projects/DragonManager/server/node_modules/@types/node/util.d.ts",
         "/mnt/c/Users/Aaron/projects/DragonManager/server/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "/mnt/c/Users/Aaron/projects/DragonManager/server/node_modules/typescript/lib/lib.es2017.string.d.ts": [
+      "/home/elements/.nvm/versions/node/v10.13.0/lib/node_modules/typescript/lib/lib.es2017.string.d.ts": [
         "/mnt/c/Users/Aaron/projects/DragonManager/server/node_modules/@types/node/util.d.ts",
         "/mnt/c/Users/Aaron/projects/DragonManager/server/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "/mnt/c/Users/Aaron/projects/DragonManager/server/node_modules/typescript/lib/lib.es2017.intl.d.ts": [
+      "/home/elements/.nvm/versions/node/v10.13.0/lib/node_modules/typescript/lib/lib.es2017.intl.d.ts": [
         "/mnt/c/Users/Aaron/projects/DragonManager/server/node_modules/@types/node/util.d.ts",
         "/mnt/c/Users/Aaron/projects/DragonManager/server/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "/mnt/c/Users/Aaron/projects/DragonManager/server/node_modules/typescript/lib/lib.es2017.typedarrays.d.ts": [
+      "/home/elements/.nvm/versions/node/v10.13.0/lib/node_modules/typescript/lib/lib.es2017.typedarrays.d.ts": [
         "/mnt/c/Users/Aaron/projects/DragonManager/server/node_modules/@types/node/util.d.ts",
         "/mnt/c/Users/Aaron/projects/DragonManager/server/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "/mnt/c/Users/Aaron/projects/DragonManager/server/node_modules/typescript/lib/lib.es2018.asynciterable.d.ts": [
+      "/home/elements/.nvm/versions/node/v10.13.0/lib/node_modules/typescript/lib/lib.es2018.asynciterable.d.ts": [
         "/mnt/c/Users/Aaron/projects/DragonManager/server/node_modules/@types/node/util.d.ts",
         "/mnt/c/Users/Aaron/projects/DragonManager/server/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "/mnt/c/Users/Aaron/projects/DragonManager/server/node_modules/typescript/lib/lib.es2018.intl.d.ts": [
+      "/home/elements/.nvm/versions/node/v10.13.0/lib/node_modules/typescript/lib/lib.es2018.intl.d.ts": [
         "/mnt/c/Users/Aaron/projects/DragonManager/server/node_modules/@types/node/util.d.ts",
         "/mnt/c/Users/Aaron/projects/DragonManager/server/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "/mnt/c/Users/Aaron/projects/DragonManager/server/node_modules/typescript/lib/lib.es2018.promise.d.ts": [
+      "/home/elements/.nvm/versions/node/v10.13.0/lib/node_modules/typescript/lib/lib.es2018.promise.d.ts": [
         "/mnt/c/Users/Aaron/projects/DragonManager/server/node_modules/@types/node/util.d.ts",
         "/mnt/c/Users/Aaron/projects/DragonManager/server/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "/mnt/c/Users/Aaron/projects/DragonManager/server/node_modules/typescript/lib/lib.es2018.regexp.d.ts": [
+      "/home/elements/.nvm/versions/node/v10.13.0/lib/node_modules/typescript/lib/lib.es2018.regexp.d.ts": [
         "/mnt/c/Users/Aaron/projects/DragonManager/server/node_modules/@types/node/util.d.ts",
         "/mnt/c/Users/Aaron/projects/DragonManager/server/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "/mnt/c/Users/Aaron/projects/DragonManager/server/node_modules/typescript/lib/lib.es2019.array.d.ts": [
+      "/home/elements/.nvm/versions/node/v10.13.0/lib/node_modules/typescript/lib/lib.es2019.array.d.ts": [
         "/mnt/c/Users/Aaron/projects/DragonManager/server/node_modules/@types/node/util.d.ts",
         "/mnt/c/Users/Aaron/projects/DragonManager/server/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "/mnt/c/Users/Aaron/projects/DragonManager/server/node_modules/typescript/lib/lib.es2019.object.d.ts": [
+      "/home/elements/.nvm/versions/node/v10.13.0/lib/node_modules/typescript/lib/lib.es2019.string.d.ts": [
         "/mnt/c/Users/Aaron/projects/DragonManager/server/node_modules/@types/node/util.d.ts",
         "/mnt/c/Users/Aaron/projects/DragonManager/server/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "/mnt/c/Users/Aaron/projects/DragonManager/server/node_modules/typescript/lib/lib.es2019.string.d.ts": [
+      "/home/elements/.nvm/versions/node/v10.13.0/lib/node_modules/typescript/lib/lib.es2019.symbol.d.ts": [
         "/mnt/c/Users/Aaron/projects/DragonManager/server/node_modules/@types/node/util.d.ts",
         "/mnt/c/Users/Aaron/projects/DragonManager/server/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "/mnt/c/Users/Aaron/projects/DragonManager/server/node_modules/typescript/lib/lib.es2019.symbol.d.ts": [
+      "/home/elements/.nvm/versions/node/v10.13.0/lib/node_modules/typescript/lib/lib.esnext.intl.d.ts": [
         "/mnt/c/Users/Aaron/projects/DragonManager/server/node_modules/@types/node/util.d.ts",
         "/mnt/c/Users/Aaron/projects/DragonManager/server/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "/mnt/c/Users/Aaron/projects/DragonManager/server/node_modules/typescript/lib/lib.esnext.intl.d.ts": [
+      "/home/elements/.nvm/versions/node/v10.13.0/lib/node_modules/typescript/lib/lib.esnext.bigint.d.ts": [
         "/mnt/c/Users/Aaron/projects/DragonManager/server/node_modules/@types/node/util.d.ts",
         "/mnt/c/Users/Aaron/projects/DragonManager/server/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "/mnt/c/Users/Aaron/projects/DragonManager/server/node_modules/typescript/lib/lib.esnext.bigint.d.ts": [
-        "/mnt/c/Users/Aaron/projects/DragonManager/server/node_modules/@types/node/util.d.ts",
-        "/mnt/c/Users/Aaron/projects/DragonManager/server/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/mnt/c/Users/Aaron/projects/DragonManager/server/node_modules/typescript/lib/lib.esnext.full.d.ts": [
+      "/home/elements/.nvm/versions/node/v10.13.0/lib/node_modules/typescript/lib/lib.esnext.full.d.ts": [
         "/mnt/c/Users/Aaron/projects/DragonManager/server/node_modules/@types/node/util.d.ts",
         "/mnt/c/Users/Aaron/projects/DragonManager/server/node_modules/@types/node/ts3.2/util.d.ts"
       ],
       "/mnt/c/Users/Aaron/projects/DragonManager/server/packages/services/src/service/Dragon.ts": [
-        "/mnt/c/Users/Aaron/projects/DragonManager/server/packages/services/src/Rarity.ts"
+        "/mnt/c/Users/Aaron/projects/DragonManager/server/node_modules/@types/mongoose/index.d.ts",
+        "/mnt/c/Users/Aaron/projects/DragonManager/server/packages/services/src/Rarity.ts",
+        "/mnt/c/Users/Aaron/projects/DragonManager/server/packages/services/src/db/index.ts"
       ],
       "/mnt/c/Users/Aaron/projects/DragonManager/server/packages/services/src/index.ts": [
         "/mnt/c/Users/Aaron/projects/DragonManager/server/packages/services/src/db/index.ts",
+        "/mnt/c/Users/Aaron/projects/DragonManager/server/packages/services/src/db/eggs.ts",
         "/mnt/c/Users/Aaron/projects/DragonManager/server/packages/services/src/service/Dragon.ts",
         "/mnt/c/Users/Aaron/projects/DragonManager/server/packages/services/src/service/Tier.ts",
         "/mnt/c/Users/Aaron/projects/DragonManager/server/packages/services/src/service/Egg.ts"
+      ],
+      "/mnt/c/Users/Aaron/projects/DragonManager/server/packages/services/src/global.d.ts": [
+        "/mnt/c/Users/Aaron/projects/DragonManager/server/packages/utils/src/pick.ts",
+        "/mnt/c/Users/Aaron/projects/DragonManager/server/node_modules/@types/node/util.d.ts",
+        "/mnt/c/Users/Aaron/projects/DragonManager/server/node_modules/@types/node/ts3.2/util.d.ts"
       ],
       "/mnt/c/Users/Aaron/projects/DragonManager/server/node_modules/@types/node/globals.d.ts": [
         "/mnt/c/Users/Aaron/projects/DragonManager/server/node_modules/@types/node/util.d.ts",
@@ -2846,6 +2866,9 @@
         "/mnt/c/Users/Aaron/projects/DragonManager/server/node_modules/@types/node/ts3.2/index.d.ts",
         "/mnt/c/Users/Aaron/projects/DragonManager/server/node_modules/@types/node/util.d.ts",
         "/mnt/c/Users/Aaron/projects/DragonManager/server/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/mnt/c/Users/Aaron/projects/DragonManager/server/packages/services/src/service/Egg.ts": [
+        "/mnt/c/Users/Aaron/projects/DragonManager/server/packages/services/src/db/eggs.ts"
       ],
       "/mnt/c/Users/Aaron/projects/DragonManager/server/packages/services/src/service.ts": [
         "/mnt/c/Users/Aaron/projects/DragonManager/server/node_modules/@types/mongoose/index.d.ts"
@@ -4086,44 +4109,45 @@
       ]
     },
     "semanticDiagnosticsPerFile": [
-      "/mnt/c/Users/Aaron/projects/DragonManager/server/node_modules/typescript/lib/lib.es5.d.ts",
-      "/mnt/c/Users/Aaron/projects/DragonManager/server/node_modules/typescript/lib/lib.es2015.d.ts",
-      "/mnt/c/Users/Aaron/projects/DragonManager/server/node_modules/typescript/lib/lib.es2016.d.ts",
-      "/mnt/c/Users/Aaron/projects/DragonManager/server/node_modules/typescript/lib/lib.es2017.d.ts",
-      "/mnt/c/Users/Aaron/projects/DragonManager/server/node_modules/typescript/lib/lib.es2018.d.ts",
-      "/mnt/c/Users/Aaron/projects/DragonManager/server/node_modules/typescript/lib/lib.es2019.d.ts",
-      "/mnt/c/Users/Aaron/projects/DragonManager/server/node_modules/typescript/lib/lib.esnext.d.ts",
-      "/mnt/c/Users/Aaron/projects/DragonManager/server/node_modules/typescript/lib/lib.dom.d.ts",
-      "/mnt/c/Users/Aaron/projects/DragonManager/server/node_modules/typescript/lib/lib.dom.iterable.d.ts",
-      "/mnt/c/Users/Aaron/projects/DragonManager/server/node_modules/typescript/lib/lib.webworker.importscripts.d.ts",
-      "/mnt/c/Users/Aaron/projects/DragonManager/server/node_modules/typescript/lib/lib.scripthost.d.ts",
-      "/mnt/c/Users/Aaron/projects/DragonManager/server/node_modules/typescript/lib/lib.es2015.core.d.ts",
-      "/mnt/c/Users/Aaron/projects/DragonManager/server/node_modules/typescript/lib/lib.es2015.collection.d.ts",
-      "/mnt/c/Users/Aaron/projects/DragonManager/server/node_modules/typescript/lib/lib.es2015.generator.d.ts",
-      "/mnt/c/Users/Aaron/projects/DragonManager/server/node_modules/typescript/lib/lib.es2015.iterable.d.ts",
-      "/mnt/c/Users/Aaron/projects/DragonManager/server/node_modules/typescript/lib/lib.es2015.promise.d.ts",
-      "/mnt/c/Users/Aaron/projects/DragonManager/server/node_modules/typescript/lib/lib.es2015.proxy.d.ts",
-      "/mnt/c/Users/Aaron/projects/DragonManager/server/node_modules/typescript/lib/lib.es2015.reflect.d.ts",
-      "/mnt/c/Users/Aaron/projects/DragonManager/server/node_modules/typescript/lib/lib.es2015.symbol.d.ts",
-      "/mnt/c/Users/Aaron/projects/DragonManager/server/node_modules/typescript/lib/lib.es2015.symbol.wellknown.d.ts",
-      "/mnt/c/Users/Aaron/projects/DragonManager/server/node_modules/typescript/lib/lib.es2016.array.include.d.ts",
-      "/mnt/c/Users/Aaron/projects/DragonManager/server/node_modules/typescript/lib/lib.es2017.object.d.ts",
-      "/mnt/c/Users/Aaron/projects/DragonManager/server/node_modules/typescript/lib/lib.es2017.sharedmemory.d.ts",
-      "/mnt/c/Users/Aaron/projects/DragonManager/server/node_modules/typescript/lib/lib.es2017.string.d.ts",
-      "/mnt/c/Users/Aaron/projects/DragonManager/server/node_modules/typescript/lib/lib.es2017.intl.d.ts",
-      "/mnt/c/Users/Aaron/projects/DragonManager/server/node_modules/typescript/lib/lib.es2017.typedarrays.d.ts",
-      "/mnt/c/Users/Aaron/projects/DragonManager/server/node_modules/typescript/lib/lib.es2018.asynciterable.d.ts",
-      "/mnt/c/Users/Aaron/projects/DragonManager/server/node_modules/typescript/lib/lib.es2018.intl.d.ts",
-      "/mnt/c/Users/Aaron/projects/DragonManager/server/node_modules/typescript/lib/lib.es2018.promise.d.ts",
-      "/mnt/c/Users/Aaron/projects/DragonManager/server/node_modules/typescript/lib/lib.es2018.regexp.d.ts",
-      "/mnt/c/Users/Aaron/projects/DragonManager/server/node_modules/typescript/lib/lib.es2019.array.d.ts",
-      "/mnt/c/Users/Aaron/projects/DragonManager/server/node_modules/typescript/lib/lib.es2019.object.d.ts",
-      "/mnt/c/Users/Aaron/projects/DragonManager/server/node_modules/typescript/lib/lib.es2019.string.d.ts",
-      "/mnt/c/Users/Aaron/projects/DragonManager/server/node_modules/typescript/lib/lib.es2019.symbol.d.ts",
-      "/mnt/c/Users/Aaron/projects/DragonManager/server/node_modules/typescript/lib/lib.esnext.intl.d.ts",
-      "/mnt/c/Users/Aaron/projects/DragonManager/server/node_modules/typescript/lib/lib.esnext.bigint.d.ts",
-      "/mnt/c/Users/Aaron/projects/DragonManager/server/node_modules/typescript/lib/lib.esnext.full.d.ts",
+      "/home/elements/.nvm/versions/node/v10.13.0/lib/node_modules/typescript/lib/lib.es5.d.ts",
+      "/home/elements/.nvm/versions/node/v10.13.0/lib/node_modules/typescript/lib/lib.es2015.d.ts",
+      "/home/elements/.nvm/versions/node/v10.13.0/lib/node_modules/typescript/lib/lib.es2016.d.ts",
+      "/home/elements/.nvm/versions/node/v10.13.0/lib/node_modules/typescript/lib/lib.es2017.d.ts",
+      "/home/elements/.nvm/versions/node/v10.13.0/lib/node_modules/typescript/lib/lib.es2018.d.ts",
+      "/home/elements/.nvm/versions/node/v10.13.0/lib/node_modules/typescript/lib/lib.es2019.d.ts",
+      "/home/elements/.nvm/versions/node/v10.13.0/lib/node_modules/typescript/lib/lib.esnext.d.ts",
+      "/home/elements/.nvm/versions/node/v10.13.0/lib/node_modules/typescript/lib/lib.dom.d.ts",
+      "/home/elements/.nvm/versions/node/v10.13.0/lib/node_modules/typescript/lib/lib.dom.iterable.d.ts",
+      "/home/elements/.nvm/versions/node/v10.13.0/lib/node_modules/typescript/lib/lib.webworker.importscripts.d.ts",
+      "/home/elements/.nvm/versions/node/v10.13.0/lib/node_modules/typescript/lib/lib.scripthost.d.ts",
+      "/home/elements/.nvm/versions/node/v10.13.0/lib/node_modules/typescript/lib/lib.es2015.core.d.ts",
+      "/home/elements/.nvm/versions/node/v10.13.0/lib/node_modules/typescript/lib/lib.es2015.collection.d.ts",
+      "/home/elements/.nvm/versions/node/v10.13.0/lib/node_modules/typescript/lib/lib.es2015.generator.d.ts",
+      "/home/elements/.nvm/versions/node/v10.13.0/lib/node_modules/typescript/lib/lib.es2015.iterable.d.ts",
+      "/home/elements/.nvm/versions/node/v10.13.0/lib/node_modules/typescript/lib/lib.es2015.promise.d.ts",
+      "/home/elements/.nvm/versions/node/v10.13.0/lib/node_modules/typescript/lib/lib.es2015.proxy.d.ts",
+      "/home/elements/.nvm/versions/node/v10.13.0/lib/node_modules/typescript/lib/lib.es2015.reflect.d.ts",
+      "/home/elements/.nvm/versions/node/v10.13.0/lib/node_modules/typescript/lib/lib.es2015.symbol.d.ts",
+      "/home/elements/.nvm/versions/node/v10.13.0/lib/node_modules/typescript/lib/lib.es2015.symbol.wellknown.d.ts",
+      "/home/elements/.nvm/versions/node/v10.13.0/lib/node_modules/typescript/lib/lib.es2016.array.include.d.ts",
+      "/home/elements/.nvm/versions/node/v10.13.0/lib/node_modules/typescript/lib/lib.es2017.object.d.ts",
+      "/home/elements/.nvm/versions/node/v10.13.0/lib/node_modules/typescript/lib/lib.es2017.sharedmemory.d.ts",
+      "/home/elements/.nvm/versions/node/v10.13.0/lib/node_modules/typescript/lib/lib.es2017.string.d.ts",
+      "/home/elements/.nvm/versions/node/v10.13.0/lib/node_modules/typescript/lib/lib.es2017.intl.d.ts",
+      "/home/elements/.nvm/versions/node/v10.13.0/lib/node_modules/typescript/lib/lib.es2017.typedarrays.d.ts",
+      "/home/elements/.nvm/versions/node/v10.13.0/lib/node_modules/typescript/lib/lib.es2018.asynciterable.d.ts",
+      "/home/elements/.nvm/versions/node/v10.13.0/lib/node_modules/typescript/lib/lib.es2018.intl.d.ts",
+      "/home/elements/.nvm/versions/node/v10.13.0/lib/node_modules/typescript/lib/lib.es2018.promise.d.ts",
+      "/home/elements/.nvm/versions/node/v10.13.0/lib/node_modules/typescript/lib/lib.es2018.regexp.d.ts",
+      "/home/elements/.nvm/versions/node/v10.13.0/lib/node_modules/typescript/lib/lib.es2019.array.d.ts",
+      "/home/elements/.nvm/versions/node/v10.13.0/lib/node_modules/typescript/lib/lib.es2019.string.d.ts",
+      "/home/elements/.nvm/versions/node/v10.13.0/lib/node_modules/typescript/lib/lib.es2019.symbol.d.ts",
+      "/home/elements/.nvm/versions/node/v10.13.0/lib/node_modules/typescript/lib/lib.esnext.intl.d.ts",
+      "/home/elements/.nvm/versions/node/v10.13.0/lib/node_modules/typescript/lib/lib.esnext.bigint.d.ts",
+      "/home/elements/.nvm/versions/node/v10.13.0/lib/node_modules/typescript/lib/lib.esnext.full.d.ts",
       "/mnt/c/Users/Aaron/projects/DragonManager/server/packages/services/src/Rarity.ts",
+      "/mnt/c/Users/Aaron/projects/DragonManager/server/packages/utils/src/pick.ts",
+      "/mnt/c/Users/Aaron/projects/DragonManager/server/packages/services/src/global.d.ts",
       "/mnt/c/Users/Aaron/projects/DragonManager/server/node_modules/@types/node/globals.d.ts",
       "/mnt/c/Users/Aaron/projects/DragonManager/server/node_modules/@types/node/assert.d.ts",
       "/mnt/c/Users/Aaron/projects/DragonManager/server/node_modules/@types/node/async_hooks.d.ts",
@@ -4224,6 +4248,7 @@
       "/mnt/c/Users/Aaron/projects/DragonManager/server/packages/services/src/db/mongo/oid.ts",
       "/mnt/c/Users/Aaron/projects/DragonManager/server/packages/services/src/db/types/IMongoCollection.ts",
       "/mnt/c/Users/Aaron/projects/DragonManager/server/packages/services/src/db/types/Optional.ts",
+      "/mnt/c/Users/Aaron/projects/DragonManager/server/packages/services/src/service/pipeline.ts",
       "/mnt/c/Users/Aaron/projects/DragonManager/server/node_modules/@types/accepts/index.d.ts",
       "/mnt/c/Users/Aaron/projects/DragonManager/server/node_modules/@types/connect/index.d.ts",
       "/mnt/c/Users/Aaron/projects/DragonManager/server/node_modules/@types/body-parser/index.d.ts",
@@ -4327,5 +4352,5 @@
       "/mnt/c/Users/Aaron/projects/DragonManager/server/node_modules/@types/ws/index.d.ts"
     ]
   },
-  "version": "3.5.1"
+  "version": "3.4.1"
 }

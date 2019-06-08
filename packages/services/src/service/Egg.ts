@@ -1,4 +1,4 @@
-import { Aggregate } from "mongoose"
+import { Model } from "mongoose"
 import { service } from "../service"
 import { Eggs } from "./../db/eggs"
 import { Dragons, IDragon } from "../db/dragon"
@@ -18,7 +18,10 @@ export interface Result extends Omit<Identifier, "name"> {
     secondDragonIdentifier: Identifier
   }
 }
-
+interface DragonIdentifier {
+  first: string
+  second: string
+}
 @service(() => ({
   Eggs,
   Dragons
@@ -28,48 +31,41 @@ export class EggService {
     Eggs: typeof Eggs
   }
 
-  private static createMatch({
+
+  // private static createMatch({
+  //   first: firstDragonIdentifier,
+  //   second: secondDragonIdentifier,
+  //   eggs
+  // }: DragonIdentifier & {
+  //   eggs: Aggregate<any[]>
+  // }) {
+  //   const $and = [
+  //     { firstDragonIdentifier },
+  //     {
+  //       secondDragonIdentifier
+  //     }
+  //   ]
+  //   return eggs.match({
+  //     $and
+  //   })
+  // }
+
+  private static find = <T extends Model<any, any>, DB extends { Eggs: T }>({
     first: firstDragonIdentifier,
     second: secondDragonIdentifier,
-    eggs
-  }: {
-    first: string
-    second: string
-    eggs: Aggregate<any[]>
-  }) {
-    const $and = [
-      { firstDragonIdentifier },
-      {
+    db: { Eggs: db }
+  }: DragonIdentifier & { db: DB | { Eggs: T } }): ReturnType<
+    ReturnType<DB["Eggs"]["find"]>["exec"]
+  > =>
+    db
+      .find({
+        firstDragonIdentifier,
         secondDragonIdentifier
-      }
-    ]
-    return eggs.match({
-      $and
-    })
-  }
+      })
+      .exec()
 
-  public async findChildren(parents: { first: string; second: string }) {
-    const [{ pipeline }, { db }] = [await import("./pipeline"), this]
-    const match = EggService.createMatch({
-      ...parents,
-      ...this.db,
-      eggs: db.Eggs.aggregate()
-    })
-
-    try {
-      const results = await match
-        .lookup(pipeline.$lookup)
-        .unwind(pipeline.$unwind)
-        .replaceRoot(pipeline.$replaceRoot.newRoot)
-        .exec()
-      return results
-    } catch (e) {
-      return {
-        status: "REJECTED",
-        reason: e.message
-      }
-    }
-  }
+  public findChildren = (parents: { first: string; second: string }) =>
+    EggService.find({ ...parents, db: this.db })
 
   public async findParents(opts: { child: string }) {
     const { db } = this

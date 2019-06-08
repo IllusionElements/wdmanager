@@ -1,0 +1,9 @@
+{
+  "extends": "../../tsconfig.build.json",
+  "compilerOptions": {
+    "outDir": "./dist",
+    "emitDecoratorMetadata": false,
+    "experimentalDecorators": false
+  },
+  "include": ["src/**/*"]
+}

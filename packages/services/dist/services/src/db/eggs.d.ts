@@ -4,14 +4,7 @@ declare const eggSchema: {
     identifier: NumberConstructor;
     firstDragonIdentifier: StringConstructor;
     secondDragonIdentifier: StringConstructor;
-    possibleRawEggDistribution: {
-        type: StringConstructor;
-        probability: NumberConstructor;
-    }[];
-    goldPossibleRawEggDistribution: {
-        type: StringConstructor;
-        probability: NumberConstructor;
-    }[];
+    deck: StringConstructor;
     eggNumber: NumberConstructor;
 };
 export interface IEggs extends TypeOfSchema<typeof eggSchema>, Document {

@@ -16,6 +16,11 @@ let DragonService = DragonService_1 = class DragonService {
         this.rarity = DragonService_1.rarity;
         console.log(this.db);
     }
+    findDragon({ identifier }) {
+        return this.db.Dragons.findOne({
+            identifier
+        });
+    }
 };
 DragonService.rarity = new Map(Rarities);
 DragonService = DragonService_1 = __decorate([
