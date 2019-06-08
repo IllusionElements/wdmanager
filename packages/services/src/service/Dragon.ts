@@ -1,5 +1,5 @@
 import { service } from "../service"
-import { Dragons, Tiers } from "../db"
+import { Dragons, Tiers, IDragon } from "../db"
 import { Rarity, Rarities } from "../Rarity"
 
 @service(() => ({
@@ -15,6 +15,12 @@ class DragonService {
   public static rarity: Map<number, Rarity> = new Map(Rarities)
   constructor() {
     console.log(this.db)
+  }
+
+  public findDragon({ identifier }: Pick<IDragon, "identifier">) {
+    return this.db.Dragons.findOne({
+      identifier
+    })
   }
 }
 

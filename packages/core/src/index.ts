@@ -1,7 +1,6 @@
 import { ApolloServer } from "apollo-server"
 import dotenv from "dotenv"
-import { Query, Dragon } from "./gql/resolvers"
-import * as Tier from "./gql/resolvers/Tier"
+import { Breeding, Dragon, Tier, Deck, Query } from "./gql/resolvers"
 import typeDefs from "./schema"
 declare global {
   type ArgumentType<T extends (...args: any[]) => any> = T extends (
@@ -21,8 +20,10 @@ export const server = new ApolloServer({
     return { ...ctx, secrets }
   },
   resolvers: {
-    Query,
+    Breeding: () => Breeding,
     Dragon,
-    Tier
+    Tier,
+    Deck,
+    Query
   }
 })

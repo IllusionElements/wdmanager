@@ -17,7 +17,7 @@
     "dev": "yarn nodemon --inspect -r esm ./packages/core/dist",
     "buildAll": "yarn workspaces run build",
     "push": "git push",
-    "commit": "git commit -m"
+    "commit": "git add . && git commit -m"
   },
   "dependencies": {
     "dotenv": "^8.0.0",
