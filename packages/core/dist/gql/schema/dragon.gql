@@ -46,6 +46,8 @@ type Dragon {
   element: String
   displayDescription: String
   defaultIconFilename: String
+  defaultIconFileName: String
+  dragonClass: String
   minRange: Int
   attackStartVal: Int
   isAttainable: Boolean

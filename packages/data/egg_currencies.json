@@ -1,0 +1,16 @@
+[
+{ "_id" : { "$oid" : "5cf37a6065c53033a8583bda" }, "tier" : 1, "currency" : "redEggCurrency" },
+{ "_id" : { "$oid" : "5cf37a6065c53033a8583bdd" }, "tier" : 2, "currency" : "purpleEggCurrency" },
+{ "_id" : { "$oid" : "5cf37a6065c53033a8583bdf" }, "tier" : 3, "currency" : "blueEggCurrency" },
+{ "_id" : { "$oid" : "5cf37a6065c53033a8583be1" }, "tier" : 4, "currency" : "orangeEggCurrency" },
+{ "_id" : { "$oid" : "5cf37a6065c53033a8583be4" }, "tier" : 5, "currency" : "greenEggCurrency" },
+{ "_id" : { "$oid" : "5cf37a6065c53033a8583be6" }, "tier" : 6, "currency" : "goldEggCurrency" },
+{ "_id" : { "$oid" : "5cf37a6065c53033a8583be9" }, "tier" : 7, "currency" : "platinumEggCurrency" },
+{ "_id" : { "$oid" : "5cf37a6065c53033a8583beb" }, "tier" : 8, "currency" : "sapphireEggCurrency" },
+{ "_id" : { "$oid" : "5cf37a6065c53033a8583bed" }, "tier" : 9, "currency" : "garnetEggCurrency" },
+{ "_id" : { "$oid" : "5cf37a6065c53033a8583bf0" }, "tier" : 10, "currency" : "emeraldEggCurrency" },
+{ "_id" : { "$oid" : "5cf37a6065c53033a8583bf2" }, "tier" : 11, "currency" : "obsidianEggCurrency" },
+{ "_id" : { "$oid" : "5cf37a6065c53033a8583bf3" }, "tier" : 12, "currency" : "atlasEggCurrency" },
+{ "_id" : { "$oid" : "5cf37a6065c53033a8583bf4" }, "tier" : 13, "currency" : "vanguardEggCurrency" },
+{ "_id" : { "$oid" : "5cf37a6065c53033a8583bf5" }, "tier" : 14, "currency" : "empyreanEggCurrency" }
+]

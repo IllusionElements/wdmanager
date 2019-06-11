@@ -1,0 +1,2252 @@
+[
+  {
+    "identifier": "T13C4SIdragon",
+    "level": 1,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "0"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 22898342,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T13C4SIdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "umbralSpike": "tidalSurge1",
+      "dreadfulRoar": "flashFreeze1",
+      "invincibleSpell": "magicBarrier1",
+      "elementalResist01": "elementalResist01"
+    },
+    "attackPower": 1127829,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3136"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 63,
+    "upgradeXP": 8689360,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 138846614
+  },
+  {
+    "identifier": "T13C4SIdragon",
+    "level": 2,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "811800"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 23470796,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T13C4SIdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "umbralSpike": "tidalSurge1",
+      "dreadfulRoar": "flashFreeze1",
+      "invincibleSpell": "magicBarrier1",
+      "elementalResist01": "elementalResist01"
+    },
+    "attackPower": 1156025,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3157"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 63,
+    "upgradeXP": 8906593,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 142660489
+  },
+  {
+    "identifier": "T13C4SIdragon",
+    "level": 3,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "817200"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 24057557,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T13C4SIdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "umbralSpike": "tidalSurge1",
+      "dreadfulRoar": "flashFreeze1",
+      "invincibleSpell": "magicBarrier1",
+      "elementalResist01": "elementalResist01"
+    },
+    "attackPower": 1184926,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3178"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 64,
+    "upgradeXP": 10371994,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 146507982
+  },
+  {
+    "identifier": "T13C4SIdragon",
+    "level": 4,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "822600"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 24658980,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T13C4SIdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "umbralSpike": "tidalSurge1",
+      "dreadfulRoar": "flashFreeze1",
+      "invincibleSpell": "magicBarrier1",
+      "elementalResist01": "elementalResist01"
+    },
+    "attackPower": 1214549,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3199"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 64,
+    "upgradeXP": 12234252,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 150389094
+  },
+  {
+    "identifier": "T13C4SIdragon",
+    "level": 5,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "828000"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 25275441,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T13C4SIdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "umbralSpike": "tidalSurge1",
+      "dreadfulRoar": "flashFreeze1",
+      "invincibleSpell": "magicBarrier1",
+      "elementalResist01": "elementalResist01"
+    },
+    "attackPower": 1244912,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3220"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 65,
+    "upgradeXP": 14095391,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 154303825
+  },
+  {
+    "identifier": "T13C4SIdragon",
+    "level": 6,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "833400"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 25907322,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T13C4SIdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "umbralSpike": "tidalSurge1",
+      "dreadfulRoar": "flashFreeze1",
+      "invincibleSpell": "magicBarrier1",
+      "elementalResist01": "elementalResist01"
+    },
+    "attackPower": 1276035,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3241"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 65,
+    "upgradeXP": 15970845,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 158252175
+  },
+  {
+    "identifier": "T13C4SIdragon",
+    "level": 7,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "838800"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 26555003,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T13C4SIdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "umbralSpike": "tidalSurge1",
+      "dreadfulRoar": "flashFreeze1",
+      "invincibleSpell": "magicBarrier1",
+      "elementalResist01": "elementalResist01"
+    },
+    "attackPower": 1307935,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3262"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 66,
+    "upgradeXP": 16370116,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 162234143
+  },
+  {
+    "identifier": "T13C4SIdragon",
+    "level": 8,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "844200"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 27218875,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T13C4SIdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "umbralSpike": "tidalSurge1",
+      "dreadfulRoar": "flashFreeze1",
+      "invincibleSpell": "magicBarrier1",
+      "elementalResist01": "elementalResist01"
+    },
+    "attackPower": 1340634,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3283"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 66,
+    "upgradeXP": 16779366,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 166249731
+  },
+  {
+    "identifier": "T13C4SIdragon",
+    "level": 9,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "849600"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 27899342,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T13C4SIdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "umbralSpike": "tidalSurge1",
+      "dreadfulRoar": "flashFreeze1",
+      "invincibleSpell": "magicBarrier1",
+      "elementalResist01": "elementalResist01"
+    },
+    "attackPower": 1374149,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3304"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 67,
+    "upgradeXP": 17198847,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 170298937
+  },
+  {
+    "identifier": "T13C4SIdragon",
+    "level": 10,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "855000"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 28596816,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T13C4SIdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "umbralSpike": "tidalSurge1",
+      "dreadfulRoar": "flashFreeze1",
+      "invincibleSpell": "magicBarrier1",
+      "elementalResist01": "elementalResist01"
+    },
+    "attackPower": 1408503,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3325"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 67,
+    "upgradeXP": 17628817,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 174381762
+  },
+  {
+    "identifier": "T13C4SIdragon",
+    "level": 11,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "860400"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 29311725,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T13C4SIdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "umbralSpike": "tidalSurge1",
+      "dreadfulRoar": "flashFreeze1",
+      "invincibleSpell": "magicBarrier1",
+      "elementalResist01": "elementalResist01"
+    },
+    "attackPower": 1443715,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3346"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 68,
+    "upgradeXP": 18069537,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 178498206
+  },
+  {
+    "identifier": "T13C4SIdragon",
+    "level": 12,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "865800"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 30044505,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T13C4SIdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "umbralSpike": "tidalSurge1",
+      "dreadfulRoar": "flashFreeze1",
+      "invincibleSpell": "magicBarrier1",
+      "elementalResist01": "elementalResist01"
+    },
+    "attackPower": 1479808,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3367"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 68,
+    "upgradeXP": 18521272,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 182648268
+  },
+  {
+    "identifier": "T13C4SIdragon",
+    "level": 13,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "871200"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 30795598,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T13C4SIdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "umbralSpike": "tidalSurge1",
+      "dreadfulRoar": "flashFreeze1",
+      "invincibleSpell": "magicBarrier1",
+      "elementalResist01": "elementalResist01"
+    },
+    "attackPower": 1516803,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3388"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 69,
+    "upgradeXP": 18984303,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 186831950
+  },
+  {
+    "identifier": "T13C4SIdragon",
+    "level": 14,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "876600"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 31565471,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T13C4SIdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "umbralSpike": "tidalSurge1",
+      "dreadfulRoar": "flashFreeze1",
+      "invincibleSpell": "magicBarrier1",
+      "elementalResist01": "elementalResist01"
+    },
+    "attackPower": 1554723,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3409"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 69,
+    "upgradeXP": 19458908,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 191049250
+  },
+  {
+    "identifier": "T13C4SIdragon",
+    "level": 15,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "882000"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 32354594,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T13C4SIdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "umbralSpike": "tidalSurge1",
+      "dreadfulRoar": "flashFreeze1",
+      "invincibleSpell": "magicBarrier1",
+      "elementalResist01": "elementalResist01"
+    },
+    "attackPower": 1593591,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3430"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 70,
+    "upgradeXP": 19945378,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 195300169
+  },
+  {
+    "identifier": "T13C4SIdragon",
+    "level": 16,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "887400"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 33163446,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T13C4SIdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "umbralSpike": "tidalSurge1",
+      "dreadfulRoar": "flashFreeze1",
+      "invincibleSpell": "magicBarrier1",
+      "elementalResist01": "elementalResist01"
+    },
+    "attackPower": 1633431,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3451"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 70,
+    "upgradeXP": 20444013,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 199584707
+  },
+  {
+    "identifier": "T13C4SIdragon",
+    "level": 17,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "892800"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 33992524,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T13C4SIdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "umbralSpike": "tidalSurge1",
+      "dreadfulRoar": "flashFreeze1",
+      "invincibleSpell": "magicBarrier1",
+      "elementalResist01": "elementalResist01"
+    },
+    "attackPower": 1674266,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3472"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 71,
+    "upgradeXP": 20955111,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 203902864
+  },
+  {
+    "identifier": "T13C4SIdragon",
+    "level": 18,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "898200"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 34842326,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T13C4SIdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "umbralSpike": "tidalSurge1",
+      "dreadfulRoar": "flashFreeze1",
+      "invincibleSpell": "magicBarrier1",
+      "elementalResist01": "elementalResist01"
+    },
+    "attackPower": 1716123,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3493"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 71,
+    "upgradeXP": 28528419,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 208254640
+  },
+  {
+    "identifier": "T13C4SIdragon",
+    "level": 19,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1200163"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 35713369,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T13C4SIdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "umbralSpike": "tidalSurge1",
+      "dreadfulRoar": "flashFreeze1",
+      "invincibleSpell": "magicBarrier1",
+      "elementalResist01": "elementalResist01"
+    },
+    "attackPower": 1759026,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3514"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 72,
+    "upgradeXP": 29241625,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 212640034
+  },
+  {
+    "identifier": "T13C4SIdragon",
+    "level": 20,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1207335"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 36606192,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T13C4SIdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "umbralSpike": "tidalSurge1",
+      "dreadfulRoar": "flashFreeze1",
+      "invincibleSpell": "magicBarrier1",
+      "elementalResist01": "elementalResist01"
+    },
+    "attackPower": 1803001,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3535"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 72,
+    "upgradeXP": 29972662,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 217059048
+  },
+  {
+    "identifier": "T13C4SIdragon",
+    "level": 21,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1214508"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 37521341,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T13C4SIdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "umbralSpike": "tidalSurge1",
+      "dreadfulRoar": "flashFreeze1",
+      "invincibleSpell": "magicBarrier1",
+      "elementalResist01": "elementalResist01"
+    },
+    "attackPower": 1848076,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3556"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 73,
+    "upgradeXP": 30721978,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 221511680
+  },
+  {
+    "identifier": "T13C4SIdragon",
+    "level": 22,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1221680"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 38459364,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T13C4SIdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "umbralSpike": "tidalSurge1",
+      "dreadfulRoar": "flashFreeze1",
+      "invincibleSpell": "magicBarrier1",
+      "elementalResist01": "elementalResist01"
+    },
+    "attackPower": 1894278,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3577"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 73,
+    "upgradeXP": 38515022,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 225997931
+  },
+  {
+    "identifier": "T13C4SIdragon",
+    "level": 23,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1502992"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 39420835,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T13C4SIdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "umbralSpike": "tidalSurge1",
+      "dreadfulRoar": "flashFreeze1",
+      "invincibleSpell": "magicBarrier1",
+      "elementalResist01": "elementalResist01"
+    },
+    "attackPower": 1941634,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3598"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 74,
+    "upgradeXP": 39477895,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 230517801
+  },
+  {
+    "identifier": "T13C4SIdragon",
+    "level": 24,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1511765"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 40406347,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T13C4SIdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "umbralSpike": "tidalSurge1",
+      "dreadfulRoar": "flashFreeze1",
+      "invincibleSpell": "magicBarrier1",
+      "elementalResist01": "elementalResist01"
+    },
+    "attackPower": 1990175,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3619"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 74,
+    "upgradeXP": 40464840,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 235071290
+  },
+  {
+    "identifier": "T13C4SIdragon",
+    "level": 25,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1520537"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 41416496,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T13C4SIdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "umbralSpike": "tidalSurge1",
+      "dreadfulRoar": "flashFreeze1",
+      "invincibleSpell": "magicBarrier1",
+      "elementalResist01": "elementalResist01"
+    },
+    "attackPower": 2039929,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3640"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 75,
+    "upgradeXP": 41476456,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 239658397
+  },
+  {
+    "identifier": "T13C4SIdragon",
+    "level": 26,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1529309"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 42451898,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T13C4SIdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "umbralSpike": "tidalSurge1",
+      "dreadfulRoar": "flashFreeze1",
+      "invincibleSpell": "magicBarrier1",
+      "elementalResist01": "elementalResist01"
+    },
+    "attackPower": 2090927,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3661"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 76,
+    "upgradeXP": 49700698,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 244279123
+  },
+  {
+    "identifier": "T13C4SIdragon",
+    "level": 27,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1798110"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 43513181,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T13C4SIdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "umbralSpike": "tidalSurge1",
+      "dreadfulRoar": "flashFreeze1",
+      "invincibleSpell": "magicBarrier1",
+      "elementalResist01": "elementalResist01"
+    },
+    "attackPower": 2143201,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3682"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 77,
+    "upgradeXP": 50943209,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 248933469
+  },
+  {
+    "identifier": "T13C4SIdragon",
+    "level": 28,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1808366"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 44600989,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T13C4SIdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "umbralSpike": "tidalSurge1",
+      "dreadfulRoar": "flashFreeze1",
+      "invincibleSpell": "magicBarrier1",
+      "elementalResist01": "elementalResist01"
+    },
+    "attackPower": 2196780,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3703"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 78,
+    "upgradeXP": 52216785,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 253621433
+  },
+  {
+    "identifier": "T13C4SIdragon",
+    "level": 29,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1818621"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 45715995,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T13C4SIdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "umbralSpike": "tidalSurge1",
+      "dreadfulRoar": "flashFreeze1",
+      "invincibleSpell": "magicBarrier1",
+      "elementalResist01": "elementalResist01"
+    },
+    "attackPower": 2251700,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3724"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 79,
+    "upgradeXP": 53522204,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 258343015
+  },
+  {
+    "identifier": "T13C4SIdragon",
+    "level": 30,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1828877"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 46858881,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T13C4SIdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "umbralSpike": "tidalSurge1",
+      "dreadfulRoar": "flashFreeze1",
+      "invincibleSpell": "magicBarrier1",
+      "elementalResist01": "elementalResist01"
+    },
+    "attackPower": 2307992,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3745"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 80,
+    "upgradeXP": 54860256,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 263098217
+  },
+  {
+    "identifier": "T13C4SIdragon",
+    "level": 31,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1839132"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 48030338,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T13C4SIdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "umbralSpike": "tidalSurge1",
+      "dreadfulRoar": "flashFreeze1",
+      "invincibleSpell": "magicBarrier1",
+      "elementalResist01": "elementalResist01"
+    },
+    "attackPower": 2365691,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3766"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 80,
+    "upgradeXP": 56231757,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 267887038
+  },
+  {
+    "identifier": "T13C4SIdragon",
+    "level": 32,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1849387"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 49231080,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T13C4SIdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "umbralSpike": "tidalSurge1",
+      "dreadfulRoar": "flashFreeze1",
+      "invincibleSpell": "magicBarrier1",
+      "elementalResist01": "elementalResist01"
+    },
+    "attackPower": 2424834,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3787"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 81,
+    "upgradeXP": 57637548,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 272709477
+  },
+  {
+    "identifier": "T13C4SIdragon",
+    "level": 33,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1859643"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 50461837,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T13C4SIdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "umbralSpike": "tidalSurge1",
+      "dreadfulRoar": "flashFreeze1",
+      "invincibleSpell": "magicBarrier1",
+      "elementalResist01": "elementalResist01"
+    },
+    "attackPower": 2485454,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3808"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 81,
+    "upgradeXP": 59078484,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 277565535
+  },
+  {
+    "identifier": "T13C4SIdragon",
+    "level": 34,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1869898"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 51723368,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T13C4SIdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "umbralSpike": "tidalSurge1",
+      "dreadfulRoar": "flashFreeze1",
+      "invincibleSpell": "magicBarrier1",
+      "elementalResist01": "elementalResist01"
+    },
+    "attackPower": 2547590,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3829"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 82,
+    "upgradeXP": 60555442,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 282455212
+  },
+  {
+    "identifier": "T13C4SIdragon",
+    "level": 35,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1880154"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 53016441,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T13C4SIdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "umbralSpike": "tidalSurge1",
+      "dreadfulRoar": "flashFreeze1",
+      "invincibleSpell": "magicBarrier1",
+      "elementalResist01": "elementalResist01"
+    },
+    "attackPower": 2611280,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3850"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 82,
+    "upgradeXP": 62069323,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 287378508
+  },
+  {
+    "identifier": "T13C4SIdragon",
+    "level": 36,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1890409"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 54341841,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T13C4SIdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "umbralSpike": "tidalSurge1",
+      "dreadfulRoar": "flashFreeze1",
+      "invincibleSpell": "magicBarrier1",
+      "elementalResist01": "elementalResist01"
+    },
+    "attackPower": 2676562,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3871"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 83,
+    "upgradeXP": 63621055,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 292335423
+  },
+  {
+    "identifier": "T13C4SIdragon",
+    "level": 37,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1900664"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 55700378,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T13C4SIdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "umbralSpike": "tidalSurge1",
+      "dreadfulRoar": "flashFreeze1",
+      "invincibleSpell": "magicBarrier1",
+      "elementalResist01": "elementalResist01"
+    },
+    "attackPower": 2743476,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3892"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 83,
+    "upgradeXP": 65211579,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 297325956
+  },
+  {
+    "identifier": "T13C4SIdragon",
+    "level": 38,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1910920"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 57092880,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T13C4SIdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "umbralSpike": "tidalSurge1",
+      "dreadfulRoar": "flashFreeze1",
+      "invincibleSpell": "magicBarrier1",
+      "elementalResist01": "elementalResist01"
+    },
+    "attackPower": 2812062,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3913"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 84,
+    "upgradeXP": 66841864,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 302350108
+  },
+  {
+    "identifier": "T13C4SIdragon",
+    "level": 39,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1921175"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 58520197,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T13C4SIdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "umbralSpike": "tidalSurge1",
+      "dreadfulRoar": "flashFreeze1",
+      "invincibleSpell": "magicBarrier1",
+      "elementalResist01": "elementalResist01"
+    },
+    "attackPower": 2882364,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3934"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 84,
+    "upgradeXP": 68512904,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 307407880
+  },
+  {
+    "identifier": "T13C4SIdragon",
+    "level": 40,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1931430"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 59983197,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T13C4SIdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "umbralSpike": "tidalSurge1",
+      "dreadfulRoar": "flashFreeze1",
+      "invincibleSpell": "magicBarrier1",
+      "elementalResist01": "elementalResist01"
+    },
+    "attackPower": 2954423,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3955"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 85,
+    "upgradeXP": 70225721,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 312499270
+  },
+  {
+    "identifier": "T13C4SIdragon",
+    "level": 41,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1941686"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 61482767,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T13C4SIdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "umbralSpike": "tidalSurge1",
+      "dreadfulRoar": "flashFreeze1",
+      "invincibleSpell": "magicBarrier1",
+      "elementalResist01": "elementalResist01"
+    },
+    "attackPower": 3028283,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3976"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 85,
+    "upgradeXP": 71981359,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 317624278
+  },
+  {
+    "identifier": "T13C4SIdragon",
+    "level": 42,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1951941"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 63019821,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T13C4SIdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "umbralSpike": "tidalSurge1",
+      "dreadfulRoar": "flashFreeze1",
+      "invincibleSpell": "magicBarrier1",
+      "elementalResist01": "elementalResist01"
+    },
+    "attackPower": 3103990,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3997"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 86,
+    "upgradeXP": 73780891,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 322782906
+  },
+  {
+    "identifier": "T13C4SIdragon",
+    "level": 43,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1962197"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 64595302,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T13C4SIdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "umbralSpike": "tidalSurge1",
+      "dreadfulRoar": "flashFreeze1",
+      "invincibleSpell": "magicBarrier1",
+      "elementalResist01": "elementalResist01"
+    },
+    "attackPower": 3181590,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "4018"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 86,
+    "upgradeXP": 75625412,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 327975153
+  },
+  {
+    "identifier": "T13C4SIdragon",
+    "level": 44,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1972452"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 66210176,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T13C4SIdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "umbralSpike": "tidalSurge1",
+      "dreadfulRoar": "flashFreeze1",
+      "invincibleSpell": "magicBarrier1",
+      "elementalResist01": "elementalResist01"
+    },
+    "attackPower": 3261129,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "4039"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 87,
+    "upgradeXP": 77516043,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 333201018
+  },
+  {
+    "identifier": "T13C4SIdragon",
+    "level": 45,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1982707"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 67865424,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T13C4SIdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "umbralSpike": "tidalSurge1",
+      "dreadfulRoar": "flashFreeze1",
+      "invincibleSpell": "magicBarrier1",
+      "elementalResist01": "elementalResist01"
+    },
+    "attackPower": 3342657,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "4060"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 87,
+    "upgradeXP": 79453940,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 338460502
+  },
+  {
+    "identifier": "T13C4SIdragon",
+    "level": 46,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1992963"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 69562049,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T13C4SIdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "umbralSpike": "tidalSurge1",
+      "dreadfulRoar": "flashFreeze1",
+      "invincibleSpell": "magicBarrier1",
+      "elementalResist01": "elementalResist01"
+    },
+    "attackPower": 3426223,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "4081"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 88,
+    "upgradeXP": 81440284,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 343753605
+  },
+  {
+    "identifier": "T13C4SIdragon",
+    "level": 47,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "2003218"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 71301086,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T13C4SIdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "umbralSpike": "tidalSurge1",
+      "dreadfulRoar": "flashFreeze1",
+      "invincibleSpell": "magicBarrier1",
+      "elementalResist01": "elementalResist01"
+    },
+    "attackPower": 3511879,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "4102"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 88,
+    "upgradeXP": 83476287,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 349080327
+  },
+  {
+    "identifier": "T13C4SIdragon",
+    "level": 48,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "2013473"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 73083598,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T13C4SIdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "umbralSpike": "tidalSurge1",
+      "dreadfulRoar": "flashFreeze1",
+      "invincibleSpell": "magicBarrier1",
+      "elementalResist01": "elementalResist01"
+    },
+    "attackPower": 3599676,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "4123"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 89,
+    "upgradeXP": 85563191,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 354440667
+  },
+  {
+    "identifier": "T13C4SIdragon",
+    "level": 49,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "2023729"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 74910678,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T13C4SIdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "umbralSpike": "tidalSurge1",
+      "dreadfulRoar": "flashFreeze1",
+      "invincibleSpell": "magicBarrier1",
+      "elementalResist01": "elementalResist01"
+    },
+    "attackPower": 3689667,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "4144"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 89,
+    "upgradeXP": 87702269,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 359834627
+  },
+  {
+    "identifier": "T13C4SIdragon",
+    "level": 50,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "2033984"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 76783434,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T13C4SIdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "umbralSpike": "tidalSurge1",
+      "dreadfulRoar": "flashFreeze1",
+      "invincibleSpell": "magicBarrier1",
+      "elementalResist01": "elementalResist01"
+    },
+    "attackPower": 3781909,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "4165"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 90,
+    "upgradeXP": 0,
+    "xpRewardMultiplier": 1.2,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 365262205
+  }
+]

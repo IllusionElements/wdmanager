@@ -1,0 +1,1775 @@
+[
+  {
+    "identifier": "T12C3WFdragon",
+    "level": 1,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "0"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 17388928,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T12C3WFdragon_flamethrower"
+      }
+    ],
+    "abilities": {},
+    "attackPower": 157667,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2328"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 48,
+    "upgradeXP": 5514991,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 58068192
+  },
+  {
+    "identifier": "T12C3WFdragon",
+    "level": 2,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "619344"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 17823636,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T12C3WFdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "bloodFury": "bloodFury1"
+    },
+    "attackPower": 161609,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2346"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 48,
+    "upgradeXP": 5652866,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 61007811
+  },
+  {
+    "identifier": "T12C3WFdragon",
+    "level": 3,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "624096"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 18269212,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T12C3WFdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "bloodFury": "bloodFury1"
+    },
+    "attackPower": 165649,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2364"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 49,
+    "upgradeXP": 6582933,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 64096321
+  },
+  {
+    "identifier": "T12C3WFdragon",
+    "level": 4,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "628848"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 18725935,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T12C3WFdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "bloodFury": "bloodFury1"
+    },
+    "attackPower": 169790,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2382"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 49,
+    "upgradeXP": 7764876,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 67341184
+  },
+  {
+    "identifier": "T12C3WFdragon",
+    "level": 5,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "633600"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 19194070,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T12C3WFdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "bloodFury": "bloodFury1",
+      "heatBlastShield": "heatBlastShield1"
+    },
+    "attackPower": 174035,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2400"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 50,
+    "upgradeXP": 8946110,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 70750207
+  },
+  {
+    "identifier": "T12C3WFdragon",
+    "level": 6,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "638352"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 19673904,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T12C3WFdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "bloodFury": "bloodFury1",
+      "heatBlastShield": "heatBlastShield1"
+    },
+    "attackPower": 178386,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2418"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 51,
+    "upgradeXP": 10136428,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 74331972
+  },
+  {
+    "identifier": "T12C3WFdragon",
+    "level": 7,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "643104"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 20165736,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T12C3WFdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "bloodFury": "bloodFury1",
+      "heatBlastShield": "heatBlastShield1"
+    },
+    "attackPower": 182845,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2436"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 52,
+    "upgradeXP": 10389837,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 78094999
+  },
+  {
+    "identifier": "T12C3WFdragon",
+    "level": 8,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "647856"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 20669860,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T12C3WFdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "bloodFury": "bloodFury1",
+      "heatBlastShield": "heatBlastShield1"
+    },
+    "attackPower": 187416,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2454"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 53,
+    "upgradeXP": 10649581,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 82048386
+  },
+  {
+    "identifier": "T12C3WFdragon",
+    "level": 9,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "652608"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 21186585,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T12C3WFdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "bloodFury": "bloodFury1",
+      "heatBlastShield": "heatBlastShield1",
+      "heatedPiercingBreath": "heatedPiercingBreath1"
+    },
+    "attackPower": 192102,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2472"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 54,
+    "upgradeXP": 10915817,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 86202043
+  },
+  {
+    "identifier": "T12C3WFdragon",
+    "level": 10,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "657360"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 21716231,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T12C3WFdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "bloodFury": "bloodFury1",
+      "heatBlastShield": "heatBlastShield1",
+      "heatedPiercingBreath": "heatedPiercingBreath1"
+    },
+    "attackPower": 196904,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2490"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 55,
+    "upgradeXP": 11188712,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 88104753
+  },
+  {
+    "identifier": "T12C3WFdragon",
+    "level": 11,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "662112"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 22259121,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T12C3WFdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "bloodFury": "bloodFury1",
+      "heatBlastShield": "heatBlastShield1",
+      "heatedPiercingBreath": "heatedPiercingBreath1"
+    },
+    "attackPower": 201827,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2508"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 56,
+    "upgradeXP": 11468429,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 94660046
+  },
+  {
+    "identifier": "T12C3WFdragon",
+    "level": 12,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "666864"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 22815583,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T12C3WFdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "bloodFury": "bloodFury1",
+      "heatBlastShield": "heatBlastShield1",
+      "heatedPiercingBreath": "heatedPiercingBreath1"
+    },
+    "attackPower": 206872,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2526"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 57,
+    "upgradeXP": 11755139,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 98964626
+  },
+  {
+    "identifier": "T12C3WFdragon",
+    "level": 13,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "671616"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 23385955,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T12C3WFdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "bloodFury": "bloodFury1",
+      "heatBlastShield": "heatBlastShield1",
+      "heatedPiercingBreath": "heatedPiercingBreath1"
+    },
+    "attackPower": 212044,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2544"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 58,
+    "upgradeXP": 12049016,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 103319746
+  },
+  {
+    "identifier": "T12C3WFdragon",
+    "level": 14,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "676368"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 23970586,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T12C3WFdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "bloodFury": "bloodFury1",
+      "heatBlastShield": "heatBlastShield1",
+      "heatedPiercingBreath": "heatedPiercingBreath1",
+      "fireFlakResist01": "fireFlakResist01"
+    },
+    "attackPower": 217345,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2562"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 59,
+    "upgradeXP": 12350239,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 107725526
+  },
+  {
+    "identifier": "T12C3WFdragon",
+    "level": 15,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "681120"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 24569835,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T12C3WFdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "bloodFury": "bloodFury1",
+      "heatBlastShield": "heatBlastShield1",
+      "heatedPiercingBreath": "heatedPiercingBreath1",
+      "fireFlakResist01": "fireFlakResist01"
+    },
+    "attackPower": 222779,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2580"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 60,
+    "upgradeXP": 12658994,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 112182080
+  },
+  {
+    "identifier": "T12C3WFdragon",
+    "level": 16,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "685872"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 25184073,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T12C3WFdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "bloodFury": "bloodFury1",
+      "heatBlastShield": "heatBlastShield1",
+      "heatedPiercingBreath": "heatedPiercingBreath1",
+      "fireFlakResist01": "fireFlakResist01"
+    },
+    "attackPower": 228348,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2598"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 60,
+    "upgradeXP": 12975467,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 115655313
+  },
+  {
+    "identifier": "T12C3WFdragon",
+    "level": 17,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "690624"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 25813664,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T12C3WFdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "bloodFury": "bloodFury1",
+      "heatBlastShield": "heatBlastShield1",
+      "heatedPiercingBreath": "heatedPiercingBreath1",
+      "fireFlakResist01": "fireFlakResist01"
+    },
+    "attackPower": 234057,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2616"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 61,
+    "upgradeXP": 13299852,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 119160870
+  },
+  {
+    "identifier": "T12C3WFdragon",
+    "level": 18,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "695376"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 26458990,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T12C3WFdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "bloodFury": "bloodFury1",
+      "heatBlastShield": "heatBlastShield1",
+      "heatedPiercingBreath": "heatedPiercingBreath1",
+      "fireFlakResist01": "fireFlakResist01"
+    },
+    "attackPower": 239908,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2634"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 61,
+    "upgradeXP": 18106502,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 122698754
+  },
+  {
+    "identifier": "T12C3WFdragon",
+    "level": 19,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "929911"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 27120451,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T12C3WFdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "bloodFury": "bloodFury1",
+      "heatBlastShield": "heatBlastShield1",
+      "heatedPiercingBreath": "heatedPiercingBreath1",
+      "fireFlakResist01": "fireFlakResist01"
+    },
+    "attackPower": 245906,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2652"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 62,
+    "upgradeXP": 18559162,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 126268964
+  },
+  {
+    "identifier": "T12C3WFdragon",
+    "level": 20,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "936223"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 27798454,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T12C3WFdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "bloodFury": "bloodFury1",
+      "heatBlastShield": "heatBlastShield1",
+      "heatedPiercingBreath": "heatedPiercingBreath1",
+      "fireFlakResist01": "fireFlakResist01"
+    },
+    "attackPower": 252054,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2670"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 62,
+    "upgradeXP": 19023138,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 129871499
+  },
+  {
+    "identifier": "T12C3WFdragon",
+    "level": 21,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "942535"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 28493412,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T12C3WFdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "bloodFury": "bloodFury1",
+      "heatBlastShield": "heatBlastShield1",
+      "heatedPiercingBreath": "heatedPiercingBreath1",
+      "fireFlakResist01": "fireFlakResist01"
+    },
+    "attackPower": 258355,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2688"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 63,
+    "upgradeXP": 19498716,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 133506360
+  },
+  {
+    "identifier": "T12C3WFdragon",
+    "level": 22,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "948846"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 29205742,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T12C3WFdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "bloodFury": "bloodFury1",
+      "heatBlastShield": "heatBlastShield1",
+      "heatedPiercingBreath": "heatedPiercingBreath1",
+      "fireFlakResist01": "fireFlakResist01"
+    },
+    "attackPower": 264814,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2706"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 63,
+    "upgradeXP": 24444826,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 137173547
+  },
+  {
+    "identifier": "T12C3WFdragon",
+    "level": 23,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1168240"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 29935874,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T12C3WFdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "bloodFury": "bloodFury1",
+      "heatBlastShield": "heatBlastShield1",
+      "heatedPiercingBreath": "heatedPiercingBreath1",
+      "fireFlakResist01": "fireFlakResist01"
+    },
+    "attackPower": 271434,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2724"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 64,
+    "upgradeXP": 25055942,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 140873060
+  },
+  {
+    "identifier": "T12C3WFdragon",
+    "level": 24,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1175960"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 30684251,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T12C3WFdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "bloodFury": "bloodFury1",
+      "heatBlastShield": "heatBlastShield1",
+      "heatedPiercingBreath": "heatedPiercingBreath1",
+      "fireFlakResist01": "fireFlakResist01"
+    },
+    "attackPower": 278220,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2742"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 64,
+    "upgradeXP": 25682340,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 144604898
+  },
+  {
+    "identifier": "T12C3WFdragon",
+    "level": 25,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1183680"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 31451340,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T12C3WFdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "bloodFury": "bloodFury1",
+      "heatBlastShield": "heatBlastShield1",
+      "heatedPiercingBreath": "heatedPiercingBreath1",
+      "fireFlakResist01": "fireFlakResist01"
+    },
+    "attackPower": 285175,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2760"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 65,
+    "upgradeXP": 26324395,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 148369062
+  },
+  {
+    "identifier": "T12C3WFdragon",
+    "level": 26,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1191399"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 32237617,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T12C3WFdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "bloodFury": "bloodFury1",
+      "heatBlastShield": "heatBlastShield1",
+      "heatedPiercingBreath": "heatedPiercingBreath1",
+      "fireFlakResist01": "fireFlakResist01"
+    },
+    "attackPower": 292305,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2778"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 65,
+    "upgradeXP": 31544179,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 152165553
+  },
+  {
+    "identifier": "T12C3WFdragon",
+    "level": 27,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1401843"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 33043555,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T12C3WFdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "bloodFury": "bloodFury1",
+      "heatBlastShield": "heatBlastShield1",
+      "heatedPiercingBreath": "heatedPiercingBreath1",
+      "fireFlakResist01": "fireFlakResist01"
+    },
+    "attackPower": 299612,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2796"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 66,
+    "upgradeXP": 32332784,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 155994368
+  },
+  {
+    "identifier": "T12C3WFdragon",
+    "level": 28,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1410867"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 33869641,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T12C3WFdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "bloodFury": "bloodFury1",
+      "heatBlastShield": "heatBlastShield1",
+      "heatedPiercingBreath": "heatedPiercingBreath1",
+      "fireFlakResist01": "fireFlakResist01"
+    },
+    "attackPower": 307103,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2814"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 66,
+    "upgradeXP": 33141098,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 159855510
+  },
+  {
+    "identifier": "T12C3WFdragon",
+    "level": 29,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1419892"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 34716376,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T12C3WFdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "bloodFury": "bloodFury1",
+      "heatBlastShield": "heatBlastShield1",
+      "heatedPiercingBreath": "heatedPiercingBreath1",
+      "fireFlakResist01": "fireFlakResist01"
+    },
+    "attackPower": 314780,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2832"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 67,
+    "upgradeXP": 33969620,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 163748978
+  },
+  {
+    "identifier": "T12C3WFdragon",
+    "level": 30,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1428917"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 35584274,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T12C3WFdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "bloodFury": "bloodFury1",
+      "heatBlastShield": "heatBlastShield1",
+      "heatedPiercingBreath": "heatedPiercingBreath1",
+      "fireFlakResist01": "fireFlakResist01"
+    },
+    "attackPower": 322650,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2850"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 67,
+    "upgradeXP": 34818858,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 167674771
+  },
+  {
+    "identifier": "T12C3WFdragon",
+    "level": 31,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1437942"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 36473866,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T12C3WFdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "bloodFury": "bloodFury1",
+      "heatBlastShield": "heatBlastShield1",
+      "heatedPiercingBreath": "heatedPiercingBreath1",
+      "fireFlakResist01": "fireFlakResist01"
+    },
+    "attackPower": 330716,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2868"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 68,
+    "upgradeXP": 35689328,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 171632890
+  },
+  {
+    "identifier": "T12C3WFdragon",
+    "level": 32,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1446966"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 37385696,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T12C3WFdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "bloodFury": "bloodFury1",
+      "heatBlastShield": "heatBlastShield1",
+      "heatedPiercingBreath": "heatedPiercingBreath1",
+      "fireFlakResist01": "fireFlakResist01"
+    },
+    "attackPower": 338984,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2886"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 68,
+    "upgradeXP": 36581555,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 175623335
+  },
+  {
+    "identifier": "T12C3WFdragon",
+    "level": 33,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1455991"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 38320314,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T12C3WFdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "bloodFury": "bloodFury1",
+      "heatBlastShield": "heatBlastShield1",
+      "heatedPiercingBreath": "heatedPiercingBreath1",
+      "fireFlakResist01": "fireFlakResist01"
+    },
+    "attackPower": 347458,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2904"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 69,
+    "upgradeXP": 37496093,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 179646106
+  },
+  {
+    "identifier": "T12C3WFdragon",
+    "level": 34,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1465016"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 39278301,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T12C3WFdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "bloodFury": "bloodFury1",
+      "heatBlastShield": "heatBlastShield1",
+      "heatedPiercingBreath": "heatedPiercingBreath1",
+      "fireFlakResist01": "fireFlakResist01"
+    },
+    "attackPower": 356145,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2922"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 69,
+    "upgradeXP": 38433490,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 183701202
+  },
+  {
+    "identifier": "T12C3WFdragon",
+    "level": 35,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1474040"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 40260242,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T12C3WFdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "bloodFury": "bloodFury1",
+      "heatBlastShield": "heatBlastShield1",
+      "heatedPiercingBreath": "heatedPiercingBreath1",
+      "fireFlakResist01": "fireFlakResist01"
+    },
+    "attackPower": 365048,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2940"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 70,
+    "upgradeXP": 39394322,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 187788624
+  },
+  {
+    "identifier": "T12C3WFdragon",
+    "level": 36,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1483065"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 41266731,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T12C3WFdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "bloodFury": "bloodFury1",
+      "heatBlastShield": "heatBlastShield1",
+      "heatedPiercingBreath": "heatedPiercingBreath1",
+      "fireFlakResist01": "fireFlakResist01"
+    },
+    "attackPower": 374174,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2958"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 70,
+    "upgradeXP": 40379181,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 191908373
+  },
+  {
+    "identifier": "T12C3WFdragon",
+    "level": 37,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1492090"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 42298390,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T12C3WFdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "bloodFury": "bloodFury1",
+      "heatBlastShield": "heatBlastShield1",
+      "heatedPiercingBreath": "heatedPiercingBreath1",
+      "fireFlakResist01": "fireFlakResist01"
+    },
+    "attackPower": 383529,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2976"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 71,
+    "upgradeXP": 41388655,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 196060446
+  },
+  {
+    "identifier": "T12C3WFdragon",
+    "level": 38,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1501115"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 43355836,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T12C3WFdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "bloodFury": "bloodFury1",
+      "heatBlastShield": "heatBlastShield1",
+      "heatedPiercingBreath": "heatedPiercingBreath1",
+      "fireFlakResist01": "fireFlakResist01"
+    },
+    "attackPower": 393117,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2994"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 71,
+    "upgradeXP": 42423371,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 200244846
+  },
+  {
+    "identifier": "T12C3WFdragon",
+    "level": 39,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1510139"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 44439713,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T12C3WFdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "bloodFury": "bloodFury1",
+      "heatBlastShield": "heatBlastShield1",
+      "heatedPiercingBreath": "heatedPiercingBreath1",
+      "fireFlakResist01": "fireFlakResist01"
+    },
+    "attackPower": 402945,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3012"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 72,
+    "upgradeXP": 43483948,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 204461572
+  },
+  {
+    "identifier": "T12C3WFdragon",
+    "level": 40,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1519164"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 45550692,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T12C3WFdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "bloodFury": "bloodFury1",
+      "heatBlastShield": "heatBlastShield1",
+      "heatedPiercingBreath": "heatedPiercingBreath1",
+      "fireFlakResist01": "fireFlakResist01"
+    },
+    "attackPower": 413018,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3030"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 72,
+    "upgradeXP": 0,
+    "xpRewardMultiplier": 1.2,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 208710623
+  }
+]

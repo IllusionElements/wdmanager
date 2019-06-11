@@ -1,0 +1,2876 @@
+[
+  {
+    "identifier": "E19Q1SorcererDragon",
+    "level": 1,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "0"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 185281,
+    "fullHealDuration": 807,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "E19Q1SorcererDragon_lockon"
+      }
+    ],
+    "abilities": {
+      "maleficBreath": "breathOfTheDrowned1",
+      "absorbMagic": "arcaneAegis1"
+    },
+    "attackPower": 12287,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "180"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 8,
+    "upgradeXP": 48231,
+    "xpRewardMultiplier": 1.5,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 14855,
+    "nextEvolveLevel": 3,
+    "tierNumber": 4,
+    "rarity": 5
+  },
+  {
+    "identifier": "E19Q1SorcererDragon",
+    "level": 2,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "50688"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 407705,
+    "fullHealDuration": 864,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "E19Q1SorcererDragon_lockon"
+      }
+    ],
+    "abilities": {
+      "maleficBreath": "breathOfTheDrowned1",
+      "absorbMagic": "arcaneAegis1"
+    },
+    "attackPower": 23665,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "366"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 13,
+    "upgradeXP": 156522,
+    "xpRewardMultiplier": 1.5,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 62985,
+    "nextEvolveLevel": 3,
+    "tierNumber": 4,
+    "rarity": 5
+  },
+  {
+    "identifier": "E19Q1SorcererDragon",
+    "level": 3,
+    "upgradeCost": [
+      {
+        "type": "E19Q1SorcererDragonGreenStone",
+        "amount": "1"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "have2GreenEpic",
+    "HP": 466122,
+    "fullHealDuration": 864,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "E19Q1SorcererDragon_lockon"
+      }
+    ],
+    "abilities": {
+      "maleficBreath": "breathOfTheDrowned1",
+      "absorbMagic": "arcaneAegis1",
+      "frostbite": "undertow1"
+    },
+    "attackPower": 26743,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "402"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage7",
+    "requiredStableLevel": 14,
+    "upgradeXP": 201930,
+    "xpRewardMultiplier": 1.5,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 81371,
+    "nextEvolveLevel": 5,
+    "tierNumber": 5,
+    "rarity": 5
+  },
+  {
+    "identifier": "E19Q1SorcererDragon",
+    "level": 4,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "110880"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 880807,
+    "fullHealDuration": 864,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "E19Q1SorcererDragon_lockon"
+      }
+    ],
+    "abilities": {
+      "maleficBreath": "breathOfTheDrowned1",
+      "absorbMagic": "arcaneAegis1",
+      "frostbite": "undertow1"
+    },
+    "attackPower": 44724,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "582"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage7",
+    "requiredStableLevel": 18,
+    "upgradeXP": 441514,
+    "xpRewardMultiplier": 1.5,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 257248,
+    "nextEvolveLevel": 5,
+    "tierNumber": 5,
+    "rarity": 5
+  },
+  {
+    "identifier": "E19Q1SorcererDragon",
+    "level": 5,
+    "upgradeCost": [
+      {
+        "type": "E19Q1SorcererDragonGoldStone",
+        "amount": "1"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "haveGoldLegendary",
+    "HP": 1003878,
+    "fullHealDuration": 864,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "E19Q1SorcererDragon_lockon"
+      }
+    ],
+    "abilities": {
+      "maleficBreath": "breathOfTheDrowned1",
+      "absorbMagic": "arcaneAegis1",
+      "frostbite": "undertow1",
+      "summonAIDragon": "summonWaterSpirit1"
+    },
+    "attackPower": 50734,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "618"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage7",
+    "requiredStableLevel": 18,
+    "upgradeXP": 562232,
+    "xpRewardMultiplier": 1.5,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 332592,
+    "nextEvolveLevel": 9,
+    "tierNumber": 6,
+    "rarity": 5
+  },
+  {
+    "identifier": "E19Q1SorcererDragon",
+    "level": 6,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "167904"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 1366074,
+    "fullHealDuration": 864,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "E19Q1SorcererDragon_lockon"
+      }
+    ],
+    "abilities": {
+      "maleficBreath": "breathOfTheDrowned1",
+      "absorbMagic": "arcaneAegis1",
+      "frostbite": "undertow1",
+      "summonAIDragon": "summonWaterSpirit1"
+    },
+    "attackPower": 68921,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "708"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage7",
+    "requiredStableLevel": 18,
+    "upgradeXP": 821470,
+    "xpRewardMultiplier": 1.5,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 614796,
+    "nextEvolveLevel": 9,
+    "tierNumber": 6,
+    "rarity": 5
+  },
+  {
+    "identifier": "E19Q1SorcererDragon",
+    "level": 7,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "191664"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "have2LegendaryGold",
+    "HP": 1774459,
+    "fullHealDuration": 864,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "E19Q1SorcererDragon_lockon"
+      }
+    ],
+    "abilities": {
+      "maleficBreath": "breathOfTheDrowned1",
+      "absorbMagic": "arcaneAegis1",
+      "frostbite": "undertow1",
+      "summonAIDragon": "summonWaterSpirit1"
+    },
+    "attackPower": 89598,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "852"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage7",
+    "requiredStableLevel": 18,
+    "upgradeXP": 1000866,
+    "xpRewardMultiplier": 1.5,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 1038133,
+    "nextEvolveLevel": 9,
+    "tierNumber": 6,
+    "rarity": 5
+  },
+  {
+    "identifier": "E19Q1SorcererDragon",
+    "level": 8,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "229680"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 2161892,
+    "fullHealDuration": 864,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "E19Q1SorcererDragon_lockon"
+      }
+    ],
+    "abilities": {
+      "maleficBreath": "breathOfTheDrowned1",
+      "absorbMagic": "arcaneAegis1",
+      "frostbite": "undertow1",
+      "summonAIDragon": "summonWaterSpirit1"
+    },
+    "attackPower": 109166,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "996"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage7",
+    "requiredStableLevel": 20,
+    "upgradeXP": 1219450,
+    "xpRewardMultiplier": 1.5,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 1541051,
+    "nextEvolveLevel": 9,
+    "tierNumber": 6,
+    "rarity": 5
+  },
+  {
+    "identifier": "E19Q1SorcererDragon",
+    "level": 9,
+    "upgradeCost": [
+      {
+        "type": "E19Q1SorcererDragonPlatinumStone",
+        "amount": "1"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "havePlatinumLegendary",
+    "HP": 2271306,
+    "fullHealDuration": 864,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "E19Q1SorcererDragon_lockon"
+      }
+    ],
+    "abilities": {
+      "maleficBreath": "breathOfTheDrowned1",
+      "absorbMagic": "arcaneAegis1",
+      "frostbite": "undertow1",
+      "summonAIDragon": "summonWaterSpirit1"
+    },
+    "attackPower": 114692,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1032"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage7",
+    "requiredStableLevel": 21,
+    "upgradeXP": 1281184,
+    "xpRewardMultiplier": 1.5,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 1701014,
+    "nextEvolveLevel": 13,
+    "tierNumber": 7,
+    "rarity": 5
+  },
+  {
+    "identifier": "E19Q1SorcererDragon",
+    "level": 10,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "277200"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 3054476,
+    "fullHealDuration": 864,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "E19Q1SorcererDragon_lockon"
+      }
+    ],
+    "abilities": {
+      "maleficBreath": "breathOfTheDrowned1",
+      "absorbMagic": "arcaneAegis1",
+      "frostbite": "undertow1",
+      "summonAIDragon": "summonWaterSpirit1"
+    },
+    "attackPower": 150423,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1248"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage7",
+    "requiredStableLevel": 25,
+    "upgradeXP": 1723030,
+    "xpRewardMultiplier": 1.5,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 3000270,
+    "nextEvolveLevel": 13,
+    "tierNumber": 7,
+    "rarity": 5
+  },
+  {
+    "identifier": "E19Q1SorcererDragon",
+    "level": 11,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "334224"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "have2LegendaryPlatinum",
+    "HP": 3289283,
+    "fullHealDuration": 864,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "E19Q1SorcererDragon_lockon"
+      }
+    ],
+    "abilities": {
+      "maleficBreath": "breathOfTheDrowned1",
+      "absorbMagic": "arcaneAegis1",
+      "frostbite": "undertow1",
+      "summonAIDragon": "summonWaterSpirit1"
+    },
+    "attackPower": 161989,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1302"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage7",
+    "requiredStableLevel": 26,
+    "upgradeXP": 1855513,
+    "xpRewardMultiplier": 1.5,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 3479258,
+    "nextEvolveLevel": 13,
+    "tierNumber": 7,
+    "rarity": 5
+  },
+  {
+    "identifier": "E19Q1SorcererDragon",
+    "level": 12,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "348480"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 3630695,
+    "fullHealDuration": 864,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "E19Q1SorcererDragon_lockon"
+      }
+    ],
+    "abilities": {
+      "maleficBreath": "breathOfTheDrowned1",
+      "absorbMagic": "arcaneAegis1",
+      "frostbite": "undertow1",
+      "summonAIDragon": "summonWaterSpirit1"
+    },
+    "attackPower": 178805,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1374"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage7",
+    "requiredStableLevel": 27,
+    "upgradeXP": 2048135,
+    "xpRewardMultiplier": 1.5,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 4239073,
+    "nextEvolveLevel": 13,
+    "tierNumber": 7,
+    "rarity": 5
+  },
+  {
+    "identifier": "E19Q1SorcererDragon",
+    "level": 13,
+    "upgradeCost": [
+      {
+        "type": "E19Q1SorcererDragonSapphireStone",
+        "amount": "1"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "haveLegendarySapphire",
+    "HP": 3814476,
+    "fullHealDuration": 864,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "E19Q1SorcererDragon_lockon"
+      }
+    ],
+    "abilities": {
+      "maleficBreath": "breathOfTheDrowned1",
+      "absorbMagic": "arcaneAegis1",
+      "frostbite": "undertow1",
+      "summonAIDragon": "summonWaterSpirit1"
+    },
+    "attackPower": 187857,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1410"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage7",
+    "requiredStableLevel": 28,
+    "upgradeXP": 2151820,
+    "xpRewardMultiplier": 1.5,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 4679076,
+    "nextEvolveLevel": 17,
+    "tierNumber": 8,
+    "rarity": 5
+  },
+  {
+    "identifier": "E19Q1SorcererDragon",
+    "level": 14,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "376992"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 4007557,
+    "fullHealDuration": 864,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "E19Q1SorcererDragon_lockon"
+      }
+    ],
+    "abilities": {
+      "maleficBreath": "breathOfTheDrowned1",
+      "absorbMagic": "arcaneAegis1",
+      "frostbite": "undertow1",
+      "summonAIDragon": "summonWaterSpirit1"
+    },
+    "attackPower": 197367,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1446"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage7",
+    "requiredStableLevel": 29,
+    "upgradeXP": 2260751,
+    "xpRewardMultiplier": 1.5,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 5164786,
+    "nextEvolveLevel": 17,
+    "tierNumber": 8,
+    "rarity": 5
+  },
+  {
+    "identifier": "E19Q1SorcererDragon",
+    "level": 15,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "386496"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "have2LegendarySapphire",
+    "HP": 4423514,
+    "fullHealDuration": 864,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "E19Q1SorcererDragon_lockon"
+      }
+    ],
+    "abilities": {
+      "maleficBreath": "breathOfTheDrowned1",
+      "absorbMagic": "arcaneAegis1",
+      "frostbite": "undertow1",
+      "summonAIDragon": "summonWaterSpirit1"
+    },
+    "attackPower": 217855,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1518"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage7",
+    "requiredStableLevel": 30,
+    "upgradeXP": 2495443,
+    "xpRewardMultiplier": 1.5,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 6292754,
+    "nextEvolveLevel": 17,
+    "tierNumber": 8,
+    "rarity": 5
+  },
+  {
+    "identifier": "E19Q1SorcererDragon",
+    "level": 16,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "405504"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 5258068,
+    "fullHealDuration": 864,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "E19Q1SorcererDragon_lockon"
+      }
+    ],
+    "abilities": {
+      "maleficBreath": "breathOfTheDrowned1",
+      "absorbMagic": "arcaneAegis1",
+      "frostbite": "undertow1",
+      "summonAIDragon": "summonWaterSpirit1"
+    },
+    "attackPower": 258960,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1644"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage7",
+    "requiredStableLevel": 32,
+    "upgradeXP": 2966289,
+    "xpRewardMultiplier": 1.5,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 8891275,
+    "nextEvolveLevel": 17,
+    "tierNumber": 8,
+    "rarity": 5
+  },
+  {
+    "identifier": "E19Q1SorcererDragon",
+    "level": 17,
+    "upgradeCost": [
+      {
+        "type": "E19Q1SorcererDragonGarnetStone",
+        "amount": "1"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "haveLegendaryGarnet",
+    "HP": 5524223,
+    "fullHealDuration": 864,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "E19Q1SorcererDragon_lockon"
+      }
+    ],
+    "abilities": {
+      "maleficBreath": "breathOfTheDrowned1",
+      "absorbMagic": "arcaneAegis1",
+      "frostbite": "undertow1",
+      "summonAIDragon": "summonWaterSpirit1"
+    },
+    "attackPower": 272070,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1680"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage7",
+    "requiredStableLevel": 33,
+    "upgradeXP": 3116455,
+    "xpRewardMultiplier": 1.5,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 9814178,
+    "nextEvolveLevel": 21,
+    "tierNumber": 9,
+    "rarity": 5
+  },
+  {
+    "identifier": "E19Q1SorcererDragon",
+    "level": 18,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "448272"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 5803856,
+    "fullHealDuration": 864,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "E19Q1SorcererDragon_lockon"
+      }
+    ],
+    "abilities": {
+      "maleficBreath": "breathOfTheDrowned1",
+      "absorbMagic": "arcaneAegis1",
+      "frostbite": "undertow1",
+      "summonAIDragon": "summonWaterSpirit1"
+    },
+    "attackPower": 285843,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1716"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage7",
+    "requiredStableLevel": 34,
+    "upgradeXP": 4348826,
+    "xpRewardMultiplier": 1.5,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 10833077,
+    "nextEvolveLevel": 21,
+    "tierNumber": 9,
+    "rarity": 5
+  },
+  {
+    "identifier": "E19Q1SorcererDragon",
+    "level": 19,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "608019"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "have2LegendaryGarnet",
+    "HP": 6566443,
+    "fullHealDuration": 864,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "E19Q1SorcererDragon_lockon"
+      }
+    ],
+    "abilities": {
+      "maleficBreath": "breathOfTheDrowned1",
+      "absorbMagic": "arcaneAegis1",
+      "frostbite": "undertow1",
+      "summonAIDragon": "summonWaterSpirit1"
+    },
+    "attackPower": 323405,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1806"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage7",
+    "requiredStableLevel": 35,
+    "upgradeXP": 4920290,
+    "xpRewardMultiplier": 1.5,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 13867018,
+    "nextEvolveLevel": 21,
+    "tierNumber": 9,
+    "rarity": 5
+  },
+  {
+    "identifier": "E19Q1SorcererDragon",
+    "level": 20,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "639577"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 8615511,
+    "fullHealDuration": 864,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "E19Q1SorcererDragon_lockon"
+      }
+    ],
+    "abilities": {
+      "maleficBreath": "breathOfTheDrowned1",
+      "absorbMagic": "arcaneAegis1",
+      "frostbite": "undertow1",
+      "summonAIDragon": "summonWaterSpirit1"
+    },
+    "attackPower": 424333,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2004"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage7",
+    "requiredStableLevel": 39,
+    "upgradeXP": 6455816,
+    "xpRewardMultiplier": 1.5,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 23872287,
+    "nextEvolveLevel": 21,
+    "tierNumber": 9,
+    "rarity": 5
+  },
+  {
+    "identifier": "E19Q1SorcererDragon",
+    "level": 21,
+    "upgradeCost": [
+      {
+        "type": "E19Q1SorcererDragonEmeraldStone",
+        "amount": "1"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "haveLegendaryEmerald",
+    "HP": 9509854,
+    "fullHealDuration": 864,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "E19Q1SorcererDragon_lockon"
+      }
+    ],
+    "abilities": {
+      "maleficBreath": "breathOfTheDrowned1",
+      "absorbMagic": "arcaneAegis1",
+      "frostbite": "undertow1",
+      "summonAIDragon": "summonWaterSpirit1"
+    },
+    "attackPower": 468383,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2076"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage7",
+    "requiredStableLevel": 41,
+    "upgradeXP": 7126007,
+    "xpRewardMultiplier": 1.5,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 29085711,
+    "nextEvolveLevel": 25,
+    "tierNumber": 10,
+    "rarity": 5
+  },
+  {
+    "identifier": "E19Q1SorcererDragon",
+    "level": 22,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "734251"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 10497024,
+    "fullHealDuration": 864,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "E19Q1SorcererDragon_lockon"
+      }
+    ],
+    "abilities": {
+      "maleficBreath": "breathOfTheDrowned1",
+      "absorbMagic": "arcaneAegis1",
+      "frostbite": "undertow1",
+      "summonAIDragon": "summonWaterSpirit1"
+    },
+    "attackPower": 517007,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2148"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage7",
+    "requiredStableLevel": 43,
+    "upgradeXP": 9620518,
+    "xpRewardMultiplier": 1.5,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 35437935,
+    "nextEvolveLevel": 25,
+    "tierNumber": 10,
+    "rarity": 5
+  },
+  {
+    "identifier": "E19Q1SorcererDragon",
+    "level": 23,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "928931"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "have2LegendaryEmerald",
+    "HP": 11028399,
+    "fullHealDuration": 864,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "E19Q1SorcererDragon_lockon"
+      }
+    ],
+    "abilities": {
+      "maleficBreath": "breathOfTheDrowned1",
+      "absorbMagic": "arcaneAegis1",
+      "frostbite": "undertow1",
+      "summonAIDragon": "summonWaterSpirit1"
+    },
+    "attackPower": 543180,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2184"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage7",
+    "requiredStableLevel": 44,
+    "upgradeXP": 10107553,
+    "xpRewardMultiplier": 1.5,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 39116698,
+    "nextEvolveLevel": 25,
+    "tierNumber": 10,
+    "rarity": 5
+  },
+  {
+    "identifier": "E19Q1SorcererDragon",
+    "level": 24,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "944371"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 12789454,
+    "fullHealDuration": 864,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "E19Q1SorcererDragon_lockon"
+      }
+    ],
+    "abilities": {
+      "maleficBreath": "breathOfTheDrowned1",
+      "absorbMagic": "arcaneAegis1",
+      "frostbite": "undertow1",
+      "summonAIDragon": "summonWaterSpirit1"
+    },
+    "attackPower": 629922,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2292"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage7",
+    "requiredStableLevel": 47,
+    "upgradeXP": 11721647,
+    "xpRewardMultiplier": 1.5,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 52607048,
+    "nextEvolveLevel": 25,
+    "tierNumber": 10,
+    "rarity": 5
+  },
+  {
+    "identifier": "E19Q1SorcererDragon",
+    "level": 25,
+    "upgradeCost": [
+      {
+        "type": "E19Q1SorcererDragonObsidianStone",
+        "amount": "1"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "haveLegendaryObsidian",
+    "HP": 13109181,
+    "fullHealDuration": 864,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "E19Q1SorcererDragon_lockon"
+      }
+    ],
+    "abilities": {
+      "maleficBreath": "breathOfTheDrowned1",
+      "absorbMagic": "arcaneAegis1",
+      "frostbite": "undertow1",
+      "summonAIDragon": "summonWaterSpirit1"
+    },
+    "attackPower": 645670,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2310"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage7",
+    "requiredStableLevel": 47,
+    "upgradeXP": 12014684,
+    "xpRewardMultiplier": 1.5,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 55270340,
+    "nextEvolveLevel": 34,
+    "tierNumber": 11,
+    "rarity": 5
+  },
+  {
+    "identifier": "E19Q1SorcererDragon",
+    "level": 26,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "998408"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 13436899,
+    "fullHealDuration": 864,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "E19Q1SorcererDragon_lockon"
+      }
+    ],
+    "abilities": {
+      "maleficBreath": "breathOfTheDrowned1",
+      "absorbMagic": "arcaneAegis1",
+      "frostbite": "undertow1",
+      "summonAIDragon": "summonWaterSpirit1"
+    },
+    "attackPower": 661811,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2328"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage7",
+    "requiredStableLevel": 48,
+    "upgradeXP": 14397039,
+    "xpRewardMultiplier": 1.5,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 58068192,
+    "nextEvolveLevel": 34,
+    "tierNumber": 11,
+    "rarity": 5
+  },
+  {
+    "identifier": "E19Q1SorcererDragon",
+    "level": 27,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1176224"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 13772810,
+    "fullHealDuration": 864,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "E19Q1SorcererDragon_lockon"
+      }
+    ],
+    "abilities": {
+      "maleficBreath": "breathOfTheDrowned1",
+      "absorbMagic": "arcaneAegis1",
+      "frostbite": "undertow1",
+      "summonAIDragon": "summonWaterSpirit1"
+    },
+    "attackPower": 678356,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2346"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage7",
+    "requiredStableLevel": 48,
+    "upgradeXP": 14756966,
+    "xpRewardMultiplier": 1.5,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 61007811,
+    "nextEvolveLevel": 34,
+    "tierNumber": 11,
+    "rarity": 5
+  },
+  {
+    "identifier": "E19Q1SorcererDragon",
+    "level": 28,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1185249"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 14470041,
+    "fullHealDuration": 864,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "E19Q1SorcererDragon_lockon"
+      }
+    ],
+    "abilities": {
+      "maleficBreath": "breathOfTheDrowned1",
+      "absorbMagic": "arcaneAegis1",
+      "frostbite": "undertow1",
+      "summonAIDragon": "summonWaterSpirit1"
+    },
+    "attackPower": 712698,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2382"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage7",
+    "requiredStableLevel": 49,
+    "upgradeXP": 15504034,
+    "xpRewardMultiplier": 1.5,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 67341184,
+    "nextEvolveLevel": 34,
+    "tierNumber": 11,
+    "rarity": 5
+  },
+  {
+    "identifier": "E19Q1SorcererDragon",
+    "level": 29,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1203298"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "have2LegendaryObsidian",
+    "HP": 15582614,
+    "fullHealDuration": 864,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "E19Q1SorcererDragon_lockon"
+      }
+    ],
+    "abilities": {
+      "maleficBreath": "breathOfTheDrowned1",
+      "absorbMagic": "arcaneAegis1",
+      "frostbite": "undertow1",
+      "summonAIDragon": "summonWaterSpirit1"
+    },
+    "attackPower": 767497,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2436"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage7",
+    "requiredStableLevel": 52,
+    "upgradeXP": 16696141,
+    "xpRewardMultiplier": 1.5,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 78094999,
+    "nextEvolveLevel": 34,
+    "tierNumber": 11,
+    "rarity": 5
+  },
+  {
+    "identifier": "E19Q1SorcererDragon",
+    "level": 30,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1230373"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 17200230,
+    "fullHealDuration": 864,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "E19Q1SorcererDragon_lockon"
+      }
+    ],
+    "abilities": {
+      "maleficBreath": "breathOfTheDrowned1",
+      "absorbMagic": "arcaneAegis1",
+      "frostbite": "undertow1",
+      "summonAIDragon": "summonWaterSpirit1"
+    },
+    "attackPower": 847173,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2508"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage7",
+    "requiredStableLevel": 56,
+    "upgradeXP": 18429404,
+    "xpRewardMultiplier": 1.5,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 94660046,
+    "nextEvolveLevel": 34,
+    "tierNumber": 11,
+    "rarity": 5
+  },
+  {
+    "identifier": "E19Q1SorcererDragon",
+    "level": 31,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1266472"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "haveMythicObsidian",
+    "HP": 18522726,
+    "fullHealDuration": 864,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "E19Q1SorcererDragon_lockon"
+      }
+    ],
+    "abilities": {
+      "maleficBreath": "breathOfTheDrowned1",
+      "absorbMagic": "arcaneAegis1",
+      "frostbite": "undertow1",
+      "summonAIDragon": "summonWaterSpirit1"
+    },
+    "attackPower": 912312,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2562"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage7",
+    "requiredStableLevel": 59,
+    "upgradeXP": 19846444,
+    "xpRewardMultiplier": 1.5,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 107725526,
+    "nextEvolveLevel": 34,
+    "tierNumber": 11,
+    "rarity": 5
+  },
+  {
+    "identifier": "E19Q1SorcererDragon",
+    "level": 32,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1293546"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 19946922,
+    "fullHealDuration": 864,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "E19Q1SorcererDragon_lockon"
+      }
+    ],
+    "abilities": {
+      "maleficBreath": "breathOfTheDrowned1",
+      "absorbMagic": "arcaneAegis1",
+      "frostbite": "undertow1",
+      "summonAIDragon": "summonWaterSpirit1"
+    },
+    "attackPower": 982460,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2616"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage7",
+    "requiredStableLevel": 61,
+    "upgradeXP": 21372443,
+    "xpRewardMultiplier": 1.5,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 119160870,
+    "nextEvolveLevel": 34,
+    "tierNumber": 11,
+    "rarity": 5
+  },
+  {
+    "identifier": "E19Q1SorcererDragon",
+    "level": 33,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1320620"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 21480624,
+    "fullHealDuration": 864,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "E19Q1SorcererDragon_lockon"
+      }
+    ],
+    "abilities": {
+      "maleficBreath": "breathOfTheDrowned1",
+      "absorbMagic": "arcaneAegis1",
+      "frostbite": "undertow1",
+      "summonAIDragon": "summonWaterSpirit1"
+    },
+    "attackPower": 1058001,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2670"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage7",
+    "requiredStableLevel": 62,
+    "upgradeXP": 23015776,
+    "xpRewardMultiplier": 1.5,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 129871499,
+    "nextEvolveLevel": 34,
+    "tierNumber": 11,
+    "rarity": 5
+  },
+  {
+    "identifier": "E19Q1SorcererDragon",
+    "level": 34,
+    "upgradeCost": [
+      {
+        "type": "E19Q1SorcererDragonHarbingerStone",
+        "amount": "1"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "haveLegendaryHarbinger",
+    "HP": 22568073,
+    "fullHealDuration": 864,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "E19Q1SorcererDragon_lockon"
+      }
+    ],
+    "abilities": {
+      "maleficBreath": "breathOfTheDrowned1",
+      "absorbMagic": "arcaneAegis1",
+      "frostbite": "undertow1",
+      "summonAIDragon": "summonWaterSpirit1"
+    },
+    "attackPower": 1111563,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2706"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage7",
+    "requiredStableLevel": 63,
+    "upgradeXP": 24180946,
+    "xpRewardMultiplier": 1.5,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 137173547,
+    "nextEvolveLevel": 44,
+    "tierNumber": 12,
+    "rarity": 5
+  },
+  {
+    "identifier": "E19Q1SorcererDragon",
+    "level": 35,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1365744"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 25533656,
+    "fullHealDuration": 864,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "E19Q1SorcererDragon_lockon"
+      }
+    ],
+    "abilities": {
+      "maleficBreath": "breathOfTheDrowned1",
+      "absorbMagic": "arcaneAegis1",
+      "frostbite": "undertow1",
+      "summonAIDragon": "summonWaterSpirit1"
+    },
+    "attackPower": 1257630,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2796"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage7",
+    "requiredStableLevel": 66,
+    "upgradeXP": 27358510,
+    "xpRewardMultiplier": 1.5,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 155994368,
+    "nextEvolveLevel": 44,
+    "tierNumber": 12,
+    "rarity": 5
+  },
+  {
+    "identifier": "E19Q1SorcererDragon",
+    "level": 36,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1410867"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 27496939,
+    "fullHealDuration": 864,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "E19Q1SorcererDragon_lockon"
+      }
+    ],
+    "abilities": {
+      "maleficBreath": "breathOfTheDrowned1",
+      "absorbMagic": "arcaneAegis1",
+      "frostbite": "undertow1",
+      "summonAIDragon": "summonWaterSpirit1"
+    },
+    "attackPower": 1354330,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2850"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage7",
+    "requiredStableLevel": 67,
+    "upgradeXP": 29462110,
+    "xpRewardMultiplier": 1.5,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 167674771,
+    "nextEvolveLevel": 44,
+    "tierNumber": 12,
+    "rarity": 5
+  },
+  {
+    "identifier": "E19Q1SorcererDragon",
+    "level": 37,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1437942"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "have2LegendaryHarbinger",
+    "HP": 29611152,
+    "fullHealDuration": 864,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "E19Q1SorcererDragon_lockon"
+      }
+    ],
+    "abilities": {
+      "maleficBreath": "breathOfTheDrowned1",
+      "absorbMagic": "arcaneAegis1",
+      "frostbite": "undertow1",
+      "summonAIDragon": "summonWaterSpirit1"
+    },
+    "attackPower": 1458465,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2904"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage7",
+    "requiredStableLevel": 69,
+    "upgradeXP": 31727463,
+    "xpRewardMultiplier": 1.5,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 179646106,
+    "nextEvolveLevel": 44,
+    "tierNumber": 12,
+    "rarity": 5
+  },
+  {
+    "identifier": "E19Q1SorcererDragon",
+    "level": 38,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1465016"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 31887929,
+    "fullHealDuration": 864,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "E19Q1SorcererDragon_lockon"
+      }
+    ],
+    "abilities": {
+      "maleficBreath": "breathOfTheDrowned1",
+      "absorbMagic": "arcaneAegis1",
+      "frostbite": "undertow1",
+      "summonAIDragon": "summonWaterSpirit1"
+    },
+    "attackPower": 1570606,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2958"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage7",
+    "requiredStableLevel": 70,
+    "upgradeXP": 34166999,
+    "xpRewardMultiplier": 1.5,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 191908373,
+    "nextEvolveLevel": 44,
+    "tierNumber": 12,
+    "rarity": 5
+  },
+  {
+    "identifier": "E19Q1SorcererDragon",
+    "level": 39,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1492090"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 33502237,
+    "fullHealDuration": 864,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "E19Q1SorcererDragon_lockon"
+      }
+    ],
+    "abilities": {
+      "maleficBreath": "breathOfTheDrowned1",
+      "absorbMagic": "arcaneAegis1",
+      "frostbite": "undertow1",
+      "summonAIDragon": "summonWaterSpirit1"
+    },
+    "attackPower": 1650118,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2994"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage7",
+    "requiredStableLevel": 71,
+    "upgradeXP": 35896698,
+    "xpRewardMultiplier": 1.5,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 200244846,
+    "nextEvolveLevel": 44,
+    "tierNumber": 12,
+    "rarity": 5
+  },
+  {
+    "identifier": "E19Q1SorcererDragon",
+    "level": 40,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1510139"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "haveMythicHarbinger",
+    "HP": 35198262,
+    "fullHealDuration": 864,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "E19Q1SorcererDragon_lockon"
+      }
+    ],
+    "abilities": {
+      "maleficBreath": "breathOfTheDrowned1",
+      "absorbMagic": "arcaneAegis1",
+      "frostbite": "undertow1",
+      "summonAIDragon": "summonWaterSpirit1"
+    },
+    "attackPower": 1733655,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3030"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage7",
+    "requiredStableLevel": 72,
+    "upgradeXP": 37713958,
+    "xpRewardMultiplier": 1.5,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 208710623,
+    "nextEvolveLevel": 44,
+    "tierNumber": 12,
+    "rarity": 5
+  },
+  {
+    "identifier": "E19Q1SorcererDragon",
+    "level": 41,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1528189"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 38852257,
+    "fullHealDuration": 864,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "E19Q1SorcererDragon_lockon"
+      }
+    ],
+    "abilities": {
+      "maleficBreath": "breathOfTheDrowned1",
+      "absorbMagic": "arcaneAegis1",
+      "frostbite": "undertow1",
+      "summonAIDragon": "summonWaterSpirit1"
+    },
+    "attackPower": 1913630,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3102"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage7",
+    "requiredStableLevel": 74,
+    "upgradeXP": 41629147,
+    "xpRewardMultiplier": 1.5,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 226030086,
+    "nextEvolveLevel": 44,
+    "tierNumber": 12,
+    "rarity": 5
+  },
+  {
+    "identifier": "E19Q1SorcererDragon",
+    "level": 42,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1564288"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 40819133,
+    "fullHealDuration": 864,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "E19Q1SorcererDragon_lockon"
+      }
+    ],
+    "abilities": {
+      "maleficBreath": "breathOfTheDrowned1",
+      "absorbMagic": "arcaneAegis1",
+      "frostbite": "undertow1",
+      "summonAIDragon": "summonWaterSpirit1"
+    },
+    "attackPower": 2010507,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3138"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage7",
+    "requiredStableLevel": 76,
+    "upgradeXP": 43736615,
+    "xpRewardMultiplier": 1.5,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 234883773,
+    "nextEvolveLevel": 44,
+    "tierNumber": 12,
+    "rarity": 5
+  },
+  {
+    "identifier": "E19Q1SorcererDragon",
+    "level": 43,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1582337"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 45056616,
+    "fullHealDuration": 864,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "E19Q1SorcererDragon_lockon"
+      }
+    ],
+    "abilities": {
+      "maleficBreath": "breathOfTheDrowned1",
+      "absorbMagic": "arcaneAegis1",
+      "frostbite": "undertow1",
+      "summonAIDragon": "summonWaterSpirit1"
+    },
+    "attackPower": 2219223,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3210"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage7",
+    "requiredStableLevel": 80,
+    "upgradeXP": 48277025,
+    "xpRewardMultiplier": 1.5,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 252979055,
+    "nextEvolveLevel": 44,
+    "tierNumber": 12,
+    "rarity": 5
+  },
+  {
+    "identifier": "E19Q1SorcererDragon",
+    "level": 44,
+    "upgradeCost": [
+      {
+        "type": "E19Q1SorcererDragonVanguardStone",
+        "amount": "1"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "haveLegendaryVanguard",
+    "HP": 48520997,
+    "fullHealDuration": 864,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "E19Q1SorcererDragon_lockon"
+      }
+    ],
+    "abilities": {
+      "maleficBreath": "breathOfTheDrowned1",
+      "absorbMagic": "arcaneAegis1",
+      "frostbite": "undertow1",
+      "summonAIDragon": "summonWaterSpirit1"
+    },
+    "attackPower": 2389860,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3264"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage7",
+    "requiredStableLevel": 81,
+    "upgradeXP": 51989066,
+    "xpRewardMultiplier": 1.5,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 266889938,
+    "nextEvolveLevel": 55,
+    "tierNumber": 13,
+    "rarity": 5
+  },
+  {
+    "identifier": "E19Q1SorcererDragon",
+    "level": 45,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1645510"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 50977347,
+    "fullHealDuration": 864,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "E19Q1SorcererDragon_lockon"
+      }
+    ],
+    "abilities": {
+      "maleficBreath": "breathOfTheDrowned1",
+      "absorbMagic": "arcaneAegis1",
+      "frostbite": "undertow1",
+      "summonAIDragon": "summonWaterSpirit1"
+    },
+    "attackPower": 2510846,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3300"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage7",
+    "requiredStableLevel": 82,
+    "upgradeXP": 54621004,
+    "xpRewardMultiplier": 1.5,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 276325488,
+    "nextEvolveLevel": 55,
+    "tierNumber": 13,
+    "rarity": 5
+  },
+  {
+    "identifier": "E19Q1SorcererDragon",
+    "level": 46,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1663560"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 53558056,
+    "fullHealDuration": 864,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "E19Q1SorcererDragon_lockon"
+      }
+    ],
+    "abilities": {
+      "maleficBreath": "breathOfTheDrowned1",
+      "absorbMagic": "arcaneAegis1",
+      "frostbite": "undertow1",
+      "summonAIDragon": "summonWaterSpirit1"
+    },
+    "attackPower": 2637957,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3336"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage7",
+    "requiredStableLevel": 83,
+    "upgradeXP": 57386189,
+    "xpRewardMultiplier": 1.5,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 285890342,
+    "nextEvolveLevel": 55,
+    "tierNumber": 13,
+    "rarity": 5
+  },
+  {
+    "identifier": "E19Q1SorcererDragon",
+    "level": 47,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1681609"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 54897000,
+    "fullHealDuration": 864,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "E19Q1SorcererDragon_lockon"
+      }
+    ],
+    "abilities": {
+      "maleficBreath": "breathOfTheDrowned1",
+      "absorbMagic": "arcaneAegis1",
+      "frostbite": "undertow1",
+      "summonAIDragon": "summonWaterSpirit1"
+    },
+    "attackPower": 2703906,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3354"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage7",
+    "requiredStableLevel": 84,
+    "upgradeXP": 58820840,
+    "xpRewardMultiplier": 1.5,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 290721258,
+    "nextEvolveLevel": 55,
+    "tierNumber": 13,
+    "rarity": 5
+  },
+  {
+    "identifier": "E19Q1SorcererDragon",
+    "level": 48,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1690634"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "have2LegendaryVanguard",
+    "HP": 57676151,
+    "fullHealDuration": 864,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "E19Q1SorcererDragon_lockon"
+      }
+    ],
+    "abilities": {
+      "maleficBreath": "breathOfTheDrowned1",
+      "absorbMagic": "arcaneAegis1",
+      "frostbite": "undertow1",
+      "summonAIDragon": "summonWaterSpirit1"
+    },
+    "attackPower": 2840791,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3390"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage7",
+    "requiredStableLevel": 85,
+    "upgradeXP": 61798635,
+    "xpRewardMultiplier": 1.5,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 300480067,
+    "nextEvolveLevel": 55,
+    "tierNumber": 13,
+    "rarity": 5
+  },
+  {
+    "identifier": "E19Q1SorcererDragon",
+    "level": 49,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1708684"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 59118045,
+    "fullHealDuration": 864,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "E19Q1SorcererDragon_lockon"
+      }
+    ],
+    "abilities": {
+      "maleficBreath": "breathOfTheDrowned1",
+      "absorbMagic": "arcaneAegis1",
+      "frostbite": "undertow1",
+      "summonAIDragon": "summonWaterSpirit1"
+    },
+    "attackPower": 2911811,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3408"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage7",
+    "requiredStableLevel": 85,
+    "upgradeXP": 63343596,
+    "xpRewardMultiplier": 1.5,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 305407960,
+    "nextEvolveLevel": 55,
+    "tierNumber": 13,
+    "rarity": 5
+  },
+  {
+    "identifier": "E19Q1SorcererDragon",
+    "level": 50,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1717708"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "haveMythicVanguard",
+    "HP": 60595982,
+    "fullHealDuration": 864,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "E19Q1SorcererDragon_lockon"
+      }
+    ],
+    "abilities": {
+      "maleficBreath": "breathOfTheDrowned1",
+      "absorbMagic": "arcaneAegis1",
+      "frostbite": "undertow1",
+      "summonAIDragon": "summonWaterSpirit1"
+    },
+    "attackPower": 2984606,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3426"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage7",
+    "requiredStableLevel": 86,
+    "upgradeXP": 64927184,
+    "xpRewardMultiplier": 1.5,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 310368179,
+    "nextEvolveLevel": 55,
+    "tierNumber": 13,
+    "rarity": 5
+  },
+  {
+    "identifier": "E19Q1SorcererDragon",
+    "level": 51,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1726733"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 63663631,
+    "fullHealDuration": 864,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "E19Q1SorcererDragon_lockon"
+      }
+    ],
+    "abilities": {
+      "maleficBreath": "breathOfTheDrowned1",
+      "absorbMagic": "arcaneAegis1",
+      "frostbite": "undertow1",
+      "summonAIDragon": "summonWaterSpirit1"
+    },
+    "attackPower": 3135701,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3462"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage7",
+    "requiredStableLevel": 87,
+    "upgradeXP": 68214118,
+    "xpRewardMultiplier": 1.5,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 320385594,
+    "nextEvolveLevel": 55,
+    "tierNumber": 13,
+    "rarity": 5
+  },
+  {
+    "identifier": "E19Q1SorcererDragon",
+    "level": 52,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1744783"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 66886586,
+    "fullHealDuration": 864,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "E19Q1SorcererDragon_lockon"
+      }
+    ],
+    "abilities": {
+      "maleficBreath": "breathOfTheDrowned1",
+      "absorbMagic": "arcaneAegis1",
+      "frostbite": "undertow1",
+      "summonAIDragon": "summonWaterSpirit1"
+    },
+    "attackPower": 3294445,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3498"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage7",
+    "requiredStableLevel": 88,
+    "upgradeXP": 71667449,
+    "xpRewardMultiplier": 1.5,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 330532313,
+    "nextEvolveLevel": 55,
+    "tierNumber": 13,
+    "rarity": 5
+  },
+  {
+    "identifier": "E19Q1SorcererDragon",
+    "level": 53,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1762832"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 70272691,
+    "fullHealDuration": 864,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "E19Q1SorcererDragon_lockon"
+      }
+    ],
+    "abilities": {
+      "maleficBreath": "breathOfTheDrowned1",
+      "absorbMagic": "arcaneAegis1",
+      "frostbite": "undertow1",
+      "summonAIDragon": "summonWaterSpirit1"
+    },
+    "attackPower": 3461226,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3534"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage7",
+    "requiredStableLevel": 89,
+    "upgradeXP": 75295608,
+    "xpRewardMultiplier": 1.5,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 340808334,
+    "nextEvolveLevel": 55,
+    "tierNumber": 13,
+    "rarity": 5
+  },
+  {
+    "identifier": "E19Q1SorcererDragon",
+    "level": 54,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1780881"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 73830225,
+    "fullHealDuration": 864,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "E19Q1SorcererDragon_lockon"
+      }
+    ],
+    "abilities": {
+      "maleficBreath": "breathOfTheDrowned1",
+      "absorbMagic": "arcaneAegis1",
+      "frostbite": "undertow1",
+      "summonAIDragon": "summonWaterSpirit1"
+    },
+    "attackPower": 3636451,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3570"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage7",
+    "requiredStableLevel": 90,
+    "upgradeXP": 79107445,
+    "xpRewardMultiplier": 1.5,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 351213659,
+    "nextEvolveLevel": 55,
+    "tierNumber": 13,
+    "rarity": 5
+  },
+  {
+    "identifier": "E19Q1SorcererDragon",
+    "level": 55,
+    "upgradeCost": [
+      {
+        "type": "E19Q1SorcererDragonEmpyreanStone",
+        "amount": "1"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "haveLegendaryEmpyrean",
+    "HP": 77567858,
+    "fullHealDuration": 864,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "E19Q1SorcererDragon_lockon"
+      }
+    ],
+    "abilities": {
+      "maleficBreath": "breathOfTheDrowned1",
+      "absorbMagic": "arcaneAegis1",
+      "frostbite": "undertow1",
+      "summonAIDragon": "summonWaterSpirit1"
+    },
+    "attackPower": 3820546,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3606"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage7",
+    "requiredStableLevel": 91,
+    "upgradeXP": 83112252,
+    "xpRewardMultiplier": 1.5,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 361748287,
+    "nextEvolveLevel": 0,
+    "tierNumber": 14,
+    "rarity": 5
+  },
+  {
+    "identifier": "E19Q1SorcererDragon",
+    "level": 56,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1816980"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 81494691,
+    "fullHealDuration": 864,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "E19Q1SorcererDragon_lockon"
+      }
+    ],
+    "abilities": {
+      "maleficBreath": "breathOfTheDrowned1",
+      "absorbMagic": "arcaneAegis1",
+      "frostbite": "undertow1",
+      "summonAIDragon": "summonWaterSpirit1"
+    },
+    "attackPower": 4013960,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3642"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage7",
+    "requiredStableLevel": 92,
+    "upgradeXP": 87319805,
+    "xpRewardMultiplier": 1.5,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 372412218,
+    "nextEvolveLevel": 0,
+    "tierNumber": 14,
+    "rarity": 5
+  },
+  {
+    "identifier": "E19Q1SorcererDragon",
+    "level": 57,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1835030"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 85620322,
+    "fullHealDuration": 864,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "E19Q1SorcererDragon_lockon"
+      }
+    ],
+    "abilities": {
+      "maleficBreath": "breathOfTheDrowned1",
+      "absorbMagic": "arcaneAegis1",
+      "frostbite": "undertow1",
+      "summonAIDragon": "summonWaterSpirit1"
+    },
+    "attackPower": 4217167,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3678"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage7",
+    "requiredStableLevel": 93,
+    "upgradeXP": 91740362,
+    "xpRewardMultiplier": 1.5,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 383205453,
+    "nextEvolveLevel": 0,
+    "tierNumber": 14,
+    "rarity": 5
+  },
+  {
+    "identifier": "E19Q1SorcererDragon",
+    "level": 58,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1853079"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 89954814,
+    "fullHealDuration": 864,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "E19Q1SorcererDragon_lockon"
+      }
+    ],
+    "abilities": {
+      "maleficBreath": "breathOfTheDrowned1",
+      "absorbMagic": "arcaneAegis1",
+      "frostbite": "undertow1",
+      "summonAIDragon": "summonWaterSpirit1"
+    },
+    "attackPower": 4430661,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3714"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage7",
+    "requiredStableLevel": 94,
+    "upgradeXP": 96384710,
+    "xpRewardMultiplier": 1.5,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 394127990,
+    "nextEvolveLevel": 0,
+    "tierNumber": 14,
+    "rarity": 5
+  },
+  {
+    "identifier": "E19Q1SorcererDragon",
+    "level": 59,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1871129"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 92203670,
+    "fullHealDuration": 864,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "E19Q1SorcererDragon_lockon"
+      }
+    ],
+    "abilities": {
+      "maleficBreath": "breathOfTheDrowned1",
+      "absorbMagic": "arcaneAegis1",
+      "frostbite": "undertow1",
+      "summonAIDragon": "summonWaterSpirit1"
+    },
+    "attackPower": 4541427,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3732"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage7",
+    "requiredStableLevel": 94,
+    "upgradeXP": 98794327,
+    "xpRewardMultiplier": 1.5,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 399637748,
+    "nextEvolveLevel": 0,
+    "tierNumber": 14,
+    "rarity": 5
+  },
+  {
+    "identifier": "E19Q1SorcererDragon",
+    "level": 60,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1880154"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 96871462,
+    "fullHealDuration": 864,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "E19Q1SorcererDragon_lockon"
+      }
+    ],
+    "abilities": {
+      "maleficBreath": "breathOfTheDrowned1",
+      "absorbMagic": "arcaneAegis1",
+      "frostbite": "undertow1",
+      "summonAIDragon": "summonWaterSpirit1"
+    },
+    "attackPower": 4771336,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3768"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage7",
+    "requiredStableLevel": 95,
+    "upgradeXP": 0,
+    "xpRewardMultiplier": 1.5,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 410754240,
+    "nextEvolveLevel": 0,
+    "tierNumber": 14,
+    "rarity": 5
+  }
+]

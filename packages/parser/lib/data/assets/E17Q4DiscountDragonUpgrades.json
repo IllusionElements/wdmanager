@@ -1,0 +1,2864 @@
+[
+  {
+    "identifier": "E17Q4DiscountDragon",
+    "level": 1,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "0"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 239775,
+    "fullHealDuration": 16130,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "E17Q4DiscountDragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "starburn": "lionsRage1",
+      "heatBlastShield": "blazingShield1"
+    },
+    "attackPower": 2927,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "180"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 8,
+    "upgradeXP": 48231,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 14855,
+    "nextEvolveLevel": 7,
+    "tierNumber": 4,
+    "rarity": 5
+  },
+  {
+    "identifier": "E17Q4DiscountDragon",
+    "level": 2,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "50688"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 310366,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "E17Q4DiscountDragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "starburn": "lionsRage1",
+      "heatBlastShield": "blazingShield1"
+    },
+    "attackPower": 3310,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "216"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 9,
+    "upgradeXP": 68106,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 21731,
+    "nextEvolveLevel": 7,
+    "tierNumber": 4,
+    "rarity": 5
+  },
+  {
+    "identifier": "E17Q4DiscountDragon",
+    "level": 3,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "60192"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 356614,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "E17Q4DiscountDragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "starburn": "lionsRage1",
+      "heatBlastShield": "blazingShield1"
+    },
+    "attackPower": 3831,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "258"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 10,
+    "upgradeXP": 109112,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 28958,
+    "nextEvolveLevel": 7,
+    "tierNumber": 4,
+    "rarity": 5
+  },
+  {
+    "identifier": "E17Q4DiscountDragon",
+    "level": 4,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "72864"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 408492,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "E17Q4DiscountDragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "starburn": "lionsRage1",
+      "heatBlastShield": "blazingShield1"
+    },
+    "attackPower": 4341,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "294"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 11,
+    "upgradeXP": 157414,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 37577,
+    "nextEvolveLevel": 7,
+    "tierNumber": 4,
+    "rarity": 5
+  },
+  {
+    "identifier": "E17Q4DiscountDragon",
+    "level": 5,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "82368"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 464356,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "E17Q4DiscountDragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "starburn": "lionsRage1",
+      "heatBlastShield": "blazingShield1"
+    },
+    "attackPower": 4948,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "330"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 12,
+    "upgradeXP": 202488,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 48667,
+    "nextEvolveLevel": 7,
+    "tierNumber": 4,
+    "rarity": 5
+  },
+  {
+    "identifier": "E17Q4DiscountDragon",
+    "level": 6,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "91872"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 527618,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "E17Q4DiscountDragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "starburn": "lionsRage1",
+      "heatBlastShield": "blazingShield1"
+    },
+    "attackPower": 5638,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "366"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 13,
+    "upgradeXP": 254271,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 62985,
+    "nextEvolveLevel": 7,
+    "tierNumber": 4,
+    "rarity": 5
+  },
+  {
+    "identifier": "E17Q4DiscountDragon",
+    "level": 7,
+    "upgradeCost": [
+      {
+        "type": "E17Q4DiscountDragonGreenStone",
+        "amount": "1"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "have2GreenEpic",
+    "HP": 603216,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "E17Q4DiscountDragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "starburn": "lionsRage1",
+      "heatBlastShield": "blazingShield1",
+      "darkFlakResist01": "darkFlakResist01"
+    },
+    "attackPower": 6371,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "402"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 14,
+    "upgradeXP": 288732,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 81371,
+    "nextEvolveLevel": 13,
+    "tierNumber": 5,
+    "rarity": 5
+  },
+  {
+    "identifier": "E17Q4DiscountDragon",
+    "level": 8,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "110880"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 760848,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "E17Q4DiscountDragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "starburn": "lionsRage1",
+      "heatBlastShield": "blazingShield1",
+      "darkFlakResist01": "darkFlakResist01"
+    },
+    "attackPower": 7043,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "438"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 15,
+    "upgradeXP": 329839,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 113471,
+    "nextEvolveLevel": 13,
+    "tierNumber": 5,
+    "rarity": 5
+  },
+  {
+    "identifier": "E17Q4DiscountDragon",
+    "level": 9,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "120384"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 817942,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "E17Q4DiscountDragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "starburn": "lionsRage1",
+      "heatBlastShield": "blazingShield1",
+      "darkFlakResist01": "darkFlakResist01"
+    },
+    "attackPower": 7632,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "474"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 16,
+    "upgradeXP": 374215,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 132194,
+    "nextEvolveLevel": 13,
+    "tierNumber": 5,
+    "rarity": 5
+  },
+  {
+    "identifier": "E17Q4DiscountDragon",
+    "level": 10,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "129888"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 886931,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "E17Q4DiscountDragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "starburn": "lionsRage1",
+      "heatBlastShield": "blazingShield1",
+      "darkFlakResist01": "darkFlakResist01"
+    },
+    "attackPower": 8366,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "510"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 17,
+    "upgradeXP": 424413,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 157158,
+    "nextEvolveLevel": 13,
+    "tierNumber": 5,
+    "rarity": 5
+  },
+  {
+    "identifier": "E17Q4DiscountDragon",
+    "level": 11,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "139392"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 1005644,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "E17Q4DiscountDragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "starburn": "lionsRage1",
+      "heatBlastShield": "blazingShield1",
+      "darkFlakResist01": "darkFlakResist01"
+    },
+    "attackPower": 9377,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "546"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 18,
+    "upgradeXP": 484080,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 199757,
+    "nextEvolveLevel": 13,
+    "tierNumber": 5,
+    "rarity": 5
+  },
+  {
+    "identifier": "E17Q4DiscountDragon",
+    "level": 12,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "148896"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 1139868,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "E17Q4DiscountDragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "starburn": "lionsRage1",
+      "heatBlastShield": "blazingShield1",
+      "darkFlakResist01": "darkFlakResist01"
+    },
+    "attackPower": 10655,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "582"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 18,
+    "upgradeXP": 548589,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 257248,
+    "nextEvolveLevel": 13,
+    "tierNumber": 5,
+    "rarity": 5
+  },
+  {
+    "identifier": "E17Q4DiscountDragon",
+    "level": 13,
+    "upgradeCost": [
+      {
+        "type": "E17Q4DiscountDragonGoldStone",
+        "amount": "1"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "haveGoldLegendary",
+    "HP": 1299136,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "E17Q4DiscountDragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "starburn": "lionsRage1",
+      "heatBlastShield": "blazingShield1",
+      "darkFlakResist01": "darkFlakResist01",
+      "fireTurretResist01": "fireTurretResist01"
+    },
+    "attackPower": 12087,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "618"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 18,
+    "upgradeXP": 621502,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 332592,
+    "nextEvolveLevel": 21,
+    "tierNumber": 6,
+    "rarity": 5
+  },
+  {
+    "identifier": "E17Q4DiscountDragon",
+    "level": 14,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "167904"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 1666173,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "E17Q4DiscountDragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "starburn": "lionsRage1",
+      "heatBlastShield": "blazingShield1",
+      "darkFlakResist01": "darkFlakResist01",
+      "fireTurretResist01": "fireTurretResist01"
+    },
+    "attackPower": 15510,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "690"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 18,
+    "upgradeXP": 796983,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 547349,
+    "nextEvolveLevel": 21,
+    "tierNumber": 6,
+    "rarity": 5
+  },
+  {
+    "identifier": "E17Q4DiscountDragon",
+    "level": 15,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "186912"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 1960913,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "E17Q4DiscountDragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "starburn": "lionsRage1",
+      "heatBlastShield": "blazingShield1",
+      "darkFlakResist01": "darkFlakResist01",
+      "fireTurretResist01": "fireTurretResist01"
+    },
+    "attackPower": 18043,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "744"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 18,
+    "upgradeXP": 863053,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 749362,
+    "nextEvolveLevel": 21,
+    "tierNumber": 6,
+    "rarity": 5
+  },
+  {
+    "identifier": "E17Q4DiscountDragon",
+    "level": 16,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "201168"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 2132447,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "E17Q4DiscountDragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "starburn": "lionsRage1",
+      "heatBlastShield": "blazingShield1",
+      "darkFlakResist01": "darkFlakResist01",
+      "fireTurretResist01": "fireTurretResist01"
+    },
+    "attackPower": 19822,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "798"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 18,
+    "upgradeXP": 929407,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 895245,
+    "nextEvolveLevel": 21,
+    "tierNumber": 6,
+    "rarity": 5
+  },
+  {
+    "identifier": "E17Q4DiscountDragon",
+    "level": 17,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "215424"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "have2LegendaryGold",
+    "HP": 2296359,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "E17Q4DiscountDragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "starburn": "lionsRage1",
+      "heatBlastShield": "blazingShield1",
+      "darkFlakResist01": "darkFlakResist01",
+      "fireTurretResist01": "fireTurretResist01"
+    },
+    "attackPower": 21346,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "852"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 18,
+    "upgradeXP": 1000866,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 1038133,
+    "nextEvolveLevel": 21,
+    "tierNumber": 6,
+    "rarity": 5
+  },
+  {
+    "identifier": "E17Q4DiscountDragon",
+    "level": 18,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "229680"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 2472884,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "E17Q4DiscountDragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "starburn": "lionsRage1",
+      "heatBlastShield": "blazingShield1",
+      "darkFlakResist01": "darkFlakResist01",
+      "fireTurretResist01": "fireTurretResist01"
+    },
+    "attackPower": 22987,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "906"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 19,
+    "upgradeXP": 1431562,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 1203895,
+    "nextEvolveLevel": 21,
+    "tierNumber": 6,
+    "rarity": 5
+  },
+  {
+    "identifier": "E17Q4DiscountDragon",
+    "level": 19,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "323997"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 2598042,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "E17Q4DiscountDragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "starburn": "lionsRage1",
+      "heatBlastShield": "blazingShield1",
+      "darkFlakResist01": "darkFlakResist01",
+      "fireTurretResist01": "fireTurretResist01"
+    },
+    "attackPower": 24151,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "942"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 19,
+    "upgradeXP": 1504030,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 1328896,
+    "nextEvolveLevel": 21,
+    "tierNumber": 6,
+    "rarity": 5
+  },
+  {
+    "identifier": "E17Q4DiscountDragon",
+    "level": 20,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "336620"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 2797742,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "E17Q4DiscountDragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "starburn": "lionsRage1",
+      "heatBlastShield": "blazingShield1",
+      "darkFlakResist01": "darkFlakResist01",
+      "fireTurretResist01": "fireTurretResist01"
+    },
+    "attackPower": 26007,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "978"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 20,
+    "upgradeXP": 1580172,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 1541051,
+    "nextEvolveLevel": 21,
+    "tierNumber": 6,
+    "rarity": 5
+  },
+  {
+    "identifier": "E17Q4DiscountDragon",
+    "level": 21,
+    "upgradeCost": [
+      {
+        "type": "E17Q4DiscountDragonPlatinumStone",
+        "amount": "1"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "havePlatinumLegendary",
+    "HP": 2939336,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "E17Q4DiscountDragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "starburn": "lionsRage1",
+      "heatBlastShield": "blazingShield1",
+      "darkFlakResist01": "darkFlakResist01",
+      "fireTurretResist01": "fireTurretResist01"
+    },
+    "attackPower": 27324,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1032"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 21,
+    "upgradeXP": 1701670,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 1701014,
+    "nextEvolveLevel": 29,
+    "tierNumber": 7,
+    "rarity": 5
+  },
+  {
+    "identifier": "E17Q4DiscountDragon",
+    "level": 22,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "368178"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 3165282,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "E17Q4DiscountDragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "starburn": "lionsRage1",
+      "heatBlastShield": "blazingShield1",
+      "darkFlakResist01": "darkFlakResist01",
+      "fireTurretResist01": "fireTurretResist01"
+    },
+    "attackPower": 29425,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1086"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 22,
+    "upgradeXP": 2241311,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 1972653,
+    "nextEvolveLevel": 29,
+    "tierNumber": 7,
+    "rarity": 5
+  },
+  {
+    "identifier": "E17Q4DiscountDragon",
+    "level": 23,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "473472"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 3408633,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "E17Q4DiscountDragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "starburn": "lionsRage1",
+      "heatBlastShield": "blazingShield1",
+      "darkFlakResist01": "darkFlakResist01",
+      "fireTurretResist01": "fireTurretResist01"
+    },
+    "attackPower": 31687,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1140"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 23,
+    "upgradeXP": 2413642,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 2287584,
+    "nextEvolveLevel": 29,
+    "tierNumber": 7,
+    "rarity": 5
+  },
+  {
+    "identifier": "E17Q4DiscountDragon",
+    "level": 24,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "496631"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 3670685,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "E17Q4DiscountDragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "starburn": "lionsRage1",
+      "heatBlastShield": "blazingShield1",
+      "darkFlakResist01": "darkFlakResist01",
+      "fireTurretResist01": "fireTurretResist01"
+    },
+    "attackPower": 34124,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1194"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 24,
+    "upgradeXP": 2599221,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 2652892,
+    "nextEvolveLevel": 29,
+    "tierNumber": 7,
+    "rarity": 5
+  },
+  {
+    "identifier": "E17Q4DiscountDragon",
+    "level": 25,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "519790"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 3952851,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "E17Q4DiscountDragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "starburn": "lionsRage1",
+      "heatBlastShield": "blazingShield1",
+      "darkFlakResist01": "darkFlakResist01",
+      "fireTurretResist01": "fireTurretResist01"
+    },
+    "attackPower": 35836,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1248"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 25,
+    "upgradeXP": 2799070,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 3000270,
+    "nextEvolveLevel": 29,
+    "tierNumber": 7,
+    "rarity": 5
+  },
+  {
+    "identifier": "E17Q4DiscountDragon",
+    "level": 26,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "542949"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "have2LegendaryPlatinum",
+    "HP": 4256719,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "E17Q4DiscountDragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "starburn": "lionsRage1",
+      "heatBlastShield": "blazingShield1",
+      "darkFlakResist01": "darkFlakResist01",
+      "fireTurretResist01": "fireTurretResist01"
+    },
+    "attackPower": 38592,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1302"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 26,
+    "upgradeXP": 3523887,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 3479258,
+    "nextEvolveLevel": 29,
+    "tierNumber": 7,
+    "rarity": 5
+  },
+  {
+    "identifier": "E17Q4DiscountDragon",
+    "level": 27,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "661814"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 4472174,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "E17Q4DiscountDragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "starburn": "lionsRage1",
+      "heatBlastShield": "blazingShield1",
+      "darkFlakResist01": "darkFlakResist01",
+      "fireTurretResist01": "fireTurretResist01"
+    },
+    "attackPower": 40545,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1338"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 27,
+    "upgradeXP": 3702282,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 3840428,
+    "nextEvolveLevel": 29,
+    "tierNumber": 7,
+    "rarity": 5
+  },
+  {
+    "identifier": "E17Q4DiscountDragon",
+    "level": 28,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "679864"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 4583962,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "E17Q4DiscountDragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "starburn": "lionsRage1",
+      "heatBlastShield": "blazingShield1",
+      "darkFlakResist01": "darkFlakResist01",
+      "fireTurretResist01": "fireTurretResist01"
+    },
+    "attackPower": 41559,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1356"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 27,
+    "upgradeXP": 3794838,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 4034784,
+    "nextEvolveLevel": 29,
+    "tierNumber": 7,
+    "rarity": 5
+  },
+  {
+    "identifier": "E17Q4DiscountDragon",
+    "level": 29,
+    "upgradeCost": [
+      {
+        "type": "E17Q4DiscountDragonSapphireStone",
+        "amount": "1"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "haveLegendarySapphire",
+    "HP": 4698546,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "E17Q4DiscountDragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "starburn": "lionsRage1",
+      "heatBlastShield": "blazingShield1",
+      "darkFlakResist01": "darkFlakResist01",
+      "fireTurretResist01": "fireTurretResist01"
+    },
+    "attackPower": 42598,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1374"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 27,
+    "upgradeXP": 3889704,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 4239073,
+    "nextEvolveLevel": 36,
+    "tierNumber": 8,
+    "rarity": 5
+  },
+  {
+    "identifier": "E17Q4DiscountDragon",
+    "level": 30,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "697913"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 4936381,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "E17Q4DiscountDragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "starburn": "lionsRage1",
+      "heatBlastShield": "blazingShield1",
+      "darkFlakResist01": "darkFlakResist01",
+      "fireTurretResist01": "fireTurretResist01"
+    },
+    "attackPower": 44754,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1410"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 28,
+    "upgradeXP": 4086617,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 4679076,
+    "nextEvolveLevel": 36,
+    "tierNumber": 8,
+    "rarity": 5
+  },
+  {
+    "identifier": "E17Q4DiscountDragon",
+    "level": 31,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "715963"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 5186250,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "E17Q4DiscountDragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "starburn": "lionsRage1",
+      "heatBlastShield": "blazingShield1",
+      "darkFlakResist01": "darkFlakResist01",
+      "fireTurretResist01": "fireTurretResist01"
+    },
+    "attackPower": 47020,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1446"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 29,
+    "upgradeXP": 4293494,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 5164786,
+    "nextEvolveLevel": 36,
+    "tierNumber": 8,
+    "rarity": 5
+  },
+  {
+    "identifier": "E17Q4DiscountDragon",
+    "level": 32,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "734012"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 5448754,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "E17Q4DiscountDragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "starburn": "lionsRage1",
+      "heatBlastShield": "blazingShield1",
+      "darkFlakResist01": "darkFlakResist01",
+      "fireTurretResist01": "fireTurretResist01"
+    },
+    "attackPower": 49400,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1482"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 29,
+    "upgradeXP": 4510848,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 5701042,
+    "nextEvolveLevel": 36,
+    "tierNumber": 8,
+    "rarity": 5
+  },
+  {
+    "identifier": "E17Q4DiscountDragon",
+    "level": 33,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "752062"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "have2LegendarySapphire",
+    "HP": 5724547,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "E17Q4DiscountDragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "starburn": "lionsRage1",
+      "heatBlastShield": "blazingShield1",
+      "darkFlakResist01": "darkFlakResist01",
+      "fireTurretResist01": "fireTurretResist01"
+    },
+    "attackPower": 51901,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1518"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 30,
+    "upgradeXP": 4739207,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 6292754,
+    "nextEvolveLevel": 36,
+    "tierNumber": 8,
+    "rarity": 5
+  },
+  {
+    "identifier": "E17Q4DiscountDragon",
+    "level": 34,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "770111"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 6164678,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "E17Q4DiscountDragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "starburn": "lionsRage1",
+      "heatBlastShield": "blazingShield1",
+      "darkFlakResist01": "darkFlakResist01",
+      "fireTurretResist01": "fireTurretResist01"
+    },
+    "attackPower": 55892,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1572"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 31,
+    "upgradeXP": 5103600,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 7297545,
+    "nextEvolveLevel": 36,
+    "tierNumber": 8,
+    "rarity": 5
+  },
+  {
+    "identifier": "E17Q4DiscountDragon",
+    "level": 35,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "797185"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 6476722,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "E17Q4DiscountDragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "starburn": "lionsRage1",
+      "heatBlastShield": "blazingShield1",
+      "darkFlakResist01": "darkFlakResist01",
+      "fireTurretResist01": "fireTurretResist01"
+    },
+    "attackPower": 58721,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1608"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 32,
+    "upgradeXP": 5361968,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 8055060,
+    "nextEvolveLevel": 36,
+    "tierNumber": 8,
+    "rarity": 5
+  },
+  {
+    "identifier": "E17Q4DiscountDragon",
+    "level": 36,
+    "upgradeCost": [
+      {
+        "type": "E17Q4DiscountDragonGarnetStone",
+        "amount": "1"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "haveLegendaryGarnet",
+    "HP": 6804559,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "E17Q4DiscountDragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "starburn": "lionsRage1",
+      "heatBlastShield": "blazingShield1",
+      "darkFlakResist01": "darkFlakResist01",
+      "fireTurretResist01": "fireTurretResist01"
+    },
+    "attackPower": 61694,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1644"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 32,
+    "upgradeXP": 5633412,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 8891275,
+    "nextEvolveLevel": 46,
+    "tierNumber": 9,
+    "rarity": 5
+  },
+  {
+    "identifier": "E17Q4DiscountDragon",
+    "level": 37,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "833284"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 7148994,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "E17Q4DiscountDragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "starburn": "lionsRage1",
+      "heatBlastShield": "blazingShield1",
+      "darkFlakResist01": "darkFlakResist01",
+      "fireTurretResist01": "fireTurretResist01"
+    },
+    "attackPower": 64817,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1680"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 33,
+    "upgradeXP": 5918598,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 9814178,
+    "nextEvolveLevel": 46,
+    "tierNumber": 9,
+    "rarity": 5
+  },
+  {
+    "identifier": "E17Q4DiscountDragon",
+    "level": 38,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "851334"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 7510872,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "E17Q4DiscountDragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "starburn": "lionsRage1",
+      "heatBlastShield": "blazingShield1",
+      "darkFlakResist01": "darkFlakResist01",
+      "fireTurretResist01": "fireTurretResist01"
+    },
+    "attackPower": 68098,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1716"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 34,
+    "upgradeXP": 6218221,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 10833077,
+    "nextEvolveLevel": 46,
+    "tierNumber": 9,
+    "rarity": 5
+  },
+  {
+    "identifier": "E17Q4DiscountDragon",
+    "level": 39,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "869383"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 7891060,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "E17Q4DiscountDragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "starburn": "lionsRage1",
+      "heatBlastShield": "blazingShield1",
+      "darkFlakResist01": "darkFlakResist01",
+      "fireTurretResist01": "fireTurretResist01"
+    },
+    "attackPower": 71546,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1752"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 34,
+    "upgradeXP": 6533011,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 11957504,
+    "nextEvolveLevel": 46,
+    "tierNumber": 9,
+    "rarity": 5
+  },
+  {
+    "identifier": "E17Q4DiscountDragon",
+    "level": 40,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "887433"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 8290502,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "E17Q4DiscountDragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "starburn": "lionsRage1",
+      "heatBlastShield": "blazingShield1",
+      "darkFlakResist01": "darkFlakResist01",
+      "fireTurretResist01": "fireTurretResist01"
+    },
+    "attackPower": 75168,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1788"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 35,
+    "upgradeXP": 6863743,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 13198731,
+    "nextEvolveLevel": 46,
+    "tierNumber": 9,
+    "rarity": 5
+  },
+  {
+    "identifier": "E17Q4DiscountDragon",
+    "level": 41,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "905482"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "have2LegendaryGarnet",
+    "HP": 8497749,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "E17Q4DiscountDragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "starburn": "lionsRage1",
+      "heatBlastShield": "blazingShield1",
+      "darkFlakResist01": "darkFlakResist01",
+      "fireTurretResist01": "fireTurretResist01"
+    },
+    "attackPower": 77047,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1806"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 35,
+    "upgradeXP": 7035336,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 13867018,
+    "nextEvolveLevel": 46,
+    "tierNumber": 9,
+    "rarity": 5
+  },
+  {
+    "identifier": "E17Q4DiscountDragon",
+    "level": 42,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "914507"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 8927892,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "E17Q4DiscountDragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "starburn": "lionsRage1",
+      "heatBlastShield": "blazingShield1",
+      "darkFlakResist01": "darkFlakResist01",
+      "fireTurretResist01": "fireTurretResist01"
+    },
+    "attackPower": 80947,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1842"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 36,
+    "upgradeXP": 7391491,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 15306491,
+    "nextEvolveLevel": 46,
+    "tierNumber": 9,
+    "rarity": 5
+  },
+  {
+    "identifier": "E17Q4DiscountDragon",
+    "level": 43,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "932556"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 9379816,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "E17Q4DiscountDragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "starburn": "lionsRage1",
+      "heatBlastShield": "blazingShield1",
+      "darkFlakResist01": "darkFlakResist01",
+      "fireTurretResist01": "fireTurretResist01"
+    },
+    "attackPower": 85045,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1878"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 37,
+    "upgradeXP": 7765681,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 16895385,
+    "nextEvolveLevel": 46,
+    "tierNumber": 9,
+    "rarity": 5
+  },
+  {
+    "identifier": "E17Q4DiscountDragon",
+    "level": 44,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "950606"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 9854633,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "E17Q4DiscountDragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "starburn": "lionsRage1",
+      "heatBlastShield": "blazingShield1",
+      "darkFlakResist01": "darkFlakResist01",
+      "fireTurretResist01": "fireTurretResist01"
+    },
+    "attackPower": 89350,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1914"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 37,
+    "upgradeXP": 8158813,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 18649207,
+    "nextEvolveLevel": 46,
+    "tierNumber": 9,
+    "rarity": 5
+  },
+  {
+    "identifier": "E17Q4DiscountDragon",
+    "level": 45,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "968655"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 10353478,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "E17Q4DiscountDragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "starburn": "lionsRage1",
+      "heatBlastShield": "blazingShield1",
+      "darkFlakResist01": "darkFlakResist01",
+      "fireTurretResist01": "fireTurretResist01"
+    },
+    "attackPower": 93874,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1950"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 38,
+    "upgradeXP": 8571843,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 20585163,
+    "nextEvolveLevel": 46,
+    "tierNumber": 9,
+    "rarity": 5
+  },
+  {
+    "identifier": "E17Q4DiscountDragon",
+    "level": 46,
+    "upgradeCost": [
+      {
+        "type": "E17Q4DiscountDragonEmeraldStone",
+        "amount": "1"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "haveLegendaryEmerald",
+    "HP": 10612290,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "E17Q4DiscountDragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "starburn": "lionsRage1",
+      "heatBlastShield": "blazingShield1",
+      "darkFlakResist01": "darkFlakResist01",
+      "fireTurretResist01": "fireTurretResist01"
+    },
+    "attackPower": 96220,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1968"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 38,
+    "upgradeXP": 8786136,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 21627242,
+    "nextEvolveLevel": 51,
+    "tierNumber": 10,
+    "rarity": 5
+  },
+  {
+    "identifier": "E17Q4DiscountDragon",
+    "level": 47,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "995730"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 11713883,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "E17Q4DiscountDragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "starburn": "lionsRage1",
+      "heatBlastShield": "blazingShield1",
+      "darkFlakResist01": "darkFlakResist01",
+      "fireTurretResist01": "fireTurretResist01"
+    },
+    "attackPower": 106209,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2040"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 40,
+    "upgradeXP": 9698236,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 26350272,
+    "nextEvolveLevel": 51,
+    "tierNumber": 10,
+    "rarity": 5
+  },
+  {
+    "identifier": "E17Q4DiscountDragon",
+    "level": 48,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1031828"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 12929865,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "E17Q4DiscountDragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "starburn": "lionsRage1",
+      "heatBlastShield": "blazingShield1",
+      "darkFlakResist01": "darkFlakResist01",
+      "fireTurretResist01": "fireTurretResist01"
+    },
+    "attackPower": 117235,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2112"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 42,
+    "upgradeXP": 10705033,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 32105211,
+    "nextEvolveLevel": 51,
+    "tierNumber": 10,
+    "rarity": 5
+  },
+  {
+    "identifier": "E17Q4DiscountDragon",
+    "level": 49,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1067927"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "have2LegendaryEmerald",
+    "HP": 14272046,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "E17Q4DiscountDragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "starburn": "lionsRage1",
+      "heatBlastShield": "blazingShield1",
+      "darkFlakResist01": "darkFlakResist01",
+      "fireTurretResist01": "fireTurretResist01"
+    },
+    "attackPower": 129405,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2184"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 44,
+    "upgradeXP": 11816341,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 39116698,
+    "nextEvolveLevel": 51,
+    "tierNumber": 10,
+    "rarity": 5
+  },
+  {
+    "identifier": "E17Q4DiscountDragon",
+    "level": 50,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1104026"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 15369358,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "E17Q4DiscountDragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "starburn": "lionsRage1",
+      "heatBlastShield": "blazingShield1",
+      "darkFlakResist01": "darkFlakResist01",
+      "fireTurretResist01": "fireTurretResist01"
+    },
+    "attackPower": 139355,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2238"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 45,
+    "upgradeXP": 12724900,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 45363091,
+    "nextEvolveLevel": 51,
+    "tierNumber": 10,
+    "rarity": 5
+  },
+  {
+    "identifier": "E17Q4DiscountDragon",
+    "level": 51,
+    "upgradeCost": [
+      {
+        "type": "E17Q4DiscountDragonObsidianStone",
+        "amount": "1"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "haveLegendaryObsidian",
+    "HP": 16147387,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "E17Q4DiscountDragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "starburn": "lionsRage1",
+      "heatBlastShield": "blazingShield1",
+      "darkFlakResist01": "darkFlakResist01",
+      "fireTurretResist01": "fireTurretResist01"
+    },
+    "attackPower": 146410,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2274"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 46,
+    "upgradeXP": 13369093,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 50072261,
+    "nextEvolveLevel": 0,
+    "tierNumber": 11,
+    "rarity": 5
+  },
+  {
+    "identifier": "E17Q4DiscountDragon",
+    "level": 52,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1149150"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 17388928,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "E17Q4DiscountDragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "starburn": "lionsRage1",
+      "heatBlastShield": "blazingShield1",
+      "darkFlakResist01": "darkFlakResist01",
+      "fireTurretResist01": "fireTurretResist01"
+    },
+    "attackPower": 157667,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2328"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 48,
+    "upgradeXP": 14397039,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 58068192,
+    "nextEvolveLevel": 0,
+    "tierNumber": 11,
+    "rarity": 5
+  },
+  {
+    "identifier": "E17Q4DiscountDragon",
+    "level": 53,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1176224"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 18725935,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "E17Q4DiscountDragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "starburn": "lionsRage1",
+      "heatBlastShield": "blazingShield1",
+      "darkFlakResist01": "darkFlakResist01",
+      "fireTurretResist01": "fireTurretResist01"
+    },
+    "attackPower": 169790,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2382"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 49,
+    "upgradeXP": 15504034,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 67341184,
+    "nextEvolveLevel": 0,
+    "tierNumber": 11,
+    "rarity": 5
+  },
+  {
+    "identifier": "E17Q4DiscountDragon",
+    "level": 54,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1203298"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "have2LegendaryObsidian",
+    "HP": 20165736,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "E17Q4DiscountDragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "starburn": "lionsRage1",
+      "heatBlastShield": "blazingShield1",
+      "darkFlakResist01": "darkFlakResist01",
+      "fireTurretResist01": "fireTurretResist01"
+    },
+    "attackPower": 182845,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2436"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 52,
+    "upgradeXP": 16696141,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 78094999,
+    "nextEvolveLevel": 0,
+    "tierNumber": 11,
+    "rarity": 5
+  },
+  {
+    "identifier": "E17Q4DiscountDragon",
+    "level": 55,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1230373"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 21716231,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "E17Q4DiscountDragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "starburn": "lionsRage1",
+      "heatBlastShield": "blazingShield1",
+      "darkFlakResist01": "darkFlakResist01",
+      "fireTurretResist01": "fireTurretResist01"
+    },
+    "attackPower": 196904,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2490"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 55,
+    "upgradeXP": 17979907,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 88104753,
+    "nextEvolveLevel": 0,
+    "tierNumber": 11,
+    "rarity": 5
+  },
+  {
+    "identifier": "E17Q4DiscountDragon",
+    "level": 56,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1257447"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 22815583,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "E17Q4DiscountDragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "starburn": "lionsRage1",
+      "heatBlastShield": "blazingShield1",
+      "darkFlakResist01": "darkFlakResist01",
+      "fireTurretResist01": "fireTurretResist01"
+    },
+    "attackPower": 206872,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2526"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 57,
+    "upgradeXP": 18890137,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 98964626,
+    "nextEvolveLevel": 0,
+    "tierNumber": 11,
+    "rarity": 5
+  },
+  {
+    "identifier": "E17Q4DiscountDragon",
+    "level": 57,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1275496"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "haveMythicObsidian",
+    "HP": 23970586,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "E17Q4DiscountDragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "starburn": "lionsRage1",
+      "heatBlastShield": "blazingShield1",
+      "darkFlakResist01": "darkFlakResist01",
+      "fireTurretResist01": "fireTurretResist01"
+    },
+    "attackPower": 217345,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2562"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 59,
+    "upgradeXP": 19846444,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 107725526,
+    "nextEvolveLevel": 0,
+    "tierNumber": 11,
+    "rarity": 5
+  },
+  {
+    "identifier": "E17Q4DiscountDragon",
+    "level": 58,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1293546"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 25184073,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "E17Q4DiscountDragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "starburn": "lionsRage1",
+      "heatBlastShield": "blazingShield1",
+      "darkFlakResist01": "darkFlakResist01",
+      "fireTurretResist01": "fireTurretResist01"
+    },
+    "attackPower": 228348,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2598"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 60,
+    "upgradeXP": 20851166,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 115655313,
+    "nextEvolveLevel": 0,
+    "tierNumber": 11,
+    "rarity": 5
+  },
+  {
+    "identifier": "E17Q4DiscountDragon",
+    "level": 59,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1311595"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 26458990,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "E17Q4DiscountDragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "starburn": "lionsRage1",
+      "heatBlastShield": "blazingShield1",
+      "darkFlakResist01": "darkFlakResist01",
+      "fireTurretResist01": "fireTurretResist01"
+    },
+    "attackPower": 239908,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2634"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 61,
+    "upgradeXP": 21906753,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 122698754,
+    "nextEvolveLevel": 0,
+    "tierNumber": 11,
+    "rarity": 5
+  },
+  {
+    "identifier": "E17Q4DiscountDragon",
+    "level": 60,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1329645"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 27798454,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "E17Q4DiscountDragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "starburn": "lionsRage1",
+      "heatBlastShield": "blazingShield1",
+      "darkFlakResist01": "darkFlakResist01",
+      "fireTurretResist01": "fireTurretResist01"
+    },
+    "attackPower": 252054,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2670"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 62,
+    "upgradeXP": 0,
+    "xpRewardMultiplier": 1.2,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 129871499,
+    "nextEvolveLevel": 0,
+    "tierNumber": 11,
+    "rarity": 5
+  }
+]

@@ -1,0 +1,3152 @@
+[
+  {
+    "identifier": "earthFamiliar",
+    "level": 1,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "4"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 5791,
+    "fullHealDuration": 1,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T9C3WDdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "aoeSpell": "aoe1",
+      "archerResist01": "archerResist01"
+    },
+    "attackPower": 148,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "0"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 1,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "100"
+      }
+    ],
+    "powerLevel": 100
+  },
+  {
+    "identifier": "earthFamiliar",
+    "level": 2,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "4"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 6016,
+    "fullHealDuration": 1,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T9C3WDdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "aoeSpell": "aoe1",
+      "archerResist01": "archerResist01"
+    },
+    "attackPower": 159,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "0"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 1,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "100"
+      }
+    ],
+    "powerLevel": 200
+  },
+  {
+    "identifier": "earthFamiliar",
+    "level": 3,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "4"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 6237,
+    "fullHealDuration": 1,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T9C3WDdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "aoeSpell": "aoe1",
+      "archerResist01": "archerResist01"
+    },
+    "attackPower": 165,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "0"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 1,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "100"
+      }
+    ],
+    "powerLevel": 300
+  },
+  {
+    "identifier": "earthFamiliar",
+    "level": 4,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "4"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 6411,
+    "fullHealDuration": 1,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T9C3WDdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "aoeSpell": "aoe1",
+      "archerResist01": "archerResist01"
+    },
+    "attackPower": 180,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "0"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 1,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "100"
+      }
+    ],
+    "powerLevel": 400
+  },
+  {
+    "identifier": "earthFamiliar",
+    "level": 5,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "4"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 6784,
+    "fullHealDuration": 1,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T9C3WDdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "aoeSpell": "aoe1",
+      "archerResist01": "archerResist01"
+    },
+    "attackPower": 195,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "0"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 1,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "100"
+      }
+    ],
+    "powerLevel": 500
+  },
+  {
+    "identifier": "earthFamiliar",
+    "level": 6,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "4"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 7098,
+    "fullHealDuration": 1,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T9C3WDdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "aoeSpell": "aoe1",
+      "archerResist01": "archerResist01"
+    },
+    "attackPower": 209,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "0"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 1,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "100"
+      }
+    ],
+    "powerLevel": 600
+  },
+  {
+    "identifier": "earthFamiliar",
+    "level": 7,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "4"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 7538,
+    "fullHealDuration": 1,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T9C3WDdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "aoeSpell": "aoe1",
+      "archerResist01": "archerResist01"
+    },
+    "attackPower": 223,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "0"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 1,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "100"
+      }
+    ],
+    "powerLevel": 700
+  },
+  {
+    "identifier": "earthFamiliar",
+    "level": 8,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "4"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 9624,
+    "fullHealDuration": 1,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T9C3WDdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "aoeSpell": "aoe1",
+      "archerResist01": "archerResist01"
+    },
+    "attackPower": 245,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "0"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 1,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "100"
+      }
+    ],
+    "powerLevel": 800
+  },
+  {
+    "identifier": "earthFamiliar",
+    "level": 9,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "4"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 10434,
+    "fullHealDuration": 1,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T9C3WDdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "aoeSpell": "aoe1",
+      "archerResist01": "archerResist01"
+    },
+    "attackPower": 268,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "0"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 1,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "100"
+      }
+    ],
+    "powerLevel": 900
+  },
+  {
+    "identifier": "earthFamiliar",
+    "level": 10,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "4"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 11711,
+    "fullHealDuration": 1,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T9C3WDdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "aoeSpell": "aoe1",
+      "archerResist01": "archerResist01"
+    },
+    "attackPower": 294,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "0"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 1,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "100"
+      }
+    ],
+    "powerLevel": 1000
+  },
+  {
+    "identifier": "earthFamiliar",
+    "level": 11,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "4"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 12657,
+    "fullHealDuration": 1,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T9C3WDdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "aoeSpell": "aoe1",
+      "archerResist01": "archerResist01"
+    },
+    "attackPower": 322,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "0"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 1,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "100"
+      }
+    ],
+    "powerLevel": 1100
+  },
+  {
+    "identifier": "earthFamiliar",
+    "level": 12,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "4"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 13665,
+    "fullHealDuration": 1,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T9C3WDdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "aoeSpell": "aoe1",
+      "archerResist01": "archerResist01"
+    },
+    "attackPower": 356,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "0"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 1,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "100"
+      }
+    ],
+    "powerLevel": 1200
+  },
+  {
+    "identifier": "earthFamiliar",
+    "level": 13,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "4"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 15261,
+    "fullHealDuration": 1,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T9C3WDdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "aoeSpell": "aoe1",
+      "archerResist01": "archerResist01"
+    },
+    "attackPower": 391,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "0"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 1,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "100"
+      }
+    ],
+    "powerLevel": 1300
+  },
+  {
+    "identifier": "earthFamiliar",
+    "level": 14,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "4"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 17014,
+    "fullHealDuration": 1,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T9C3WDdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "aoeSpell": "aoe1",
+      "archerResist01": "archerResist01"
+    },
+    "attackPower": 427,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "0"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 1,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "100"
+      }
+    ],
+    "powerLevel": 1400
+  },
+  {
+    "identifier": "earthFamiliar",
+    "level": 15,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "4"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 18686,
+    "fullHealDuration": 1,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T9C3WDdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "aoeSpell": "aoe1",
+      "archerResist01": "archerResist01"
+    },
+    "attackPower": 463,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "0"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 1,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "100"
+      }
+    ],
+    "powerLevel": 1500
+  },
+  {
+    "identifier": "earthFamiliar",
+    "level": 16,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "4"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 24710,
+    "fullHealDuration": 1,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T9C3WDdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "aoeSpell": "aoe1",
+      "archerResist01": "archerResist01"
+    },
+    "attackPower": 496,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "0"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 1,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "100"
+      }
+    ],
+    "powerLevel": 1600
+  },
+  {
+    "identifier": "earthFamiliar",
+    "level": 17,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "4"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 25820,
+    "fullHealDuration": 1,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T9C3WDdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "aoeSpell": "aoe1",
+      "archerResist01": "archerResist01"
+    },
+    "attackPower": 526,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "0"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 1,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "100"
+      }
+    ],
+    "powerLevel": 1700
+  },
+  {
+    "identifier": "earthFamiliar",
+    "level": 18,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "4"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 27318,
+    "fullHealDuration": 1,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T9C3WDdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "aoeSpell": "aoe1",
+      "archerResist01": "archerResist01"
+    },
+    "attackPower": 554,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "0"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 1,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "100"
+      }
+    ],
+    "powerLevel": 1800
+  },
+  {
+    "identifier": "earthFamiliar",
+    "level": 19,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "4"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 28561,
+    "fullHealDuration": 1,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T9C3WDdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "aoeSpell": "aoe1",
+      "archerResist01": "archerResist01"
+    },
+    "attackPower": 587,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "0"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 1,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "100"
+      }
+    ],
+    "powerLevel": 1900
+  },
+  {
+    "identifier": "earthFamiliar",
+    "level": 20,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "4"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 30206,
+    "fullHealDuration": 1,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T9C3WDdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "aoeSpell": "aoe1",
+      "archerResist01": "archerResist01"
+    },
+    "attackPower": 628,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "0"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 1,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "100"
+      }
+    ],
+    "powerLevel": 2000
+  },
+  {
+    "identifier": "earthFamiliar",
+    "level": 21,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "4"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 32846,
+    "fullHealDuration": 1,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T9C3WDdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "aoeSpell": "aoe1",
+      "archerResist01": "archerResist01"
+    },
+    "attackPower": 676,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "0"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 1,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "100"
+      }
+    ],
+    "powerLevel": 2100
+  },
+  {
+    "identifier": "earthFamiliar",
+    "level": 22,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "4"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 36047,
+    "fullHealDuration": 1,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T9C3WDdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "aoeSpell": "aoe1",
+      "archerResist01": "archerResist01"
+    },
+    "attackPower": 734,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "0"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 1,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "100"
+      }
+    ],
+    "powerLevel": 2200
+  },
+  {
+    "identifier": "earthFamiliar",
+    "level": 23,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "4"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 39072,
+    "fullHealDuration": 1,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T9C3WDdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "aoeSpell": "aoe1",
+      "archerResist01": "archerResist01"
+    },
+    "attackPower": 799,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "0"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 1,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "100"
+      }
+    ],
+    "powerLevel": 2300
+  },
+  {
+    "identifier": "earthFamiliar",
+    "level": 24,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "4"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 42724,
+    "fullHealDuration": 1,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T9C3WDdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "aoeSpell": "aoe1",
+      "archerResist01": "archerResist01"
+    },
+    "attackPower": 862,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "0"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 1,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "100"
+      }
+    ],
+    "powerLevel": 2400
+  },
+  {
+    "identifier": "earthFamiliar",
+    "level": 25,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "4"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 46171,
+    "fullHealDuration": 1,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T9C3WDdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "aoeSpell": "aoe1",
+      "archerResist01": "archerResist01"
+    },
+    "attackPower": 919,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "0"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 1,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "100"
+      }
+    ],
+    "powerLevel": 2500
+  },
+  {
+    "identifier": "earthFamiliar",
+    "level": 26,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "4"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 58051,
+    "fullHealDuration": 1,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T9C3WDdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "aoeSpell": "aoe1",
+      "archerResist01": "archerResist01"
+    },
+    "attackPower": 974,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "0"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 1,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "100"
+      }
+    ],
+    "powerLevel": 2600
+  },
+  {
+    "identifier": "earthFamiliar",
+    "level": 27,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "4"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 60232,
+    "fullHealDuration": 1,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T9C3WDdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "aoeSpell": "aoe1",
+      "archerResist01": "archerResist01"
+    },
+    "attackPower": 1022,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "0"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 1,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "100"
+      }
+    ],
+    "powerLevel": 2700
+  },
+  {
+    "identifier": "earthFamiliar",
+    "level": 28,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "4"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 63077,
+    "fullHealDuration": 1,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T9C3WDdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "aoeSpell": "aoe1",
+      "archerResist01": "archerResist01"
+    },
+    "attackPower": 1065,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "0"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 1,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "100"
+      }
+    ],
+    "powerLevel": 2800
+  },
+  {
+    "identifier": "earthFamiliar",
+    "level": 29,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "4"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 65452,
+    "fullHealDuration": 1,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T9C3WDdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "aoeSpell": "aoe1",
+      "archerResist01": "archerResist01"
+    },
+    "attackPower": 1115,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "0"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 1,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "100"
+      }
+    ],
+    "powerLevel": 2900
+  },
+  {
+    "identifier": "earthFamiliar",
+    "level": 30,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "4"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 67954,
+    "fullHealDuration": 1,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T9C3WDdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "aoeSpell": "aoe1",
+      "archerResist01": "archerResist01"
+    },
+    "attackPower": 1176,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "0"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 1,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "100"
+      }
+    ],
+    "powerLevel": 3000
+  },
+  {
+    "identifier": "earthFamiliar",
+    "level": 31,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "4"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 72962,
+    "fullHealDuration": 1,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T9C3WDdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "aoeSpell": "aoe1",
+      "archerResist01": "archerResist01"
+    },
+    "attackPower": 1245,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "0"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 1,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "100"
+      }
+    ],
+    "powerLevel": 3100
+  },
+  {
+    "identifier": "earthFamiliar",
+    "level": 32,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "4"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 78317,
+    "fullHealDuration": 1,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T9C3WDdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "aoeSpell": "aoe1",
+      "archerResist01": "archerResist01"
+    },
+    "attackPower": 1326,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "0"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 1,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "100"
+      }
+    ],
+    "powerLevel": 3200
+  },
+  {
+    "identifier": "earthFamiliar",
+    "level": 33,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "4"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 83333,
+    "fullHealDuration": 1,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T9C3WDdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "aoeSpell": "aoe1",
+      "archerResist01": "archerResist01"
+    },
+    "attackPower": 1421,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "0"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 1,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "100"
+      }
+    ],
+    "powerLevel": 3300
+  },
+  {
+    "identifier": "earthFamiliar",
+    "level": 34,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "4"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 89408,
+    "fullHealDuration": 1,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T9C3WDdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "aoeSpell": "aoe1",
+      "archerResist01": "archerResist01"
+    },
+    "attackPower": 1519,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "0"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 1,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "100"
+      }
+    ],
+    "powerLevel": 3400
+  },
+  {
+    "identifier": "earthFamiliar",
+    "level": 35,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "4"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 95901,
+    "fullHealDuration": 1,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T9C3WDdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "aoeSpell": "aoe1",
+      "archerResist01": "archerResist01"
+    },
+    "attackPower": 1624,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "0"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 1,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "100"
+      }
+    ],
+    "powerLevel": 3500
+  },
+  {
+    "identifier": "earthFamiliar",
+    "level": 36,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "4"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 102010,
+    "fullHealDuration": 1,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T9C3WDdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "aoeSpell": "aoe1",
+      "archerResist01": "archerResist01"
+    },
+    "attackPower": 1739,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "0"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 1,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "100"
+      }
+    ],
+    "powerLevel": 3600
+  },
+  {
+    "identifier": "earthFamiliar",
+    "level": 37,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "4"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 109376,
+    "fullHealDuration": 1,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T9C3WDdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "aoeSpell": "aoe1",
+      "archerResist01": "archerResist01"
+    },
+    "attackPower": 1859,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "0"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 1,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "100"
+      }
+    ],
+    "powerLevel": 3700
+  },
+  {
+    "identifier": "earthFamiliar",
+    "level": 38,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "4"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 117247,
+    "fullHealDuration": 1,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T9C3WDdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "aoeSpell": "aoe1",
+      "archerResist01": "archerResist01"
+    },
+    "attackPower": 1972,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "0"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 1,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "100"
+      }
+    ],
+    "powerLevel": 3800
+  },
+  {
+    "identifier": "earthFamiliar",
+    "level": 39,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "4"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 124682,
+    "fullHealDuration": 1,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T9C3WDdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "aoeSpell": "aoe1",
+      "archerResist01": "archerResist01"
+    },
+    "attackPower": 2081,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "0"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 1,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "100"
+      }
+    ],
+    "powerLevel": 3900
+  },
+  {
+    "identifier": "earthFamiliar",
+    "level": 40,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "4"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 150848,
+    "fullHealDuration": 1,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T9C3WDdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "aoeSpell": "aoe1",
+      "archerResist01": "archerResist01"
+    },
+    "attackPower": 2179,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "0"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 1,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "100"
+      }
+    ],
+    "powerLevel": 4000
+  },
+  {
+    "identifier": "earthFamiliar",
+    "level": 41,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "4"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 156557,
+    "fullHealDuration": 1,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T9C3WDdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "aoeSpell": "aoe1",
+      "archerResist01": "archerResist01"
+    },
+    "attackPower": 2269,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "0"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 1,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "100"
+      }
+    ],
+    "powerLevel": 4100
+  },
+  {
+    "identifier": "earthFamiliar",
+    "level": 42,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "4"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 161389,
+    "fullHealDuration": 1,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T9C3WDdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "aoeSpell": "aoe1",
+      "archerResist01": "archerResist01"
+    },
+    "attackPower": 2353,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "0"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 1,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "100"
+      }
+    ],
+    "powerLevel": 4200
+  },
+  {
+    "identifier": "earthFamiliar",
+    "level": 43,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "4"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 167756,
+    "fullHealDuration": 1,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T9C3WDdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "aoeSpell": "aoe1",
+      "archerResist01": "archerResist01"
+    },
+    "attackPower": 2454,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "0"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 1,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "100"
+      }
+    ],
+    "powerLevel": 4300
+  },
+  {
+    "identifier": "earthFamiliar",
+    "level": 44,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "4"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 174485,
+    "fullHealDuration": 1,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T9C3WDdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "aoeSpell": "aoe1",
+      "archerResist01": "archerResist01"
+    },
+    "attackPower": 2575,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "0"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 1,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "100"
+      }
+    ],
+    "powerLevel": 4400
+  },
+  {
+    "identifier": "earthFamiliar",
+    "level": 45,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "4"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 185439,
+    "fullHealDuration": 1,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T9C3WDdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "aoeSpell": "aoe1",
+      "archerResist01": "archerResist01"
+    },
+    "attackPower": 2724,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "0"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 1,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "100"
+      }
+    ],
+    "powerLevel": 4500
+  },
+  {
+    "identifier": "earthFamiliar",
+    "level": 46,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "4"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 198487,
+    "fullHealDuration": 1,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T9C3WDdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "aoeSpell": "aoe1",
+      "archerResist01": "archerResist01"
+    },
+    "attackPower": 2892,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "0"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 1,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "100"
+      }
+    ],
+    "powerLevel": 4600
+  },
+  {
+    "identifier": "earthFamiliar",
+    "level": 47,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "4"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 212415,
+    "fullHealDuration": 1,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T9C3WDdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "aoeSpell": "aoe1",
+      "archerResist01": "archerResist01"
+    },
+    "attackPower": 3086,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "0"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 1,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "100"
+      }
+    ],
+    "powerLevel": 4700
+  },
+  {
+    "identifier": "earthFamiliar",
+    "level": 48,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "4"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 225699,
+    "fullHealDuration": 1,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T9C3WDdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "aoeSpell": "aoe1",
+      "archerResist01": "archerResist01"
+    },
+    "attackPower": 3298,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "0"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 1,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "100"
+      }
+    ],
+    "powerLevel": 4800
+  },
+  {
+    "identifier": "earthFamiliar",
+    "level": 49,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "4"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 241464,
+    "fullHealDuration": 1,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T9C3WDdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "aoeSpell": "aoe1",
+      "archerResist01": "archerResist01"
+    },
+    "attackPower": 3518,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "0"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 1,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "100"
+      }
+    ],
+    "powerLevel": 4900
+  },
+  {
+    "identifier": "earthFamiliar",
+    "level": 50,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "4"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 258280,
+    "fullHealDuration": 1,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T9C3WDdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "aoeSpell": "aoe1",
+      "archerResist01": "archerResist01"
+    },
+    "attackPower": 3753,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "0"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 1,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "100"
+      }
+    ],
+    "powerLevel": 5000
+  },
+  {
+    "identifier": "earthFamiliar",
+    "level": 51,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "4"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 274360,
+    "fullHealDuration": 1,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T9C3WDdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "aoeSpell": "aoe1",
+      "archerResist01": "archerResist01"
+    },
+    "attackPower": 4008,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "0"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 1,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "100"
+      }
+    ],
+    "powerLevel": 5100
+  },
+  {
+    "identifier": "earthFamiliar",
+    "level": 52,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "4"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 293385,
+    "fullHealDuration": 1,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T9C3WDdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "aoeSpell": "aoe1",
+      "archerResist01": "archerResist01"
+    },
+    "attackPower": 4275,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "0"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 1,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "100"
+      }
+    ],
+    "powerLevel": 5200
+  },
+  {
+    "identifier": "earthFamiliar",
+    "level": 53,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "4"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 313672,
+    "fullHealDuration": 1,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T9C3WDdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "aoeSpell": "aoe1",
+      "archerResist01": "archerResist01"
+    },
+    "attackPower": 4530,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "0"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 1,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "100"
+      }
+    ],
+    "powerLevel": 5300
+  },
+  {
+    "identifier": "earthFamiliar",
+    "level": 54,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "4"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 333129,
+    "fullHealDuration": 1,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T9C3WDdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "aoeSpell": "aoe1",
+      "archerResist01": "archerResist01"
+    },
+    "attackPower": 4779,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "0"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 1,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "100"
+      }
+    ],
+    "powerLevel": 5400
+  },
+  {
+    "identifier": "earthFamiliar",
+    "level": 55,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "4"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 395640,
+    "fullHealDuration": 1,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T9C3WDdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "aoeSpell": "aoe1",
+      "archerResist01": "archerResist01"
+    },
+    "attackPower": 5007,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "0"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 1,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "100"
+      }
+    ],
+    "powerLevel": 5500
+  },
+  {
+    "identifier": "earthFamiliar",
+    "level": 56,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "4"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 411395,
+    "fullHealDuration": 1,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T9C3WDdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "aoeSpell": "aoe1",
+      "archerResist01": "archerResist01"
+    },
+    "attackPower": 5222,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "0"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 1,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "100"
+      }
+    ],
+    "powerLevel": 5600
+  },
+  {
+    "identifier": "earthFamiliar",
+    "level": 57,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "4"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 425329,
+    "fullHealDuration": 1,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T9C3WDdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "aoeSpell": "aoe1",
+      "archerResist01": "archerResist01"
+    },
+    "attackPower": 5426,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "0"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 1,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "100"
+      }
+    ],
+    "powerLevel": 5700
+  },
+  {
+    "identifier": "earthFamiliar",
+    "level": 58,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "4"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 442792,
+    "fullHealDuration": 1,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T9C3WDdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "aoeSpell": "aoe1",
+      "archerResist01": "archerResist01"
+    },
+    "attackPower": 5665,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "0"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 1,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "100"
+      }
+    ],
+    "powerLevel": 5800
+  },
+  {
+    "identifier": "earthFamiliar",
+    "level": 59,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "4"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 461203,
+    "fullHealDuration": 1,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T9C3WDdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "aoeSpell": "aoe1",
+      "archerResist01": "archerResist01"
+    },
+    "attackPower": 5948,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "0"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 1,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "100"
+      }
+    ],
+    "powerLevel": 5900
+  },
+  {
+    "identifier": "earthFamiliar",
+    "level": 60,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "4"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 489617,
+    "fullHealDuration": 1,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T9C3WDdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "aoeSpell": "aoe1",
+      "archerResist01": "archerResist01"
+    },
+    "attackPower": 6287,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "0"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 1,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "100"
+      }
+    ],
+    "powerLevel": 6000
+  },
+  {
+    "identifier": "earthFamiliar",
+    "level": 61,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "4"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 522934,
+    "fullHealDuration": 1,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T9C3WDdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "aoeSpell": "aoe1",
+      "archerResist01": "archerResist01"
+    },
+    "attackPower": 6668,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "0"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 1,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "100"
+      }
+    ],
+    "powerLevel": 6100
+  },
+  {
+    "identifier": "earthFamiliar",
+    "level": 62,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "4"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 558435,
+    "fullHealDuration": 1,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T9C3WDdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "aoeSpell": "aoe1",
+      "archerResist01": "archerResist01"
+    },
+    "attackPower": 7104,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "0"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 1,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "100"
+      }
+    ],
+    "powerLevel": 6200
+  },
+  {
+    "identifier": "earthFamiliar",
+    "level": 63,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "4"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 592731,
+    "fullHealDuration": 1,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T9C3WDdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "aoeSpell": "aoe1",
+      "archerResist01": "archerResist01"
+    },
+    "attackPower": 7576,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "0"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 1,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "100"
+      }
+    ],
+    "powerLevel": 6300
+  },
+  {
+    "identifier": "earthFamiliar",
+    "level": 64,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "4"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 632830,
+    "fullHealDuration": 1,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T9C3WDdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "aoeSpell": "aoe1",
+      "archerResist01": "archerResist01"
+    },
+    "attackPower": 8069,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "0"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 1,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "100"
+      }
+    ],
+    "powerLevel": 6400
+  },
+  {
+    "identifier": "earthFamiliar",
+    "level": 65,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "4"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 675550,
+    "fullHealDuration": 1,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T9C3WDdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "aoeSpell": "aoe1",
+      "archerResist01": "archerResist01"
+    },
+    "attackPower": 8594,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "0"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 1,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "100"
+      }
+    ],
+    "powerLevel": 6500
+  },
+  {
+    "identifier": "earthFamiliar",
+    "level": 66,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "4"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 716913,
+    "fullHealDuration": 1,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T9C3WDdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "aoeSpell": "aoe1",
+      "archerResist01": "archerResist01"
+    },
+    "attackPower": 9163,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "0"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 1,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "100"
+      }
+    ],
+    "powerLevel": 6600
+  },
+  {
+    "identifier": "earthFamiliar",
+    "level": 67,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "4"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 765157,
+    "fullHealDuration": 1,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T9C3WDdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "aoeSpell": "aoe1",
+      "archerResist01": "archerResist01"
+    },
+    "attackPower": 9757,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "0"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 1,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "100"
+      }
+    ],
+    "powerLevel": 6700
+  },
+  {
+    "identifier": "earthFamiliar",
+    "level": 68,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "4"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 816546,
+    "fullHealDuration": 1,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T9C3WDdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "aoeSpell": "aoe1",
+      "archerResist01": "archerResist01"
+    },
+    "attackPower": 10376,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "0"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 1,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "100"
+      }
+    ],
+    "powerLevel": 6800
+  },
+  {
+    "identifier": "earthFamiliar",
+    "level": 69,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "4"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 866409,
+    "fullHealDuration": 1,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T9C3WDdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "aoeSpell": "aoe1",
+      "archerResist01": "archerResist01"
+    },
+    "attackPower": 11033,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "0"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 1,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "100"
+      }
+    ],
+    "powerLevel": 6900
+  },
+  {
+    "identifier": "earthFamiliar",
+    "level": 70,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "4"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 919286,
+    "fullHealDuration": 1,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T9C3WDdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "aoeSpell": "aoe1",
+      "archerResist01": "archerResist01"
+    },
+    "attackPower": 11703,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "0"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 1,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "100"
+      }
+    ],
+    "powerLevel": 7000
+  },
+  {
+    "identifier": "earthFamiliar",
+    "level": 71,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "4"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 975361,
+    "fullHealDuration": 1,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T9C3WDdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "aoeSpell": "aoe1",
+      "archerResist01": "archerResist01"
+    },
+    "attackPower": 12388,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "0"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 1,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "100"
+      }
+    ],
+    "powerLevel": 7100
+  },
+  {
+    "identifier": "earthFamiliar",
+    "level": 72,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "4"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 1029111,
+    "fullHealDuration": 1,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T9C3WDdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "aoeSpell": "aoe1",
+      "archerResist01": "archerResist01"
+    },
+    "attackPower": 13097,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "0"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 1,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "100"
+      }
+    ],
+    "powerLevel": 7200
+  },
+  {
+    "identifier": "earthFamiliar",
+    "level": 73,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "4"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 1085824,
+    "fullHealDuration": 1,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T9C3WDdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "aoeSpell": "aoe1",
+      "archerResist01": "archerResist01"
+    },
+    "attackPower": 13833,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "0"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 1,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "100"
+      }
+    ],
+    "powerLevel": 7300
+  },
+  {
+    "identifier": "earthFamiliar",
+    "level": 74,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "4"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 1145662,
+    "fullHealDuration": 1,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T9C3WDdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "aoeSpell": "aoe1",
+      "archerResist01": "archerResist01"
+    },
+    "attackPower": 14595,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "0"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 1,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "100"
+      }
+    ],
+    "powerLevel": 7400
+  },
+  {
+    "identifier": "earthFamiliar",
+    "level": 75,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "4"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 1208797,
+    "fullHealDuration": 1,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T9C3WDdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "aoeSpell": "aoe1",
+      "archerResist01": "archerResist01"
+    },
+    "attackPower": 15400,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "0"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 1,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "100"
+      }
+    ],
+    "powerLevel": 7500
+  }
+]

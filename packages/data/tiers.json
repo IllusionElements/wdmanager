@@ -1,0 +1,18 @@
+[
+{ "_id" : { "$oid" : "5cf37a6065c53033a8583bdb" }, "tier" : 1, "tierName" : "Red" },
+{ "_id" : { "$oid" : "5cf37a6065c53033a8583bdc" }, "tier" : 2, "tierName" : "Purple" },
+{ "_id" : { "$oid" : "5cf37a6065c53033a8583bde" }, "tier" : 3, "tierName" : "Blue" },
+{ "_id" : { "$oid" : "5cf37a6065c53033a8583be0" }, "tier" : 4, "tierName" : "Orange" },
+{ "_id" : { "$oid" : "5cf37a6065c53033a8583be2" }, "tier" : 5, "tierName" : "Green" },
+{ "_id" : { "$oid" : "5cf37a6065c53033a8583be3" }, "tier" : 6, "tierName" : "Gold" },
+{ "_id" : { "$oid" : "5cf37a6065c53033a8583be5" }, "tier" : 7, "tierName" : "Platinum" },
+{ "_id" : { "$oid" : "5cf37a6065c53033a8583be7" }, "tier" : 8, "tierName" : "Sapphire" },
+{ "_id" : { "$oid" : "5cf37a6065c53033a8583be8" }, "tier" : 9, "tierName" : "Garnet" },
+{ "_id" : { "$oid" : "5cf37a6065c53033a8583bea" }, "tier" : 10, "tierName" : "Emerald" },
+{ "_id" : { "$oid" : "5cf37a6065c53033a8583bec" }, "tier" : 11, "tierName" : "Obsidian" },
+{ "_id" : { "$oid" : "5cf37a6065c53033a8583bee" }, "tier" : 12, "tierName" : "Harbinger" },
+{ "_id" : { "$oid" : "5cf37a6065c53033a8583bef" }, "tier" : 13, "tierName" : "Vanguard" },
+{ "_id" : { "$oid" : "5cf37a6065c53033a8583bf1" }, "tier" : 14, "tierName" : "Empyrean" },
+{ "_id" : { "$oid" : "5cf4870b65c53035d460ea65" }, "tier" : 0, "tierName" : "Extra" },
+{ "_id" : { "$oid" : "5cf496a165c53035d460eb53" }, "tier" : 100, "tierName" : "Divine" }
+]

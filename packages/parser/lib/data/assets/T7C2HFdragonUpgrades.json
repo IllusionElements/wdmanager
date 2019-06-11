@@ -1,0 +1,868 @@
+[
+  {
+    "identifier": "T7C2HFdragon",
+    "level": 1,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "0"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 1114821,
+    "fullHealDuration": 15840,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T7C2HFdragon_fireball"
+      }
+    ],
+    "abilities": {},
+    "attackPower": 63419,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "575"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 18,
+    "upgradeXP": 401400,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 210519
+  },
+  {
+    "identifier": "T7C2HFdragon",
+    "level": 2,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "144432"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 1182859,
+    "fullHealDuration": 15840,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T7C2HFdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "healingMark": "healingMark1"
+    },
+    "attackPower": 67138,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "590"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 19,
+    "upgradeXP": 413733,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 354690
+  },
+  {
+    "identifier": "T7C2HFdragon",
+    "level": 3,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "148104"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 1253014,
+    "fullHealDuration": 15840,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T7C2HFdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "healingMark": "healingMark1"
+    },
+    "attackPower": 70628,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "605"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 19,
+    "upgradeXP": 481803,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 395275
+  },
+  {
+    "identifier": "T7C2HFdragon",
+    "level": 4,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "151776"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 1312029,
+    "fullHealDuration": 15840,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T7C2HFdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "healingMark": "healingMark1"
+    },
+    "attackPower": 73776,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "620"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 19,
+    "upgradeXP": 568309,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 432324
+  },
+  {
+    "identifier": "T7C2HFdragon",
+    "level": 5,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "155448"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 1358071,
+    "fullHealDuration": 15840,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T7C2HFdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "healingMark": "healingMark1",
+      "cloak": "cloak1"
+    },
+    "attackPower": 76546,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "635"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 20,
+    "upgradeXP": 654761,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 619040
+  },
+  {
+    "identifier": "T7C2HFdragon",
+    "level": 6,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "159120"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 1392013,
+    "fullHealDuration": 15840,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T7C2HFdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "healingMark": "healingMark1",
+      "cloak": "cloak1"
+    },
+    "attackPower": 78925,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "650"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 20,
+    "upgradeXP": 741879,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 654234
+  },
+  {
+    "identifier": "T7C2HFdragon",
+    "level": 7,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "162792"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 1426801,
+    "fullHealDuration": 15840,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T7C2HFdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "healingMark": "healingMark1",
+      "cloak": "cloak1"
+    },
+    "attackPower": 81048,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "665"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 20,
+    "upgradeXP": 760424,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 688650
+  },
+  {
+    "identifier": "T7C2HFdragon",
+    "level": 8,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "166464"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 1462457,
+    "fullHealDuration": 15840,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T7C2HFdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "healingMark": "healingMark1",
+      "cloak": "cloak1"
+    },
+    "attackPower": 83074,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "680"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 21,
+    "upgradeXP": 779433,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 723520
+  },
+  {
+    "identifier": "T7C2HFdragon",
+    "level": 9,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "170136"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 1499008,
+    "fullHealDuration": 15840,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T7C2HFdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "healingMark": "healingMark1",
+      "cloak": "cloak1",
+      "fireTurretResist01": "fireTurretResist01"
+    },
+    "attackPower": 85151,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "695"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 21,
+    "upgradeXP": 798918,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 988187
+  },
+  {
+    "identifier": "T7C2HFdragon",
+    "level": 10,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "173808"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 1536473,
+    "fullHealDuration": 15840,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T7C2HFdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "healingMark": "healingMark1",
+      "cloak": "cloak1",
+      "fireTurretResist01": "fireTurretResist01"
+    },
+    "attackPower": 87279,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "710"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 21,
+    "upgradeXP": 818891,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 1038133
+  },
+  {
+    "identifier": "T7C2HFdragon",
+    "level": 11,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "177480"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 1574876,
+    "fullHealDuration": 15840,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T7C2HFdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "healingMark": "healingMark1",
+      "cloak": "cloak1",
+      "fireTurretResist01": "fireTurretResist01"
+    },
+    "attackPower": 89461,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "725"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 22,
+    "upgradeXP": 839362,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 1090674
+  },
+  {
+    "identifier": "T7C2HFdragon",
+    "level": 12,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "181152"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 1614237,
+    "fullHealDuration": 15840,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T7C2HFdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "healingMark": "healingMark1",
+      "cloak": "cloak1",
+      "fireTurretResist01": "fireTurretResist01"
+    },
+    "attackPower": 91697,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "740"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 22,
+    "upgradeXP": 1142711,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 1145976
+  },
+  {
+    "identifier": "T7C2HFdragon",
+    "level": 13,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "245484"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 1654584,
+    "fullHealDuration": 15840,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T7C2HFdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "healingMark": "healingMark1",
+      "cloak": "cloak1",
+      "fireTurretResist01": "fireTurretResist01"
+    },
+    "attackPower": 93990,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "755"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 22,
+    "upgradeXP": 1171278,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 1203895
+  },
+  {
+    "identifier": "T7C2HFdragon",
+    "level": 14,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "250361"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 1695941,
+    "fullHealDuration": 15840,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T7C2HFdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "healingMark": "healingMark1",
+      "cloak": "cloak1",
+      "fireTurretResist01": "fireTurretResist01"
+    },
+    "attackPower": 96339,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "770"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 23,
+    "upgradeXP": 1200557,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 1264916
+  },
+  {
+    "identifier": "T7C2HFdragon",
+    "level": 15,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "255238"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 1738327,
+    "fullHealDuration": 15840,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T7C2HFdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "healingMark": "healingMark1",
+      "cloak": "cloak1",
+      "fireTurretResist01": "fireTurretResist01"
+    },
+    "attackPower": 98748,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "785"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 23,
+    "upgradeXP": 1505094,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 1328896
+  },
+  {
+    "identifier": "T7C2HFdragon",
+    "level": 16,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "318144"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 1781771,
+    "fullHealDuration": 15840,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T7C2HFdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "healingMark": "healingMark1",
+      "cloak": "cloak1",
+      "fireTurretResist01": "fireTurretResist01"
+    },
+    "attackPower": 101216,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "800"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 23,
+    "upgradeXP": 1542721,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 1396122
+  },
+  {
+    "identifier": "T7C2HFdragon",
+    "level": 17,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "324109"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 1826302,
+    "fullHealDuration": 15840,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T7C2HFdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "healingMark": "healingMark1",
+      "cloak": "cloak1",
+      "fireTurretResist01": "fireTurretResist01"
+    },
+    "attackPower": 103747,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "815"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 24,
+    "upgradeXP": 1848622,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 1466888
+  },
+  {
+    "identifier": "T7C2HFdragon",
+    "level": 18,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "385876"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 1871944,
+    "fullHealDuration": 15840,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T7C2HFdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "healingMark": "healingMark1",
+      "cloak": "cloak1",
+      "fireTurretResist01": "fireTurretResist01"
+    },
+    "attackPower": 106340,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "830"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 24,
+    "upgradeXP": 1894837,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 1541051
+  },
+  {
+    "identifier": "T7C2HFdragon",
+    "level": 19,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "392850"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 1918730,
+    "fullHealDuration": 15840,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T7C2HFdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "healingMark": "healingMark1",
+      "cloak": "cloak1",
+      "fireTurretResist01": "fireTurretResist01"
+    },
+    "attackPower": 108998,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "845"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 24,
+    "upgradeXP": 1942206,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 1619027
+  },
+  {
+    "identifier": "T7C2HFdragon",
+    "level": 20,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "399824"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 1966683,
+    "fullHealDuration": 15840,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T7C2HFdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "healingMark": "healingMark1",
+      "cloak": "cloak1",
+      "fireTurretResist01": "fireTurretResist01"
+    },
+    "attackPower": 111723,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "860"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 25,
+    "upgradeXP": 0,
+    "xpRewardMultiplier": 1.2,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 1701014
+  }
+]

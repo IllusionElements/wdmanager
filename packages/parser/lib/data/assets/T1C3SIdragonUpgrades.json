@@ -1,0 +1,868 @@
+[
+  {
+    "identifier": "T1C3SIdragon",
+    "level": 1,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "0"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 25547,
+    "fullHealDuration": 677,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T1C3SIdragon_lockon"
+      }
+    ],
+    "abilities": {},
+    "attackPower": 2516,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "30"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 2,
+    "upgradeXP": 913,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 188
+  },
+  {
+    "identifier": "T1C3SIdragon",
+    "level": 2,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "780"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 33784,
+    "fullHealDuration": 960,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T1C3SIdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "summonAIDragon": "summonDragon2"
+    },
+    "attackPower": 2698,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "33"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 2,
+    "upgradeXP": 1192,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 408
+  },
+  {
+    "identifier": "T1C3SIdragon",
+    "level": 3,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1075"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 35300,
+    "fullHealDuration": 1063,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T1C3SIdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "summonAIDragon": "summonDragon2"
+    },
+    "attackPower": 2859,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "35"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 2,
+    "upgradeXP": 1779,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 446
+  },
+  {
+    "identifier": "T1C3SIdragon",
+    "level": 4,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1179"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 37349,
+    "fullHealDuration": 1184,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T1C3SIdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "summonAIDragon": "summonDragon2"
+    },
+    "attackPower": 3010,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "38"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 2,
+    "upgradeXP": 2521,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 500
+  },
+  {
+    "identifier": "T1C3SIdragon",
+    "level": 5,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1286"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 39048,
+    "fullHealDuration": 1312,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T1C3SIdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "summonAIDragon": "summonDragon2",
+      "chainLightning": "chainLightning2"
+    },
+    "attackPower": 3190,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "40"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 3,
+    "upgradeXP": 3512,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 741
+  },
+  {
+    "identifier": "T1C3SIdragon",
+    "level": 6,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1676"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 41297,
+    "fullHealDuration": 1486,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T1C3SIdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "summonAIDragon": "summonDragon2",
+      "chainLightning": "chainLightning2"
+    },
+    "attackPower": 3416,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "43"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 3,
+    "upgradeXP": 4735,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 840
+  },
+  {
+    "identifier": "T1C3SIdragon",
+    "level": 7,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1813"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 44906,
+    "fullHealDuration": 1738,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T1C3SIdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "summonAIDragon": "summonDragon2",
+      "chainLightning": "chainLightning2"
+    },
+    "attackPower": 3675,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "45"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 3,
+    "upgradeXP": 5445,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 987
+  },
+  {
+    "identifier": "T1C3SIdragon",
+    "level": 8,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "2057"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 49282,
+    "fullHealDuration": 2070,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T1C3SIdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "summonAIDragon": "summonDragon2",
+      "chainLightning": "chainLightning2"
+    },
+    "attackPower": 3987,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "50"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 3,
+    "upgradeXP": 6186,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 1166
+  },
+  {
+    "identifier": "T1C3SIdragon",
+    "level": 9,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "3079"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 53418,
+    "fullHealDuration": 2442,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T1C3SIdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "summonAIDragon": "summonDragon2",
+      "chainLightning": "chainLightning2",
+      "stormResist01": "stormResist01"
+    },
+    "attackPower": 4340,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "55"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 3,
+    "upgradeXP": 7089,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 1794
+  },
+  {
+    "identifier": "T1C3SIdragon",
+    "level": 10,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "3428"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 58411,
+    "fullHealDuration": 2881,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T1C3SIdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "summonAIDragon": "summonDragon2",
+      "chainLightning": "chainLightning2",
+      "stormResist01": "stormResist01"
+    },
+    "attackPower": 4682,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "60"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 4,
+    "upgradeXP": 8028,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 2122
+  },
+  {
+    "identifier": "T1C3SIdragon",
+    "level": 11,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "3788"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 63124,
+    "fullHealDuration": 3321,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T1C3SIdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "summonAIDragon": "summonDragon2",
+      "chainLightning": "chainLightning2",
+      "stormResist01": "stormResist01"
+    },
+    "attackPower": 4994,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "65"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 4,
+    "upgradeXP": 9167,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 2438
+  },
+  {
+    "identifier": "T1C3SIdragon",
+    "level": 12,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "5198"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 79365,
+    "fullHealDuration": 4425,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T1C3SIdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "summonAIDragon": "summonDragon2",
+      "chainLightning": "chainLightning2",
+      "stormResist01": "stormResist01"
+    },
+    "attackPower": 5292,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "70"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 4,
+    "upgradeXP": 13749,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 3245
+  },
+  {
+    "identifier": "T1C3SIdragon",
+    "level": 13,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "7540"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 82346,
+    "fullHealDuration": 4818,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T1C3SIdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "summonAIDragon": "summonDragon2",
+      "chainLightning": "chainLightning2",
+      "stormResist01": "stormResist01"
+    },
+    "attackPower": 5553,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "75"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 4,
+    "upgradeXP": 15663,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 3545
+  },
+  {
+    "identifier": "T1C3SIdragon",
+    "level": 14,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "8194"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 86236,
+    "fullHealDuration": 5255,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T1C3SIdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "summonAIDragon": "summonDragon2",
+      "chainLightning": "chainLightning2",
+      "stormResist01": "stormResist01"
+    },
+    "attackPower": 5784,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "80"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 5,
+    "upgradeXP": 17671,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 3858
+  },
+  {
+    "identifier": "T1C3SIdragon",
+    "level": 15,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "10641"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 89483,
+    "fullHealDuration": 5712,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T1C3SIdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "summonAIDragon": "summonDragon2",
+      "chainLightning": "chainLightning2",
+      "stormResist01": "stormResist01"
+    },
+    "attackPower": 6059,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "85"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 5,
+    "upgradeXP": 24376,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 4185
+  },
+  {
+    "identifier": "T1C3SIdragon",
+    "level": 16,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "14031"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 92903,
+    "fullHealDuration": 6115,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T1C3SIdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "summonAIDragon": "summonDragon2",
+      "chainLightning": "chainLightning2",
+      "stormResist01": "stormResist01"
+    },
+    "attackPower": 6391,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "90"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 5,
+    "upgradeXP": 27483,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 4563
+  },
+  {
+    "identifier": "T1C3SIdragon",
+    "level": 17,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "15273"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 99750,
+    "fullHealDuration": 6730,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T1C3SIdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "summonAIDragon": "summonDragon2",
+      "chainLightning": "chainLightning2",
+      "stormResist01": "stormResist01"
+    },
+    "attackPower": 6764,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "97"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 5,
+    "upgradeXP": 36214,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 5199
+  },
+  {
+    "identifier": "T1C3SIdragon",
+    "level": 18,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "22572"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 107072,
+    "fullHealDuration": 7442,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T1C3SIdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "summonAIDragon": "summonDragon2",
+      "chainLightning": "chainLightning2",
+      "stormResist01": "stormResist01"
+    },
+    "attackPower": 7205,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "103"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 6,
+    "upgradeXP": 40463,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 5949
+  },
+  {
+    "identifier": "T1C3SIdragon",
+    "level": 19,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "24362"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 113929,
+    "fullHealDuration": 8210,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T1C3SIdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "summonAIDragon": "summonDragon2",
+      "chainLightning": "chainLightning2",
+      "stormResist01": "stormResist01"
+    },
+    "attackPower": 7719,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "109"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 6,
+    "upgradeXP": 45587,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 6778
+  },
+  {
+    "identifier": "T1C3SIdragon",
+    "level": 20,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "26198"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 122234,
+    "fullHealDuration": 9101,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T1C3SIdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "summonAIDragon": "summonDragon2",
+      "chainLightning": "chainLightning2",
+      "stormResist01": "stormResist01"
+    },
+    "attackPower": 8253,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "115"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 6,
+    "upgradeXP": 0,
+    "xpRewardMultiplier": 1.2,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 7779
+  }
+]

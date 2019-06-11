@@ -7,15 +7,16 @@
     "lerna": "^3.14.1"
   },
   "workspaces": [
-    "packages/utils/",
+    "packages/utils",
     "packages/services",
     "packages/core"
   ],
   "scripts": {
     "build": "yarn tsc -b tsconfig.build.json",
-    "dev": "yarn nodemon --inspect -r esm ./packages/core/dist",
+    "dev": "yarn nodemon --inspect -r esm ./packages/core/dist && yarn apollo.push",
     "tsc.build": "yarn workspaces run build",
     "push": "git push",
+    "apollo.push": "npx apollo service:push",
     "commit": "git add . && git commit -m"
   },
   "dependencies": {

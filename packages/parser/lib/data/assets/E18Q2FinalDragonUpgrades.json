@@ -1,0 +1,2876 @@
+[
+  {
+    "identifier": "E18Q2FinalDragon",
+    "level": 1,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "0"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 249366,
+    "fullHealDuration": 16802,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "E18Q2FinalDragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "explosiveAegis": "explosiveAegis1",
+      "bloodFury": "bloodFury1"
+    },
+    "attackPower": 3045,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "210"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 8,
+    "upgradeXP": 54809,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 15449,
+    "nextEvolveLevel": 3,
+    "tierNumber": 4,
+    "rarity": 6
+  },
+  {
+    "identifier": "E18Q2FinalDragon",
+    "level": 2,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "57600"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 548722,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "E18Q2FinalDragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "explosiveAegis": "explosiveAegis1",
+      "bloodFury": "bloodFury1"
+    },
+    "attackPower": 5864,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "343"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 11,
+    "upgradeXP": 136818,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 65504,
+    "nextEvolveLevel": 3,
+    "tierNumber": 4,
+    "rarity": 6
+  },
+  {
+    "identifier": "E18Q2FinalDragon",
+    "level": 3,
+    "upgradeCost": [
+      {
+        "type": "E18Q2FinalDragonGreenStone",
+        "amount": "1"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "have2GreenEpic",
+    "HP": 627345,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "E18Q2FinalDragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "explosiveAegis": "explosiveAegis1",
+      "bloodFury": "bloodFury1",
+      "thunderstorm": "lightningStorm1"
+    },
+    "attackPower": 6626,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "469"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 14,
+    "upgradeXP": 229466,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 84626,
+    "nextEvolveLevel": 5,
+    "tierNumber": 5,
+    "rarity": 6
+  },
+  {
+    "identifier": "E18Q2FinalDragon",
+    "level": 4,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "126000"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 1185463,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "E18Q2FinalDragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "explosiveAegis": "explosiveAegis1",
+      "bloodFury": "bloodFury1",
+      "thunderstorm": "lightningStorm1"
+    },
+    "attackPower": 11081,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "574"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 16,
+    "upgradeXP": 365620,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 267538,
+    "nextEvolveLevel": 5,
+    "tierNumber": 5,
+    "rarity": 6
+  },
+  {
+    "identifier": "E18Q2FinalDragon",
+    "level": 5,
+    "upgradeCost": [
+      {
+        "type": "E18Q2FinalDragonGoldStone",
+        "amount": "1"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "haveGoldLegendary",
+    "HP": 1351102,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "E18Q2FinalDragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "explosiveAegis": "explosiveAegis1",
+      "bloodFury": "bloodFury1",
+      "thunderstorm": "lightningStorm1",
+      "darkFlakResist01": "darkFlakResist01"
+    },
+    "attackPower": 12570,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "700"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 18,
+    "upgradeXP": 602027,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 345896,
+    "nextEvolveLevel": 9,
+    "tierNumber": 6,
+    "rarity": 6
+  },
+  {
+    "identifier": "E18Q2FinalDragon",
+    "level": 6,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "185400"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 1838574,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "E18Q2FinalDragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "explosiveAegis": "explosiveAegis1",
+      "bloodFury": "bloodFury1",
+      "thunderstorm": "lightningStorm1",
+      "darkFlakResist01": "darkFlakResist01"
+    },
+    "attackPower": 17077,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "826"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 18,
+    "upgradeXP": 933488,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 639388,
+    "nextEvolveLevel": 9,
+    "tierNumber": 6,
+    "rarity": 6
+  },
+  {
+    "identifier": "E18Q2FinalDragon",
+    "level": 7,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "217800"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "have2LegendaryGold",
+    "HP": 2388213,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "E18Q2FinalDragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "explosiveAegis": "explosiveAegis1",
+      "bloodFury": "bloodFury1",
+      "thunderstorm": "lightningStorm1",
+      "darkFlakResist01": "darkFlakResist01"
+    },
+    "attackPower": 22200,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "952"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 18,
+    "upgradeXP": 1082546,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 1079659,
+    "nextEvolveLevel": 9,
+    "tierNumber": 6,
+    "rarity": 6
+  },
+  {
+    "identifier": "E18Q2FinalDragon",
+    "level": 8,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "250200"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 2909652,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "E18Q2FinalDragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "explosiveAegis": "explosiveAegis1",
+      "bloodFury": "bloodFury1",
+      "thunderstorm": "lightningStorm1",
+      "darkFlakResist01": "darkFlakResist01"
+    },
+    "attackPower": 27048,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1078"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 19,
+    "upgradeXP": 1255412,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 1602693,
+    "nextEvolveLevel": 9,
+    "tierNumber": 6,
+    "rarity": 6
+  },
+  {
+    "identifier": "E18Q2FinalDragon",
+    "level": 9,
+    "upgradeCost": [
+      {
+        "type": "E18Q2FinalDragonPlatinumStone",
+        "amount": "1"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "havePlatinumLegendary",
+    "HP": 3056910,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "E18Q2FinalDragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "explosiveAegis": "explosiveAegis1",
+      "bloodFury": "bloodFury1",
+      "thunderstorm": "lightningStorm1",
+      "darkFlakResist01": "darkFlakResist01"
+    },
+    "attackPower": 28417,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1204"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 21,
+    "upgradeXP": 1455891,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 1769054,
+    "nextEvolveLevel": 14,
+    "tierNumber": 7,
+    "rarity": 6
+  },
+  {
+    "identifier": "E18Q2FinalDragon",
+    "level": 10,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "315000"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 3458521,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "E18Q2FinalDragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "explosiveAegis": "explosiveAegis1",
+      "bloodFury": "bloodFury1",
+      "thunderstorm": "lightningStorm1",
+      "darkFlakResist01": "darkFlakResist01"
+    },
+    "attackPower": 32151,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1309"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 23,
+    "upgradeXP": 1647196,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 2264505,
+    "nextEvolveLevel": 14,
+    "tierNumber": 7,
+    "rarity": 6
+  },
+  {
+    "identifier": "E18Q2FinalDragon",
+    "level": 11,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "342000"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 3817513,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "E18Q2FinalDragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "explosiveAegis": "explosiveAegis1",
+      "bloodFury": "bloodFury1",
+      "thunderstorm": "lightningStorm1",
+      "darkFlakResist01": "darkFlakResist01"
+    },
+    "attackPower": 35489,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1393"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 24,
+    "upgradeXP": 1818191,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 2759007,
+    "nextEvolveLevel": 14,
+    "tierNumber": 7,
+    "rarity": 6
+  },
+  {
+    "identifier": "E18Q2FinalDragon",
+    "level": 12,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "315000"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "have2LegendaryPlatinum",
+    "HP": 4426988,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "E18Q2FinalDragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "explosiveAegis": "explosiveAegis1",
+      "bloodFury": "bloodFury1",
+      "thunderstorm": "lightningStorm1",
+      "darkFlakResist01": "darkFlakResist01"
+    },
+    "attackPower": 40135,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1519"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 26,
+    "upgradeXP": 2108537,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 3618428,
+    "nextEvolveLevel": 14,
+    "tierNumber": 7,
+    "rarity": 6
+  },
+  {
+    "identifier": "E18Q2FinalDragon",
+    "level": 13,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "396000"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 4767321,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "E18Q2FinalDragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "explosiveAegis": "explosiveAegis1",
+      "bloodFury": "bloodFury1",
+      "thunderstorm": "lightningStorm1",
+      "darkFlakResist01": "darkFlakResist01"
+    },
+    "attackPower": 43221,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1561"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 27,
+    "upgradeXP": 2215281,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 4196175,
+    "nextEvolveLevel": 14,
+    "tierNumber": 7,
+    "rarity": 6
+  },
+  {
+    "identifier": "E18Q2FinalDragon",
+    "level": 14,
+    "upgradeCost": [
+      {
+        "type": "E18Q2FinalDragonSapphireStone",
+        "amount": "1"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "haveLegendarySapphire",
+    "HP": 4886488,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "E18Q2FinalDragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "explosiveAegis": "explosiveAegis1",
+      "bloodFury": "bloodFury1",
+      "thunderstorm": "lightningStorm1",
+      "darkFlakResist01": "darkFlakResist01"
+    },
+    "attackPower": 44302,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1603"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 27,
+    "upgradeXP": 2327426,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 4408635,
+    "nextEvolveLevel": 21,
+    "tierNumber": 8,
+    "rarity": 6
+  },
+  {
+    "identifier": "E18Q2FinalDragon",
+    "level": 15,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "417600"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 5393700,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "E18Q2FinalDragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "explosiveAegis": "explosiveAegis1",
+      "bloodFury": "bloodFury1",
+      "thunderstorm": "lightningStorm1",
+      "darkFlakResist01": "darkFlakResist01"
+    },
+    "attackPower": 48901,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1687"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 29,
+    "upgradeXP": 2569036,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 5371377,
+    "nextEvolveLevel": 21,
+    "tierNumber": 8,
+    "rarity": 6
+  },
+  {
+    "identifier": "E18Q2FinalDragon",
+    "level": 16,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "439200"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "have2LegendarySapphire",
+    "HP": 5953529,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "E18Q2FinalDragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "explosiveAegis": "explosiveAegis1",
+      "bloodFury": "bloodFury1",
+      "thunderstorm": "lightningStorm1",
+      "darkFlakResist01": "darkFlakResist01"
+    },
+    "attackPower": 53977,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1771"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 30,
+    "upgradeXP": 2835731,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 6544464,
+    "nextEvolveLevel": 21,
+    "tierNumber": 8,
+    "rarity": 6
+  },
+  {
+    "identifier": "E18Q2FinalDragon",
+    "level": 17,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "460800"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 6735791,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "E18Q2FinalDragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "explosiveAegis": "explosiveAegis1",
+      "bloodFury": "bloodFury1",
+      "thunderstorm": "lightningStorm1",
+      "darkFlakResist01": "darkFlakResist01"
+    },
+    "attackPower": 61070,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1834"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 31,
+    "upgradeXP": 3053767,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 8377262,
+    "nextEvolveLevel": 21,
+    "tierNumber": 8,
+    "rarity": 6
+  },
+  {
+    "identifier": "E18Q2FinalDragon",
+    "level": 18,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "477000"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "haveLegendaryGarnet",
+    "HP": 7076741,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "E18Q2FinalDragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "explosiveAegis": "explosiveAegis1",
+      "bloodFury": "bloodFury1",
+      "thunderstorm": "lightningStorm1",
+      "darkFlakResist01": "darkFlakResist01"
+    },
+    "attackPower": 64162,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1918"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 32,
+    "upgradeXP": 4477079,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 9246926,
+    "nextEvolveLevel": 21,
+    "tierNumber": 8,
+    "rarity": 6
+  },
+  {
+    "identifier": "E18Q2FinalDragon",
+    "level": 19,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "662242"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 7620808,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "E18Q2FinalDragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "explosiveAegis": "explosiveAegis1",
+      "bloodFury": "bloodFury1",
+      "thunderstorm": "lightningStorm1",
+      "darkFlakResist01": "darkFlakResist01"
+    },
+    "attackPower": 69095,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1981"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 33,
+    "upgradeXP": 4821317,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 10723557,
+    "nextEvolveLevel": 21,
+    "tierNumber": 8,
+    "rarity": 6
+  },
+  {
+    "identifier": "E18Q2FinalDragon",
+    "level": 20,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "683758"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 8206702,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "E18Q2FinalDragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "explosiveAegis": "explosiveAegis1",
+      "bloodFury": "bloodFury1",
+      "thunderstorm": "lightningStorm1",
+      "darkFlakResist01": "darkFlakResist01"
+    },
+    "attackPower": 74408,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2044"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 34,
+    "upgradeXP": 5192023,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 12435804,
+    "nextEvolveLevel": 21,
+    "tierNumber": 8,
+    "rarity": 6
+  },
+  {
+    "identifier": "E18Q2FinalDragon",
+    "level": 21,
+    "upgradeCost": [
+      {
+        "type": "E18Q2FinalDragonGarnetStone",
+        "amount": "1"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "have2LegendaryGarnet",
+    "HP": 8837659,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "E18Q2FinalDragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "explosiveAegis": "explosiveAegis1",
+      "bloodFury": "bloodFury1",
+      "thunderstorm": "lightningStorm1",
+      "darkFlakResist01": "darkFlakResist01"
+    },
+    "attackPower": 80129,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2107"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 35,
+    "upgradeXP": 5591239,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 14421699,
+    "nextEvolveLevel": 25,
+    "tierNumber": 9,
+    "rarity": 6
+  },
+  {
+    "identifier": "E18Q2FinalDragon",
+    "level": 22,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "726792"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 9285007,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "E18Q2FinalDragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "explosiveAegis": "explosiveAegis1",
+      "bloodFury": "bloodFury1",
+      "thunderstorm": "lightningStorm1",
+      "darkFlakResist01": "darkFlakResist01"
+    },
+    "attackPower": 84185,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2149"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 36,
+    "upgradeXP": 7184762,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 15918751,
+    "nextEvolveLevel": 25,
+    "tierNumber": 9,
+    "rarity": 6
+  },
+  {
+    "identifier": "E18Q2FinalDragon",
+    "level": 23,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "906474"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 9755009,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "E18Q2FinalDragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "explosiveAegis": "explosiveAegis1",
+      "bloodFury": "bloodFury1",
+      "thunderstorm": "lightningStorm1",
+      "darkFlakResist01": "darkFlakResist01"
+    },
+    "attackPower": 88447,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2191"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 37,
+    "upgradeXP": 7548486,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 17571200,
+    "nextEvolveLevel": 25,
+    "tierNumber": 9,
+    "rarity": 6
+  },
+  {
+    "identifier": "E18Q2FinalDragon",
+    "level": 24,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "924019"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 10767617,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "E18Q2FinalDragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "explosiveAegis": "explosiveAegis1",
+      "bloodFury": "bloodFury1",
+      "thunderstorm": "lightningStorm1",
+      "darkFlakResist01": "darkFlakResist01"
+    },
+    "attackPower": 97629,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2233"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 37,
+    "upgradeXP": 7930623,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 21408570,
+    "nextEvolveLevel": 25,
+    "tierNumber": 9,
+    "rarity": 6
+  },
+  {
+    "identifier": "E18Q2FinalDragon",
+    "level": 25,
+    "upgradeCost": [
+      {
+        "type": "E18Q2FinalDragonEmeraldStone",
+        "amount": "1"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "haveLegendaryEmerald",
+    "HP": 11036781,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "E18Q2FinalDragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "explosiveAegis": "explosiveAegis1",
+      "bloodFury": "bloodFury1",
+      "thunderstorm": "lightningStorm1",
+      "darkFlakResist01": "darkFlakResist01"
+    },
+    "attackPower": 100069,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2296"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 38,
+    "upgradeXP": 8540401,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 22492332,
+    "nextEvolveLevel": 31,
+    "tierNumber": 10,
+    "rarity": 6
+  },
+  {
+    "identifier": "E18Q2FinalDragon",
+    "level": 26,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "967880"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 11885324,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "E18Q2FinalDragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "explosiveAegis": "explosiveAegis1",
+      "bloodFury": "bloodFury1",
+      "thunderstorm": "lightningStorm1",
+      "darkFlakResist01": "darkFlakResist01"
+    },
+    "attackPower": 107763,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2359"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 39,
+    "upgradeXP": 10751928,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 26083926,
+    "nextEvolveLevel": 31,
+    "tierNumber": 10,
+    "rarity": 6
+  },
+  {
+    "identifier": "E18Q2FinalDragon",
+    "level": 27,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1162277"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 12799145,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "E18Q2FinalDragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "explosiveAegis": "explosiveAegis1",
+      "bloodFury": "bloodFury1",
+      "thunderstorm": "lightningStorm1",
+      "darkFlakResist01": "darkFlakResist01"
+    },
+    "attackPower": 116049,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2422"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 41,
+    "upgradeXP": 11578644,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 30249140,
+    "nextEvolveLevel": 31,
+    "tierNumber": 10,
+    "rarity": 6
+  },
+  {
+    "identifier": "E18Q2FinalDragon",
+    "level": 28,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1193043"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 13783209,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "E18Q2FinalDragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "explosiveAegis": "explosiveAegis1",
+      "bloodFury": "bloodFury1",
+      "thunderstorm": "lightningStorm1",
+      "darkFlakResist01": "darkFlakResist01"
+    },
+    "attackPower": 124972,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2485"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 42,
+    "upgradeXP": 12468930,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 35079550,
+    "nextEvolveLevel": 31,
+    "tierNumber": 10,
+    "rarity": 6
+  },
+  {
+    "identifier": "E18Q2FinalDragon",
+    "level": 29,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1223809"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "have2LegendaryEmerald",
+    "HP": 14842927,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "E18Q2FinalDragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "explosiveAegis": "explosiveAegis1",
+      "bloodFury": "bloodFury1",
+      "thunderstorm": "lightningStorm1",
+      "darkFlakResist01": "darkFlakResist01"
+    },
+    "attackPower": 134581,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2548"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 44,
+    "upgradeXP": 13427661,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 40681366,
+    "nextEvolveLevel": 31,
+    "tierNumber": 10,
+    "rarity": 6
+  },
+  {
+    "identifier": "E18Q2FinalDragon",
+    "level": 30,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1254575"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 15984133,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "E18Q2FinalDragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "explosiveAegis": "explosiveAegis1",
+      "bloodFury": "bloodFury1",
+      "thunderstorm": "lightningStorm1",
+      "darkFlakResist01": "darkFlakResist01"
+    },
+    "attackPower": 144929,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2590"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 45,
+    "upgradeXP": 14107429,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 47177614,
+    "nextEvolveLevel": 31,
+    "tierNumber": 10,
+    "rarity": 6
+  },
+  {
+    "identifier": "E18Q2FinalDragon",
+    "level": 31,
+    "upgradeCost": [
+      {
+        "type": "E18Q2FinalDragonObsidianStone",
+        "amount": "1"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "haveLegendaryObsidian",
+    "HP": 16793282,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "E18Q2FinalDragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "explosiveAegis": "explosiveAegis1",
+      "bloodFury": "bloodFury1",
+      "thunderstorm": "lightningStorm1",
+      "darkFlakResist01": "darkFlakResist01"
+    },
+    "attackPower": 152266,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2653"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 46,
+    "upgradeXP": 15192151,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 52075152,
+    "nextEvolveLevel": 42,
+    "tierNumber": 11,
+    "rarity": 6
+  },
+  {
+    "identifier": "E18Q2FinalDragon",
+    "level": 32,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1305852"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 17643415,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "E18Q2FinalDragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "explosiveAegis": "explosiveAegis1",
+      "bloodFury": "bloodFury1",
+      "thunderstorm": "lightningStorm1",
+      "darkFlakResist01": "darkFlakResist01"
+    },
+    "attackPower": 159975,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2695"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 47,
+    "upgradeXP": 15961243,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 57481153,
+    "nextEvolveLevel": 42,
+    "tierNumber": 11,
+    "rarity": 6
+  },
+  {
+    "identifier": "E18Q2FinalDragon",
+    "level": 33,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1326363"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 18536581,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "E18Q2FinalDragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "explosiveAegis": "explosiveAegis1",
+      "bloodFury": "bloodFury1",
+      "thunderstorm": "lightningStorm1",
+      "darkFlakResist01": "darkFlakResist01"
+    },
+    "attackPower": 168073,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2737"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 48,
+    "upgradeXP": 16769279,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 63448123,
+    "nextEvolveLevel": 42,
+    "tierNumber": 11,
+    "rarity": 6
+  },
+  {
+    "identifier": "E18Q2FinalDragon",
+    "level": 34,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1346874"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 19474973,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "E18Q2FinalDragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "explosiveAegis": "explosiveAegis1",
+      "bloodFury": "bloodFury1",
+      "thunderstorm": "lightningStorm1",
+      "darkFlakResist01": "darkFlakResist01"
+    },
+    "attackPower": 176582,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2779"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 49,
+    "upgradeXP": 17618220,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 70034832,
+    "nextEvolveLevel": 42,
+    "tierNumber": 11,
+    "rarity": 6
+  },
+  {
+    "identifier": "E18Q2FinalDragon",
+    "level": 35,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1367385"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 20460860,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "E18Q2FinalDragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "explosiveAegis": "explosiveAegis1",
+      "bloodFury": "bloodFury1",
+      "thunderstorm": "lightningStorm1",
+      "darkFlakResist01": "darkFlakResist01"
+    },
+    "attackPower": 185521,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2821"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 51,
+    "upgradeXP": 18510137,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 77305251,
+    "nextEvolveLevel": 42,
+    "tierNumber": 11,
+    "rarity": 6
+  },
+  {
+    "identifier": "E18Q2FinalDragon",
+    "level": 36,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1387895"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "have2LegendaryObsidian",
+    "HP": 21496655,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "E18Q2FinalDragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "explosiveAegis": "explosiveAegis1",
+      "bloodFury": "bloodFury1",
+      "thunderstorm": "lightningStorm1",
+      "darkFlakResist01": "darkFlakResist01"
+    },
+    "attackPower": 194913,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2863"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 53,
+    "upgradeXP": 19447206,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 85330321,
+    "nextEvolveLevel": 42,
+    "tierNumber": 11,
+    "rarity": 6
+  },
+  {
+    "identifier": "E18Q2FinalDragon",
+    "level": 37,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1408406"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 23149486,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "E18Q2FinalDragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "explosiveAegis": "explosiveAegis1",
+      "bloodFury": "bloodFury1",
+      "thunderstorm": "lightningStorm1",
+      "darkFlakResist01": "darkFlakResist01"
+    },
+    "attackPower": 209900,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2926"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 56,
+    "upgradeXP": 20942504,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 98446448,
+    "nextEvolveLevel": 42,
+    "tierNumber": 11,
+    "rarity": 6
+  },
+  {
+    "identifier": "E18Q2FinalDragon",
+    "level": 38,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1439172"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "haveMythicObsidian",
+    "HP": 24929409,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "E18Q2FinalDragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "explosiveAegis": "explosiveAegis1",
+      "bloodFury": "bloodFury1",
+      "thunderstorm": "lightningStorm1",
+      "darkFlakResist01": "darkFlakResist01"
+    },
+    "attackPower": 226039,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2989"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 59,
+    "upgradeXP": 22552777,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 112034547,
+    "nextEvolveLevel": 42,
+    "tierNumber": 11,
+    "rarity": 6
+  },
+  {
+    "identifier": "E18Q2FinalDragon",
+    "level": 39,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1469938"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 26191436,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "E18Q2FinalDragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "explosiveAegis": "explosiveAegis1",
+      "bloodFury": "bloodFury1",
+      "thunderstorm": "lightningStorm1",
+      "darkFlakResist01": "darkFlakResist01"
+    },
+    "attackPower": 237482,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3031"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 60,
+    "upgradeXP": 23694507,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 120281525,
+    "nextEvolveLevel": 42,
+    "tierNumber": 11,
+    "rarity": 6
+  },
+  {
+    "identifier": "E18Q2FinalDragon",
+    "level": 40,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1490449"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 27517350,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "E18Q2FinalDragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "explosiveAegis": "explosiveAegis1",
+      "bloodFury": "bloodFury1",
+      "thunderstorm": "lightningStorm1",
+      "darkFlakResist01": "darkFlakResist01"
+    },
+    "attackPower": 249505,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3073"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 61,
+    "upgradeXP": 24894038,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 127606704,
+    "nextEvolveLevel": 42,
+    "tierNumber": 11,
+    "rarity": 6
+  },
+  {
+    "identifier": "E18Q2FinalDragon",
+    "level": 41,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1510960"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 28910392,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "E18Q2FinalDragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "explosiveAegis": "explosiveAegis1",
+      "bloodFury": "bloodFury1",
+      "thunderstorm": "lightningStorm1",
+      "darkFlakResist01": "darkFlakResist01"
+    },
+    "attackPower": 262136,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3115"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 62,
+    "upgradeXP": 26154291,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 135066359,
+    "nextEvolveLevel": 42,
+    "tierNumber": 11,
+    "rarity": 6
+  },
+  {
+    "identifier": "E18Q2FinalDragon",
+    "level": 42,
+    "upgradeCost": [
+      {
+        "type": "E18Q2FinalDragonHarbingerStone",
+        "amount": "1"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "haveLegendaryHarbinger",
+    "HP": 30373972,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "E18Q2FinalDragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "explosiveAegis": "explosiveAegis1",
+      "bloodFury": "bloodFury1",
+      "thunderstorm": "lightningStorm1",
+      "darkFlakResist01": "darkFlakResist01"
+    },
+    "attackPower": 275406,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3157"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 63,
+    "upgradeXP": 27478348,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 142660489,
+    "nextEvolveLevel": 56,
+    "tierNumber": 12,
+    "rarity": 6
+  },
+  {
+    "identifier": "E18Q2FinalDragon",
+    "level": 43,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1551981"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 31911621,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "E18Q2FinalDragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "explosiveAegis": "explosiveAegis1",
+      "bloodFury": "bloodFury1",
+      "thunderstorm": "lightningStorm1",
+      "darkFlakResist01": "darkFlakResist01"
+    },
+    "attackPower": 289349,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3199"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 64,
+    "upgradeXP": 28869434,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 150389094,
+    "nextEvolveLevel": 56,
+    "tierNumber": 12,
+    "rarity": 6
+  },
+  {
+    "identifier": "E18Q2FinalDragon",
+    "level": 44,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1572492"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 34365297,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "E18Q2FinalDragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "explosiveAegis": "explosiveAegis1",
+      "bloodFury": "bloodFury1",
+      "thunderstorm": "lightningStorm1",
+      "darkFlakResist01": "darkFlakResist01"
+    },
+    "attackPower": 311597,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3262"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 66,
+    "upgradeXP": 31089215,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 162234143,
+    "nextEvolveLevel": 56,
+    "tierNumber": 12,
+    "rarity": 6
+  },
+  {
+    "identifier": "E18Q2FinalDragon",
+    "level": 45,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1603258"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 37007645,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "E18Q2FinalDragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "explosiveAegis": "explosiveAegis1",
+      "bloodFury": "bloodFury1",
+      "thunderstorm": "lightningStorm1",
+      "darkFlakResist01": "darkFlakResist01"
+    },
+    "attackPower": 335556,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3325"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 67,
+    "upgradeXP": 33479671,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 174381762,
+    "nextEvolveLevel": 56,
+    "tierNumber": 12,
+    "rarity": 6
+  },
+  {
+    "identifier": "E18Q2FinalDragon",
+    "level": 46,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1634024"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "have2LegendaryHarbinger",
+    "HP": 39853126,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "E18Q2FinalDragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "explosiveAegis": "explosiveAegis1",
+      "bloodFury": "bloodFury1",
+      "thunderstorm": "lightningStorm1",
+      "darkFlakResist01": "darkFlakResist01"
+    },
+    "attackPower": 361356,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3388"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 69,
+    "upgradeXP": 36053935,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 186831950,
+    "nextEvolveLevel": 56,
+    "tierNumber": 12,
+    "rarity": 6
+  },
+  {
+    "identifier": "E18Q2FinalDragon",
+    "level": 47,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1664791"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 42917401,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "E18Q2FinalDragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "explosiveAegis": "explosiveAegis1",
+      "bloodFury": "bloodFury1",
+      "thunderstorm": "lightningStorm1",
+      "darkFlakResist01": "darkFlakResist01"
+    },
+    "attackPower": 389141,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3451"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 70,
+    "upgradeXP": 38826135,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 199584707,
+    "nextEvolveLevel": 56,
+    "tierNumber": 12,
+    "rarity": 6
+  },
+  {
+    "identifier": "E18Q2FinalDragon",
+    "level": 48,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1695557"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 45090069,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "E18Q2FinalDragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "explosiveAegis": "explosiveAegis1",
+      "bloodFury": "bloodFury1",
+      "thunderstorm": "lightningStorm1",
+      "darkFlakResist01": "darkFlakResist01"
+    },
+    "attackPower": 408841,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3493"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 71,
+    "upgradeXP": 40791702,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 208254640,
+    "nextEvolveLevel": 56,
+    "tierNumber": 12,
+    "rarity": 6
+  },
+  {
+    "identifier": "E18Q2FinalDragon",
+    "level": 49,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1716067"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "haveMythicHarbinger",
+    "HP": 47372719,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "E18Q2FinalDragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "explosiveAegis": "explosiveAegis1",
+      "bloodFury": "bloodFury1",
+      "thunderstorm": "lightningStorm1",
+      "darkFlakResist01": "darkFlakResist01"
+    },
+    "attackPower": 429539,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3535"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 72,
+    "upgradeXP": 42856770,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 217059048,
+    "nextEvolveLevel": 56,
+    "tierNumber": 12,
+    "rarity": 6
+  },
+  {
+    "identifier": "E18Q2FinalDragon",
+    "level": 50,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1736578"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 49770941,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "E18Q2FinalDragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "explosiveAegis": "explosiveAegis1",
+      "bloodFury": "bloodFury1",
+      "thunderstorm": "lightningStorm1",
+      "darkFlakResist01": "darkFlakResist01"
+    },
+    "attackPower": 451284,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3577"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 73,
+    "upgradeXP": 45026393,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 225997931,
+    "nextEvolveLevel": 56,
+    "tierNumber": 12,
+    "rarity": 6
+  },
+  {
+    "identifier": "E18Q2FinalDragon",
+    "level": 51,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1757089"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 52290566,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "E18Q2FinalDragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "explosiveAegis": "explosiveAegis1",
+      "bloodFury": "bloodFury1",
+      "thunderstorm": "lightningStorm1",
+      "darkFlakResist01": "darkFlakResist01"
+    },
+    "attackPower": 474130,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3619"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 74,
+    "upgradeXP": 47305849,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 235071290,
+    "nextEvolveLevel": 56,
+    "tierNumber": 12,
+    "rarity": 6
+  },
+  {
+    "identifier": "E18Q2FinalDragon",
+    "level": 52,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1777600"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 54937751,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "E18Q2FinalDragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "explosiveAegis": "explosiveAegis1",
+      "bloodFury": "bloodFury1",
+      "thunderstorm": "lightningStorm1",
+      "darkFlakResist01": "darkFlakResist01"
+    },
+    "attackPower": 498133,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3661"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 76,
+    "upgradeXP": 49700698,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 244279123,
+    "nextEvolveLevel": 56,
+    "tierNumber": 12,
+    "rarity": 6
+  },
+  {
+    "identifier": "E18Q2FinalDragon",
+    "level": 53,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1798110"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 57718927,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "E18Q2FinalDragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "explosiveAegis": "explosiveAegis1",
+      "bloodFury": "bloodFury1",
+      "thunderstorm": "lightningStorm1",
+      "darkFlakResist01": "darkFlakResist01"
+    },
+    "attackPower": 523351,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3703"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 78,
+    "upgradeXP": 52216785,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 253621433,
+    "nextEvolveLevel": 56,
+    "tierNumber": 12,
+    "rarity": 6
+  },
+  {
+    "identifier": "E18Q2FinalDragon",
+    "level": 54,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1818621"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 59161876,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "E18Q2FinalDragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "explosiveAegis": "explosiveAegis1",
+      "bloodFury": "bloodFury1",
+      "thunderstorm": "lightningStorm1",
+      "darkFlakResist01": "darkFlakResist01"
+    },
+    "attackPower": 536435,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3724"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 79,
+    "upgradeXP": 53522204,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 258343015,
+    "nextEvolveLevel": 56,
+    "tierNumber": 12,
+    "rarity": 6
+  },
+  {
+    "identifier": "E18Q2FinalDragon",
+    "level": 55,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1828877"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 60640905,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "E18Q2FinalDragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "explosiveAegis": "explosiveAegis1",
+      "bloodFury": "bloodFury1",
+      "thunderstorm": "lightningStorm1",
+      "darkFlakResist01": "darkFlakResist01"
+    },
+    "attackPower": 549846,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3745"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 80,
+    "upgradeXP": 54860256,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 263098217,
+    "nextEvolveLevel": 56,
+    "tierNumber": 12,
+    "rarity": 6
+  },
+  {
+    "identifier": "E18Q2FinalDragon",
+    "level": 56,
+    "upgradeCost": [
+      {
+        "type": "E18Q2FinalDragonVanguardStone",
+        "amount": "1"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "haveLegendaryVanguard",
+    "HP": 65303553,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "E18Q2FinalDragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "explosiveAegis": "explosiveAegis1",
+      "bloodFury": "bloodFury1",
+      "thunderstorm": "lightningStorm1",
+      "darkFlakResist01": "darkFlakResist01"
+    },
+    "attackPower": 592123,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3808"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 81,
+    "upgradeXP": 59078484,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 277565535,
+    "nextEvolveLevel": 0,
+    "tierNumber": 13,
+    "rarity": 6
+  },
+  {
+    "identifier": "E18Q2FinalDragon",
+    "level": 57,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1869898"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 68609512,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "E18Q2FinalDragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "explosiveAegis": "explosiveAegis1",
+      "bloodFury": "bloodFury1",
+      "thunderstorm": "lightningStorm1",
+      "darkFlakResist01": "darkFlakResist01"
+    },
+    "attackPower": 622099,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3850"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 82,
+    "upgradeXP": 62069323,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 287378508,
+    "nextEvolveLevel": 0,
+    "tierNumber": 13,
+    "rarity": 6
+  },
+  {
+    "identifier": "E18Q2FinalDragon",
+    "level": 58,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1890409"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 72082842,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "E18Q2FinalDragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "explosiveAegis": "explosiveAegis1",
+      "bloodFury": "bloodFury1",
+      "thunderstorm": "lightningStorm1",
+      "darkFlakResist01": "darkFlakResist01"
+    },
+    "attackPower": 653593,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3892"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 83,
+    "upgradeXP": 65211579,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 297325956,
+    "nextEvolveLevel": 0,
+    "tierNumber": 13,
+    "rarity": 6
+  },
+  {
+    "identifier": "E18Q2FinalDragon",
+    "level": 59,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1910920"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 75732019,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "E18Q2FinalDragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "explosiveAegis": "explosiveAegis1",
+      "bloodFury": "bloodFury1",
+      "thunderstorm": "lightningStorm1",
+      "darkFlakResist01": "darkFlakResist01"
+    },
+    "attackPower": 686681,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3934"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 84,
+    "upgradeXP": 68512904,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 307407880,
+    "nextEvolveLevel": 0,
+    "tierNumber": 13,
+    "rarity": 6
+  },
+  {
+    "identifier": "E18Q2FinalDragon",
+    "level": 60,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1931430"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 77625313,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "E18Q2FinalDragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "explosiveAegis": "explosiveAegis1",
+      "bloodFury": "bloodFury1",
+      "thunderstorm": "lightningStorm1",
+      "darkFlakResist01": "darkFlakResist01"
+    },
+    "attackPower": 703848,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3955"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 85,
+    "upgradeXP": 0,
+    "xpRewardMultiplier": 1.2,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 312499270,
+    "nextEvolveLevel": 0,
+    "tierNumber": 13,
+    "rarity": 6
+  }
+]

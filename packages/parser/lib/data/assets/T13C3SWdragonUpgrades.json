@@ -1,0 +1,1777 @@
+[
+  {
+    "identifier": "T13C3SWdragon",
+    "level": 1,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "0"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 22017637,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T13C3SWdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "umbralSpike": "umbralSpikeWhite1"
+    },
+    "attackPower": 1084451,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2688"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 63,
+    "upgradeXP": 7646637,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 133506360
+  },
+  {
+    "identifier": "T13C3SWdragon",
+    "level": 2,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "714384"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 22568073,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T13C3SWdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "umbralSpike": "umbralSpikeWhite1"
+    },
+    "attackPower": 1111563,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2706"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 63,
+    "upgradeXP": 7837802,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 137173547
+  },
+  {
+    "identifier": "T13C3SWdragon",
+    "level": 3,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "719136"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 23132266,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T13C3SWdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "umbralSpike": "umbralSpikeWhite1"
+    },
+    "attackPower": 1139351,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2724"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 64,
+    "upgradeXP": 9127355,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 140873060
+  },
+  {
+    "identifier": "T13C3SWdragon",
+    "level": 4,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "723888"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 23710558,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T13C3SWdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "umbralSpike": "umbralSpikeWhite1"
+    },
+    "attackPower": 1167835,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2742"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 64,
+    "upgradeXP": 10766142,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 144604898
+  },
+  {
+    "identifier": "T13C3SWdragon",
+    "level": 5,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "728640"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 24303308,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T13C3SWdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "umbralSpike": "umbralSpikeWhite1",
+      "northernLights": "northernLightsDark1"
+    },
+    "attackPower": 1197031,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2760"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 65,
+    "upgradeXP": 12403944,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 148369062
+  },
+  {
+    "identifier": "T13C3SWdragon",
+    "level": 6,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "733392"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 24910886,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T13C3SWdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "umbralSpike": "umbralSpikeWhite1",
+      "northernLights": "northernLightsDark1"
+    },
+    "attackPower": 1226957,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2778"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 65,
+    "upgradeXP": 14054343,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 152165553
+  },
+  {
+    "identifier": "T13C3SWdragon",
+    "level": 7,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "738144"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 25533656,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T13C3SWdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "umbralSpike": "umbralSpikeWhite1",
+      "northernLights": "northernLightsDark1"
+    },
+    "attackPower": 1257630,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2796"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 66,
+    "upgradeXP": 14405702,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 155994368
+  },
+  {
+    "identifier": "T13C3SWdragon",
+    "level": 8,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "742896"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 26171995,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T13C3SWdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "umbralSpike": "umbralSpikeWhite1",
+      "northernLights": "northernLightsDark1"
+    },
+    "attackPower": 1289071,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2814"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 66,
+    "upgradeXP": 14765842,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 159855510
+  },
+  {
+    "identifier": "T13C3SWdragon",
+    "level": 9,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "747648"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 26826290,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T13C3SWdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "umbralSpike": "umbralSpikeWhite1",
+      "northernLights": "northernLightsDark1",
+      "frenzySpell": "mysticBarrage1"
+    },
+    "attackPower": 1321298,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2832"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 67,
+    "upgradeXP": 15134985,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 163748978
+  },
+  {
+    "identifier": "T13C3SWdragon",
+    "level": 10,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "752400"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 27496939,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T13C3SWdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "umbralSpike": "umbralSpikeWhite1",
+      "northernLights": "northernLightsDark1",
+      "frenzySpell": "mysticBarrage1"
+    },
+    "attackPower": 1354330,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2850"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 67,
+    "upgradeXP": 15513359,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 167674771
+  },
+  {
+    "identifier": "T13C3SWdragon",
+    "level": 11,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "757152"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 28184351,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T13C3SWdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "umbralSpike": "umbralSpikeWhite1",
+      "northernLights": "northernLightsDark1",
+      "frenzySpell": "mysticBarrage1"
+    },
+    "attackPower": 1388188,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2868"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 68,
+    "upgradeXP": 15901193,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 171632890
+  },
+  {
+    "identifier": "T13C3SWdragon",
+    "level": 12,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "761904"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 28888947,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T13C3SWdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "umbralSpike": "umbralSpikeWhite1",
+      "northernLights": "northernLightsDark1",
+      "frenzySpell": "mysticBarrage1"
+    },
+    "attackPower": 1422892,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2886"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 68,
+    "upgradeXP": 16298719,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 175623335
+  },
+  {
+    "identifier": "T13C3SWdragon",
+    "level": 13,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "766656"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 29611152,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T13C3SWdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "umbralSpike": "umbralSpikeWhite1",
+      "northernLights": "northernLightsDark1",
+      "frenzySpell": "mysticBarrage1"
+    },
+    "attackPower": 1458465,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2904"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 69,
+    "upgradeXP": 16706187,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 179646106
+  },
+  {
+    "identifier": "T13C3SWdragon",
+    "level": 14,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "771408"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 30351415,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T13C3SWdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "umbralSpike": "umbralSpikeWhite1",
+      "northernLights": "northernLightsDark1",
+      "frenzySpell": "mysticBarrage1",
+      "iceFlakResist01": "iceFlakResist01"
+    },
+    "attackPower": 1494926,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2922"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 69,
+    "upgradeXP": 17123839,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 183701202
+  },
+  {
+    "identifier": "T13C3SWdragon",
+    "level": 15,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "776160"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 31110187,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T13C3SWdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "umbralSpike": "umbralSpikeWhite1",
+      "northernLights": "northernLightsDark1",
+      "frenzySpell": "mysticBarrage1",
+      "iceFlakResist01": "iceFlakResist01"
+    },
+    "attackPower": 1532299,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2940"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 70,
+    "upgradeXP": 17551933,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 187788624
+  },
+  {
+    "identifier": "T13C3SWdragon",
+    "level": 16,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "780912"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 31887929,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T13C3SWdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "umbralSpike": "umbralSpikeWhite1",
+      "northernLights": "northernLightsDark1",
+      "frenzySpell": "mysticBarrage1",
+      "iceFlakResist01": "iceFlakResist01"
+    },
+    "attackPower": 1570606,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2958"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 70,
+    "upgradeXP": 17990732,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 191908373
+  },
+  {
+    "identifier": "T13C3SWdragon",
+    "level": 17,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "785664"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 32685120,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T13C3SWdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "umbralSpike": "umbralSpikeWhite1",
+      "northernLights": "northernLightsDark1",
+      "frenzySpell": "mysticBarrage1",
+      "iceFlakResist01": "iceFlakResist01"
+    },
+    "attackPower": 1609871,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2976"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 71,
+    "upgradeXP": 18440497,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 196060446
+  },
+  {
+    "identifier": "T13C3SWdragon",
+    "level": 18,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "790416"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 33502237,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T13C3SWdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "umbralSpike": "umbralSpikeWhite1",
+      "northernLights": "northernLightsDark1",
+      "frenzySpell": "mysticBarrage1",
+      "iceFlakResist01": "iceFlakResist01"
+    },
+    "attackPower": 1650118,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2994"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 71,
+    "upgradeXP": 25105009,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 200244846
+  },
+  {
+    "identifier": "T13C3SWdragon",
+    "level": 19,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1056144"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 34339778,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T13C3SWdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "umbralSpike": "umbralSpikeWhite1",
+      "northernLights": "northernLightsDark1",
+      "frenzySpell": "mysticBarrage1",
+      "iceFlakResist01": "iceFlakResist01"
+    },
+    "attackPower": 1691371,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3012"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 72,
+    "upgradeXP": 25732630,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 204461572
+  },
+  {
+    "identifier": "T13C3SWdragon",
+    "level": 20,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1062455"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 35198262,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T13C3SWdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "umbralSpike": "umbralSpikeWhite1",
+      "northernLights": "northernLightsDark1",
+      "frenzySpell": "mysticBarrage1",
+      "iceFlakResist01": "iceFlakResist01"
+    },
+    "attackPower": 1733655,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3030"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 72,
+    "upgradeXP": 26375942,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 208710623
+  },
+  {
+    "identifier": "T13C3SWdragon",
+    "level": 21,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1068767"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 36078213,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T13C3SWdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "umbralSpike": "umbralSpikeWhite1",
+      "northernLights": "northernLightsDark1",
+      "frenzySpell": "mysticBarrage1",
+      "iceFlakResist01": "iceFlakResist01"
+    },
+    "attackPower": 1776996,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3048"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 73,
+    "upgradeXP": 27035341,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 212992000
+  },
+  {
+    "identifier": "T13C3SWdragon",
+    "level": 22,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1075078"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 36980158,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T13C3SWdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "umbralSpike": "umbralSpikeWhite1",
+      "northernLights": "northernLightsDark1",
+      "frenzySpell": "mysticBarrage1",
+      "iceFlakResist01": "iceFlakResist01"
+    },
+    "attackPower": 1821421,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3066"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 73,
+    "upgradeXP": 33893219,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 217305703
+  },
+  {
+    "identifier": "T13C3SWdragon",
+    "level": 23,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1322633"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 37904649,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T13C3SWdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "umbralSpike": "umbralSpikeWhite1",
+      "northernLights": "northernLightsDark1",
+      "frenzySpell": "mysticBarrage1",
+      "iceFlakResist01": "iceFlakResist01"
+    },
+    "attackPower": 1866956,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3084"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 74,
+    "upgradeXP": 34740547,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 221651732
+  },
+  {
+    "identifier": "T13C3SWdragon",
+    "level": 24,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1330353"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 38852257,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T13C3SWdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "umbralSpike": "umbralSpikeWhite1",
+      "northernLights": "northernLightsDark1",
+      "frenzySpell": "mysticBarrage1",
+      "iceFlakResist01": "iceFlakResist01"
+    },
+    "attackPower": 1913630,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3102"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 74,
+    "upgradeXP": 35609059,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 226030086
+  },
+  {
+    "identifier": "T13C3SWdragon",
+    "level": 25,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1338073"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 39823554,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T13C3SWdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "umbralSpike": "umbralSpikeWhite1",
+      "northernLights": "northernLightsDark1",
+      "frenzySpell": "mysticBarrage1",
+      "iceFlakResist01": "iceFlakResist01"
+    },
+    "attackPower": 1961471,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3120"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 75,
+    "upgradeXP": 36499281,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 230440766
+  },
+  {
+    "identifier": "T13C3SWdragon",
+    "level": 26,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1345792"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 40819133,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T13C3SWdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "umbralSpike": "umbralSpikeWhite1",
+      "northernLights": "northernLightsDark1",
+      "frenzySpell": "mysticBarrage1",
+      "iceFlakResist01": "iceFlakResist01"
+    },
+    "attackPower": 2010507,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3138"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 76,
+    "upgradeXP": 43736615,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 234883773
+  },
+  {
+    "identifier": "T13C3SWdragon",
+    "level": 27,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1582337"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 41839597,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T13C3SWdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "umbralSpike": "umbralSpikeWhite1",
+      "northernLights": "northernLightsDark1",
+      "frenzySpell": "mysticBarrage1",
+      "iceFlakResist01": "iceFlakResist01"
+    },
+    "attackPower": 2060770,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3156"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 77,
+    "upgradeXP": 44830024,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 239359104
+  },
+  {
+    "identifier": "T13C3SWdragon",
+    "level": 28,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1591362"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 42885567,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T13C3SWdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "umbralSpike": "umbralSpikeWhite1",
+      "northernLights": "northernLightsDark1",
+      "frenzySpell": "mysticBarrage1",
+      "iceFlakResist01": "iceFlakResist01"
+    },
+    "attackPower": 2112289,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3174"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 78,
+    "upgradeXP": 45950771,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 243866762
+  },
+  {
+    "identifier": "T13C3SWdragon",
+    "level": 29,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1600387"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 43957688,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T13C3SWdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "umbralSpike": "umbralSpikeWhite1",
+      "northernLights": "northernLightsDark1",
+      "frenzySpell": "mysticBarrage1",
+      "iceFlakResist01": "iceFlakResist01"
+    },
+    "attackPower": 2165096,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3192"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 79,
+    "upgradeXP": 47099540,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 248406746
+  },
+  {
+    "identifier": "T13C3SWdragon",
+    "level": 30,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1609412"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 45056616,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T13C3SWdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "umbralSpike": "umbralSpikeWhite1",
+      "northernLights": "northernLightsDark1",
+      "frenzySpell": "mysticBarrage1",
+      "iceFlakResist01": "iceFlakResist01"
+    },
+    "attackPower": 2219223,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3210"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 80,
+    "upgradeXP": 48277025,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 252979055
+  },
+  {
+    "identifier": "T13C3SWdragon",
+    "level": 31,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1618436"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 46183018,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T13C3SWdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "umbralSpike": "umbralSpikeWhite1",
+      "northernLights": "northernLightsDark1",
+      "frenzySpell": "mysticBarrage1",
+      "iceFlakResist01": "iceFlakResist01"
+    },
+    "attackPower": 2274703,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3228"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 80,
+    "upgradeXP": 49483946,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 257583690
+  },
+  {
+    "identifier": "T13C3SWdragon",
+    "level": 32,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1627461"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 47337577,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T13C3SWdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "umbralSpike": "umbralSpikeWhite1",
+      "northernLights": "northernLightsDark1",
+      "frenzySpell": "mysticBarrage1",
+      "iceFlakResist01": "iceFlakResist01"
+    },
+    "attackPower": 2331571,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3246"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 81,
+    "upgradeXP": 50721043,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 262220651
+  },
+  {
+    "identifier": "T13C3SWdragon",
+    "level": 33,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1636486"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 48520997,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T13C3SWdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "umbralSpike": "umbralSpikeWhite1",
+      "northernLights": "northernLightsDark1",
+      "frenzySpell": "mysticBarrage1",
+      "iceFlakResist01": "iceFlakResist01"
+    },
+    "attackPower": 2389860,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3264"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 81,
+    "upgradeXP": 51989066,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 266889938
+  },
+  {
+    "identifier": "T13C3SWdragon",
+    "level": 34,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1645510"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 49734007,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T13C3SWdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "umbralSpike": "umbralSpikeWhite1",
+      "northernLights": "northernLightsDark1",
+      "frenzySpell": "mysticBarrage1",
+      "iceFlakResist01": "iceFlakResist01"
+    },
+    "attackPower": 2449606,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3282"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 82,
+    "upgradeXP": 53288788,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 271591550
+  },
+  {
+    "identifier": "T13C3SWdragon",
+    "level": 35,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1654535"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 50977347,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T13C3SWdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "umbralSpike": "umbralSpikeWhite1",
+      "northernLights": "northernLightsDark1",
+      "frenzySpell": "mysticBarrage1",
+      "iceFlakResist01": "iceFlakResist01"
+    },
+    "attackPower": 2510846,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3300"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 82,
+    "upgradeXP": 54621004,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 276325488
+  },
+  {
+    "identifier": "T13C3SWdragon",
+    "level": 36,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1663560"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 52251771,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T13C3SWdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "umbralSpike": "umbralSpikeWhite1",
+      "northernLights": "northernLightsDark1",
+      "frenzySpell": "mysticBarrage1",
+      "iceFlakResist01": "iceFlakResist01"
+    },
+    "attackPower": 2573617,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3318"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 83,
+    "upgradeXP": 55986528,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 281091753
+  },
+  {
+    "identifier": "T13C3SWdragon",
+    "level": 37,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1672585"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 53558056,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T13C3SWdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "umbralSpike": "umbralSpikeWhite1",
+      "northernLights": "northernLightsDark1",
+      "frenzySpell": "mysticBarrage1",
+      "iceFlakResist01": "iceFlakResist01"
+    },
+    "attackPower": 2637957,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3336"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 83,
+    "upgradeXP": 57386189,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 285890342
+  },
+  {
+    "identifier": "T13C3SWdragon",
+    "level": 38,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1681609"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 54897000,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T13C3SWdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "umbralSpike": "umbralSpikeWhite1",
+      "northernLights": "northernLightsDark1",
+      "frenzySpell": "mysticBarrage1",
+      "iceFlakResist01": "iceFlakResist01"
+    },
+    "attackPower": 2703906,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3354"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 84,
+    "upgradeXP": 58820840,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 290721258
+  },
+  {
+    "identifier": "T13C3SWdragon",
+    "level": 39,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1690634"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 56269420,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T13C3SWdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "umbralSpike": "umbralSpikeWhite1",
+      "northernLights": "northernLightsDark1",
+      "frenzySpell": "mysticBarrage1",
+      "iceFlakResist01": "iceFlakResist01"
+    },
+    "attackPower": 2771504,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3372"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 84,
+    "upgradeXP": 60291356,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 295584500
+  },
+  {
+    "identifier": "T13C3SWdragon",
+    "level": 40,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1699659"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 57676151,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T13C3SWdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "umbralSpike": "umbralSpikeWhite1",
+      "northernLights": "northernLightsDark1",
+      "frenzySpell": "mysticBarrage1",
+      "iceFlakResist01": "iceFlakResist01"
+    },
+    "attackPower": 2840791,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3390"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 85,
+    "upgradeXP": 0,
+    "xpRewardMultiplier": 1.2,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 300480067
+  }
+]

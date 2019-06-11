@@ -1,0 +1,420 @@
+[
+  {
+    "identifier": "T3C3WIdragon",
+    "level": 1,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "0"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 26176,
+    "fullHealDuration": 517,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T3C3WIdragon_flamethrower"
+      }
+    ],
+    "abilities": {},
+    "attackPower": 482,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "22"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 2,
+    "upgradeXP": 1239,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 161
+  },
+  {
+    "identifier": "T3C3WIdragon",
+    "level": 2,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "709"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 28749,
+    "fullHealDuration": 615,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T3C3WIdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "healDragon": "heal1"
+    },
+    "attackPower": 522,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "24"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 2,
+    "upgradeXP": 1649,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 281
+  },
+  {
+    "identifier": "T3C3WIdragon",
+    "level": 3,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "787"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 38017,
+    "fullHealDuration": 873,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T3C3WIdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "healDragon": "heal1"
+    },
+    "attackPower": 559,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "26"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 2,
+    "upgradeXP": 2152,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 408
+  },
+  {
+    "identifier": "T3C3WIdragon",
+    "level": 4,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1084"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 39724,
+    "fullHealDuration": 966,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T3C3WIdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "healDragon": "heal1"
+    },
+    "attackPower": 593,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "28"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 2,
+    "upgradeXP": 2826,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 446
+  },
+  {
+    "identifier": "T3C3WIdragon",
+    "level": 5,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1188"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 42030,
+    "fullHealDuration": 1076,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T3C3WIdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "healDragon": "heal1"
+    },
+    "attackPower": 624,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "30"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 2,
+    "upgradeXP": 3480,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 500
+  },
+  {
+    "identifier": "T3C3WIdragon",
+    "level": 6,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1296"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 43942,
+    "fullHealDuration": 1193,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T3C3WIdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "healDragon": "heal1"
+    },
+    "attackPower": 661,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "32"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 3,
+    "upgradeXP": 6254,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 556
+  },
+  {
+    "identifier": "T3C3WIdragon",
+    "level": 7,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "2449"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 46473,
+    "fullHealDuration": 1351,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T3C3WIdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "healDragon": "heal1"
+    },
+    "attackPower": 708,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "34"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 3,
+    "upgradeXP": 9425,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 630
+  },
+  {
+    "identifier": "T3C3WIdragon",
+    "level": 8,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "3274"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 50533,
+    "fullHealDuration": 1580,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T3C3WIdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "healDragon": "heal1"
+    },
+    "attackPower": 762,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "36"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 3,
+    "upgradeXP": 10840,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 740
+  },
+  {
+    "identifier": "T3C3WIdragon",
+    "level": 9,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "3715"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 55458,
+    "fullHealDuration": 1882,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T3C3WIdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "healDragon": "heal1"
+    },
+    "attackPower": 826,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "40"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 3,
+    "upgradeXP": 12314,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 875
+  },
+  {
+    "identifier": "T3C3WIdragon",
+    "level": 10,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "5562"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 60112,
+    "fullHealDuration": 2220,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T3C3WIdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "healDragon": "heal1"
+    },
+    "attackPower": 899,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "44"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 3,
+    "upgradeXP": 0,
+    "xpRewardMultiplier": 1.2,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 1035
+  }
+]

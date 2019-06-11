@@ -1,0 +1,420 @@
+[
+  {
+    "identifier": "T2C1WEdragon",
+    "level": 1,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "0"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 18018,
+    "fullHealDuration": 244,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T2C1WEdragon_flamethrower"
+      }
+    ],
+    "abilities": {},
+    "attackPower": 331,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "14"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 1,
+    "upgradeXP": 325,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 75
+  },
+  {
+    "identifier": "T2C1WEdragon",
+    "level": 2,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "236"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 19474,
+    "fullHealDuration": 290,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T2C1WEdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "curePoison": "curePoison1"
+    },
+    "attackPower": 364,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "16"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 1,
+    "upgradeXP": 456,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 132
+  },
+  {
+    "identifier": "T2C1WEdragon",
+    "level": 3,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "280"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 21024,
+    "fullHealDuration": 346,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T2C1WEdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "curePoison": "curePoison1"
+    },
+    "attackPower": 401,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "18"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 1,
+    "upgradeXP": 623,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 162
+  },
+  {
+    "identifier": "T2C1WEdragon",
+    "level": 4,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "329"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 23480,
+    "fullHealDuration": 425,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T2C1WEdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "curePoison": "curePoison1"
+    },
+    "attackPower": 441,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "20"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 1,
+    "upgradeXP": 843,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 195
+  },
+  {
+    "identifier": "T2C1WEdragon",
+    "level": 5,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "507"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 26176,
+    "fullHealDuration": 517,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T2C1WEdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "curePoison": "curePoison1"
+    },
+    "attackPower": 482,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "22"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 2,
+    "upgradeXP": 1115,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 242
+  },
+  {
+    "identifier": "T2C1WEdragon",
+    "level": 6,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "567"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 28749,
+    "fullHealDuration": 615,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T2C1WEdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "curePoison": "curePoison1"
+    },
+    "attackPower": 522,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "24"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 2,
+    "upgradeXP": 2152,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 281
+  },
+  {
+    "identifier": "T2C1WEdragon",
+    "level": 7,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "912"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 38017,
+    "fullHealDuration": 873,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T2C1WEdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "curePoison": "curePoison1"
+    },
+    "attackPower": 559,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "26"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 2,
+    "upgradeXP": 3470,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 408
+  },
+  {
+    "identifier": "T2C1WEdragon",
+    "level": 8,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1553"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 39724,
+    "fullHealDuration": 966,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T2C1WEdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "curePoison": "curePoison1"
+    },
+    "attackPower": 593,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "28"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 2,
+    "upgradeXP": 4557,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 446
+  },
+  {
+    "identifier": "T2C1WEdragon",
+    "level": 9,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1703"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 42030,
+    "fullHealDuration": 1076,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T2C1WEdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "curePoison": "curePoison1"
+    },
+    "attackPower": 624,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "30"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 2,
+    "upgradeXP": 5612,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 500
+  },
+  {
+    "identifier": "T2C1WEdragon",
+    "level": 10,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1858"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 43942,
+    "fullHealDuration": 1193,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T2C1WEdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "curePoison": "curePoison1"
+    },
+    "attackPower": 661,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "32"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 3,
+    "upgradeXP": 0,
+    "xpRewardMultiplier": 1.2,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 556
+  }
+]

@@ -1,0 +1,1325 @@
+[
+  {
+    "identifier": "T6C3SDdragon",
+    "level": 1,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "0"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 587928,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T6C3SDdragon_lockon"
+      }
+    ],
+    "abilities": {},
+    "attackPower": 29561,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "438"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 15,
+    "upgradeXP": 203039,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 43643
+  },
+  {
+    "identifier": "T6C3SDdragon",
+    "level": 2,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "120384"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 611340,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T6C3SDdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "thunderstorm": "thunderstorm1"
+    },
+    "attackPower": 30825,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "456"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 15,
+    "upgradeXP": 215594,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 70980
+  },
+  {
+    "identifier": "T6C3SDdragon",
+    "level": 3,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "125136"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 632046,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T6C3SDdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "thunderstorm": "thunderstorm1"
+    },
+    "attackPower": 32033,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "474"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 16,
+    "upgradeXP": 261714,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 76266
+  },
+  {
+    "identifier": "T6C3SDdragon",
+    "level": 4,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "129888"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 657997,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T6C3SDdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "thunderstorm": "thunderstorm1"
+    },
+    "attackPower": 33442,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "492"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 16,
+    "upgradeXP": 321745,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 82911
+  },
+  {
+    "identifier": "T6C3SDdragon",
+    "level": 5,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "134640"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 685356,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T6C3SDdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "thunderstorm": "thunderstorm1",
+      "freezeSpell": "freeze1"
+    },
+    "attackPower": 35115,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "510"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 17,
+    "upgradeXP": 383938,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 120891
+  },
+  {
+    "identifier": "T6C3SDdragon",
+    "level": 6,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "139392"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 727580,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T6C3SDdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "thunderstorm": "thunderstorm1",
+      "freezeSpell": "freeze1"
+    },
+    "attackPower": 37112,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "528"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 17,
+    "upgradeXP": 453299,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 135600
+  },
+  {
+    "identifier": "T6C3SDdragon",
+    "level": 7,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "144144"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 777088,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T6C3SDdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "thunderstorm": "thunderstorm1",
+      "freezeSpell": "freeze1"
+    },
+    "attackPower": 39360,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "546"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 18,
+    "upgradeXP": 484080,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 153659
+  },
+  {
+    "identifier": "T6C3SDdragon",
+    "level": 8,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "148896"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 829843,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T6C3SDdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "thunderstorm": "thunderstorm1",
+      "freezeSpell": "freeze1"
+    },
+    "attackPower": 41935,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "564"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 18,
+    "upgradeXP": 513817,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 174778
+  },
+  {
+    "identifier": "T6C3SDdragon",
+    "level": 9,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "153648"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 880807,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T6C3SDdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "thunderstorm": "thunderstorm1",
+      "freezeSpell": "freeze1",
+      "summonAIDragon": "summonDragon1"
+    },
+    "attackPower": 44724,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "582"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 18,
+    "upgradeXP": 548589,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 257248
+  },
+  {
+    "identifier": "T6C3SDdragon",
+    "level": 10,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "158400"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 940396,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T6C3SDdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "thunderstorm": "thunderstorm1",
+      "freezeSpell": "freeze1",
+      "summonAIDragon": "summonDragon1"
+    },
+    "attackPower": 47633,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "600"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 18,
+    "upgradeXP": 585633,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 292531
+  },
+  {
+    "identifier": "T6C3SDdragon",
+    "level": 11,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "163152"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 1003878,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T6C3SDdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "thunderstorm": "thunderstorm1",
+      "freezeSpell": "freeze1",
+      "summonAIDragon": "summonDragon1"
+    },
+    "attackPower": 50734,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "618"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 18,
+    "upgradeXP": 621502,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 332592
+  },
+  {
+    "identifier": "T6C3SDdragon",
+    "level": 12,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "167904"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 1065343,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T6C3SDdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "thunderstorm": "thunderstorm1",
+      "freezeSpell": "freeze1",
+      "summonAIDragon": "summonDragon1"
+    },
+    "attackPower": 54091,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "636"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 18,
+    "upgradeXP": 663337,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 376319
+  },
+  {
+    "identifier": "T6C3SDdragon",
+    "level": 13,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "172656"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 1137036,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T6C3SDdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "thunderstorm": "thunderstorm1",
+      "freezeSpell": "freeze1",
+      "summonAIDragon": "summonDragon1"
+    },
+    "attackPower": 57595,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "654"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 18,
+    "upgradeXP": 707895,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 427661
+  },
+  {
+    "identifier": "T6C3SDdragon",
+    "level": 14,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "177408"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 1213400,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T6C3SDdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "thunderstorm": "thunderstorm1",
+      "freezeSpell": "freeze1",
+      "summonAIDragon": "summonDragon1",
+      "archerResist01": "archerResist01"
+    },
+    "attackPower": 61251,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "672"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 18,
+    "upgradeXP": 751132,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 485316
+  },
+  {
+    "identifier": "T6C3SDdragon",
+    "level": 15,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "182160"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 1287497,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T6C3SDdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "thunderstorm": "thunderstorm1",
+      "freezeSpell": "freeze1",
+      "summonAIDragon": "summonDragon1",
+      "archerResist01": "archerResist01"
+    },
+    "attackPower": 65104,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "690"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 18,
+    "upgradeXP": 796983,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 547349
+  },
+  {
+    "identifier": "T6C3SDdragon",
+    "level": 16,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "186912"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 1366074,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T6C3SDdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "thunderstorm": "thunderstorm1",
+      "freezeSpell": "freeze1",
+      "summonAIDragon": "summonDragon1",
+      "archerResist01": "archerResist01"
+    },
+    "attackPower": 68921,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "708"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 18,
+    "upgradeXP": 821470,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 614796
+  },
+  {
+    "identifier": "T6C3SDdragon",
+    "level": 17,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "191664"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 1447095,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T6C3SDdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "thunderstorm": "thunderstorm1",
+      "freezeSpell": "freeze1",
+      "summonAIDragon": "summonDragon1",
+      "archerResist01": "archerResist01"
+    },
+    "attackPower": 72505,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "726"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 18,
+    "upgradeXP": 842004,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 685143
+  },
+  {
+    "identifier": "T6C3SDdragon",
+    "level": 18,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "196416"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 1515251,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T6C3SDdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "thunderstorm": "thunderstorm1",
+      "freezeSpell": "freeze1",
+      "summonAIDragon": "summonDragon1",
+      "archerResist01": "archerResist01"
+    },
+    "attackPower": 75736,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "744"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 18,
+    "upgradeXP": 1146308,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 749362
+  },
+  {
+    "identifier": "T6C3SDdragon",
+    "level": 19,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "267192"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 1568424,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T6C3SDdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "thunderstorm": "thunderstorm1",
+      "freezeSpell": "freeze1",
+      "summonAIDragon": "summonDragon1",
+      "archerResist01": "archerResist01"
+    },
+    "attackPower": 78580,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "762"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 18,
+    "upgradeXP": 1174963,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 804752
+  },
+  {
+    "identifier": "T6C3SDdragon",
+    "level": 20,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "273504"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 1607623,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T6C3SDdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "thunderstorm": "thunderstorm1",
+      "freezeSpell": "freeze1",
+      "summonAIDragon": "summonDragon1",
+      "archerResist01": "archerResist01"
+    },
+    "attackPower": 81022,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "780"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 18,
+    "upgradeXP": 1204334,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 850504
+  },
+  {
+    "identifier": "T6C3SDdragon",
+    "level": 21,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "279815"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 1647800,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T6C3SDdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "thunderstorm": "thunderstorm1",
+      "freezeSpell": "freeze1",
+      "summonAIDragon": "summonDragon1",
+      "archerResist01": "archerResist01"
+    },
+    "attackPower": 83201,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "798"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 18,
+    "upgradeXP": 1234440,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 895245
+  },
+  {
+    "identifier": "T6C3SDdragon",
+    "level": 22,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "286127"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 1688979,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T6C3SDdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "thunderstorm": "thunderstorm1",
+      "freezeSpell": "freeze1",
+      "summonAIDragon": "summonDragon1",
+      "archerResist01": "archerResist01"
+    },
+    "attackPower": 85281,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "816"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 18,
+    "upgradeXP": 1547569,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 940576
+  },
+  {
+    "identifier": "T6C3SDdragon",
+    "level": 23,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "357677"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 1731191,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T6C3SDdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "thunderstorm": "thunderstorm1",
+      "freezeSpell": "freeze1",
+      "summonAIDragon": "summonDragon1",
+      "archerResist01": "archerResist01"
+    },
+    "attackPower": 87413,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "834"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 18,
+    "upgradeXP": 1586256,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 988187
+  },
+  {
+    "identifier": "T6C3SDdragon",
+    "level": 24,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "365397"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 1774459,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T6C3SDdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "thunderstorm": "thunderstorm1",
+      "freezeSpell": "freeze1",
+      "summonAIDragon": "summonDragon1",
+      "archerResist01": "archerResist01"
+    },
+    "attackPower": 89598,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "852"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 18,
+    "upgradeXP": 1625913,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 1038133
+  },
+  {
+    "identifier": "T6C3SDdragon",
+    "level": 25,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "373117"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 1818811,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T6C3SDdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "thunderstorm": "thunderstorm1",
+      "freezeSpell": "freeze1",
+      "summonAIDragon": "summonDragon1",
+      "archerResist01": "archerResist01"
+    },
+    "attackPower": 91838,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "870"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 18,
+    "upgradeXP": 1666559,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 1090674
+  },
+  {
+    "identifier": "T6C3SDdragon",
+    "level": 26,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "380836"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 1864268,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T6C3SDdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "thunderstorm": "thunderstorm1",
+      "freezeSpell": "freeze1",
+      "summonAIDragon": "summonDragon1",
+      "archerResist01": "archerResist01"
+    },
+    "attackPower": 94134,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "888"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 18,
+    "upgradeXP": 1997012,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 1145976
+  },
+  {
+    "identifier": "T6C3SDdragon",
+    "level": 27,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "454245"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 1910865,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T6C3SDdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "thunderstorm": "thunderstorm1",
+      "freezeSpell": "freeze1",
+      "summonAIDragon": "summonDragon1",
+      "archerResist01": "archerResist01"
+    },
+    "attackPower": 96487,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "906"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 18,
+    "upgradeXP": 2046937,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 1203895
+  },
+  {
+    "identifier": "T6C3SDdragon",
+    "level": 28,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "463270"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 1958627,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T6C3SDdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "thunderstorm": "thunderstorm1",
+      "freezeSpell": "freeze1",
+      "summonAIDragon": "summonDragon1",
+      "archerResist01": "archerResist01"
+    },
+    "attackPower": 98899,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "924"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 18,
+    "upgradeXP": 2098104,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 1264916
+  },
+  {
+    "identifier": "T6C3SDdragon",
+    "level": 29,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "472295"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 2007578,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T6C3SDdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "thunderstorm": "thunderstorm1",
+      "freezeSpell": "freeze1",
+      "summonAIDragon": "summonDragon1",
+      "archerResist01": "archerResist01"
+    },
+    "attackPower": 101371,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "942"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 18,
+    "upgradeXP": 2150556,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 1328896
+  },
+  {
+    "identifier": "T6C3SDdragon",
+    "level": 30,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "481320"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 2057752,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T6C3SDdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "thunderstorm": "thunderstorm1",
+      "freezeSpell": "freeze1",
+      "summonAIDragon": "summonDragon1",
+      "archerResist01": "archerResist01"
+    },
+    "attackPower": 103906,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "960"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 18,
+    "upgradeXP": 0,
+    "xpRewardMultiplier": 1.2,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 1396122
+  }
+]

@@ -1,0 +1,2252 @@
+[
+  {
+    "identifier": "T14C4HDdragon",
+    "level": 1,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "0"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 35314204,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T14C4HDdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "adaptiveBreath": "corruptionOfTheVoid1",
+      "consume": "nourishingShadows1",
+      "lockdown": "entrap1",
+      "adaptiveResist": "adaptiveFlakResist1"
+    },
+    "attackPower": 1956786,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3556"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 73,
+    "upgradeXP": 14238502,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 221511680
+  },
+  {
+    "identifier": "T14C4HDdragon",
+    "level": 2,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "919800"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 36197048,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T14C4HDdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "adaptiveBreath": "corruptionOfTheVoid1",
+      "consume": "nourishingShadows1",
+      "lockdown": "entrap1",
+      "adaptiveResist": "adaptiveFlakResist1"
+    },
+    "attackPower": 2005706,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3577"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 73,
+    "upgradeXP": 14594464,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 225997931
+  },
+  {
+    "identifier": "T14C4HDdragon",
+    "level": 3,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "925200"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 37101963,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T14C4HDdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "adaptiveBreath": "corruptionOfTheVoid1",
+      "consume": "nourishingShadows1",
+      "lockdown": "entrap1",
+      "adaptiveResist": "adaptiveFlakResist1"
+    },
+    "attackPower": 2055848,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3598"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 74,
+    "upgradeXP": 16995692,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 230517801
+  },
+  {
+    "identifier": "T14C4HDdragon",
+    "level": 4,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "930600"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 38029503,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T14C4HDdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "adaptiveBreath": "corruptionOfTheVoid1",
+      "consume": "nourishingShadows1",
+      "lockdown": "entrap1",
+      "adaptiveResist": "adaptiveFlakResist1"
+    },
+    "attackPower": 2107244,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3619"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 74,
+    "upgradeXP": 20047213,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 235071290
+  },
+  {
+    "identifier": "T14C4HDdragon",
+    "level": 5,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "936000"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 38980231,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T14C4HDdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "adaptiveBreath": "corruptionOfTheVoid1",
+      "consume": "nourishingShadows1",
+      "lockdown": "entrap1",
+      "adaptiveResist": "adaptiveFlakResist1"
+    },
+    "attackPower": 2159925,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3640"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 75,
+    "upgradeXP": 23096901,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 239658397
+  },
+  {
+    "identifier": "T14C4HDdragon",
+    "level": 6,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "941400"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 39954728,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T14C4HDdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "adaptiveBreath": "corruptionOfTheVoid1",
+      "consume": "nourishingShadows1",
+      "lockdown": "entrap1",
+      "adaptiveResist": "adaptiveFlakResist1"
+    },
+    "attackPower": 2213923,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3661"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 76,
+    "upgradeXP": 26170046,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 244279123
+  },
+  {
+    "identifier": "T14C4HDdragon",
+    "level": 7,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "946800"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 40953582,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T14C4HDdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "adaptiveBreath": "corruptionOfTheVoid1",
+      "consume": "nourishingShadows1",
+      "lockdown": "entrap1",
+      "adaptiveResist": "adaptiveFlakResist1"
+    },
+    "attackPower": 2269271,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3682"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 77,
+    "upgradeXP": 26824293,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 248933469
+  },
+  {
+    "identifier": "T14C4HDdragon",
+    "level": 8,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "952200"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 41977402,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T14C4HDdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "adaptiveBreath": "corruptionOfTheVoid1",
+      "consume": "nourishingShadows1",
+      "lockdown": "entrap1",
+      "adaptiveResist": "adaptiveFlakResist1"
+    },
+    "attackPower": 2326003,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3703"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 78,
+    "upgradeXP": 27494898,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 253621433
+  },
+  {
+    "identifier": "T14C4HDdragon",
+    "level": 9,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "957600"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 43026819,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T14C4HDdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "adaptiveBreath": "corruptionOfTheVoid1",
+      "consume": "nourishingShadows1",
+      "lockdown": "entrap1",
+      "adaptiveResist": "adaptiveFlakResist1"
+    },
+    "attackPower": 2384153,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3724"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 79,
+    "upgradeXP": 28182271,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 258343015
+  },
+  {
+    "identifier": "T14C4HDdragon",
+    "level": 10,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "963000"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 44102476,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T14C4HDdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "adaptiveBreath": "corruptionOfTheVoid1",
+      "consume": "nourishingShadows1",
+      "lockdown": "entrap1",
+      "adaptiveResist": "adaptiveFlakResist1"
+    },
+    "attackPower": 2443756,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3745"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 80,
+    "upgradeXP": 28886826,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 263098217
+  },
+  {
+    "identifier": "T14C4HDdragon",
+    "level": 11,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "968400"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 45205024,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T14C4HDdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "adaptiveBreath": "corruptionOfTheVoid1",
+      "consume": "nourishingShadows1",
+      "lockdown": "entrap1",
+      "adaptiveResist": "adaptiveFlakResist1"
+    },
+    "attackPower": 2504850,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3766"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 80,
+    "upgradeXP": 29608993,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 267887038
+  },
+  {
+    "identifier": "T14C4HDdragon",
+    "level": 12,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "973800"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 46335134,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T14C4HDdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "adaptiveBreath": "corruptionOfTheVoid1",
+      "consume": "nourishingShadows1",
+      "lockdown": "entrap1",
+      "adaptiveResist": "adaptiveFlakResist1"
+    },
+    "attackPower": 2567471,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3787"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 81,
+    "upgradeXP": 30349217,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 272709477
+  },
+  {
+    "identifier": "T14C4HDdragon",
+    "level": 13,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "979200"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 47493494,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T14C4HDdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "adaptiveBreath": "corruptionOfTheVoid1",
+      "consume": "nourishingShadows1",
+      "lockdown": "entrap1",
+      "adaptiveResist": "adaptiveFlakResist1"
+    },
+    "attackPower": 2631657,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3808"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 81,
+    "upgradeXP": 31107946,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 277565535
+  },
+  {
+    "identifier": "T14C4HDdragon",
+    "level": 14,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "984600"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 48680817,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T14C4HDdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "adaptiveBreath": "corruptionOfTheVoid1",
+      "consume": "nourishingShadows1",
+      "lockdown": "entrap1",
+      "adaptiveResist": "adaptiveFlakResist1"
+    },
+    "attackPower": 2697449,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3829"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 82,
+    "upgradeXP": 31885642,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 282455212
+  },
+  {
+    "identifier": "T14C4HDdragon",
+    "level": 15,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "990000"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 49897827,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T14C4HDdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "adaptiveBreath": "corruptionOfTheVoid1",
+      "consume": "nourishingShadows1",
+      "lockdown": "entrap1",
+      "adaptiveResist": "adaptiveFlakResist1"
+    },
+    "attackPower": 2764885,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3850"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 82,
+    "upgradeXP": 32682781,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 287378508
+  },
+  {
+    "identifier": "T14C4HDdragon",
+    "level": 16,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "995400"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 51145262,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T14C4HDdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "adaptiveBreath": "corruptionOfTheVoid1",
+      "consume": "nourishingShadows1",
+      "lockdown": "entrap1",
+      "adaptiveResist": "adaptiveFlakResist1"
+    },
+    "attackPower": 2834007,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3871"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 83,
+    "upgradeXP": 33499850,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 292335423
+  },
+  {
+    "identifier": "T14C4HDdragon",
+    "level": 17,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1000800"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 52423886,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T14C4HDdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "adaptiveBreath": "corruptionOfTheVoid1",
+      "consume": "nourishingShadows1",
+      "lockdown": "entrap1",
+      "adaptiveResist": "adaptiveFlakResist1"
+    },
+    "attackPower": 2904857,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3892"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 83,
+    "upgradeXP": 34337345,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 297325956
+  },
+  {
+    "identifier": "T14C4HDdragon",
+    "level": 18,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1006200"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 53734475,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T14C4HDdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "adaptiveBreath": "corruptionOfTheVoid1",
+      "consume": "nourishingShadows1",
+      "lockdown": "entrap1",
+      "adaptiveResist": "adaptiveFlakResist1"
+    },
+    "attackPower": 2977478,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3913"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 84,
+    "upgradeXP": 46747073,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 302350108
+  },
+  {
+    "identifier": "T14C4HDdragon",
+    "level": 19,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1343609"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 55077832,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T14C4HDdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "adaptiveBreath": "corruptionOfTheVoid1",
+      "consume": "nourishingShadows1",
+      "lockdown": "entrap1",
+      "adaptiveResist": "adaptiveFlakResist1"
+    },
+    "attackPower": 3051915,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3934"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 84,
+    "upgradeXP": 47915746,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 307407880
+  },
+  {
+    "identifier": "T14C4HDdragon",
+    "level": 20,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1350781"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 56454774,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T14C4HDdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "adaptiveBreath": "corruptionOfTheVoid1",
+      "consume": "nourishingShadows1",
+      "lockdown": "entrap1",
+      "adaptiveResist": "adaptiveFlakResist1"
+    },
+    "attackPower": 3128212,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3955"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 85,
+    "upgradeXP": 49113636,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 312499270
+  },
+  {
+    "identifier": "T14C4HDdragon",
+    "level": 21,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1357953"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 57866133,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T14C4HDdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "adaptiveBreath": "corruptionOfTheVoid1",
+      "consume": "nourishingShadows1",
+      "lockdown": "entrap1",
+      "adaptiveResist": "adaptiveFlakResist1"
+    },
+    "attackPower": 3206417,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3976"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 85,
+    "upgradeXP": 50341473,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 317624278
+  },
+  {
+    "identifier": "T14C4HDdragon",
+    "level": 22,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1365126"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 59312773,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T14C4HDdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "adaptiveBreath": "corruptionOfTheVoid1",
+      "consume": "nourishingShadows1",
+      "lockdown": "entrap1",
+      "adaptiveResist": "adaptiveFlakResist1"
+    },
+    "attackPower": 3286578,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3997"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 86,
+    "upgradeXP": 63111265,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 322782906
+  },
+  {
+    "identifier": "T14C4HDdragon",
+    "level": 23,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1678439"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 60795579,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T14C4HDdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "adaptiveBreath": "corruptionOfTheVoid1",
+      "consume": "nourishingShadows1",
+      "lockdown": "entrap1",
+      "adaptiveResist": "adaptiveFlakResist1"
+    },
+    "attackPower": 3368742,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "4018"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 86,
+    "upgradeXP": 64689045,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 327975153
+  },
+  {
+    "identifier": "T14C4HDdragon",
+    "level": 24,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1687211"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 62315460,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T14C4HDdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "adaptiveBreath": "corruptionOfTheVoid1",
+      "consume": "nourishingShadows1",
+      "lockdown": "entrap1",
+      "adaptiveResist": "adaptiveFlakResist1"
+    },
+    "attackPower": 3452960,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "4039"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 87,
+    "upgradeXP": 66306268,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 333201018
+  },
+  {
+    "identifier": "T14C4HDdragon",
+    "level": 25,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1695984"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 63873340,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T14C4HDdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "adaptiveBreath": "corruptionOfTheVoid1",
+      "consume": "nourishingShadows1",
+      "lockdown": "entrap1",
+      "adaptiveResist": "adaptiveFlakResist1"
+    },
+    "attackPower": 3539284,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "4060"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 87,
+    "upgradeXP": 67963921,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 338460502
+  },
+  {
+    "identifier": "T14C4HDdragon",
+    "level": 26,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1704756"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 65470164,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T14C4HDdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "adaptiveBreath": "corruptionOfTheVoid1",
+      "consume": "nourishingShadows1",
+      "lockdown": "entrap1",
+      "adaptiveResist": "adaptiveFlakResist1"
+    },
+    "attackPower": 3627766,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "4081"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 88,
+    "upgradeXP": 81440284,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 343753605
+  },
+  {
+    "identifier": "T14C4HDdragon",
+    "level": 27,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "2003218"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 67106904,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T14C4HDdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "adaptiveBreath": "corruptionOfTheVoid1",
+      "consume": "nourishingShadows1",
+      "lockdown": "entrap1",
+      "adaptiveResist": "adaptiveFlakResist1"
+    },
+    "attackPower": 3718460,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "4102"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 88,
+    "upgradeXP": 83476287,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 349080327
+  },
+  {
+    "identifier": "T14C4HDdragon",
+    "level": 28,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "2013473"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 68784563,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T14C4HDdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "adaptiveBreath": "corruptionOfTheVoid1",
+      "consume": "nourishingShadows1",
+      "lockdown": "entrap1",
+      "adaptiveResist": "adaptiveFlakResist1"
+    },
+    "attackPower": 3811421,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "4123"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 89,
+    "upgradeXP": 85563191,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 354440667
+  },
+  {
+    "identifier": "T14C4HDdragon",
+    "level": 29,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "2023729"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 70504167,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T14C4HDdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "adaptiveBreath": "corruptionOfTheVoid1",
+      "consume": "nourishingShadows1",
+      "lockdown": "entrap1",
+      "adaptiveResist": "adaptiveFlakResist1"
+    },
+    "attackPower": 3906706,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "4144"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 89,
+    "upgradeXP": 87702269,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 359834627
+  },
+  {
+    "identifier": "T14C4HDdragon",
+    "level": 30,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "2033984"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 72266762,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T14C4HDdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "adaptiveBreath": "corruptionOfTheVoid1",
+      "consume": "nourishingShadows1",
+      "lockdown": "entrap1",
+      "adaptiveResist": "adaptiveFlakResist1"
+    },
+    "attackPower": 4004374,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "4165"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 90,
+    "upgradeXP": 89894824,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 365262205
+  },
+  {
+    "identifier": "T14C4HDdragon",
+    "level": 31,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "2044240"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 74073423,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T14C4HDdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "adaptiveBreath": "corruptionOfTheVoid1",
+      "consume": "nourishingShadows1",
+      "lockdown": "entrap1",
+      "adaptiveResist": "adaptiveFlakResist1"
+    },
+    "attackPower": 4104483,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "4186"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 90,
+    "upgradeXP": 92142188,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 370723402
+  },
+  {
+    "identifier": "T14C4HDdragon",
+    "level": 32,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "2054495"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 75925244,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T14C4HDdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "adaptiveBreath": "corruptionOfTheVoid1",
+      "consume": "nourishingShadows1",
+      "lockdown": "entrap1",
+      "adaptiveResist": "adaptiveFlakResist1"
+    },
+    "attackPower": 4207095,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "4207"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 91,
+    "upgradeXP": 94445741,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 376218218
+  },
+  {
+    "identifier": "T14C4HDdragon",
+    "level": 33,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "2064750"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 77823357,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T14C4HDdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "adaptiveBreath": "corruptionOfTheVoid1",
+      "consume": "nourishingShadows1",
+      "lockdown": "entrap1",
+      "adaptiveResist": "adaptiveFlakResist1"
+    },
+    "attackPower": 4312272,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "4228"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 91,
+    "upgradeXP": 96806881,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 381746653
+  },
+  {
+    "identifier": "T14C4HDdragon",
+    "level": 34,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "2075006"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 79768921,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T14C4HDdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "adaptiveBreath": "corruptionOfTheVoid1",
+      "consume": "nourishingShadows1",
+      "lockdown": "entrap1",
+      "adaptiveResist": "adaptiveFlakResist1"
+    },
+    "attackPower": 4420079,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "4249"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 92,
+    "upgradeXP": 99227051,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 387308707
+  },
+  {
+    "identifier": "T14C4HDdragon",
+    "level": 35,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "2085261"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 81763125,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T14C4HDdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "adaptiveBreath": "corruptionOfTheVoid1",
+      "consume": "nourishingShadows1",
+      "lockdown": "entrap1",
+      "adaptiveResist": "adaptiveFlakResist1"
+    },
+    "attackPower": 4530581,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "4270"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 92,
+    "upgradeXP": 101707723,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 392904379
+  },
+  {
+    "identifier": "T14C4HDdragon",
+    "level": 36,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "2095517"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 83807186,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T14C4HDdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "adaptiveBreath": "corruptionOfTheVoid1",
+      "consume": "nourishingShadows1",
+      "lockdown": "entrap1",
+      "adaptiveResist": "adaptiveFlakResist1"
+    },
+    "attackPower": 4643845,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "4291"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 93,
+    "upgradeXP": 104250412,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 398533671
+  },
+  {
+    "identifier": "T14C4HDdragon",
+    "level": 37,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "2105772"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 85902350,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T14C4HDdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "adaptiveBreath": "corruptionOfTheVoid1",
+      "consume": "nourishingShadows1",
+      "lockdown": "entrap1",
+      "adaptiveResist": "adaptiveFlakResist1"
+    },
+    "attackPower": 4759941,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "4312"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 93,
+    "upgradeXP": 106856667,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 404196581
+  },
+  {
+    "identifier": "T14C4HDdragon",
+    "level": 38,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "2116027"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 88049889,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T14C4HDdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "adaptiveBreath": "corruptionOfTheVoid1",
+      "consume": "nourishingShadows1",
+      "lockdown": "entrap1",
+      "adaptiveResist": "adaptiveFlakResist1"
+    },
+    "attackPower": 4878939,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "4333"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 94,
+    "upgradeXP": 109528080,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 409893110
+  },
+  {
+    "identifier": "T14C4HDdragon",
+    "level": 39,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "2126283"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 90251122,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T14C4HDdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "adaptiveBreath": "corruptionOfTheVoid1",
+      "consume": "nourishingShadows1",
+      "lockdown": "entrap1",
+      "adaptiveResist": "adaptiveFlakResist1"
+    },
+    "attackPower": 5000913,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "4354"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 94,
+    "upgradeXP": 227339212,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 415623258
+  },
+  {
+    "identifier": "T14C4HDdragon",
+    "level": 40,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "2136538"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 94820066,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T14C4HDdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "adaptiveBreath": "corruptionOfTheVoid1",
+      "consume": "nourishingShadows1",
+      "lockdown": "entrap1",
+      "adaptiveResist": "adaptiveFlakResist1"
+    },
+    "attackPower": 5254083,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "4396"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 95,
+    "upgradeXP": 117949750,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 427184410
+  },
+  {
+    "identifier": "T14C4HDdragon",
+    "level": 41,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "2157049"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 97190554,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T14C4HDdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "adaptiveBreath": "corruptionOfTheVoid1",
+      "consume": "nourishingShadows1",
+      "lockdown": "entrap1",
+      "adaptiveResist": "adaptiveFlakResist1"
+    },
+    "attackPower": 5385435,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "4417"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 96,
+    "upgradeXP": 120898490,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 433015414
+  },
+  {
+    "identifier": "T14C4HDdragon",
+    "level": 42,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "2167304"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 99620305,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T14C4HDdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "adaptiveBreath": "corruptionOfTheVoid1",
+      "consume": "nourishingShadows1",
+      "lockdown": "entrap1",
+      "adaptiveResist": "adaptiveFlakResist1"
+    },
+    "attackPower": 5520071,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "4438"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 96,
+    "upgradeXP": 123920950,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 438880037
+  },
+  {
+    "identifier": "T14C4HDdragon",
+    "level": 43,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "2177560"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 102110797,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T14C4HDdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "adaptiveBreath": "corruptionOfTheVoid1",
+      "consume": "nourishingShadows1",
+      "lockdown": "entrap1",
+      "adaptiveResist": "adaptiveFlakResist1"
+    },
+    "attackPower": 5658072,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "4459"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 97,
+    "upgradeXP": 127018968,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 444778279
+  },
+  {
+    "identifier": "T14C4HDdragon",
+    "level": 44,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "2187815"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 104663545,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T14C4HDdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "adaptiveBreath": "corruptionOfTheVoid1",
+      "consume": "nourishingShadows1",
+      "lockdown": "entrap1",
+      "adaptiveResist": "adaptiveFlakResist1"
+    },
+    "attackPower": 5799524,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "4480"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 97,
+    "upgradeXP": 130194437,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 450710140
+  },
+  {
+    "identifier": "T14C4HDdragon",
+    "level": 45,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "2198070"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 107280114,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T14C4HDdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "adaptiveBreath": "corruptionOfTheVoid1",
+      "consume": "nourishingShadows1",
+      "lockdown": "entrap1",
+      "adaptiveResist": "adaptiveFlakResist1"
+    },
+    "attackPower": 5944512,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "4501"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 98,
+    "upgradeXP": 133449295,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 456675619
+  },
+  {
+    "identifier": "T14C4HDdragon",
+    "level": 46,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "2208326"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 109962098,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T14C4HDdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "adaptiveBreath": "corruptionOfTheVoid1",
+      "consume": "nourishingShadows1",
+      "lockdown": "entrap1",
+      "adaptiveResist": "adaptiveFlakResist1"
+    },
+    "attackPower": 6093124,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "4522"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 98,
+    "upgradeXP": 136785522,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 462674718
+  },
+  {
+    "identifier": "T14C4HDdragon",
+    "level": 47,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "2218581"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 112711134,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T14C4HDdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "adaptiveBreath": "corruptionOfTheVoid1",
+      "consume": "nourishingShadows1",
+      "lockdown": "entrap1",
+      "adaptiveResist": "adaptiveFlakResist1"
+    },
+    "attackPower": 6245452,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "4543"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 99,
+    "upgradeXP": 140205155,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 468707435
+  },
+  {
+    "identifier": "T14C4HDdragon",
+    "level": 48,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "2228836"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 115528897,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T14C4HDdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "adaptiveBreath": "corruptionOfTheVoid1",
+      "consume": "nourishingShadows1",
+      "lockdown": "entrap1",
+      "adaptiveResist": "adaptiveFlakResist1"
+    },
+    "attackPower": 6401588,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "4564"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 99,
+    "upgradeXP": 143710283,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 474773771
+  },
+  {
+    "identifier": "T14C4HDdragon",
+    "level": 49,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "2239092"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 118417104,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T14C4HDdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "adaptiveBreath": "corruptionOfTheVoid1",
+      "consume": "nourishingShadows1",
+      "lockdown": "entrap1",
+      "adaptiveResist": "adaptiveFlakResist1"
+    },
+    "attackPower": 6561628,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "4585"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 100,
+    "upgradeXP": 147303037,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 480873726
+  },
+  {
+    "identifier": "T14C4HDdragon",
+    "level": 50,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "2249347"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 121377513,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T14C4HDdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "adaptiveBreath": "corruptionOfTheVoid1",
+      "consume": "nourishingShadows1",
+      "lockdown": "entrap1",
+      "adaptiveResist": "adaptiveFlakResist1"
+    },
+    "attackPower": 6725668,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "4606"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 100,
+    "upgradeXP": 0,
+    "xpRewardMultiplier": 1.2,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 487007300
+  }
+]

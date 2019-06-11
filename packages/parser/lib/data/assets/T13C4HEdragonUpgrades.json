@@ -1,0 +1,2252 @@
+[
+  {
+    "identifier": "T13C4HEdragon",
+    "level": 1,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "0"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 21551381,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T13C4HEdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "dissipate": "shadowStrike1",
+      "desiccatingSand": "desiccatingSand1",
+      "bloodFury": "bloodLust1",
+      "undyingWill": "undyingWill1"
+    },
+    "attackPower": 1194172,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3136"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 63,
+    "upgradeXP": 8689360,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 138846614
+  },
+  {
+    "identifier": "T13C4HEdragon",
+    "level": 2,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "811800"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 22090161,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T13C4HEdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "dissipate": "shadowStrike1",
+      "desiccatingSand": "desiccatingSand1",
+      "bloodFury": "bloodLust1",
+      "undyingWill": "undyingWill1"
+    },
+    "attackPower": 1224026,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3157"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 63,
+    "upgradeXP": 8906593,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 142660489
+  },
+  {
+    "identifier": "T13C4HEdragon",
+    "level": 3,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "817200"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 22642406,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T13C4HEdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "dissipate": "shadowStrike1",
+      "desiccatingSand": "desiccatingSand1",
+      "bloodFury": "bloodLust1",
+      "undyingWill": "undyingWill1"
+    },
+    "attackPower": 1254627,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3178"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 64,
+    "upgradeXP": 10371994,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 146507982
+  },
+  {
+    "identifier": "T13C4HEdragon",
+    "level": 4,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "822600"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 23208452,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T13C4HEdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "dissipate": "shadowStrike1",
+      "desiccatingSand": "desiccatingSand1",
+      "bloodFury": "bloodLust1",
+      "undyingWill": "undyingWill1"
+    },
+    "attackPower": 1285993,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3199"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 64,
+    "upgradeXP": 12234252,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 150389094
+  },
+  {
+    "identifier": "T13C4HEdragon",
+    "level": 5,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "828000"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 23788650,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T13C4HEdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "dissipate": "shadowStrike1",
+      "desiccatingSand": "desiccatingSand1",
+      "bloodFury": "bloodLust1",
+      "undyingWill": "undyingWill1"
+    },
+    "attackPower": 1318142,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3220"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 65,
+    "upgradeXP": 14095391,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 154303825
+  },
+  {
+    "identifier": "T13C4HEdragon",
+    "level": 6,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "833400"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 24383362,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T13C4HEdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "dissipate": "shadowStrike1",
+      "desiccatingSand": "desiccatingSand1",
+      "bloodFury": "bloodLust1",
+      "undyingWill": "undyingWill1"
+    },
+    "attackPower": 1351096,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3241"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 65,
+    "upgradeXP": 15970845,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 158252175
+  },
+  {
+    "identifier": "T13C4HEdragon",
+    "level": 7,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "838800"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 24992944,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T13C4HEdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "dissipate": "shadowStrike1",
+      "desiccatingSand": "desiccatingSand1",
+      "bloodFury": "bloodLust1",
+      "undyingWill": "undyingWill1"
+    },
+    "attackPower": 1384873,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3262"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 66,
+    "upgradeXP": 16370116,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 162234143
+  },
+  {
+    "identifier": "T13C4HEdragon",
+    "level": 8,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "844200"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 25617765,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T13C4HEdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "dissipate": "shadowStrike1",
+      "desiccatingSand": "desiccatingSand1",
+      "bloodFury": "bloodLust1",
+      "undyingWill": "undyingWill1"
+    },
+    "attackPower": 1419494,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3283"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 66,
+    "upgradeXP": 16779366,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 166249731
+  },
+  {
+    "identifier": "T13C4HEdragon",
+    "level": 9,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "849600"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 26258204,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T13C4HEdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "dissipate": "shadowStrike1",
+      "desiccatingSand": "desiccatingSand1",
+      "bloodFury": "bloodLust1",
+      "undyingWill": "undyingWill1"
+    },
+    "attackPower": 1454982,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3304"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 67,
+    "upgradeXP": 17198847,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 170298937
+  },
+  {
+    "identifier": "T13C4HEdragon",
+    "level": 10,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "855000"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 26914651,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T13C4HEdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "dissipate": "shadowStrike1",
+      "desiccatingSand": "desiccatingSand1",
+      "bloodFury": "bloodLust1",
+      "undyingWill": "undyingWill1"
+    },
+    "attackPower": 1491356,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3325"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 67,
+    "upgradeXP": 17628817,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 174381762
+  },
+  {
+    "identifier": "T13C4HEdragon",
+    "level": 11,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "860400"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 27587506,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T13C4HEdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "dissipate": "shadowStrike1",
+      "desiccatingSand": "desiccatingSand1",
+      "bloodFury": "bloodLust1",
+      "undyingWill": "undyingWill1"
+    },
+    "attackPower": 1528640,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3346"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 68,
+    "upgradeXP": 18069537,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 178498206
+  },
+  {
+    "identifier": "T13C4HEdragon",
+    "level": 12,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "865800"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 28277181,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T13C4HEdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "dissipate": "shadowStrike1",
+      "desiccatingSand": "desiccatingSand1",
+      "bloodFury": "bloodLust1",
+      "undyingWill": "undyingWill1"
+    },
+    "attackPower": 1566856,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3367"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 68,
+    "upgradeXP": 18521272,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 182648268
+  },
+  {
+    "identifier": "T13C4HEdragon",
+    "level": 13,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "871200"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 28984092,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T13C4HEdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "dissipate": "shadowStrike1",
+      "desiccatingSand": "desiccatingSand1",
+      "bloodFury": "bloodLust1",
+      "undyingWill": "undyingWill1"
+    },
+    "attackPower": 1606027,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3388"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 69,
+    "upgradeXP": 18984303,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 186831950
+  },
+  {
+    "identifier": "T13C4HEdragon",
+    "level": 14,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "876600"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 29708679,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T13C4HEdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "dissipate": "shadowStrike1",
+      "desiccatingSand": "desiccatingSand1",
+      "bloodFury": "bloodLust1",
+      "undyingWill": "undyingWill1"
+    },
+    "attackPower": 1646177,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3409"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 69,
+    "upgradeXP": 19458908,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 191049250
+  },
+  {
+    "identifier": "T13C4HEdragon",
+    "level": 15,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "882000"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 30451383,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T13C4HEdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "dissipate": "shadowStrike1",
+      "desiccatingSand": "desiccatingSand1",
+      "bloodFury": "bloodLust1",
+      "undyingWill": "undyingWill1"
+    },
+    "attackPower": 1687332,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3430"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 70,
+    "upgradeXP": 19945378,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 195300169
+  },
+  {
+    "identifier": "T13C4HEdragon",
+    "level": 16,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "887400"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 31212655,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T13C4HEdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "dissipate": "shadowStrike1",
+      "desiccatingSand": "desiccatingSand1",
+      "bloodFury": "bloodLust1",
+      "undyingWill": "undyingWill1"
+    },
+    "attackPower": 1729515,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3451"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 70,
+    "upgradeXP": 20444013,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 199584707
+  },
+  {
+    "identifier": "T13C4HEdragon",
+    "level": 17,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "892800"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 31992964,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T13C4HEdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "dissipate": "shadowStrike1",
+      "desiccatingSand": "desiccatingSand1",
+      "bloodFury": "bloodLust1",
+      "undyingWill": "undyingWill1"
+    },
+    "attackPower": 1772752,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3472"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 71,
+    "upgradeXP": 20955111,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 203902864
+  },
+  {
+    "identifier": "T13C4HEdragon",
+    "level": 18,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "898200"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 32792778,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T13C4HEdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "dissipate": "shadowStrike1",
+      "desiccatingSand": "desiccatingSand1",
+      "bloodFury": "bloodLust1",
+      "undyingWill": "undyingWill1"
+    },
+    "attackPower": 1817071,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3493"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 71,
+    "upgradeXP": 28528419,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 208254640
+  },
+  {
+    "identifier": "T13C4HEdragon",
+    "level": 19,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1200163"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 33612583,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T13C4HEdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "dissipate": "shadowStrike1",
+      "desiccatingSand": "desiccatingSand1",
+      "bloodFury": "bloodLust1",
+      "undyingWill": "undyingWill1"
+    },
+    "attackPower": 1862498,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3514"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 72,
+    "upgradeXP": 29241625,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 212640034
+  },
+  {
+    "identifier": "T13C4HEdragon",
+    "level": 20,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1207335"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 34452887,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T13C4HEdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "dissipate": "shadowStrike1",
+      "desiccatingSand": "desiccatingSand1",
+      "bloodFury": "bloodLust1",
+      "undyingWill": "undyingWill1"
+    },
+    "attackPower": 1909060,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3535"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 72,
+    "upgradeXP": 29972662,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 217059048
+  },
+  {
+    "identifier": "T13C4HEdragon",
+    "level": 21,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1214508"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 35314204,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T13C4HEdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "dissipate": "shadowStrike1",
+      "desiccatingSand": "desiccatingSand1",
+      "bloodFury": "bloodLust1",
+      "undyingWill": "undyingWill1"
+    },
+    "attackPower": 1956786,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3556"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 73,
+    "upgradeXP": 30721978,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 221511680
+  },
+  {
+    "identifier": "T13C4HEdragon",
+    "level": 22,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1221680"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 36197048,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T13C4HEdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "dissipate": "shadowStrike1",
+      "desiccatingSand": "desiccatingSand1",
+      "bloodFury": "bloodLust1",
+      "undyingWill": "undyingWill1"
+    },
+    "attackPower": 2005706,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3577"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 73,
+    "upgradeXP": 38515022,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 225997931
+  },
+  {
+    "identifier": "T13C4HEdragon",
+    "level": 23,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1502992"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 37101963,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T13C4HEdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "dissipate": "shadowStrike1",
+      "desiccatingSand": "desiccatingSand1",
+      "bloodFury": "bloodLust1",
+      "undyingWill": "undyingWill1"
+    },
+    "attackPower": 2055848,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3598"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 74,
+    "upgradeXP": 39477895,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 230517801
+  },
+  {
+    "identifier": "T13C4HEdragon",
+    "level": 24,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1511765"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 38029503,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T13C4HEdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "dissipate": "shadowStrike1",
+      "desiccatingSand": "desiccatingSand1",
+      "bloodFury": "bloodLust1",
+      "undyingWill": "undyingWill1"
+    },
+    "attackPower": 2107244,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3619"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 74,
+    "upgradeXP": 40464840,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 235071290
+  },
+  {
+    "identifier": "T13C4HEdragon",
+    "level": 25,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1520537"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 38980231,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T13C4HEdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "dissipate": "shadowStrike1",
+      "desiccatingSand": "desiccatingSand1",
+      "bloodFury": "bloodLust1",
+      "undyingWill": "undyingWill1"
+    },
+    "attackPower": 2159925,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3640"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 75,
+    "upgradeXP": 41476456,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 239658397
+  },
+  {
+    "identifier": "T13C4HEdragon",
+    "level": 26,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1529309"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 39954728,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T13C4HEdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "dissipate": "shadowStrike1",
+      "desiccatingSand": "desiccatingSand1",
+      "bloodFury": "bloodLust1",
+      "undyingWill": "undyingWill1"
+    },
+    "attackPower": 2213923,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3661"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 76,
+    "upgradeXP": 49700698,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 244279123
+  },
+  {
+    "identifier": "T13C4HEdragon",
+    "level": 27,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1798110"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 40953582,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T13C4HEdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "dissipate": "shadowStrike1",
+      "desiccatingSand": "desiccatingSand1",
+      "bloodFury": "bloodLust1",
+      "undyingWill": "undyingWill1"
+    },
+    "attackPower": 2269271,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3682"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 77,
+    "upgradeXP": 50943209,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 248933469
+  },
+  {
+    "identifier": "T13C4HEdragon",
+    "level": 28,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1808366"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 41977402,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T13C4HEdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "dissipate": "shadowStrike1",
+      "desiccatingSand": "desiccatingSand1",
+      "bloodFury": "bloodLust1",
+      "undyingWill": "undyingWill1"
+    },
+    "attackPower": 2326003,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3703"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 78,
+    "upgradeXP": 52216785,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 253621433
+  },
+  {
+    "identifier": "T13C4HEdragon",
+    "level": 29,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1818621"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 43026819,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T13C4HEdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "dissipate": "shadowStrike1",
+      "desiccatingSand": "desiccatingSand1",
+      "bloodFury": "bloodLust1",
+      "undyingWill": "undyingWill1"
+    },
+    "attackPower": 2384153,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3724"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 79,
+    "upgradeXP": 53522204,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 258343015
+  },
+  {
+    "identifier": "T13C4HEdragon",
+    "level": 30,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1828877"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 44102476,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T13C4HEdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "dissipate": "shadowStrike1",
+      "desiccatingSand": "desiccatingSand1",
+      "bloodFury": "bloodLust1",
+      "undyingWill": "undyingWill1"
+    },
+    "attackPower": 2443756,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3745"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 80,
+    "upgradeXP": 54860256,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 263098217
+  },
+  {
+    "identifier": "T13C4HEdragon",
+    "level": 31,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1839132"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 45205024,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T13C4HEdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "dissipate": "shadowStrike1",
+      "desiccatingSand": "desiccatingSand1",
+      "bloodFury": "bloodLust1",
+      "undyingWill": "undyingWill1"
+    },
+    "attackPower": 2504850,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3766"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 80,
+    "upgradeXP": 56231757,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 267887038
+  },
+  {
+    "identifier": "T13C4HEdragon",
+    "level": 32,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1849387"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 46335134,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T13C4HEdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "dissipate": "shadowStrike1",
+      "desiccatingSand": "desiccatingSand1",
+      "bloodFury": "bloodLust1",
+      "undyingWill": "undyingWill1"
+    },
+    "attackPower": 2567471,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3787"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 81,
+    "upgradeXP": 57637548,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 272709477
+  },
+  {
+    "identifier": "T13C4HEdragon",
+    "level": 33,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1859643"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 47493494,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T13C4HEdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "dissipate": "shadowStrike1",
+      "desiccatingSand": "desiccatingSand1",
+      "bloodFury": "bloodLust1",
+      "undyingWill": "undyingWill1"
+    },
+    "attackPower": 2631657,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3808"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 81,
+    "upgradeXP": 59078484,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 277565535
+  },
+  {
+    "identifier": "T13C4HEdragon",
+    "level": 34,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1869898"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 48680817,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T13C4HEdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "dissipate": "shadowStrike1",
+      "desiccatingSand": "desiccatingSand1",
+      "bloodFury": "bloodLust1",
+      "undyingWill": "undyingWill1"
+    },
+    "attackPower": 2697449,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3829"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 82,
+    "upgradeXP": 60555442,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 282455212
+  },
+  {
+    "identifier": "T13C4HEdragon",
+    "level": 35,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1880154"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 49897827,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T13C4HEdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "dissipate": "shadowStrike1",
+      "desiccatingSand": "desiccatingSand1",
+      "bloodFury": "bloodLust1",
+      "undyingWill": "undyingWill1"
+    },
+    "attackPower": 2764885,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3850"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 82,
+    "upgradeXP": 62069323,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 287378508
+  },
+  {
+    "identifier": "T13C4HEdragon",
+    "level": 36,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1890409"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 51145262,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T13C4HEdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "dissipate": "shadowStrike1",
+      "desiccatingSand": "desiccatingSand1",
+      "bloodFury": "bloodLust1",
+      "undyingWill": "undyingWill1"
+    },
+    "attackPower": 2834007,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3871"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 83,
+    "upgradeXP": 63621055,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 292335423
+  },
+  {
+    "identifier": "T13C4HEdragon",
+    "level": 37,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1900664"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 52423886,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T13C4HEdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "dissipate": "shadowStrike1",
+      "desiccatingSand": "desiccatingSand1",
+      "bloodFury": "bloodLust1",
+      "undyingWill": "undyingWill1"
+    },
+    "attackPower": 2904857,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3892"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 83,
+    "upgradeXP": 65211579,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 297325956
+  },
+  {
+    "identifier": "T13C4HEdragon",
+    "level": 38,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1910920"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 53734475,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T13C4HEdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "dissipate": "shadowStrike1",
+      "desiccatingSand": "desiccatingSand1",
+      "bloodFury": "bloodLust1",
+      "undyingWill": "undyingWill1"
+    },
+    "attackPower": 2977478,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3913"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 84,
+    "upgradeXP": 66841864,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 302350108
+  },
+  {
+    "identifier": "T13C4HEdragon",
+    "level": 39,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1921175"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 55077832,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T13C4HEdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "dissipate": "shadowStrike1",
+      "desiccatingSand": "desiccatingSand1",
+      "bloodFury": "bloodLust1",
+      "undyingWill": "undyingWill1"
+    },
+    "attackPower": 3051915,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3934"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 84,
+    "upgradeXP": 68512904,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 307407880
+  },
+  {
+    "identifier": "T13C4HEdragon",
+    "level": 40,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1931430"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 56454774,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T13C4HEdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "dissipate": "shadowStrike1",
+      "desiccatingSand": "desiccatingSand1",
+      "bloodFury": "bloodLust1",
+      "undyingWill": "undyingWill1"
+    },
+    "attackPower": 3128212,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3955"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 85,
+    "upgradeXP": 70225721,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 312499270
+  },
+  {
+    "identifier": "T13C4HEdragon",
+    "level": 41,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1941686"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 57866133,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T13C4HEdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "dissipate": "shadowStrike1",
+      "desiccatingSand": "desiccatingSand1",
+      "bloodFury": "bloodLust1",
+      "undyingWill": "undyingWill1"
+    },
+    "attackPower": 3206417,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3976"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 85,
+    "upgradeXP": 71981359,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 317624278
+  },
+  {
+    "identifier": "T13C4HEdragon",
+    "level": 42,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1951941"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 59312773,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T13C4HEdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "dissipate": "shadowStrike1",
+      "desiccatingSand": "desiccatingSand1",
+      "bloodFury": "bloodLust1",
+      "undyingWill": "undyingWill1"
+    },
+    "attackPower": 3286578,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3997"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 86,
+    "upgradeXP": 73780891,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 322782906
+  },
+  {
+    "identifier": "T13C4HEdragon",
+    "level": 43,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1962197"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 60795579,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T13C4HEdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "dissipate": "shadowStrike1",
+      "desiccatingSand": "desiccatingSand1",
+      "bloodFury": "bloodLust1",
+      "undyingWill": "undyingWill1"
+    },
+    "attackPower": 3368742,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "4018"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 86,
+    "upgradeXP": 75625412,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 327975153
+  },
+  {
+    "identifier": "T13C4HEdragon",
+    "level": 44,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1972452"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 62315460,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T13C4HEdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "dissipate": "shadowStrike1",
+      "desiccatingSand": "desiccatingSand1",
+      "bloodFury": "bloodLust1",
+      "undyingWill": "undyingWill1"
+    },
+    "attackPower": 3452960,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "4039"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 87,
+    "upgradeXP": 77516043,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 333201018
+  },
+  {
+    "identifier": "T13C4HEdragon",
+    "level": 45,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1982707"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 63873340,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T13C4HEdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "dissipate": "shadowStrike1",
+      "desiccatingSand": "desiccatingSand1",
+      "bloodFury": "bloodLust1",
+      "undyingWill": "undyingWill1"
+    },
+    "attackPower": 3539284,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "4060"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 87,
+    "upgradeXP": 79453940,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 338460502
+  },
+  {
+    "identifier": "T13C4HEdragon",
+    "level": 46,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1992963"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 65470164,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T13C4HEdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "dissipate": "shadowStrike1",
+      "desiccatingSand": "desiccatingSand1",
+      "bloodFury": "bloodLust1",
+      "undyingWill": "undyingWill1"
+    },
+    "attackPower": 3627766,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "4081"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 88,
+    "upgradeXP": 81440284,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 343753605
+  },
+  {
+    "identifier": "T13C4HEdragon",
+    "level": 47,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "2003218"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 67106904,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T13C4HEdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "dissipate": "shadowStrike1",
+      "desiccatingSand": "desiccatingSand1",
+      "bloodFury": "bloodLust1",
+      "undyingWill": "undyingWill1"
+    },
+    "attackPower": 3718460,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "4102"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 88,
+    "upgradeXP": 83476287,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 349080327
+  },
+  {
+    "identifier": "T13C4HEdragon",
+    "level": 48,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "2013473"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 68784563,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T13C4HEdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "dissipate": "shadowStrike1",
+      "desiccatingSand": "desiccatingSand1",
+      "bloodFury": "bloodLust1",
+      "undyingWill": "undyingWill1"
+    },
+    "attackPower": 3811421,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "4123"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 89,
+    "upgradeXP": 85563191,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 354440667
+  },
+  {
+    "identifier": "T13C4HEdragon",
+    "level": 49,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "2023729"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 70504167,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T13C4HEdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "dissipate": "shadowStrike1",
+      "desiccatingSand": "desiccatingSand1",
+      "bloodFury": "bloodLust1",
+      "undyingWill": "undyingWill1"
+    },
+    "attackPower": 3906706,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "4144"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 89,
+    "upgradeXP": 87702269,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 359834627
+  },
+  {
+    "identifier": "T13C4HEdragon",
+    "level": 50,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "2033984"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 72266762,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T13C4HEdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "dissipate": "shadowStrike1",
+      "desiccatingSand": "desiccatingSand1",
+      "bloodFury": "bloodLust1",
+      "undyingWill": "undyingWill1"
+    },
+    "attackPower": 4004374,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "4165"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 90,
+    "upgradeXP": 0,
+    "xpRewardMultiplier": 1.2,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 365262205
+  }
+]

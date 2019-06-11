@@ -1,0 +1,1550 @@
+[
+  {
+    "identifier": "T7C3WEdragon",
+    "level": 1,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "0"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 2029725,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T7C3WEdragon_flamethrower"
+      }
+    ],
+    "abilities": {},
+    "attackPower": 18721,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "762"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 18,
+    "upgradeXP": 544552,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 309520
+  },
+  {
+    "identifier": "T7C3WEdragon",
+    "level": 2,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "205920"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 2080453,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T7C3WEdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "seethingSpark": "seethingSpark1"
+    },
+    "attackPower": 19303,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "780"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 19,
+    "upgradeXP": 558164,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 490676
+  },
+  {
+    "identifier": "T7C3WEdragon",
+    "level": 3,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "210672"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 2132447,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T7C3WEdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "seethingSpark": "seethingSpark1"
+    },
+    "attackPower": 19822,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "798"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 19,
+    "upgradeXP": 649998,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 516488
+  },
+  {
+    "identifier": "T7C3WEdragon",
+    "level": 4,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "215424"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 2185738,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T7C3WEdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "seethingSpark": "seethingSpark1"
+    },
+    "attackPower": 20317,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "816"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 19,
+    "upgradeXP": 766701,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 542640
+  },
+  {
+    "identifier": "T7C3WEdragon",
+    "level": 5,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "220176"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 2240365,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T7C3WEdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "seethingSpark": "seethingSpark1",
+      "hurricane": "hurricane1"
+    },
+    "attackPower": 20825,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "834"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 20,
+    "upgradeXP": 883335,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 760144
+  },
+  {
+    "identifier": "T7C3WEdragon",
+    "level": 6,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "224928"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 2296359,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T7C3WEdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "seethingSpark": "seethingSpark1",
+      "hurricane": "hurricane1"
+    },
+    "attackPower": 21346,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "852"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 20,
+    "upgradeXP": 1000866,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 798564
+  },
+  {
+    "identifier": "T7C3WEdragon",
+    "level": 7,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "229680"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 2353755,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T7C3WEdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "seethingSpark": "seethingSpark1",
+      "hurricane": "hurricane1"
+    },
+    "attackPower": 21879,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "870"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 20,
+    "upgradeXP": 1025887,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 838980
+  },
+  {
+    "identifier": "T7C3WEdragon",
+    "level": 8,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "234432"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 2412583,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T7C3WEdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "seethingSpark": "seethingSpark1",
+      "hurricane": "hurricane1"
+    },
+    "attackPower": 22426,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "888"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 21,
+    "upgradeXP": 1051532,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 881520
+  },
+  {
+    "identifier": "T7C3WEdragon",
+    "level": 9,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "239184"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 2472884,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T7C3WEdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "seethingSpark": "seethingSpark1",
+      "hurricane": "hurricane1",
+      "stormResist01": "stormResist01"
+    },
+    "attackPower": 22987,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "906"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 21,
+    "upgradeXP": 1077820,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 1203895
+  },
+  {
+    "identifier": "T7C3WEdragon",
+    "level": 10,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "243936"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 2534694,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T7C3WEdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "seethingSpark": "seethingSpark1",
+      "hurricane": "hurricane1",
+      "stormResist01": "stormResist01"
+    },
+    "attackPower": 23562,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "924"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 21,
+    "upgradeXP": 1104763,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 1264916
+  },
+  {
+    "identifier": "T7C3WEdragon",
+    "level": 11,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "248688"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 2598042,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T7C3WEdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "seethingSpark": "seethingSpark1",
+      "hurricane": "hurricane1",
+      "stormResist01": "stormResist01"
+    },
+    "attackPower": 24151,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "942"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 22,
+    "upgradeXP": 1132381,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 1328896
+  },
+  {
+    "identifier": "T7C3WEdragon",
+    "level": 12,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "253440"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 2662973,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T7C3WEdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "seethingSpark": "seethingSpark1",
+      "hurricane": "hurricane1",
+      "stormResist01": "stormResist01"
+    },
+    "attackPower": 24754,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "960"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 22,
+    "upgradeXP": 1160691,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 1396122
+  },
+  {
+    "identifier": "T7C3WEdragon",
+    "level": 13,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "258192"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 2729527,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T7C3WEdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "seethingSpark": "seethingSpark1",
+      "hurricane": "hurricane1",
+      "stormResist01": "stormResist01"
+    },
+    "attackPower": 25373,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "978"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 22,
+    "upgradeXP": 1189708,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 1466888
+  },
+  {
+    "identifier": "T7C3WEdragon",
+    "level": 14,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "262944"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 2797742,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T7C3WEdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "seethingSpark": "seethingSpark1",
+      "hurricane": "hurricane1",
+      "stormResist01": "stormResist01",
+      "lightningResist01": "lightningResist01"
+    },
+    "attackPower": 26007,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "996"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 23,
+    "upgradeXP": 1219450,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 1541051
+  },
+  {
+    "identifier": "T7C3WEdragon",
+    "level": 15,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "267696"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 2867666,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T7C3WEdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "seethingSpark": "seethingSpark1",
+      "hurricane": "hurricane1",
+      "stormResist01": "stormResist01",
+      "lightningResist01": "lightningResist01"
+    },
+    "attackPower": 26658,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1014"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 23,
+    "upgradeXP": 1249935,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 1619027
+  },
+  {
+    "identifier": "T7C3WEdragon",
+    "level": 16,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "272448"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 2939336,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T7C3WEdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "seethingSpark": "seethingSpark1",
+      "hurricane": "hurricane1",
+      "stormResist01": "stormResist01",
+      "lightningResist01": "lightningResist01"
+    },
+    "attackPower": 27324,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1032"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 23,
+    "upgradeXP": 1281184,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 1701014
+  },
+  {
+    "identifier": "T7C3WEdragon",
+    "level": 17,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "277200"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 3012796,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T7C3WEdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "seethingSpark": "seethingSpark1",
+      "hurricane": "hurricane1",
+      "stormResist01": "stormResist01",
+      "lightningResist01": "lightningResist01"
+    },
+    "attackPower": 28007,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1050"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 24,
+    "upgradeXP": 1313211,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 1787102
+  },
+  {
+    "identifier": "T7C3WEdragon",
+    "level": 18,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "281952"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 3088094,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T7C3WEdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "seethingSpark": "seethingSpark1",
+      "hurricane": "hurricane1",
+      "stormResist01": "stormResist01",
+      "lightningResist01": "lightningResist01"
+    },
+    "attackPower": 28707,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1068"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 24,
+    "upgradeXP": 1787812,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 1877616
+  },
+  {
+    "identifier": "T7C3WEdragon",
+    "level": 19,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "380801"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 3165282,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T7C3WEdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "seethingSpark": "seethingSpark1",
+      "hurricane": "hurricane1",
+      "stormResist01": "stormResist01",
+      "lightningResist01": "lightningResist01"
+    },
+    "attackPower": 29425,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1086"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 24,
+    "upgradeXP": 1832505,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 1972653
+  },
+  {
+    "identifier": "T7C3WEdragon",
+    "level": 20,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "387113"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 3244401,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T7C3WEdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "seethingSpark": "seethingSpark1",
+      "hurricane": "hurricane1",
+      "stormResist01": "stormResist01",
+      "lightningResist01": "lightningResist01"
+    },
+    "attackPower": 30160,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1104"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 25,
+    "upgradeXP": 1878315,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 2072429
+  },
+  {
+    "identifier": "T7C3WEdragon",
+    "level": 21,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "393424"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 3325501,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T7C3WEdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "seethingSpark": "seethingSpark1",
+      "hurricane": "hurricane1",
+      "stormResist01": "stormResist01",
+      "lightningResist01": "lightningResist01"
+    },
+    "attackPower": 30914,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1122"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 25,
+    "upgradeXP": 1925271,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 2177409
+  },
+  {
+    "identifier": "T7C3WEdragon",
+    "level": 22,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "399736"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 3408633,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T7C3WEdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "seethingSpark": "seethingSpark1",
+      "hurricane": "hurricane1",
+      "stormResist01": "stormResist01",
+      "lightningResist01": "lightningResist01"
+    },
+    "attackPower": 31687,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1140"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 25,
+    "upgradeXP": 2413642,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 2287584
+  },
+  {
+    "identifier": "T7C3WEdragon",
+    "level": 23,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "496631"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 3493840,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T7C3WEdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "seethingSpark": "seethingSpark1",
+      "hurricane": "hurricane1",
+      "stormResist01": "stormResist01",
+      "lightningResist01": "lightningResist01"
+    },
+    "attackPower": 32479,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1158"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 26,
+    "upgradeXP": 2473982,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 2403434
+  },
+  {
+    "identifier": "T7C3WEdragon",
+    "level": 24,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "504351"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 3581172,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T7C3WEdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "seethingSpark": "seethingSpark1",
+      "hurricane": "hurricane1",
+      "stormResist01": "stormResist01",
+      "lightningResist01": "lightningResist01"
+    },
+    "attackPower": 33291,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1176"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 26,
+    "upgradeXP": 2535828,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 2525078
+  },
+  {
+    "identifier": "T7C3WEdragon",
+    "level": 25,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "512070"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 3670685,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T7C3WEdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "seethingSpark": "seethingSpark1",
+      "hurricane": "hurricane1",
+      "stormResist01": "stormResist01",
+      "lightningResist01": "lightningResist01"
+    },
+    "attackPower": 34124,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1194"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 26,
+    "upgradeXP": 2599221,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 2652892
+  },
+  {
+    "identifier": "T7C3WEdragon",
+    "level": 26,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "519790"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 3762432,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T7C3WEdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "seethingSpark": "seethingSpark1",
+      "hurricane": "hurricane1",
+      "stormResist01": "stormResist01",
+      "lightningResist01": "lightningResist01"
+    },
+    "attackPower": 34977,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1212"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 26,
+    "upgradeXP": 3114611,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 2787130
+  },
+  {
+    "identifier": "T7C3WEdragon",
+    "level": 27,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "616691"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 3856468,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T7C3WEdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "seethingSpark": "seethingSpark1",
+      "hurricane": "hurricane1",
+      "stormResist01": "stormResist01",
+      "lightningResist01": "lightningResist01"
+    },
+    "attackPower": 35403,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1230"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 26,
+    "upgradeXP": 3192472,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 2891632
+  },
+  {
+    "identifier": "T7C3WEdragon",
+    "level": 28,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "625715"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 3952851,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T7C3WEdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "seethingSpark": "seethingSpark1",
+      "hurricane": "hurricane1",
+      "stormResist01": "stormResist01",
+      "lightningResist01": "lightningResist01"
+    },
+    "attackPower": 35836,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1248"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 26,
+    "upgradeXP": 3272283,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 3000270
+  },
+  {
+    "identifier": "T7C3WEdragon",
+    "level": 29,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "634740"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 4051647,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T7C3WEdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "seethingSpark": "seethingSpark1",
+      "hurricane": "hurricane1",
+      "stormResist01": "stormResist01",
+      "lightningResist01": "lightningResist01"
+    },
+    "attackPower": 36732,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1266"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 26,
+    "upgradeXP": 3354088,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 3152119
+  },
+  {
+    "identifier": "T7C3WEdragon",
+    "level": 30,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "643765"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 4152916,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T7C3WEdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "seethingSpark": "seethingSpark1",
+      "hurricane": "hurricane1",
+      "stormResist01": "stormResist01",
+      "lightningResist01": "lightningResist01"
+    },
+    "attackPower": 37651,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1284"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 26,
+    "upgradeXP": 3387628,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 3311685
+  },
+  {
+    "identifier": "T7C3WEdragon",
+    "level": 31,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "643765"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 4194445,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T7C3WEdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "seethingSpark": "seethingSpark1",
+      "hurricane": "hurricane1",
+      "stormResist01": "stormResist01",
+      "lightningResist01": "lightningResist01"
+    },
+    "attackPower": 38027,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1284"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 26,
+    "upgradeXP": 3421504,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 3344801
+  },
+  {
+    "identifier": "T7C3WEdragon",
+    "level": 32,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "643765"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 4236389,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T7C3WEdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "seethingSpark": "seethingSpark1",
+      "hurricane": "hurricane1",
+      "stormResist01": "stormResist01",
+      "lightningResist01": "lightningResist01"
+    },
+    "attackPower": 38407,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1284"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 26,
+    "upgradeXP": 3455719,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 3378249
+  },
+  {
+    "identifier": "T7C3WEdragon",
+    "level": 33,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "643765"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 4278752,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T7C3WEdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "seethingSpark": "seethingSpark1",
+      "hurricane": "hurricane1",
+      "stormResist01": "stormResist01",
+      "lightningResist01": "lightningResist01"
+    },
+    "attackPower": 38791,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1284"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 26,
+    "upgradeXP": 3490276,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 3412031
+  },
+  {
+    "identifier": "T7C3WEdragon",
+    "level": 34,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "643765"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 4321539,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T7C3WEdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "seethingSpark": "seethingSpark1",
+      "hurricane": "hurricane1",
+      "stormResist01": "stormResist01",
+      "lightningResist01": "lightningResist01"
+    },
+    "attackPower": 39178,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1284"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 26,
+    "upgradeXP": 3525178,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 3446151
+  },
+  {
+    "identifier": "T7C3WEdragon",
+    "level": 35,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "643765"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 4364754,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T7C3WEdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "seethingSpark": "seethingSpark1",
+      "hurricane": "hurricane1",
+      "stormResist01": "stormResist01",
+      "lightningResist01": "lightningResist01"
+    },
+    "attackPower": 39569,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1284"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 26,
+    "upgradeXP": 0,
+    "xpRewardMultiplier": 1.2,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 3480612
+  }
+]

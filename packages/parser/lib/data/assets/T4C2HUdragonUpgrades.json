@@ -1,0 +1,641 @@
+[
+  {
+    "identifier": "T4C2HUdragon",
+    "level": 1,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "0"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 51661,
+    "fullHealDuration": 3019,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T4C2HUdragon_fireball"
+      }
+    ],
+    "abilities": {},
+    "attackPower": 4598,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "52"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 4,
+    "upgradeXP": 7106,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 938
+  },
+  {
+    "identifier": "T4C2HUdragon",
+    "level": 2,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "6552"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 64953,
+    "fullHealDuration": 4023,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T4C2HUdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "frenzySpell": "frenzy1"
+    },
+    "attackPower": 4873,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "56"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 4,
+    "upgradeXP": 9116,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 1872
+  },
+  {
+    "identifier": "T4C2HUdragon",
+    "level": 3,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "7155"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 67393,
+    "fullHealDuration": 4380,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T4C2HUdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "frenzySpell": "frenzy1"
+    },
+    "attackPower": 5113,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "60"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 4,
+    "upgradeXP": 11951,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 2045
+  },
+  {
+    "identifier": "T4C2HUdragon",
+    "level": 4,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "7776"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 70577,
+    "fullHealDuration": 4777,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T4C2HUdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "frenzySpell": "frenzy1"
+    },
+    "attackPower": 5326,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "64"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 5,
+    "upgradeXP": 15156,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 2226
+  },
+  {
+    "identifier": "T4C2HUdragon",
+    "level": 5,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "10098"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 73234,
+    "fullHealDuration": 5192,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T4C2HUdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "frenzySpell": "frenzy1",
+      "cannonResist01": "cannonResist01"
+    },
+    "attackPower": 5578,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "68"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 5,
+    "upgradeXP": 18895,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 3219
+  },
+  {
+    "identifier": "T4C2HUdragon",
+    "level": 6,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "10887"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 76033,
+    "fullHealDuration": 5559,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T4C2HUdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "frenzySpell": "frenzy1",
+      "cannonResist01": "cannonResist01"
+    },
+    "attackPower": 5885,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "72"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 5,
+    "upgradeXP": 21304,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 3510
+  },
+  {
+    "identifier": "T4C2HUdragon",
+    "level": 7,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "11851"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 81637,
+    "fullHealDuration": 6118,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T4C2HUdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "frenzySpell": "frenzy1",
+      "cannonResist01": "cannonResist01"
+    },
+    "attackPower": 6228,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "77"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 5,
+    "upgradeXP": 24012,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 3999
+  },
+  {
+    "identifier": "T4C2HUdragon",
+    "level": 8,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "14982"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 87629,
+    "fullHealDuration": 6765,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T4C2HUdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "frenzySpell": "frenzy1",
+      "cannonResist01": "cannonResist01"
+    },
+    "attackPower": 6634,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "82"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 6,
+    "upgradeXP": 26830,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 4576
+  },
+  {
+    "identifier": "T4C2HUdragon",
+    "level": 9,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "16169"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 93241,
+    "fullHealDuration": 7464,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T4C2HUdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "frenzySpell": "frenzy1",
+      "cannonResist01": "cannonResist01"
+    },
+    "attackPower": 7107,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "87"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 6,
+    "upgradeXP": 40148,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 5214
+  },
+  {
+    "identifier": "T4C2HUdragon",
+    "level": 10,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "23095"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 100038,
+    "fullHealDuration": 8273,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T4C2HUdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "frenzySpell": "frenzy1",
+      "cannonResist01": "cannonResist01"
+    },
+    "attackPower": 7599,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "92"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 6,
+    "upgradeXP": 45219,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 5984
+  },
+  {
+    "identifier": "T4C2HUdragon",
+    "level": 11,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "27829"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 107303,
+    "fullHealDuration": 9169,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T4C2HUdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "frenzySpell": "frenzy1",
+      "cannonResist01": "cannonResist01"
+    },
+    "attackPower": 8125,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "97"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 6,
+    "upgradeXP": 61775,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 6860
+  },
+  {
+    "identifier": "T4C2HUdragon",
+    "level": 12,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "35792"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 114138,
+    "fullHealDuration": 10109,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T4C2HUdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "frenzySpell": "frenzy1",
+      "cannonResist01": "cannonResist01"
+    },
+    "attackPower": 8700,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "102"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 7,
+    "upgradeXP": 69552,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 7812
+  },
+  {
+    "identifier": "T4C2HUdragon",
+    "level": 13,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "37546"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 122380,
+    "fullHealDuration": 11196,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T4C2HUdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "frenzySpell": "frenzy1",
+      "cannonResist01": "cannonResist01"
+    },
+    "attackPower": 9297,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "107"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 7,
+    "upgradeXP": 91521,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 8954
+  },
+  {
+    "identifier": "T4C2HUdragon",
+    "level": 14,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "57431"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 131187,
+    "fullHealDuration": 12329,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T4C2HUdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "frenzySpell": "frenzy1",
+      "cannonResist01": "cannonResist01"
+    },
+    "attackPower": 9863,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "112"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 7,
+    "upgradeXP": 102191,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 10184
+  },
+  {
+    "identifier": "T4C2HUdragon",
+    "level": 15,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "61533"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 139506,
+    "fullHealDuration": 13442,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T4C2HUdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "frenzySpell": "frenzy1",
+      "cannonResist01": "cannonResist01"
+    },
+    "attackPower": 10408,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "120"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 8,
+    "upgradeXP": 0,
+    "xpRewardMultiplier": 1.2,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 11427
+  }
+]

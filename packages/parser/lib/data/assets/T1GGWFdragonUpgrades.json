@@ -1,0 +1,303 @@
+[
+  {
+    "identifier": "T1GGWFdragon",
+    "level": 1,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "0"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 42030,
+    "fullHealDuration": 1076,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T1GGWFdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "hurricane": "hurricane1",
+      "chargedShield": "chargedShield1"
+    },
+    "attackPower": 624,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "30"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 2,
+    "upgradeXP": 1821,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 666
+  },
+  {
+    "identifier": "T1GGWFdragon",
+    "level": 2,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1134"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 43942,
+    "fullHealDuration": 1193,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T1GGWFdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "hurricane": "hurricane1",
+      "chargedShield": "chargedShield1"
+    },
+    "attackPower": 661,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "32"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 3,
+    "upgradeXP": 2564,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 741
+  },
+  {
+    "identifier": "T1GGWFdragon",
+    "level": 3,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1478"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 46473,
+    "fullHealDuration": 1351,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T1GGWFdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "hurricane": "hurricane1",
+      "chargedShield": "chargedShield1"
+    },
+    "attackPower": 708,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "34"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 3,
+    "upgradeXP": 3599,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 840
+  },
+  {
+    "identifier": "T1GGWFdragon",
+    "level": 4,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1599"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 50533,
+    "fullHealDuration": 1580,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T1GGWFdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "hurricane": "hurricane1",
+      "chargedShield": "chargedShield1"
+    },
+    "attackPower": 762,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "36"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 3,
+    "upgradeXP": 4652,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 987
+  },
+  {
+    "identifier": "T1GGWFdragon",
+    "level": 5,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1815"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 55458,
+    "fullHealDuration": 1882,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T1GGWFdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "hurricane": "hurricane1",
+      "chargedShield": "chargedShield1"
+    },
+    "attackPower": 826,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "40"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 3,
+    "upgradeXP": 5842,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 1166
+  },
+  {
+    "identifier": "T1GGWFdragon",
+    "level": 6,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "2717"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 60112,
+    "fullHealDuration": 2220,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T1GGWFdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "hurricane": "hurricane1",
+      "chargedShield": "chargedShield1"
+    },
+    "attackPower": 899,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "44"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 3,
+    "upgradeXP": 6695,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 1380
+  },
+  {
+    "identifier": "T1GGWFdragon",
+    "level": 7,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "3024"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 65731,
+    "fullHealDuration": 2619,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T1GGWFdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "hurricane": "hurricane1",
+      "chargedShield": "chargedShield1"
+    },
+    "attackPower": 970,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "48"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 4,
+    "upgradeXP": 0,
+    "xpRewardMultiplier": 1.2,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 1632
+  }
+]

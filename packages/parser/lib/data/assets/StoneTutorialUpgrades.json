@@ -1,0 +1,253 @@
+[
+  {
+    "identifier": "StoneTutorialUpgrades",
+    "level": 1,
+    "upgradeCost": [
+      {
+        "type": ""
+      }
+    ],
+    "upgradeTimeInSeconds": 0,
+    "achievementRequirements": "",
+    "HP": 10000,
+    "fullHealDuration": 3,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T1C1HIdragon_fireball"
+      }
+    ],
+    "abilities": {},
+    "attackPower": 1000,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rageChinese",
+    "requiredStableLevel": 1,
+    "upgradeXP": 7,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 100
+  },
+  {
+    "identifier": "StoneTutorialUpgrades",
+    "level": 2,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "10"
+      }
+    ],
+    "upgradeTimeInSeconds": 15,
+    "achievementRequirements": "level02",
+    "HP": 10200,
+    "fullHealDuration": 3,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T1C1HIdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "chainLightning": "chainLightningTut"
+    },
+    "attackPower": 1000,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "15"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rageChinese",
+    "requiredStableLevel": 2,
+    "upgradeXP": 34,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 200
+  },
+  {
+    "identifier": "StoneTutorialUpgrades",
+    "level": 3,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "40"
+      }
+    ],
+    "upgradeTimeInSeconds": 900,
+    "achievementRequirements": "level03",
+    "HP": 9540,
+    "fullHealDuration": 300,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T1C1HIdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "chainLightning": "chainLightningTut"
+    },
+    "attackPower": 1000,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "90"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 2,
+    "upgradeXP": 132,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "100"
+      }
+    ],
+    "powerLevel": 300
+  },
+  {
+    "identifier": "StoneTutorialUpgrades",
+    "level": 4,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "230"
+      }
+    ],
+    "upgradeTimeInSeconds": 3600,
+    "achievementRequirements": "level04",
+    "HP": 12340,
+    "fullHealDuration": 300,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T1C1HIdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "chainLightning": "chainLightningTut"
+    },
+    "attackPower": 1000,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "290"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 2,
+    "upgradeXP": 297,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "100"
+      }
+    ],
+    "powerLevel": 400
+  },
+  {
+    "identifier": "StoneTutorialUpgrades",
+    "level": 5,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "660"
+      }
+    ],
+    "upgradeTimeInSeconds": 7200,
+    "achievementRequirements": "level05",
+    "HP": 14410,
+    "fullHealDuration": 300,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T1C1HIdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "chainLightning": "chainLightningTut",
+      "archerResist01": "archerResist01"
+    },
+    "attackPower": 1000,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "730"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 2,
+    "upgradeXP": 595,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "100"
+      }
+    ],
+    "powerLevel": 500
+  },
+  {
+    "identifier": "StoneTutorialUpgrades",
+    "level": 6,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1430"
+      }
+    ],
+    "upgradeTimeInSeconds": 10800,
+    "achievementRequirements": "level06",
+    "HP": 14250,
+    "fullHealDuration": 300,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T1C1HIdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "chainLightning": "chainLightningTut",
+      "archerResist01": "archerResist01"
+    },
+    "attackPower": 1000,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1225"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 2,
+    "upgradeXP": 0,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "100"
+      }
+    ],
+    "powerLevel": 600
+  }
+]

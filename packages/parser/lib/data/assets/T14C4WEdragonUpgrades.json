@@ -1,0 +1,2252 @@
+[
+  {
+    "identifier": "T14C4WEdragon",
+    "level": 1,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "0"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 48557030,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T14C4WEdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "adaptiveBreath": "adaptiveBreath1",
+      "invincibleSpell": "magicBarrier1",
+      "healDragon": "revitalize1",
+      "elementalResist01": "elementalResist01"
+    },
+    "attackPower": 440277,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3556"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 73,
+    "upgradeXP": 14238502,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 221511680
+  },
+  {
+    "identifier": "T14C4WEdragon",
+    "level": 2,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "919800"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 49770941,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T14C4WEdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "adaptiveBreath": "adaptiveBreath1",
+      "invincibleSpell": "magicBarrier1",
+      "healDragon": "revitalize1",
+      "elementalResist01": "elementalResist01"
+    },
+    "attackPower": 451284,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3577"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 73,
+    "upgradeXP": 14594464,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 225997931
+  },
+  {
+    "identifier": "T14C4WEdragon",
+    "level": 3,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "925200"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 51015198,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T14C4WEdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "adaptiveBreath": "adaptiveBreath1",
+      "invincibleSpell": "magicBarrier1",
+      "healDragon": "revitalize1",
+      "elementalResist01": "elementalResist01"
+    },
+    "attackPower": 462566,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3598"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 74,
+    "upgradeXP": 16995692,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 230517801
+  },
+  {
+    "identifier": "T14C4WEdragon",
+    "level": 4,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "930600"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 52290566,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T14C4WEdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "adaptiveBreath": "adaptiveBreath1",
+      "invincibleSpell": "magicBarrier1",
+      "healDragon": "revitalize1",
+      "elementalResist01": "elementalResist01"
+    },
+    "attackPower": 474130,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3619"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 74,
+    "upgradeXP": 20047213,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 235071290
+  },
+  {
+    "identifier": "T14C4WEdragon",
+    "level": 5,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "936000"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 53597818,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T14C4WEdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "adaptiveBreath": "adaptiveBreath1",
+      "invincibleSpell": "magicBarrier1",
+      "healDragon": "revitalize1",
+      "elementalResist01": "elementalResist01"
+    },
+    "attackPower": 485984,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3640"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 75,
+    "upgradeXP": 23096901,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 239658397
+  },
+  {
+    "identifier": "T14C4WEdragon",
+    "level": 6,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "941400"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 54937751,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T14C4WEdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "adaptiveBreath": "adaptiveBreath1",
+      "invincibleSpell": "magicBarrier1",
+      "healDragon": "revitalize1",
+      "elementalResist01": "elementalResist01"
+    },
+    "attackPower": 498133,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3661"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 76,
+    "upgradeXP": 26170046,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 244279123
+  },
+  {
+    "identifier": "T14C4WEdragon",
+    "level": 7,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "946800"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 56311176,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T14C4WEdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "adaptiveBreath": "adaptiveBreath1",
+      "invincibleSpell": "magicBarrier1",
+      "healDragon": "revitalize1",
+      "elementalResist01": "elementalResist01"
+    },
+    "attackPower": 510586,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3682"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 77,
+    "upgradeXP": 26824293,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 248933469
+  },
+  {
+    "identifier": "T14C4WEdragon",
+    "level": 8,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "952200"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 57718927,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T14C4WEdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "adaptiveBreath": "adaptiveBreath1",
+      "invincibleSpell": "magicBarrier1",
+      "healDragon": "revitalize1",
+      "elementalResist01": "elementalResist01"
+    },
+    "attackPower": 523351,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3703"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 78,
+    "upgradeXP": 27494898,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 253621433
+  },
+  {
+    "identifier": "T14C4WEdragon",
+    "level": 9,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "957600"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 59161876,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T14C4WEdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "adaptiveBreath": "adaptiveBreath1",
+      "invincibleSpell": "magicBarrier1",
+      "healDragon": "revitalize1",
+      "elementalResist01": "elementalResist01"
+    },
+    "attackPower": 536435,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3724"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 79,
+    "upgradeXP": 28182271,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 258343015
+  },
+  {
+    "identifier": "T14C4WEdragon",
+    "level": 10,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "963000"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 60640905,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T14C4WEdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "adaptiveBreath": "adaptiveBreath1",
+      "invincibleSpell": "magicBarrier1",
+      "healDragon": "revitalize1",
+      "elementalResist01": "elementalResist01"
+    },
+    "attackPower": 549846,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3745"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 80,
+    "upgradeXP": 28886826,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 263098217
+  },
+  {
+    "identifier": "T14C4WEdragon",
+    "level": 11,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "968400"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 62156908,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T14C4WEdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "adaptiveBreath": "adaptiveBreath1",
+      "invincibleSpell": "magicBarrier1",
+      "healDragon": "revitalize1",
+      "elementalResist01": "elementalResist01"
+    },
+    "attackPower": 563592,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3766"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 80,
+    "upgradeXP": 29608993,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 267887038
+  },
+  {
+    "identifier": "T14C4WEdragon",
+    "level": 12,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "973800"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 63710809,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T14C4WEdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "adaptiveBreath": "adaptiveBreath1",
+      "invincibleSpell": "magicBarrier1",
+      "healDragon": "revitalize1",
+      "elementalResist01": "elementalResist01"
+    },
+    "attackPower": 577681,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3787"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 81,
+    "upgradeXP": 30349217,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 272709477
+  },
+  {
+    "identifier": "T14C4WEdragon",
+    "level": 13,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "979200"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 65303553,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T14C4WEdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "adaptiveBreath": "adaptiveBreath1",
+      "invincibleSpell": "magicBarrier1",
+      "healDragon": "revitalize1",
+      "elementalResist01": "elementalResist01"
+    },
+    "attackPower": 592123,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3808"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 81,
+    "upgradeXP": 31107946,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 277565535
+  },
+  {
+    "identifier": "T14C4WEdragon",
+    "level": 14,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "984600"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 66936123,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T14C4WEdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "adaptiveBreath": "adaptiveBreath1",
+      "invincibleSpell": "magicBarrier1",
+      "healDragon": "revitalize1",
+      "elementalResist01": "elementalResist01"
+    },
+    "attackPower": 606926,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3829"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 82,
+    "upgradeXP": 31885642,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 282455212
+  },
+  {
+    "identifier": "T14C4WEdragon",
+    "level": 15,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "990000"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 68609512,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T14C4WEdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "adaptiveBreath": "adaptiveBreath1",
+      "invincibleSpell": "magicBarrier1",
+      "healDragon": "revitalize1",
+      "elementalResist01": "elementalResist01"
+    },
+    "attackPower": 622099,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3850"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 82,
+    "upgradeXP": 32682781,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 287378508
+  },
+  {
+    "identifier": "T14C4WEdragon",
+    "level": 16,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "995400"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 70324736,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T14C4WEdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "adaptiveBreath": "adaptiveBreath1",
+      "invincibleSpell": "magicBarrier1",
+      "healDragon": "revitalize1",
+      "elementalResist01": "elementalResist01"
+    },
+    "attackPower": 637652,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3871"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 83,
+    "upgradeXP": 33499850,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 292335423
+  },
+  {
+    "identifier": "T14C4WEdragon",
+    "level": 17,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1000800"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 72082842,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T14C4WEdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "adaptiveBreath": "adaptiveBreath1",
+      "invincibleSpell": "magicBarrier1",
+      "healDragon": "revitalize1",
+      "elementalResist01": "elementalResist01"
+    },
+    "attackPower": 653593,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3892"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 83,
+    "upgradeXP": 34337345,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 297325956
+  },
+  {
+    "identifier": "T14C4WEdragon",
+    "level": 18,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1006200"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 73884903,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T14C4WEdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "adaptiveBreath": "adaptiveBreath1",
+      "invincibleSpell": "magicBarrier1",
+      "healDragon": "revitalize1",
+      "elementalResist01": "elementalResist01"
+    },
+    "attackPower": 669933,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3913"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 84,
+    "upgradeXP": 46747073,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 302350108
+  },
+  {
+    "identifier": "T14C4WEdragon",
+    "level": 19,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1343609"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 75732019,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T14C4WEdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "adaptiveBreath": "adaptiveBreath1",
+      "invincibleSpell": "magicBarrier1",
+      "healDragon": "revitalize1",
+      "elementalResist01": "elementalResist01"
+    },
+    "attackPower": 686681,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3934"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 84,
+    "upgradeXP": 47915746,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 307407880
+  },
+  {
+    "identifier": "T14C4WEdragon",
+    "level": 20,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1350781"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 77625313,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T14C4WEdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "adaptiveBreath": "adaptiveBreath1",
+      "invincibleSpell": "magicBarrier1",
+      "healDragon": "revitalize1",
+      "elementalResist01": "elementalResist01"
+    },
+    "attackPower": 703848,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3955"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 85,
+    "upgradeXP": 49113636,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 312499270
+  },
+  {
+    "identifier": "T14C4WEdragon",
+    "level": 21,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1357953"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 79565933,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T14C4WEdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "adaptiveBreath": "adaptiveBreath1",
+      "invincibleSpell": "magicBarrier1",
+      "healDragon": "revitalize1",
+      "elementalResist01": "elementalResist01"
+    },
+    "attackPower": 721444,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3976"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 85,
+    "upgradeXP": 50341473,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 317624278
+  },
+  {
+    "identifier": "T14C4WEdragon",
+    "level": 22,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1365126"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 81555062,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T14C4WEdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "adaptiveBreath": "adaptiveBreath1",
+      "invincibleSpell": "magicBarrier1",
+      "healDragon": "revitalize1",
+      "elementalResist01": "elementalResist01"
+    },
+    "attackPower": 739480,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3997"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 86,
+    "upgradeXP": 63111265,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 322782906
+  },
+  {
+    "identifier": "T14C4WEdragon",
+    "level": 23,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1678439"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 83593920,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T14C4WEdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "adaptiveBreath": "adaptiveBreath1",
+      "invincibleSpell": "magicBarrier1",
+      "healDragon": "revitalize1",
+      "elementalResist01": "elementalResist01"
+    },
+    "attackPower": 757967,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "4018"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 86,
+    "upgradeXP": 64689045,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 327975153
+  },
+  {
+    "identifier": "T14C4WEdragon",
+    "level": 24,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1687211"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 85683757,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T14C4WEdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "adaptiveBreath": "adaptiveBreath1",
+      "invincibleSpell": "magicBarrier1",
+      "healDragon": "revitalize1",
+      "elementalResist01": "elementalResist01"
+    },
+    "attackPower": 776916,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "4039"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 87,
+    "upgradeXP": 66306268,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 333201018
+  },
+  {
+    "identifier": "T14C4WEdragon",
+    "level": 25,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1695984"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 87825843,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T14C4WEdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "adaptiveBreath": "adaptiveBreath1",
+      "invincibleSpell": "magicBarrier1",
+      "healDragon": "revitalize1",
+      "elementalResist01": "elementalResist01"
+    },
+    "attackPower": 796339,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "4060"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 87,
+    "upgradeXP": 67963921,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 338460502
+  },
+  {
+    "identifier": "T14C4WEdragon",
+    "level": 26,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1704756"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 90021475,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T14C4WEdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "adaptiveBreath": "adaptiveBreath1",
+      "invincibleSpell": "magicBarrier1",
+      "healDragon": "revitalize1",
+      "elementalResist01": "elementalResist01"
+    },
+    "attackPower": 816248,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "4081"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 88,
+    "upgradeXP": 81440284,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 343753605
+  },
+  {
+    "identifier": "T14C4WEdragon",
+    "level": 27,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "2003218"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 92271993,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T14C4WEdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "adaptiveBreath": "adaptiveBreath1",
+      "invincibleSpell": "magicBarrier1",
+      "healDragon": "revitalize1",
+      "elementalResist01": "elementalResist01"
+    },
+    "attackPower": 836654,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "4102"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 88,
+    "upgradeXP": 83476287,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 349080327
+  },
+  {
+    "identifier": "T14C4WEdragon",
+    "level": 28,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "2013473"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 94578774,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T14C4WEdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "adaptiveBreath": "adaptiveBreath1",
+      "invincibleSpell": "magicBarrier1",
+      "healDragon": "revitalize1",
+      "elementalResist01": "elementalResist01"
+    },
+    "attackPower": 857570,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "4123"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 89,
+    "upgradeXP": 85563191,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 354440667
+  },
+  {
+    "identifier": "T14C4WEdragon",
+    "level": 29,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "2023729"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 96943230,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T14C4WEdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "adaptiveBreath": "adaptiveBreath1",
+      "invincibleSpell": "magicBarrier1",
+      "healDragon": "revitalize1",
+      "elementalResist01": "elementalResist01"
+    },
+    "attackPower": 879009,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "4144"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 89,
+    "upgradeXP": 87702269,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 359834627
+  },
+  {
+    "identifier": "T14C4WEdragon",
+    "level": 30,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "2033984"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 99366797,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T14C4WEdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "adaptiveBreath": "adaptiveBreath1",
+      "invincibleSpell": "magicBarrier1",
+      "healDragon": "revitalize1",
+      "elementalResist01": "elementalResist01"
+    },
+    "attackPower": 900985,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "4165"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 90,
+    "upgradeXP": 89894824,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 365262205
+  },
+  {
+    "identifier": "T14C4WEdragon",
+    "level": 31,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "2044240"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 101850956,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T14C4WEdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "adaptiveBreath": "adaptiveBreath1",
+      "invincibleSpell": "magicBarrier1",
+      "healDragon": "revitalize1",
+      "elementalResist01": "elementalResist01"
+    },
+    "attackPower": 923509,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "4186"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 90,
+    "upgradeXP": 92142188,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 370723402
+  },
+  {
+    "identifier": "T14C4WEdragon",
+    "level": 32,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "2054495"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 104397211,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T14C4WEdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "adaptiveBreath": "adaptiveBreath1",
+      "invincibleSpell": "magicBarrier1",
+      "healDragon": "revitalize1",
+      "elementalResist01": "elementalResist01"
+    },
+    "attackPower": 946597,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "4207"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 91,
+    "upgradeXP": 94445741,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 376218218
+  },
+  {
+    "identifier": "T14C4WEdragon",
+    "level": 33,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "2064750"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 107007116,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T14C4WEdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "adaptiveBreath": "adaptiveBreath1",
+      "invincibleSpell": "magicBarrier1",
+      "healDragon": "revitalize1",
+      "elementalResist01": "elementalResist01"
+    },
+    "attackPower": 970262,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "4228"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 91,
+    "upgradeXP": 96806881,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 381746653
+  },
+  {
+    "identifier": "T14C4WEdragon",
+    "level": 34,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "2075006"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 109682267,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T14C4WEdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "adaptiveBreath": "adaptiveBreath1",
+      "invincibleSpell": "magicBarrier1",
+      "healDragon": "revitalize1",
+      "elementalResist01": "elementalResist01"
+    },
+    "attackPower": 994518,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "4249"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 92,
+    "upgradeXP": 99227051,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 387308707
+  },
+  {
+    "identifier": "T14C4WEdragon",
+    "level": 35,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "2085261"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 112424296,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T14C4WEdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "adaptiveBreath": "adaptiveBreath1",
+      "invincibleSpell": "magicBarrier1",
+      "healDragon": "revitalize1",
+      "elementalResist01": "elementalResist01"
+    },
+    "attackPower": 1019381,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "4270"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 92,
+    "upgradeXP": 101707723,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 392904379
+  },
+  {
+    "identifier": "T14C4WEdragon",
+    "level": 36,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "2095517"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 115234881,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T14C4WEdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "adaptiveBreath": "adaptiveBreath1",
+      "invincibleSpell": "magicBarrier1",
+      "healDragon": "revitalize1",
+      "elementalResist01": "elementalResist01"
+    },
+    "attackPower": 1044865,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "4291"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 93,
+    "upgradeXP": 104250412,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 398533671
+  },
+  {
+    "identifier": "T14C4WEdragon",
+    "level": 37,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "2105772"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 118115730,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T14C4WEdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "adaptiveBreath": "adaptiveBreath1",
+      "invincibleSpell": "magicBarrier1",
+      "healDragon": "revitalize1",
+      "elementalResist01": "elementalResist01"
+    },
+    "attackPower": 1070987,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "4312"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 93,
+    "upgradeXP": 106856667,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 404196581
+  },
+  {
+    "identifier": "T14C4WEdragon",
+    "level": 38,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "2116027"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 121068597,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T14C4WEdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "adaptiveBreath": "adaptiveBreath1",
+      "invincibleSpell": "magicBarrier1",
+      "healDragon": "revitalize1",
+      "elementalResist01": "elementalResist01"
+    },
+    "attackPower": 1097762,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "4333"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 94,
+    "upgradeXP": 109528080,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 409893110
+  },
+  {
+    "identifier": "T14C4WEdragon",
+    "level": 39,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "2126283"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 124095292,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T14C4WEdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "adaptiveBreath": "adaptiveBreath1",
+      "invincibleSpell": "magicBarrier1",
+      "healDragon": "revitalize1",
+      "elementalResist01": "elementalResist01"
+    },
+    "attackPower": 1125206,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "4354"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 94,
+    "upgradeXP": 227339212,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 415623258
+  },
+  {
+    "identifier": "T14C4WEdragon",
+    "level": 40,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "2136538"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 130377591,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T14C4WEdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "adaptiveBreath": "adaptiveBreath1",
+      "invincibleSpell": "magicBarrier1",
+      "healDragon": "revitalize1",
+      "elementalResist01": "elementalResist01"
+    },
+    "attackPower": 1182169,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "4396"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 95,
+    "upgradeXP": 117949750,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 427184410
+  },
+  {
+    "identifier": "T14C4WEdragon",
+    "level": 41,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "2157049"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 133637012,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T14C4WEdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "adaptiveBreath": "adaptiveBreath1",
+      "invincibleSpell": "magicBarrier1",
+      "healDragon": "revitalize1",
+      "elementalResist01": "elementalResist01"
+    },
+    "attackPower": 1211723,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "4417"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 96,
+    "upgradeXP": 120898490,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 433015414
+  },
+  {
+    "identifier": "T14C4WEdragon",
+    "level": 42,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "2167304"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 136977919,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T14C4WEdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "adaptiveBreath": "adaptiveBreath1",
+      "invincibleSpell": "magicBarrier1",
+      "healDragon": "revitalize1",
+      "elementalResist01": "elementalResist01"
+    },
+    "attackPower": 1242016,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "4438"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 96,
+    "upgradeXP": 123920950,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 438880037
+  },
+  {
+    "identifier": "T14C4WEdragon",
+    "level": 43,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "2177560"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 140402345,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T14C4WEdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "adaptiveBreath": "adaptiveBreath1",
+      "invincibleSpell": "magicBarrier1",
+      "healDragon": "revitalize1",
+      "elementalResist01": "elementalResist01"
+    },
+    "attackPower": 1273067,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "4459"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 97,
+    "upgradeXP": 127018968,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 444778279
+  },
+  {
+    "identifier": "T14C4WEdragon",
+    "level": 44,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "2187815"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 143912374,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T14C4WEdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "adaptiveBreath": "adaptiveBreath1",
+      "invincibleSpell": "magicBarrier1",
+      "healDragon": "revitalize1",
+      "elementalResist01": "elementalResist01"
+    },
+    "attackPower": 1304893,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "4480"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 97,
+    "upgradeXP": 130194437,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 450710140
+  },
+  {
+    "identifier": "T14C4WEdragon",
+    "level": 45,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "2198070"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 147510156,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T14C4WEdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "adaptiveBreath": "adaptiveBreath1",
+      "invincibleSpell": "magicBarrier1",
+      "healDragon": "revitalize1",
+      "elementalResist01": "elementalResist01"
+    },
+    "attackPower": 1337516,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "4501"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 98,
+    "upgradeXP": 133449295,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 456675619
+  },
+  {
+    "identifier": "T14C4WEdragon",
+    "level": 46,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "2208326"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 151197885,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T14C4WEdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "adaptiveBreath": "adaptiveBreath1",
+      "invincibleSpell": "magicBarrier1",
+      "healDragon": "revitalize1",
+      "elementalResist01": "elementalResist01"
+    },
+    "attackPower": 1370953,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "4522"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 98,
+    "upgradeXP": 136785522,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 462674718
+  },
+  {
+    "identifier": "T14C4WEdragon",
+    "level": 47,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "2218581"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 154977809,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T14C4WEdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "adaptiveBreath": "adaptiveBreath1",
+      "invincibleSpell": "magicBarrier1",
+      "healDragon": "revitalize1",
+      "elementalResist01": "elementalResist01"
+    },
+    "attackPower": 1405227,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "4543"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 99,
+    "upgradeXP": 140205155,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 468707435
+  },
+  {
+    "identifier": "T14C4WEdragon",
+    "level": 48,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "2228836"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 158852233,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T14C4WEdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "adaptiveBreath": "adaptiveBreath1",
+      "invincibleSpell": "magicBarrier1",
+      "healDragon": "revitalize1",
+      "elementalResist01": "elementalResist01"
+    },
+    "attackPower": 1440358,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "4564"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 99,
+    "upgradeXP": 143710283,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 474773771
+  },
+  {
+    "identifier": "T14C4WEdragon",
+    "level": 49,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "2239092"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 162823518,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T14C4WEdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "adaptiveBreath": "adaptiveBreath1",
+      "invincibleSpell": "magicBarrier1",
+      "healDragon": "revitalize1",
+      "elementalResist01": "elementalResist01"
+    },
+    "attackPower": 1476367,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "4585"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 100,
+    "upgradeXP": 147303037,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 480873726
+  },
+  {
+    "identifier": "T14C4WEdragon",
+    "level": 50,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "2249347"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 166894080,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T14C4WEdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "adaptiveBreath": "adaptiveBreath1",
+      "invincibleSpell": "magicBarrier1",
+      "healDragon": "revitalize1",
+      "elementalResist01": "elementalResist01"
+    },
+    "attackPower": 1513276,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "4606"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 100,
+    "upgradeXP": 0,
+    "xpRewardMultiplier": 1.2,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 487007300
+  }
+]

@@ -1,0 +1,1577 @@
+[
+  {
+    "identifier": "T8C4HEdragon",
+    "level": 1,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "0"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 2223207,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T6C1HEdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "borrowTime": "borrowTime1",
+      "desiccatingSand": "desiccatingSand1",
+      "crumbleToDust": "crumbleToDust1",
+      "timeShift": "timeShift1"
+    },
+    "attackPower": 126296,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1204"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 21,
+    "upgradeXP": 896206,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 1769054
+  },
+  {
+    "identifier": "T8C4HEdragon",
+    "level": 2,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "315000"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 2278769,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T6C1HEdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "borrowTime": "borrowTime1",
+      "desiccatingSand": "desiccatingSand1",
+      "crumbleToDust": "crumbleToDust1",
+      "timeShift": "timeShift1"
+    },
+    "attackPower": 129453,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1225"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 21,
+    "upgradeXP": 918609,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 1858586
+  },
+  {
+    "identifier": "T8C4HEdragon",
+    "level": 3,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "320400"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 2335722,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T6C1HEdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "borrowTime": "borrowTime1",
+      "desiccatingSand": "desiccatingSand1",
+      "crumbleToDust": "crumbleToDust1",
+      "timeShift": "timeShift1"
+    },
+    "attackPower": 132690,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1246"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 22,
+    "upgradeXP": 1069747,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 1952721
+  },
+  {
+    "identifier": "T8C4HEdragon",
+    "level": 4,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "325800"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 2394104,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T6C1HEdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "borrowTime": "borrowTime1",
+      "desiccatingSand": "desiccatingSand1",
+      "crumbleToDust": "crumbleToDust1",
+      "timeShift": "timeShift1"
+    },
+    "attackPower": 136007,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1267"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 22,
+    "upgradeXP": 1261815,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 2051559
+  },
+  {
+    "identifier": "T8C4HEdragon",
+    "level": 5,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "331200"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 2453947,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T6C1HEdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "borrowTime": "borrowTime1",
+      "desiccatingSand": "desiccatingSand1",
+      "crumbleToDust": "crumbleToDust1",
+      "timeShift": "timeShift1"
+    },
+    "attackPower": 139407,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1288"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 22,
+    "upgradeXP": 1453767,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 2155326
+  },
+  {
+    "identifier": "T8C4HEdragon",
+    "level": 6,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "336600"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 2515288,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T6C1HEdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "borrowTime": "borrowTime1",
+      "desiccatingSand": "desiccatingSand1",
+      "crumbleToDust": "crumbleToDust1",
+      "timeShift": "timeShift1"
+    },
+    "attackPower": 142892,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1309"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 23,
+    "upgradeXP": 1647196,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 2264505
+  },
+  {
+    "identifier": "T8C4HEdragon",
+    "level": 7,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "342000"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 2578166,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T6C1HEdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "borrowTime": "borrowTime1",
+      "desiccatingSand": "desiccatingSand1",
+      "crumbleToDust": "crumbleToDust1",
+      "timeShift": "timeShift1"
+    },
+    "attackPower": 146464,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1330"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 23,
+    "upgradeXP": 1688376,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 2379087
+  },
+  {
+    "identifier": "T8C4HEdragon",
+    "level": 8,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "347400"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 2642613,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T6C1HEdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "borrowTime": "borrowTime1",
+      "desiccatingSand": "desiccatingSand1",
+      "crumbleToDust": "crumbleToDust1",
+      "timeShift": "timeShift1"
+    },
+    "attackPower": 150125,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1351"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 23,
+    "upgradeXP": 1730585,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 2499571
+  },
+  {
+    "identifier": "T8C4HEdragon",
+    "level": 9,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "352800"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 2708668,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T6C1HEdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "borrowTime": "borrowTime1",
+      "desiccatingSand": "desiccatingSand1",
+      "crumbleToDust": "crumbleToDust1",
+      "timeShift": "timeShift1"
+    },
+    "attackPower": 153878,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1372"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 24,
+    "upgradeXP": 1773847,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 2626082
+  },
+  {
+    "identifier": "T8C4HEdragon",
+    "level": 10,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "358200"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 2776373,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T6C1HEdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "borrowTime": "borrowTime1",
+      "desiccatingSand": "desiccatingSand1",
+      "crumbleToDust": "crumbleToDust1",
+      "timeShift": "timeShift1"
+    },
+    "attackPower": 157725,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1393"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 24,
+    "upgradeXP": 1818191,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 2759007
+  },
+  {
+    "identifier": "T8C4HEdragon",
+    "level": 11,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "363600"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 2845767,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T6C1HEdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "borrowTime": "borrowTime1",
+      "desiccatingSand": "desiccatingSand1",
+      "crumbleToDust": "crumbleToDust1",
+      "timeShift": "timeShift1"
+    },
+    "attackPower": 161668,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1414"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 24,
+    "upgradeXP": 1863645,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 2898615
+  },
+  {
+    "identifier": "T8C4HEdragon",
+    "level": 12,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "369000"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 2916892,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T6C1HEdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "borrowTime": "borrowTime1",
+      "desiccatingSand": "desiccatingSand1",
+      "crumbleToDust": "crumbleToDust1",
+      "timeShift": "timeShift1"
+    },
+    "attackPower": 163639,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1435"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 25,
+    "upgradeXP": 1910233,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 3007297
+  },
+  {
+    "identifier": "T8C4HEdragon",
+    "level": 13,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "374400"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 2989793,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T6C1HEdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "borrowTime": "borrowTime1",
+      "desiccatingSand": "desiccatingSand1",
+      "crumbleToDust": "crumbleToDust1",
+      "timeShift": "timeShift1"
+    },
+    "attackPower": 165642,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1456"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 25,
+    "upgradeXP": 1957988,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 3120281
+  },
+  {
+    "identifier": "T8C4HEdragon",
+    "level": 14,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "379800"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 3064518,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T6C1HEdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "borrowTime": "borrowTime1",
+      "desiccatingSand": "desiccatingSand1",
+      "crumbleToDust": "crumbleToDust1",
+      "timeShift": "timeShift1"
+    },
+    "attackPower": 169783,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1477"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 25,
+    "upgradeXP": 2006937,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 3278204
+  },
+  {
+    "identifier": "T8C4HEdragon",
+    "level": 15,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "385200"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 3141115,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T6C1HEdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "borrowTime": "borrowTime1",
+      "desiccatingSand": "desiccatingSand1",
+      "crumbleToDust": "crumbleToDust1",
+      "timeShift": "timeShift1"
+    },
+    "attackPower": 174027,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1498"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 26,
+    "upgradeXP": 2057111,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 3444152
+  },
+  {
+    "identifier": "T8C4HEdragon",
+    "level": 16,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "390600"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 3219628,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T6C1HEdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "borrowTime": "borrowTime1",
+      "desiccatingSand": "desiccatingSand1",
+      "crumbleToDust": "crumbleToDust1",
+      "timeShift": "timeShift1"
+    },
+    "attackPower": 178378,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1519"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 26,
+    "upgradeXP": 2108537,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 3618428
+  },
+  {
+    "identifier": "T8C4HEdragon",
+    "level": 17,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "396000"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 3300105,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T6C1HEdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "borrowTime": "borrowTime1",
+      "desiccatingSand": "desiccatingSand1",
+      "crumbleToDust": "crumbleToDust1",
+      "timeShift": "timeShift1"
+    },
+    "attackPower": 182837,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1540"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 26,
+    "upgradeXP": 2161250,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 3801618
+  },
+  {
+    "identifier": "T8C4HEdragon",
+    "level": 18,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "401400"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 3382590,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T6C1HEdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "borrowTime": "borrowTime1",
+      "desiccatingSand": "desiccatingSand1",
+      "crumbleToDust": "crumbleToDust1",
+      "timeShift": "timeShift1"
+    },
+    "attackPower": 187408,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1561"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 27,
+    "upgradeXP": 2942339,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 3994045
+  },
+  {
+    "identifier": "T8C4HEdragon",
+    "level": 19,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "540313"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 3467142,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T6C1HEdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "borrowTime": "borrowTime1",
+      "desiccatingSand": "desiccatingSand1",
+      "crumbleToDust": "crumbleToDust1",
+      "timeShift": "timeShift1"
+    },
+    "attackPower": 192093,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1582"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 27,
+    "upgradeXP": 3015896,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 4196175
+  },
+  {
+    "identifier": "T8C4HEdragon",
+    "level": 20,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "547485"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 3553810,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T6C1HEdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "borrowTime": "borrowTime1",
+      "desiccatingSand": "desiccatingSand1",
+      "crumbleToDust": "crumbleToDust1",
+      "timeShift": "timeShift1"
+    },
+    "attackPower": 196896,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1603"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 27,
+    "upgradeXP": 3091290,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 4408635
+  },
+  {
+    "identifier": "T8C4HEdragon",
+    "level": 21,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "554657"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 3642643,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T6C1HEdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "borrowTime": "borrowTime1",
+      "desiccatingSand": "desiccatingSand1",
+      "crumbleToDust": "crumbleToDust1",
+      "timeShift": "timeShift1"
+    },
+    "attackPower": 201818,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1624"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 28,
+    "upgradeXP": 3168571,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 4631774
+  },
+  {
+    "identifier": "T8C4HEdragon",
+    "level": 22,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "561830"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 3733699,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T6C1HEdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "borrowTime": "borrowTime1",
+      "desiccatingSand": "desiccatingSand1",
+      "crumbleToDust": "crumbleToDust1",
+      "timeShift": "timeShift1"
+    },
+    "attackPower": 206863,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1645"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 28,
+    "upgradeXP": 3972320,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 4866239
+  },
+  {
+    "identifier": "T8C4HEdragon",
+    "level": 23,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "695938"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 3827029,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T6C1HEdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "borrowTime": "borrowTime1",
+      "desiccatingSand": "desiccatingSand1",
+      "crumbleToDust": "crumbleToDust1",
+      "timeShift": "timeShift1"
+    },
+    "attackPower": 212035,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1666"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 28,
+    "upgradeXP": 4071626,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 5112696
+  },
+  {
+    "identifier": "T8C4HEdragon",
+    "level": 24,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "704711"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 3922691,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T6C1HEdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "borrowTime": "borrowTime1",
+      "desiccatingSand": "desiccatingSand1",
+      "crumbleToDust": "crumbleToDust1",
+      "timeShift": "timeShift1"
+    },
+    "attackPower": 217335,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1687"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 29,
+    "upgradeXP": 4173411,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 5371377
+  },
+  {
+    "identifier": "T8C4HEdragon",
+    "level": 25,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "713483"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 4020739,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T6C1HEdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "borrowTime": "borrowTime1",
+      "desiccatingSand": "desiccatingSand1",
+      "crumbleToDust": "crumbleToDust1",
+      "timeShift": "timeShift1"
+    },
+    "attackPower": 222769,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1708"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 29,
+    "upgradeXP": 4277745,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 5643270
+  },
+  {
+    "identifier": "T8C4HEdragon",
+    "level": 26,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "722255"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 4121240,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T6C1HEdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "borrowTime": "borrowTime1",
+      "desiccatingSand": "desiccatingSand1",
+      "crumbleToDust": "crumbleToDust1",
+      "timeShift": "timeShift1"
+    },
+    "attackPower": 228338,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1729"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 29,
+    "upgradeXP": 5125964,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 5929084
+  },
+  {
+    "identifier": "T8C4HEdragon",
+    "level": 27,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "854616"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 4224251,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T6C1HEdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "borrowTime": "borrowTime1",
+      "desiccatingSand": "desiccatingSand1",
+      "crumbleToDust": "crumbleToDust1",
+      "timeShift": "timeShift1"
+    },
+    "attackPower": 234046,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1750"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 30,
+    "upgradeXP": 5254113,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 6229083
+  },
+  {
+    "identifier": "T8C4HEdragon",
+    "level": 28,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "864871"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 4329839,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T6C1HEdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "borrowTime": "borrowTime1",
+      "desiccatingSand": "desiccatingSand1",
+      "crumbleToDust": "crumbleToDust1",
+      "timeShift": "timeShift1"
+    },
+    "attackPower": 239897,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1771"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 30,
+    "upgradeXP": 5385463,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 6544464
+  },
+  {
+    "identifier": "T8C4HEdragon",
+    "level": 29,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "875126"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 4438074,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T6C1HEdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "borrowTime": "borrowTime1",
+      "desiccatingSand": "desiccatingSand1",
+      "crumbleToDust": "crumbleToDust1",
+      "timeShift": "timeShift1"
+    },
+    "attackPower": 245894,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1792"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 30,
+    "upgradeXP": 5520098,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 6875672
+  },
+  {
+    "identifier": "T8C4HEdragon",
+    "level": 30,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "885382"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 4549018,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T6C1HEdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "borrowTime": "borrowTime1",
+      "desiccatingSand": "desiccatingSand1",
+      "crumbleToDust": "crumbleToDust1",
+      "timeShift": "timeShift1"
+    },
+    "attackPower": 252041,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1813"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 31,
+    "upgradeXP": 5658095,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 7223789
+  },
+  {
+    "identifier": "T8C4HEdragon",
+    "level": 31,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "895637"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 4662738,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T6C1HEdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "borrowTime": "borrowTime1",
+      "desiccatingSand": "desiccatingSand1",
+      "crumbleToDust": "crumbleToDust1",
+      "timeShift": "timeShift1"
+    },
+    "attackPower": 258342,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1834"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 31,
+    "upgradeXP": 5799545,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 7589447
+  },
+  {
+    "identifier": "T8C4HEdragon",
+    "level": 32,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "905892"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 4779294,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T6C1HEdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "borrowTime": "borrowTime1",
+      "desiccatingSand": "desiccatingSand1",
+      "crumbleToDust": "crumbleToDust1",
+      "timeShift": "timeShift1"
+    },
+    "attackPower": 264801,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1855"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 31,
+    "upgradeXP": 5944533,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 7973770
+  },
+  {
+    "identifier": "T8C4HEdragon",
+    "level": 33,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "916148"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 4898757,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T6C1HEdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "borrowTime": "borrowTime1",
+      "desiccatingSand": "desiccatingSand1",
+      "crumbleToDust": "crumbleToDust1",
+      "timeShift": "timeShift1"
+    },
+    "attackPower": 271421,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1876"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 32,
+    "upgradeXP": 6093146,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 8377262
+  },
+  {
+    "identifier": "T8C4HEdragon",
+    "level": 34,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "926403"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 5021207,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T6C1HEdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "borrowTime": "borrowTime1",
+      "desiccatingSand": "desiccatingSand1",
+      "crumbleToDust": "crumbleToDust1",
+      "timeShift": "timeShift1"
+    },
+    "attackPower": 278206,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1897"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 32,
+    "upgradeXP": 6245471,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 8801413
+  },
+  {
+    "identifier": "T8C4HEdragon",
+    "level": 35,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "936659"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 5146721,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T6C1HEdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "borrowTime": "borrowTime1",
+      "desiccatingSand": "desiccatingSand1",
+      "crumbleToDust": "crumbleToDust1",
+      "timeShift": "timeShift1"
+    },
+    "attackPower": 285161,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1918"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 32,
+    "upgradeXP": 0,
+    "xpRewardMultiplier": 1.2,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 9246926
+  }
+]

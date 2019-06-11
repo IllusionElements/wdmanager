@@ -1,0 +1,2141 @@
+[
+  {
+    "identifier": "tenguDragon",
+    "level": 1,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "34272"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 160294,
+    "fullHealDuration": 13562,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T4C3SIdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "frenzySpell": "chaos1",
+      "northernLights": "northernLights1"
+    },
+    "attackPower": 10712,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "140"
+      }
+    ],
+    "forwardSpeed": 3.8,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 7,
+    "upgradeXP": 56974,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 13239,
+    "nextEvolveLevel": 7,
+    "tierNumber": 4,
+    "rarity": 4
+  },
+  {
+    "identifier": "tenguDragon",
+    "level": 2,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "39168"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 206230,
+    "fullHealDuration": 15840,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T4C3SIdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "frenzySpell": "chaos1",
+      "northernLights": "northernLights1"
+    },
+    "attackPower": 11836,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "160"
+      }
+    ],
+    "forwardSpeed": 3.8,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 8,
+    "upgradeXP": 95783,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 18824,
+    "nextEvolveLevel": 7,
+    "tierNumber": 4,
+    "rarity": 4
+  },
+  {
+    "identifier": "tenguDragon",
+    "level": 3,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "58526"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 220642,
+    "fullHealDuration": 15840,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T4C3SIdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "frenzySpell": "chaos1",
+      "northernLights": "northernLights1"
+    },
+    "attackPower": 12782,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "180"
+      }
+    ],
+    "forwardSpeed": 3.8,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 9,
+    "upgradeXP": 120232,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 21731,
+    "nextEvolveLevel": 7,
+    "tierNumber": 4,
+    "rarity": 4
+  },
+  {
+    "identifier": "tenguDragon",
+    "level": 4,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "79536"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 238546,
+    "fullHealDuration": 15840,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T4C3SIdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "frenzySpell": "chaos1",
+      "northernLights": "northernLights1"
+    },
+    "attackPower": 13989,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "200"
+      }
+    ],
+    "forwardSpeed": 3.8,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 9,
+    "upgradeXP": 184501,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 25740,
+    "nextEvolveLevel": 7,
+    "tierNumber": 4,
+    "rarity": 4
+  },
+  {
+    "identifier": "tenguDragon",
+    "level": 5,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "106930"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 271360,
+    "fullHealDuration": 15840,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T4C3SIdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "frenzySpell": "chaos1",
+      "northernLights": "northernLights1"
+    },
+    "attackPower": 15707,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "230"
+      }
+    ],
+    "forwardSpeed": 3.8,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 10,
+    "upgradeXP": 215866,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 32890,
+    "nextEvolveLevel": 7,
+    "tierNumber": 4,
+    "rarity": 4
+  },
+  {
+    "identifier": "tenguDragon",
+    "level": 6,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "112811"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 308561,
+    "fullHealDuration": 15840,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T4C3SIdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "frenzySpell": "chaos1",
+      "northernLights": "northernLights1"
+    },
+    "attackPower": 17911,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "260"
+      }
+    ],
+    "forwardSpeed": 3.8,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 11,
+    "upgradeXP": 252563,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 42619,
+    "nextEvolveLevel": 7,
+    "tierNumber": 4,
+    "rarity": 4
+  },
+  {
+    "identifier": "tenguDragon",
+    "level": 7,
+    "upgradeCost": [
+      {
+        "type": "winterSorcererGreenStone",
+        "amount": "1"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "have2GreenEpic",
+    "HP": 435976,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T5C3SIdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "frenzySpell": "chaos1",
+      "northernLights": "northernLights1"
+    },
+    "attackPower": 25236,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "384"
+      }
+    ],
+    "forwardSpeed": 3.8,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 13,
+    "upgradeXP": 271862,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 71859,
+    "nextEvolveLevel": 13,
+    "tierNumber": 5,
+    "rarity": 4
+  },
+  {
+    "identifier": "tenguDragon",
+    "level": 8,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "125562"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 495035,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T5C3SIdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "frenzySpell": "chaos1",
+      "northernLights": "northernLights1"
+    },
+    "attackPower": 28210,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "420"
+      }
+    ],
+    "forwardSpeed": 3.8,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 14,
+    "upgradeXP": 308628,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 91190,
+    "nextEvolveLevel": 13,
+    "tierNumber": 5,
+    "rarity": 4
+  },
+  {
+    "identifier": "tenguDragon",
+    "level": 9,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "132468"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 611340,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T5C3SIdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "frenzySpell": "chaos1",
+      "northernLights": "northernLights1"
+    },
+    "attackPower": 30825,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "456"
+      }
+    ],
+    "forwardSpeed": 3.8,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 15,
+    "upgradeXP": 465181,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 123032,
+    "nextEvolveLevel": 13,
+    "tierNumber": 5,
+    "rarity": 4
+  },
+  {
+    "identifier": "tenguDragon",
+    "level": 10,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "139753"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 657997,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T5C3SIdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "frenzySpell": "chaos1",
+      "northernLights": "northernLights1",
+      "umbralSpike": "umbralSpike1"
+    },
+    "attackPower": 33442,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "492"
+      }
+    ],
+    "forwardSpeed": 3.8,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 16,
+    "upgradeXP": 530981,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 143712,
+    "nextEvolveLevel": 13,
+    "tierNumber": 5,
+    "rarity": 4
+  },
+  {
+    "identifier": "tenguDragon",
+    "level": 11,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "147440"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 727580,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T5C3SIdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "frenzySpell": "chaos1",
+      "northernLights": "northernLights1",
+      "umbralSpike": "umbralSpike1"
+    },
+    "attackPower": 37112,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "528"
+      }
+    ],
+    "forwardSpeed": 3.8,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 17,
+    "upgradeXP": 736386,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 176280,
+    "nextEvolveLevel": 13,
+    "tierNumber": 5,
+    "rarity": 4
+  },
+  {
+    "identifier": "tenguDragon",
+    "level": 12,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "155549"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 829843,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T5C3SIdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "frenzySpell": "chaos1",
+      "northernLights": "northernLights1",
+      "umbralSpike": "umbralSpike1"
+    },
+    "attackPower": 41935,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "564"
+      }
+    ],
+    "forwardSpeed": 3.8,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 18,
+    "upgradeXP": 834699,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 227211,
+    "nextEvolveLevel": 13,
+    "tierNumber": 5,
+    "rarity": 4
+  },
+  {
+    "identifier": "tenguDragon",
+    "level": 13,
+    "upgradeCost": [
+      {
+        "type": "winterSorcererGoldStone",
+        "amount": "1"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "haveGoldLegendary",
+    "HP": 880807,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T6C3SDdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "frenzySpell": "chaos1",
+      "northernLights": "northernLights1",
+      "umbralSpike": "umbralSpike1",
+      "lightningResist01": "lightningResist01"
+    },
+    "attackPower": 44724,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "582"
+      }
+    ],
+    "forwardSpeed": 3.8,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 18,
+    "upgradeXP": 548589,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 257248,
+    "nextEvolveLevel": 21,
+    "tierNumber": 6,
+    "rarity": 4
+  },
+  {
+    "identifier": "tenguDragon",
+    "level": 14,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "173130"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 1065343,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T6C3SDdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "frenzySpell": "chaos1",
+      "northernLights": "northernLights1",
+      "umbralSpike": "umbralSpike1",
+      "lightningResist01": "lightningResist01"
+    },
+    "attackPower": 54091,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "636"
+      }
+    ],
+    "forwardSpeed": 3.8,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 18,
+    "upgradeXP": 663337,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 376319,
+    "nextEvolveLevel": 21,
+    "tierNumber": 6,
+    "rarity": 4
+  },
+  {
+    "identifier": "tenguDragon",
+    "level": 15,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "182652"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 1287497,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T6C3SDdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "frenzySpell": "chaos1",
+      "northernLights": "northernLights1",
+      "umbralSpike": "umbralSpike1",
+      "lightningResist01": "lightningResist01"
+    },
+    "attackPower": 65104,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "690"
+      }
+    ],
+    "forwardSpeed": 3.8,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 18,
+    "upgradeXP": 796983,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 547349,
+    "nextEvolveLevel": 21,
+    "tierNumber": 6,
+    "rarity": 4
+  },
+  {
+    "identifier": "tenguDragon",
+    "level": 16,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "192698"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 1515251,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T6C3SDdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "frenzySpell": "chaos1",
+      "northernLights": "northernLights1",
+      "umbralSpike": "umbralSpike1",
+      "lightningResist01": "lightningResist01"
+    },
+    "attackPower": 75736,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "744"
+      }
+    ],
+    "forwardSpeed": 3.8,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 19,
+    "upgradeXP": 852772,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 749362,
+    "nextEvolveLevel": 21,
+    "tierNumber": 6,
+    "rarity": 5
+  },
+  {
+    "identifier": "tenguDragon",
+    "level": 17,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "203296"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "have2LegendaryGold",
+    "HP": 1647800,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T6C3SDdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "frenzySpell": "chaos1",
+      "northernLights": "northernLights1",
+      "umbralSpike": "umbralSpike1",
+      "lightningResist01": "lightningResist01"
+    },
+    "attackPower": 83201,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "798"
+      }
+    ],
+    "forwardSpeed": 3.8,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 19,
+    "upgradeXP": 912466,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 895245,
+    "nextEvolveLevel": 21,
+    "tierNumber": 6,
+    "rarity": 5
+  },
+  {
+    "identifier": "tenguDragon",
+    "level": 18,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "214477"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 1774459,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T6C3SDdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "frenzySpell": "chaos1",
+      "northernLights": "northernLights1",
+      "umbralSpike": "umbralSpike1",
+      "lightningResist01": "lightningResist01"
+    },
+    "attackPower": 89598,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "852"
+      }
+    ],
+    "forwardSpeed": 3.8,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 20,
+    "upgradeXP": 976339,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 1038133,
+    "nextEvolveLevel": 21,
+    "tierNumber": 6,
+    "rarity": 5
+  },
+  {
+    "identifier": "tenguDragon",
+    "level": 19,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "226274"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 1910865,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T6C3SDdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "frenzySpell": "chaos1",
+      "northernLights": "northernLights1",
+      "umbralSpike": "umbralSpike1",
+      "lightningResist01": "lightningResist01"
+    },
+    "attackPower": 96487,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "906"
+      }
+    ],
+    "forwardSpeed": 3.8,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 21,
+    "upgradeXP": 1044683,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 1203895,
+    "nextEvolveLevel": 21,
+    "tierNumber": 6,
+    "rarity": 5
+  },
+  {
+    "identifier": "tenguDragon",
+    "level": 20,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "238719"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 2057752,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T6C3SDdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "frenzySpell": "chaos1",
+      "northernLights": "northernLights1",
+      "umbralSpike": "umbralSpike1",
+      "lightningResist01": "lightningResist01"
+    },
+    "attackPower": 103906,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "960"
+      }
+    ],
+    "forwardSpeed": 3.8,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 22,
+    "upgradeXP": 1117811,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 1396122,
+    "nextEvolveLevel": 21,
+    "tierNumber": 6,
+    "rarity": 5
+  },
+  {
+    "identifier": "tenguDragon",
+    "level": 21,
+    "upgradeCost": [
+      {
+        "type": "winterSorcererPlatinumStone",
+        "amount": "1"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "havePlatinumLegendary",
+    "HP": 2161892,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T7C3SIdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "frenzySpell": "chaos1",
+      "northernLights": "northernLights1",
+      "umbralSpike": "umbralSpike1",
+      "lightningResist01": "lightningResist01"
+    },
+    "attackPower": 109166,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "996"
+      }
+    ],
+    "forwardSpeed": 3.8,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 23,
+    "upgradeXP": 1229592,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 1541051,
+    "nextEvolveLevel": 29,
+    "tierNumber": 7,
+    "rarity": 5
+  },
+  {
+    "identifier": "tenguDragon",
+    "level": 22,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "265700"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 2328070,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T7C3SIdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "frenzySpell": "chaos1",
+      "northernLights": "northernLights1",
+      "umbralSpike": "umbralSpike1",
+      "lightningResist01": "lightningResist01"
+    },
+    "attackPower": 117559,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1050"
+      }
+    ],
+    "forwardSpeed": 3.8,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 24,
+    "upgradeXP": 1352551,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 1787102,
+    "nextEvolveLevel": 29,
+    "tierNumber": 7,
+    "rarity": 5
+  },
+  {
+    "identifier": "tenguDragon",
+    "level": 23,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "280313"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 2507037,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T7C3SIdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "frenzySpell": "chaos1",
+      "northernLights": "northernLights1",
+      "umbralSpike": "umbralSpike1",
+      "lightningResist01": "lightningResist01"
+    },
+    "attackPower": 126598,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1104"
+      }
+    ],
+    "forwardSpeed": 3.8,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 25,
+    "upgradeXP": 1487806,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 2072429,
+    "nextEvolveLevel": 29,
+    "tierNumber": 7,
+    "rarity": 5
+  },
+  {
+    "identifier": "tenguDragon",
+    "level": 24,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "295731"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 2699785,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T7C3SIdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "frenzySpell": "chaos1",
+      "northernLights": "northernLights1",
+      "umbralSpike": "umbralSpike1",
+      "lightningResist01": "lightningResist01"
+    },
+    "attackPower": 136332,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1158"
+      }
+    ],
+    "forwardSpeed": 3.8,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 26,
+    "upgradeXP": 1636587,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 2403434,
+    "nextEvolveLevel": 29,
+    "tierNumber": 7,
+    "rarity": 5
+  },
+  {
+    "identifier": "tenguDragon",
+    "level": 25,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "311996"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 2907334,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T7C3SIdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "frenzySpell": "chaos1",
+      "northernLights": "northernLights1",
+      "umbralSpike": "umbralSpike1",
+      "lightningResist01": "lightningResist01"
+    },
+    "attackPower": 146814,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1212"
+      }
+    ],
+    "forwardSpeed": 3.8,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 26,
+    "upgradeXP": 1800246,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 2787130,
+    "nextEvolveLevel": 29,
+    "tierNumber": 7,
+    "rarity": 5
+  },
+  {
+    "identifier": "tenguDragon",
+    "level": 26,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "329156"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "have2LegendaryPlatinum",
+    "HP": 3130818,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T7C3SIdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "frenzySpell": "chaos1",
+      "northernLights": "northernLights1",
+      "umbralSpike": "umbralSpike1",
+      "lightningResist01": "lightningResist01"
+    },
+    "attackPower": 154183,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1266"
+      }
+    ],
+    "forwardSpeed": 3.8,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 26,
+    "upgradeXP": 1980271,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 3152119,
+    "nextEvolveLevel": 29,
+    "tierNumber": 7,
+    "rarity": 5
+  },
+  {
+    "identifier": "tenguDragon",
+    "level": 27,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "347259"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 3273572,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T7C3SIdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "frenzySpell": "chaos1",
+      "northernLights": "northernLights1",
+      "umbralSpike": "umbralSpike1",
+      "lightningResist01": "lightningResist01"
+    },
+    "attackPower": 161214,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1284"
+      }
+    ],
+    "forwardSpeed": 3.8,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 26,
+    "upgradeXP": 2178298,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 3446151,
+    "nextEvolveLevel": 29,
+    "tierNumber": 7,
+    "rarity": 5
+  },
+  {
+    "identifier": "tenguDragon",
+    "level": 28,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "366358"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 3372763,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T7C3SIdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "frenzySpell": "chaos1",
+      "northernLights": "northernLights1",
+      "umbralSpike": "umbralSpike1",
+      "lightningResist01": "lightningResist01"
+    },
+    "attackPower": 166098,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1284"
+      }
+    ],
+    "forwardSpeed": 3.8,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 26,
+    "upgradeXP": 2396128,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 3658157,
+    "nextEvolveLevel": 29,
+    "tierNumber": 7,
+    "rarity": 5
+  },
+  {
+    "identifier": "tenguDragon",
+    "level": 29,
+    "upgradeCost": [
+      {
+        "type": "winterSorcererSapphireStone",
+        "amount": "1"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "haveLegendarySapphire",
+    "HP": 3455771,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T8C3SIdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "frenzySpell": "chaos1",
+      "northernLights": "northernLights1",
+      "umbralSpike": "umbralSpike1",
+      "lightningResist01": "lightningResist01"
+    },
+    "attackPower": 170189,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1338"
+      }
+    ],
+    "forwardSpeed": 3.8,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 27,
+    "upgradeXP": 2635741,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 3840428,
+    "nextEvolveLevel": 36,
+    "tierNumber": 8,
+    "rarity": 5
+  },
+  {
+    "identifier": "tenguDragon",
+    "level": 30,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "407766"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 3630695,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T8C3SIdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "frenzySpell": "chaos1",
+      "northernLights": "northernLights1",
+      "umbralSpike": "umbralSpike1",
+      "lightningResist01": "lightningResist01"
+    },
+    "attackPower": 178805,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1374"
+      }
+    ],
+    "forwardSpeed": 3.8,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 27,
+    "upgradeXP": 2899315,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 4239073,
+    "nextEvolveLevel": 36,
+    "tierNumber": 8,
+    "rarity": 5
+  },
+  {
+    "identifier": "tenguDragon",
+    "level": 31,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "430193"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 3814476,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T8C3SIdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "frenzySpell": "chaos1",
+      "northernLights": "northernLights1",
+      "umbralSpike": "umbralSpike1",
+      "lightningResist01": "lightningResist01"
+    },
+    "attackPower": 187857,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1410"
+      }
+    ],
+    "forwardSpeed": 3.8,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 28,
+    "upgradeXP": 3189247,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 4679076,
+    "nextEvolveLevel": 36,
+    "tierNumber": 8,
+    "rarity": 5
+  },
+  {
+    "identifier": "tenguDragon",
+    "level": 32,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "453854"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 4007557,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T8C3SIdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "frenzySpell": "chaos1",
+      "northernLights": "northernLights1",
+      "umbralSpike": "umbralSpike1",
+      "lightningResist01": "lightningResist01"
+    },
+    "attackPower": 197367,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1446"
+      }
+    ],
+    "forwardSpeed": 3.8,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 29,
+    "upgradeXP": 3508172,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 5164786,
+    "nextEvolveLevel": 36,
+    "tierNumber": 8,
+    "rarity": 5
+  },
+  {
+    "identifier": "tenguDragon",
+    "level": 33,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "478816"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "have2LegendarySapphire",
+    "HP": 4210401,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T8C3SIdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "frenzySpell": "chaos1",
+      "northernLights": "northernLights1",
+      "umbralSpike": "umbralSpike1",
+      "lightningResist01": "lightningResist01"
+    },
+    "attackPower": 207358,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1482"
+      }
+    ],
+    "forwardSpeed": 3.8,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 29,
+    "upgradeXP": 3858989,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 5701042,
+    "nextEvolveLevel": 36,
+    "tierNumber": 8,
+    "rarity": 5
+  },
+  {
+    "identifier": "tenguDragon",
+    "level": 34,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "505151"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 4423514,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T8C3SIdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "frenzySpell": "chaos1",
+      "northernLights": "northernLights1",
+      "umbralSpike": "umbralSpike1",
+      "lightningResist01": "lightningResist01"
+    },
+    "attackPower": 217855,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1518"
+      }
+    ],
+    "forwardSpeed": 3.8,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 30,
+    "upgradeXP": 4244888,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 6292754,
+    "nextEvolveLevel": 36,
+    "tierNumber": 8,
+    "rarity": 5
+  },
+  {
+    "identifier": "tenguDragon",
+    "level": 35,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "532934"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 4647435,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T8C3SIdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "frenzySpell": "chaos1",
+      "northernLights": "northernLights1",
+      "umbralSpike": "umbralSpike1",
+      "lightningResist01": "lightningResist01"
+    },
+    "attackPower": 228884,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1554"
+      }
+    ],
+    "forwardSpeed": 3.8,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 31,
+    "upgradeXP": 4478357,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 6945951,
+    "nextEvolveLevel": 36,
+    "tierNumber": 8,
+    "rarity": 5
+  },
+  {
+    "identifier": "tenguDragon",
+    "level": 36,
+    "upgradeCost": [
+      {
+        "type": "winterSorcererGarnetStone",
+        "amount": "1"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "haveLegendaryGarnet",
+    "HP": 5004740,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T8C3SIdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "frenzySpell": "chaos1",
+      "northernLights": "northernLights1",
+      "umbralSpike": "umbralSpike1",
+      "lightningResist01": "lightningResist01"
+    },
+    "attackPower": 246482,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1572"
+      }
+    ],
+    "forwardSpeed": 3.8,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 31,
+    "upgradeXP": 4724667,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 8055060,
+    "nextEvolveLevel": 0,
+    "tierNumber": 9,
+    "rarity": 5
+  },
+  {
+    "identifier": "tenguDragon",
+    "level": 37,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "593169"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 5129839,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T8C3SIdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "frenzySpell": "chaos1",
+      "northernLights": "northernLights1",
+      "umbralSpike": "umbralSpike1",
+      "lightningResist01": "lightningResist01"
+    },
+    "attackPower": 252644,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1590"
+      }
+    ],
+    "forwardSpeed": 3.8,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 31,
+    "upgradeXP": 4984524,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 8462897,
+    "nextEvolveLevel": 0,
+    "tierNumber": 9,
+    "rarity": 5
+  },
+  {
+    "identifier": "tenguDragon",
+    "level": 38,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "625793"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 5389503,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T8C3SIdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "frenzySpell": "chaos1",
+      "northernLights": "northernLights1",
+      "umbralSpike": "umbralSpike1",
+      "lightningResist01": "lightningResist01"
+    },
+    "attackPower": 265434,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1626"
+      }
+    ],
+    "forwardSpeed": 3.8,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 32,
+    "upgradeXP": 5258673,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 9341358,
+    "nextEvolveLevel": 0,
+    "tierNumber": 9,
+    "rarity": 5
+  },
+  {
+    "identifier": "tenguDragon",
+    "level": 39,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "660212"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 5662314,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T8C3SIdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "frenzySpell": "chaos1",
+      "northernLights": "northernLights1",
+      "umbralSpike": "umbralSpike1",
+      "lightningResist01": "lightningResist01"
+    },
+    "attackPower": 278872,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1662"
+      }
+    ],
+    "forwardSpeed": 3.8,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 33,
+    "upgradeXP": 5547900,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 10311113,
+    "nextEvolveLevel": 0,
+    "tierNumber": 9,
+    "rarity": 5
+  },
+  {
+    "identifier": "tenguDragon",
+    "level": 40,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "696523"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 5948935,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T8C3SIdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "frenzySpell": "chaos1",
+      "northernLights": "northernLights1",
+      "umbralSpike": "umbralSpike1",
+      "lightningResist01": "lightningResist01"
+    },
+    "attackPower": 292989,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1698"
+      }
+    ],
+    "forwardSpeed": 3.8,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 33,
+    "upgradeXP": 5853035,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 11381334,
+    "nextEvolveLevel": 0,
+    "tierNumber": 9,
+    "rarity": 5
+  },
+  {
+    "identifier": "tenguDragon",
+    "level": 41,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "734832"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "have2LegendaryGarnet",
+    "HP": 6250060,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T8C3SIdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "frenzySpell": "chaos1",
+      "northernLights": "northernLights1",
+      "umbralSpike": "umbralSpike1",
+      "lightningResist01": "lightningResist01"
+    },
+    "attackPower": 307822,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1734"
+      }
+    ],
+    "forwardSpeed": 3.8,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 34,
+    "upgradeXP": 6174952,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 12562910,
+    "nextEvolveLevel": 0,
+    "tierNumber": 9,
+    "rarity": 5
+  },
+  {
+    "identifier": "tenguDragon",
+    "level": 42,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "775248"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 6566443,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T8C3SIdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "frenzySpell": "chaos1",
+      "northernLights": "northernLights1",
+      "umbralSpike": "umbralSpike1",
+      "lightningResist01": "lightningResist01"
+    },
+    "attackPower": 323405,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1770"
+      }
+    ],
+    "forwardSpeed": 3.8,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 35,
+    "upgradeXP": 6514574,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 13867018,
+    "nextEvolveLevel": 0,
+    "tierNumber": 9,
+    "rarity": 5
+  },
+  {
+    "identifier": "tenguDragon",
+    "level": 43,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "817886"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 6898826,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T8C3SIdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "frenzySpell": "chaos1",
+      "northernLights": "northernLights1",
+      "umbralSpike": "umbralSpike1",
+      "lightningResist01": "lightningResist01"
+    },
+    "attackPower": 339777,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1806"
+      }
+    ],
+    "forwardSpeed": 3.8,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 35,
+    "upgradeXP": 6872876,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 15306491,
+    "nextEvolveLevel": 0,
+    "tierNumber": 9,
+    "rarity": 5
+  },
+  {
+    "identifier": "tenguDragon",
+    "level": 44,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "862870"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 7248040,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T8C3SIdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "frenzySpell": "chaos1",
+      "northernLights": "northernLights1",
+      "umbralSpike": "umbralSpike1",
+      "lightningResist01": "lightningResist01"
+    },
+    "attackPower": 356978,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1842"
+      }
+    ],
+    "forwardSpeed": 3.8,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 36,
+    "upgradeXP": 7250884,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 16895385,
+    "nextEvolveLevel": 0,
+    "tierNumber": 9,
+    "rarity": 5
+  },
+  {
+    "identifier": "tenguDragon",
+    "level": 45,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "910328"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 7614944,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T8C3SIdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "frenzySpell": "chaos1",
+      "northernLights": "northernLights1",
+      "umbralSpike": "umbralSpike1",
+      "lightningResist01": "lightningResist01"
+    },
+    "attackPower": 375049,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1878"
+      }
+    ],
+    "forwardSpeed": 3.8,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 37,
+    "upgradeXP": 0,
+    "xpRewardMultiplier": 1.2,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 18649207,
+    "nextEvolveLevel": 0,
+    "tierNumber": 9,
+    "rarity": 5
+  }
+]

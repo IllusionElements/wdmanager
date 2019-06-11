@@ -1,0 +1,868 @@
+[
+  {
+    "identifier": "T5C2SUdragon",
+    "level": 1,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "0"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 131111,
+    "fullHealDuration": 10086,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T5C2SUdragon_lockon"
+      }
+    ],
+    "abilities": {},
+    "attackPower": 8825,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "122"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 6,
+    "upgradeXP": 24785,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 3430
+  },
+  {
+    "identifier": "T5C2SUdragon",
+    "level": 2,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "24970"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 139462,
+    "fullHealDuration": 11120,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T5C2SUdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "invertSpell": "invert1"
+    },
+    "attackPower": 9449,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "128"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 7,
+    "upgradeXP": 27905,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 5859
+  },
+  {
+    "identifier": "T5C2SUdragon",
+    "level": 3,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "26194"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 149533,
+    "fullHealDuration": 12315,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T5C2SUdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "invertSpell": "invert1"
+    },
+    "attackPower": 10098,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "134"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 7,
+    "upgradeXP": 35685,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 6716
+  },
+  {
+    "identifier": "T5C2SUdragon",
+    "level": 4,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "34272"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 160294,
+    "fullHealDuration": 13562,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T5C2SUdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "invertSpell": "invert1"
+    },
+    "attackPower": 10712,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "140"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 7,
+    "upgradeXP": 45854,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 7638
+  },
+  {
+    "identifier": "T5C2SUdragon",
+    "level": 5,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "36720"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 170458,
+    "fullHealDuration": 14786,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T5C2SUdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "invertSpell": "invert1",
+      "shortCircuit": "shortCircuit1"
+    },
+    "attackPower": 11304,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "150"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 8,
+    "upgradeXP": 57993,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 11427
+  },
+  {
+    "identifier": "T5C2SUdragon",
+    "level": 6,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "39168"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 206230,
+    "fullHealDuration": 15840,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T5C2SUdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "invertSpell": "invert1",
+      "shortCircuit": "shortCircuit1"
+    },
+    "attackPower": 11836,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "160"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 8,
+    "upgradeXP": 72115,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 14480
+  },
+  {
+    "identifier": "T5C2SUdragon",
+    "level": 7,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "41616"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 214035,
+    "fullHealDuration": 15840,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T5C2SUdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "invertSpell": "invert1",
+      "shortCircuit": "shortCircuit1"
+    },
+    "attackPower": 12324,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "170"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 8,
+    "upgradeXP": 80498,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 15662
+  },
+  {
+    "identifier": "T5C2SUdragon",
+    "level": 8,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "44064"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 220642,
+    "fullHealDuration": 15840,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T5C2SUdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "invertSpell": "invert1",
+      "shortCircuit": "shortCircuit1"
+    },
+    "attackPower": 12782,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "180"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 9,
+    "upgradeXP": 90522,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 16716
+  },
+  {
+    "identifier": "T5C2SUdragon",
+    "level": 9,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "46512"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 229345,
+    "fullHealDuration": 15840,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T5C2SUdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "invertSpell": "invert1",
+      "shortCircuit": "shortCircuit1",
+      "ballistaResist01": "ballistaResist01"
+    },
+    "attackPower": 13328,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "190"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 9,
+    "upgradeXP": 101772,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 23590
+  },
+  {
+    "identifier": "T5C2SUdragon",
+    "level": 10,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "48960"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 238546,
+    "fullHealDuration": 15840,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T5C2SUdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "invertSpell": "invert1",
+      "shortCircuit": "shortCircuit1",
+      "ballistaResist01": "ballistaResist01"
+    },
+    "attackPower": 13989,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "200"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 9,
+    "upgradeXP": 113573,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 25740
+  },
+  {
+    "identifier": "T5C2SUdragon",
+    "level": 11,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "52632"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 253520,
+    "fullHealDuration": 15840,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T5C2SUdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "invertSpell": "invert1",
+      "shortCircuit": "shortCircuit1",
+      "ballistaResist01": "ballistaResist01"
+    },
+    "attackPower": 14793,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "215"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 10,
+    "upgradeXP": 127648,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 28958
+  },
+  {
+    "identifier": "T5C2SUdragon",
+    "level": 12,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "56304"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 271360,
+    "fullHealDuration": 15840,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T5C2SUdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "invertSpell": "invert1",
+      "shortCircuit": "shortCircuit1",
+      "ballistaResist01": "ballistaResist01"
+    },
+    "attackPower": 15707,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "230"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 10,
+    "upgradeXP": 190515,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 32890
+  },
+  {
+    "identifier": "T5C2SUdragon",
+    "level": 13,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "79661"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 290401,
+    "fullHealDuration": 15840,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T5C2SUdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "invertSpell": "invert1",
+      "shortCircuit": "shortCircuit1",
+      "ballistaResist01": "ballistaResist01"
+    },
+    "attackPower": 16763,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "245"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 11,
+    "upgradeXP": 212550,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 37577
+  },
+  {
+    "identifier": "T5C2SUdragon",
+    "level": 14,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "84538"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 308561,
+    "fullHealDuration": 15840,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T5C2SUdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "invertSpell": "invert1",
+      "shortCircuit": "shortCircuit1",
+      "ballistaResist01": "ballistaResist01"
+    },
+    "attackPower": 17911,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "260"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 11,
+    "upgradeXP": 227400,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 42619
+  },
+  {
+    "identifier": "T5C2SUdragon",
+    "level": 15,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "89415"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 330115,
+    "fullHealDuration": 15840,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T5C2SUdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "invertSpell": "invert1",
+      "shortCircuit": "shortCircuit1",
+      "ballistaResist01": "ballistaResist01"
+    },
+    "attackPower": 19108,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "275"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 12,
+    "upgradeXP": 297507,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 48667
+  },
+  {
+    "identifier": "T5C2SUdragon",
+    "level": 16,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "115327"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 353104,
+    "fullHealDuration": 15840,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T5C2SUdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "invertSpell": "invert1",
+      "shortCircuit": "shortCircuit1",
+      "ballistaResist01": "ballistaResist01"
+    },
+    "attackPower": 20384,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "290"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 12,
+    "upgradeXP": 316037,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 55510
+  },
+  {
+    "identifier": "T5C2SUdragon",
+    "level": 17,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "121293"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 375088,
+    "fullHealDuration": 15840,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T5C2SUdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "invertSpell": "invert1",
+      "shortCircuit": "shortCircuit1",
+      "ballistaResist01": "ballistaResist01"
+    },
+    "attackPower": 21771,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "305"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 13,
+    "upgradeXP": 395098,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 62985
+  },
+  {
+    "identifier": "T5C2SUdragon",
+    "level": 18,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "148772"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 401098,
+    "fullHealDuration": 15840,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T5C2SUdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "invertSpell": "invert1",
+      "shortCircuit": "shortCircuit1",
+      "ballistaResist01": "ballistaResist01"
+    },
+    "attackPower": 23217,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "320"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 13,
+    "upgradeXP": 422432,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 71859
+  },
+  {
+    "identifier": "T5C2SUdragon",
+    "level": 19,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "155746"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 428832,
+    "fullHealDuration": 15840,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T5C2SUdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "invertSpell": "invert1",
+      "shortCircuit": "shortCircuit1",
+      "ballistaResist01": "ballistaResist01"
+    },
+    "attackPower": 24603,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "335"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 14,
+    "upgradeXP": 448645,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 81371
+  },
+  {
+    "identifier": "T5C2SUdragon",
+    "level": 20,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "162719"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 455433,
+    "fullHealDuration": 15840,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T5C2SUdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "invertSpell": "invert1",
+      "shortCircuit": "shortCircuit1",
+      "ballistaResist01": "ballistaResist01"
+    },
+    "attackPower": 25953,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "350"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 14,
+    "upgradeXP": 0,
+    "xpRewardMultiplier": 1.2,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 91190
+  }
+]

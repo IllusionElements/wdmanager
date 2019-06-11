@@ -1,0 +1,442 @@
+[
+  {
+    "identifier": "T3GGHEdragon",
+    "level": 1,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "0"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 107227,
+    "fullHealDuration": 8210,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T3GGHEdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "instantKill": "instant1",
+      "cloak": "cloak1",
+      "cannonResist01": "cannonResist01"
+    },
+    "attackPower": 8173,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "109"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 6,
+    "upgradeXP": 19701,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 6778
+  },
+  {
+    "identifier": "T3GGHEdragon",
+    "level": 2,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "19707"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 115043,
+    "fullHealDuration": 9101,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T3GGHEdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "instantKill": "instant1",
+      "cloak": "cloak1",
+      "cannonResist01": "cannonResist01"
+    },
+    "attackPower": 8739,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "115"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 6,
+    "upgradeXP": 22190,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 7779
+  },
+  {
+    "identifier": "T3GGHEdragon",
+    "level": 3,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "23746"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 123398,
+    "fullHealDuration": 10086,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T3GGHEdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "instantKill": "instant1",
+      "cloak": "cloak1",
+      "cannonResist01": "cannonResist01"
+    },
+    "attackPower": 9344,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "122"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 6,
+    "upgradeXP": 28159,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 8918
+  },
+  {
+    "identifier": "T3GGHEdragon",
+    "level": 4,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "24970"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 131259,
+    "fullHealDuration": 11120,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T3GGHEdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "instantKill": "instant1",
+      "cloak": "cloak1",
+      "cannonResist01": "cannonResist01"
+    },
+    "attackPower": 10005,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "128"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 7,
+    "upgradeXP": 36484,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 10156
+  },
+  {
+    "identifier": "T3GGHEdragon",
+    "level": 5,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "26194"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 140737,
+    "fullHealDuration": 12315,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T3GGHEdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "instantKill": "instant1",
+      "cloak": "cloak1",
+      "cannonResist01": "cannonResist01"
+    },
+    "attackPower": 10692,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "134"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 7,
+    "upgradeXP": 46159,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 11640
+  },
+  {
+    "identifier": "T3GGHEdragon",
+    "level": 6,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "34272"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 150865,
+    "fullHealDuration": 13562,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T3GGHEdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "instantKill": "instant1",
+      "cloak": "cloak1",
+      "cannonResist01": "cannonResist01"
+    },
+    "attackPower": 11342,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "140"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 7,
+    "upgradeXP": 56974,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 13239
+  },
+  {
+    "identifier": "T3GGHEdragon",
+    "level": 7,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "36720"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 160431,
+    "fullHealDuration": 14786,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T3GGHEdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "instantKill": "instant1",
+      "cloak": "cloak1",
+      "cannonResist01": "cannonResist01"
+    },
+    "attackPower": 11969,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "150"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 8,
+    "upgradeXP": 64107,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 14855
+  },
+  {
+    "identifier": "T3GGHEdragon",
+    "level": 8,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "39168"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 194099,
+    "fullHealDuration": 15840,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T3GGHEdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "instantKill": "instant1",
+      "cloak": "cloak1",
+      "cannonResist01": "cannonResist01"
+    },
+    "attackPower": 12532,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "160"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 8,
+    "upgradeXP": 72115,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 18824
+  },
+  {
+    "identifier": "T3GGHEdragon",
+    "level": 9,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "41616"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 201445,
+    "fullHealDuration": 15840,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T3GGHEdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "instantKill": "instant1",
+      "cloak": "cloak1",
+      "cannonResist01": "cannonResist01"
+    },
+    "attackPower": 13049,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "170"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 8,
+    "upgradeXP": 80498,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 20361
+  },
+  {
+    "identifier": "T3GGHEdragon",
+    "level": 10,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "44064"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 207663,
+    "fullHealDuration": 15840,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T3GGHEdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "instantKill": "instant1",
+      "cloak": "cloak1",
+      "cannonResist01": "cannonResist01"
+    },
+    "attackPower": 13534,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "180"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 9,
+    "upgradeXP": 0,
+    "xpRewardMultiplier": 1.2,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 21731
+  }
+]

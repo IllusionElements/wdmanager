@@ -1,0 +1,2875 @@
+[
+  {
+    "identifier": "E18Q4SorcererDragon",
+    "level": 1,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "0"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 185281,
+    "fullHealDuration": 16130,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "E18Q4SorcererDragon_lockon"
+      }
+    ],
+    "abilities": {
+      "seekerShots": "spearSalvo1",
+      "freezeSpell": "staticBlast1"
+    },
+    "attackPower": 12287,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "180"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 8,
+    "upgradeXP": 48231,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 14855,
+    "nextEvolveLevel": 3,
+    "tierNumber": 4,
+    "rarity": 5
+  },
+  {
+    "identifier": "E18Q4SorcererDragon",
+    "level": 2,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "50688"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 407705,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "E18Q4SorcererDragon_lockon"
+      }
+    ],
+    "abilities": {
+      "seekerShots": "spearSalvo1",
+      "freezeSpell": "staticBlast1"
+    },
+    "attackPower": 23665,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "366"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 13,
+    "upgradeXP": 156522,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 62985,
+    "nextEvolveLevel": 3,
+    "tierNumber": 4,
+    "rarity": 5
+  },
+  {
+    "identifier": "E18Q4SorcererDragon",
+    "level": 3,
+    "upgradeCost": [
+      {
+        "type": "E18Q4SorcererDragonGreenStone",
+        "amount": "1"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "have2GreenEpic",
+    "HP": 466122,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "E18Q4SorcererDragon_lockon"
+      }
+    ],
+    "abilities": {
+      "seekerShots": "spearSalvo1",
+      "freezeSpell": "staticBlast1",
+      "shadowApophet": "spiritualGuardian1"
+    },
+    "attackPower": 26743,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "402"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 14,
+    "upgradeXP": 201930,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 81371,
+    "nextEvolveLevel": 5,
+    "tierNumber": 5,
+    "rarity": 5
+  },
+  {
+    "identifier": "E18Q4SorcererDragon",
+    "level": 4,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "110880"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 880807,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "E18Q4SorcererDragon_lockon"
+      }
+    ],
+    "abilities": {
+      "seekerShots": "spearSalvo1",
+      "freezeSpell": "staticBlast1",
+      "shadowApophet": "spiritualGuardian1"
+    },
+    "attackPower": 44724,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "582"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 18,
+    "upgradeXP": 441514,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 257248,
+    "nextEvolveLevel": 5,
+    "tierNumber": 5,
+    "rarity": 5
+  },
+  {
+    "identifier": "E18Q4SorcererDragon",
+    "level": 5,
+    "upgradeCost": [
+      {
+        "type": "E18Q4SorcererDragonGoldStone",
+        "amount": "1"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "haveGoldLegendary",
+    "HP": 1003878,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "E18Q4SorcererDragon_lockon"
+      }
+    ],
+    "abilities": {
+      "seekerShots": "spearSalvo1",
+      "freezeSpell": "staticBlast1",
+      "shadowApophet": "spiritualGuardian1"
+    },
+    "attackPower": 50734,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "618"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 18,
+    "upgradeXP": 562232,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 332592,
+    "nextEvolveLevel": 9,
+    "tierNumber": 6,
+    "rarity": 5
+  },
+  {
+    "identifier": "E18Q4SorcererDragon",
+    "level": 6,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "167904"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 1366074,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "E18Q4SorcererDragon_lockon"
+      }
+    ],
+    "abilities": {
+      "seekerShots": "spearSalvo1",
+      "freezeSpell": "staticBlast1",
+      "shadowApophet": "spiritualGuardian1",
+      "darkFlakResist01": "darkFlakResist01"
+    },
+    "attackPower": 68921,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "708"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 18,
+    "upgradeXP": 821470,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 614796,
+    "nextEvolveLevel": 9,
+    "tierNumber": 6,
+    "rarity": 5
+  },
+  {
+    "identifier": "E18Q4SorcererDragon",
+    "level": 7,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "191664"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "have2LegendaryGold",
+    "HP": 1774459,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "E18Q4SorcererDragon_lockon"
+      }
+    ],
+    "abilities": {
+      "seekerShots": "spearSalvo1",
+      "freezeSpell": "staticBlast1",
+      "shadowApophet": "spiritualGuardian1",
+      "darkFlakResist01": "darkFlakResist01"
+    },
+    "attackPower": 89598,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "852"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 18,
+    "upgradeXP": 1000866,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 1038133,
+    "nextEvolveLevel": 9,
+    "tierNumber": 6,
+    "rarity": 5
+  },
+  {
+    "identifier": "E18Q4SorcererDragon",
+    "level": 8,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "229680"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 2161892,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "E18Q4SorcererDragon_lockon"
+      }
+    ],
+    "abilities": {
+      "seekerShots": "spearSalvo1",
+      "freezeSpell": "staticBlast1",
+      "shadowApophet": "spiritualGuardian1",
+      "darkFlakResist01": "darkFlakResist01"
+    },
+    "attackPower": 109166,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "996"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 20,
+    "upgradeXP": 1219450,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 1541051,
+    "nextEvolveLevel": 9,
+    "tierNumber": 6,
+    "rarity": 5
+  },
+  {
+    "identifier": "E18Q4SorcererDragon",
+    "level": 9,
+    "upgradeCost": [
+      {
+        "type": "E18Q4SorcererDragonPlatinumStone",
+        "amount": "1"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "havePlatinumLegendary",
+    "HP": 2271306,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "E18Q4SorcererDragon_lockon"
+      }
+    ],
+    "abilities": {
+      "seekerShots": "spearSalvo1",
+      "freezeSpell": "staticBlast1",
+      "shadowApophet": "spiritualGuardian1",
+      "darkFlakResist01": "darkFlakResist01"
+    },
+    "attackPower": 114692,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1032"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 21,
+    "upgradeXP": 1281184,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 1701014,
+    "nextEvolveLevel": 15,
+    "tierNumber": 7,
+    "rarity": 5
+  },
+  {
+    "identifier": "E18Q4SorcererDragon",
+    "level": 10,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "277200"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 2507037,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "E18Q4SorcererDragon_lockon"
+      }
+    ],
+    "abilities": {
+      "seekerShots": "spearSalvo1",
+      "freezeSpell": "staticBlast1",
+      "shadowApophet": "spiritualGuardian1",
+      "darkFlakResist01": "darkFlakResist01"
+    },
+    "attackPower": 126598,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1104"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 22,
+    "upgradeXP": 1414179,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 2072429,
+    "nextEvolveLevel": 15,
+    "tierNumber": 7,
+    "rarity": 5
+  },
+  {
+    "identifier": "E18Q4SorcererDragon",
+    "level": 11,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "296208"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 2767269,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "E18Q4SorcererDragon_lockon"
+      }
+    ],
+    "abilities": {
+      "seekerShots": "spearSalvo1",
+      "freezeSpell": "staticBlast1",
+      "shadowApophet": "spiritualGuardian1",
+      "darkFlakResist01": "darkFlakResist01"
+    },
+    "attackPower": 139740,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1176"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 24,
+    "upgradeXP": 1560985,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 2525078,
+    "nextEvolveLevel": 15,
+    "tierNumber": 7,
+    "rarity": 5
+  },
+  {
+    "identifier": "E18Q4SorcererDragon",
+    "level": 12,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "315216"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 3054476,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "E18Q4SorcererDragon_lockon"
+      }
+    ],
+    "abilities": {
+      "seekerShots": "spearSalvo1",
+      "freezeSpell": "staticBlast1",
+      "shadowApophet": "spiritualGuardian1",
+      "darkFlakResist01": "darkFlakResist01"
+    },
+    "attackPower": 150423,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1248"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 25,
+    "upgradeXP": 1723030,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 3000270,
+    "nextEvolveLevel": 15,
+    "tierNumber": 7,
+    "rarity": 5
+  },
+  {
+    "identifier": "E18Q4SorcererDragon",
+    "level": 13,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "334224"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "have2LegendaryPlatinum",
+    "HP": 3289283,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "E18Q4SorcererDragon_lockon"
+      }
+    ],
+    "abilities": {
+      "seekerShots": "spearSalvo1",
+      "freezeSpell": "staticBlast1",
+      "shadowApophet": "spiritualGuardian1",
+      "darkFlakResist01": "darkFlakResist01"
+    },
+    "attackPower": 161989,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1302"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 26,
+    "upgradeXP": 1855513,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 3479258,
+    "nextEvolveLevel": 15,
+    "tierNumber": 7,
+    "rarity": 5
+  },
+  {
+    "identifier": "E18Q4SorcererDragon",
+    "level": 14,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "348480"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 3542153,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "E18Q4SorcererDragon_lockon"
+      }
+    ],
+    "abilities": {
+      "seekerShots": "spearSalvo1",
+      "freezeSpell": "staticBlast1",
+      "shadowApophet": "spiritualGuardian1",
+      "darkFlakResist01": "darkFlakResist01"
+    },
+    "attackPower": 174444,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1356"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 27,
+    "upgradeXP": 1998183,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 4034784,
+    "nextEvolveLevel": 15,
+    "tierNumber": 7,
+    "rarity": 5
+  },
+  {
+    "identifier": "E18Q4SorcererDragon",
+    "level": 15,
+    "upgradeCost": [
+      {
+        "type": "E18Q4SorcererDragonSapphireStone",
+        "amount": "1"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "haveLegendarySapphire",
+    "HP": 3630695,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "E18Q4SorcererDragon_lockon"
+      }
+    ],
+    "abilities": {
+      "seekerShots": "spearSalvo1",
+      "freezeSpell": "staticBlast1",
+      "shadowApophet": "spiritualGuardian1",
+      "darkFlakResist01": "darkFlakResist01"
+    },
+    "attackPower": 178805,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1374"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 27,
+    "upgradeXP": 2048135,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 4239073,
+    "nextEvolveLevel": 19,
+    "tierNumber": 8,
+    "rarity": 5
+  },
+  {
+    "identifier": "E18Q4SorcererDragon",
+    "level": 16,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "367488"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 4007557,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "E18Q4SorcererDragon_lockon"
+      }
+    ],
+    "abilities": {
+      "seekerShots": "spearSalvo1",
+      "freezeSpell": "staticBlast1",
+      "shadowApophet": "spiritualGuardian1",
+      "darkFlakResist01": "darkFlakResist01"
+    },
+    "attackPower": 197367,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1446"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 29,
+    "upgradeXP": 2260751,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 5164786,
+    "nextEvolveLevel": 19,
+    "tierNumber": 8,
+    "rarity": 5
+  },
+  {
+    "identifier": "E18Q4SorcererDragon",
+    "level": 17,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "386496"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "have2LegendarySapphire",
+    "HP": 4423514,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "E18Q4SorcererDragon_lockon"
+      }
+    ],
+    "abilities": {
+      "seekerShots": "spearSalvo1",
+      "freezeSpell": "staticBlast1",
+      "shadowApophet": "spiritualGuardian1",
+      "darkFlakResist01": "darkFlakResist01"
+    },
+    "attackPower": 217855,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1518"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 30,
+    "upgradeXP": 2495443,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 6292754,
+    "nextEvolveLevel": 19,
+    "tierNumber": 8,
+    "rarity": 5
+  },
+  {
+    "identifier": "E18Q4SorcererDragon",
+    "level": 18,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "405504"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 5004740,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "E18Q4SorcererDragon_lockon"
+      }
+    ],
+    "abilities": {
+      "seekerShots": "spearSalvo1",
+      "freezeSpell": "staticBlast1",
+      "shadowApophet": "spiritualGuardian1",
+      "darkFlakResist01": "darkFlakResist01"
+    },
+    "attackPower": 246482,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1608"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 32,
+    "upgradeXP": 3749990,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 8055060,
+    "nextEvolveLevel": 19,
+    "tierNumber": 8,
+    "rarity": 5
+  },
+  {
+    "identifier": "E18Q4SorcererDragon",
+    "level": 19,
+    "upgradeCost": [
+      {
+        "type": "E18Q4SorcererDragonGarnetStone",
+        "amount": "1"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "haveLegendaryGarnet",
+    "HP": 5258068,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "E18Q4SorcererDragon_lockon"
+      }
+    ],
+    "abilities": {
+      "seekerShots": "spearSalvo1",
+      "freezeSpell": "staticBlast1",
+      "shadowApophet": "spiritualGuardian1",
+      "darkFlakResist01": "darkFlakResist01"
+    },
+    "attackPower": 258960,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1644"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 32,
+    "upgradeXP": 3939829,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 8891275,
+    "nextEvolveLevel": 24,
+    "tierNumber": 9,
+    "rarity": 5
+  },
+  {
+    "identifier": "E18Q4SorcererDragon",
+    "level": 20,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "582773"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 5803856,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "E18Q4SorcererDragon_lockon"
+      }
+    ],
+    "abilities": {
+      "seekerShots": "spearSalvo1",
+      "freezeSpell": "staticBlast1",
+      "shadowApophet": "spiritualGuardian1",
+      "darkFlakResist01": "darkFlakResist01"
+    },
+    "attackPower": 285843,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1716"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 34,
+    "upgradeXP": 4348826,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 10833077,
+    "nextEvolveLevel": 24,
+    "tierNumber": 9,
+    "rarity": 5
+  },
+  {
+    "identifier": "E18Q4SorcererDragon",
+    "level": 21,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "608019"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "have2LegendaryGarnet",
+    "HP": 6566443,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "E18Q4SorcererDragon_lockon"
+      }
+    ],
+    "abilities": {
+      "seekerShots": "spearSalvo1",
+      "freezeSpell": "staticBlast1",
+      "shadowApophet": "spiritualGuardian1",
+      "darkFlakResist01": "darkFlakResist01"
+    },
+    "attackPower": 323405,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1806"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 35,
+    "upgradeXP": 4920290,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 13867018,
+    "nextEvolveLevel": 24,
+    "tierNumber": 9,
+    "rarity": 5
+  },
+  {
+    "identifier": "E18Q4SorcererDragon",
+    "level": 22,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "639577"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 7071274,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "E18Q4SorcererDragon_lockon"
+      }
+    ],
+    "abilities": {
+      "seekerShots": "spearSalvo1",
+      "freezeSpell": "staticBlast1",
+      "shadowApophet": "spiritualGuardian1",
+      "darkFlakResist01": "darkFlakResist01"
+    },
+    "attackPower": 348271,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1860"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 36,
+    "upgradeXP": 6480654,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 16081273,
+    "nextEvolveLevel": 24,
+    "tierNumber": 9,
+    "rarity": 5
+  },
+  {
+    "identifier": "E18Q4SorcererDragon",
+    "level": 23,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "805417"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 8000415,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "E18Q4SorcererDragon_lockon"
+      }
+    ],
+    "abilities": {
+      "seekerShots": "spearSalvo1",
+      "freezeSpell": "staticBlast1",
+      "shadowApophet": "spiritualGuardian1",
+      "darkFlakResist01": "darkFlakResist01"
+    },
+    "attackPower": 394036,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1950"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 38,
+    "upgradeXP": 7332249,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 20585163,
+    "nextEvolveLevel": 24,
+    "tierNumber": 9,
+    "rarity": 5
+  },
+  {
+    "identifier": "E18Q4SorcererDragon",
+    "level": 24,
+    "upgradeCost": [
+      {
+        "type": "E18Q4SorcererDragonEmeraldStone",
+        "amount": "1"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "haveLegendaryEmerald",
+    "HP": 8200406,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "E18Q4SorcererDragon_lockon"
+      }
+    ],
+    "abilities": {
+      "seekerShots": "spearSalvo1",
+      "freezeSpell": "staticBlast1",
+      "shadowApophet": "spiritualGuardian1",
+      "darkFlakResist01": "darkFlakResist01"
+    },
+    "attackPower": 403887,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1968"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 38,
+    "upgradeXP": 7515553,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 21627242,
+    "nextEvolveLevel": 30,
+    "tierNumber": 10,
+    "rarity": 5
+  },
+  {
+    "identifier": "E18Q4SorcererDragon",
+    "level": 25,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "851735"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 8830879,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "E18Q4SorcererDragon_lockon"
+      }
+    ],
+    "abilities": {
+      "seekerShots": "spearSalvo1",
+      "freezeSpell": "staticBlast1",
+      "shadowApophet": "spiritualGuardian1",
+      "darkFlakResist01": "darkFlakResist01"
+    },
+    "attackPower": 434941,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2022"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 39,
+    "upgradeXP": 8093418,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 25080699,
+    "nextEvolveLevel": 30,
+    "tierNumber": 10,
+    "rarity": 5
+  },
+  {
+    "identifier": "E18Q4SorcererDragon",
+    "level": 26,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "874894"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 9747585,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "E18Q4SorcererDragon_lockon"
+      }
+    ],
+    "abilities": {
+      "seekerShots": "spearSalvo1",
+      "freezeSpell": "staticBlast1",
+      "shadowApophet": "spiritualGuardian1",
+      "darkFlakResist01": "darkFlakResist01"
+    },
+    "attackPower": 480093,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2094"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 41,
+    "upgradeXP": 10443934,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 30558228,
+    "nextEvolveLevel": 30,
+    "tierNumber": 10,
+    "rarity": 5
+  },
+  {
+    "identifier": "E18Q4SorcererDragon",
+    "level": 27,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1058903"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 10497024,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "E18Q4SorcererDragon_lockon"
+      }
+    ],
+    "abilities": {
+      "seekerShots": "spearSalvo1",
+      "freezeSpell": "staticBlast1",
+      "shadowApophet": "spiritualGuardian1",
+      "darkFlakResist01": "darkFlakResist01"
+    },
+    "attackPower": 517007,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2148"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 43,
+    "upgradeXP": 11246968,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 35437935,
+    "nextEvolveLevel": 30,
+    "tierNumber": 10,
+    "rarity": 5
+  },
+  {
+    "identifier": "E18Q4SorcererDragon",
+    "level": 28,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1085977"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "have2LegendaryEmerald",
+    "HP": 11028399,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "E18Q4SorcererDragon_lockon"
+      }
+    ],
+    "abilities": {
+      "seekerShots": "spearSalvo1",
+      "freezeSpell": "staticBlast1",
+      "shadowApophet": "spiritualGuardian1",
+      "darkFlakResist01": "darkFlakResist01"
+    },
+    "attackPower": 543180,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2184"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 44,
+    "upgradeXP": 11816341,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 39116698,
+    "nextEvolveLevel": 30,
+    "tierNumber": 10,
+    "rarity": 5
+  },
+  {
+    "identifier": "E18Q4SorcererDragon",
+    "level": 29,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1104026"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 11876323,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "E18Q4SorcererDragon_lockon"
+      }
+    ],
+    "abilities": {
+      "seekerShots": "spearSalvo1",
+      "freezeSpell": "staticBlast1",
+      "shadowApophet": "spiritualGuardian1",
+      "darkFlakResist01": "darkFlakResist01"
+    },
+    "attackPower": 584945,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2238"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 45,
+    "upgradeXP": 12724900,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 45363091,
+    "nextEvolveLevel": 30,
+    "tierNumber": 10,
+    "rarity": 5
+  },
+  {
+    "identifier": "E18Q4SorcererDragon",
+    "level": 30,
+    "upgradeCost": [
+      {
+        "type": "E18Q4SorcererDragonObsidianStone",
+        "amount": "1"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "haveLegendaryObsidian",
+    "HP": 12477526,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "E18Q4SorcererDragon_lockon"
+      }
+    ],
+    "abilities": {
+      "seekerShots": "spearSalvo1",
+      "freezeSpell": "staticBlast1",
+      "shadowApophet": "spiritualGuardian1",
+      "darkFlakResist01": "darkFlakResist01"
+    },
+    "attackPower": 614558,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2274"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 46,
+    "upgradeXP": 13369093,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 50072261,
+    "nextEvolveLevel": 39,
+    "tierNumber": 11,
+    "rarity": 5
+  },
+  {
+    "identifier": "E18Q4SorcererDragon",
+    "level": 31,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1149150"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 13109181,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "E18Q4SorcererDragon_lockon"
+      }
+    ],
+    "abilities": {
+      "seekerShots": "spearSalvo1",
+      "freezeSpell": "staticBlast1",
+      "shadowApophet": "spiritualGuardian1",
+      "darkFlakResist01": "darkFlakResist01"
+    },
+    "attackPower": 645670,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2310"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 47,
+    "upgradeXP": 14045894,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 55270340,
+    "nextEvolveLevel": 39,
+    "tierNumber": 11,
+    "rarity": 5
+  },
+  {
+    "identifier": "E18Q4SorcererDragon",
+    "level": 32,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1167200"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 13772810,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "E18Q4SorcererDragon_lockon"
+      }
+    ],
+    "abilities": {
+      "seekerShots": "spearSalvo1",
+      "freezeSpell": "staticBlast1",
+      "shadowApophet": "spiritualGuardian1",
+      "darkFlakResist01": "darkFlakResist01"
+    },
+    "attackPower": 678356,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2346"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 48,
+    "upgradeXP": 14756966,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 61007811,
+    "nextEvolveLevel": 39,
+    "tierNumber": 11,
+    "rarity": 5
+  },
+  {
+    "identifier": "E18Q4SorcererDragon",
+    "level": 33,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1185249"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 14470041,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "E18Q4SorcererDragon_lockon"
+      }
+    ],
+    "abilities": {
+      "seekerShots": "spearSalvo1",
+      "freezeSpell": "staticBlast1",
+      "shadowApophet": "spiritualGuardian1",
+      "darkFlakResist01": "darkFlakResist01"
+    },
+    "attackPower": 712698,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2382"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 49,
+    "upgradeXP": 15504034,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 67341184,
+    "nextEvolveLevel": 39,
+    "tierNumber": 11,
+    "rarity": 5
+  },
+  {
+    "identifier": "E18Q4SorcererDragon",
+    "level": 34,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1203298"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "have2LegendaryObsidian",
+    "HP": 15582614,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "E18Q4SorcererDragon_lockon"
+      }
+    ],
+    "abilities": {
+      "seekerShots": "spearSalvo1",
+      "freezeSpell": "staticBlast1",
+      "shadowApophet": "spiritualGuardian1",
+      "darkFlakResist01": "darkFlakResist01"
+    },
+    "attackPower": 767497,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2436"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 52,
+    "upgradeXP": 16696141,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 78094999,
+    "nextEvolveLevel": 39,
+    "tierNumber": 11,
+    "rarity": 5
+  },
+  {
+    "identifier": "E18Q4SorcererDragon",
+    "level": 35,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1230373"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 17200230,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "E18Q4SorcererDragon_lockon"
+      }
+    ],
+    "abilities": {
+      "seekerShots": "spearSalvo1",
+      "freezeSpell": "staticBlast1",
+      "shadowApophet": "spiritualGuardian1",
+      "darkFlakResist01": "darkFlakResist01"
+    },
+    "attackPower": 847173,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2508"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 56,
+    "upgradeXP": 18429404,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 94660046,
+    "nextEvolveLevel": 39,
+    "tierNumber": 11,
+    "rarity": 5
+  },
+  {
+    "identifier": "E18Q4SorcererDragon",
+    "level": 36,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1266472"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "haveMythicObsidian",
+    "HP": 18522726,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "E18Q4SorcererDragon_lockon"
+      }
+    ],
+    "abilities": {
+      "seekerShots": "spearSalvo1",
+      "freezeSpell": "staticBlast1",
+      "shadowApophet": "spiritualGuardian1",
+      "darkFlakResist01": "darkFlakResist01"
+    },
+    "attackPower": 912312,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2562"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 59,
+    "upgradeXP": 19846444,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 107725526,
+    "nextEvolveLevel": 39,
+    "tierNumber": 11,
+    "rarity": 5
+  },
+  {
+    "identifier": "E18Q4SorcererDragon",
+    "level": 37,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1293546"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 19946922,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "E18Q4SorcererDragon_lockon"
+      }
+    ],
+    "abilities": {
+      "seekerShots": "spearSalvo1",
+      "freezeSpell": "staticBlast1",
+      "shadowApophet": "spiritualGuardian1",
+      "darkFlakResist01": "darkFlakResist01"
+    },
+    "attackPower": 982460,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2616"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 61,
+    "upgradeXP": 21372443,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 119160870,
+    "nextEvolveLevel": 39,
+    "tierNumber": 11,
+    "rarity": 5
+  },
+  {
+    "identifier": "E18Q4SorcererDragon",
+    "level": 38,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1320620"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 21480624,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "E18Q4SorcererDragon_lockon"
+      }
+    ],
+    "abilities": {
+      "seekerShots": "spearSalvo1",
+      "freezeSpell": "staticBlast1",
+      "shadowApophet": "spiritualGuardian1",
+      "darkFlakResist01": "darkFlakResist01"
+    },
+    "attackPower": 1058001,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2670"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 62,
+    "upgradeXP": 23015776,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 129871499,
+    "nextEvolveLevel": 39,
+    "tierNumber": 11,
+    "rarity": 5
+  },
+  {
+    "identifier": "E18Q4SorcererDragon",
+    "level": 39,
+    "upgradeCost": [
+      {
+        "type": "E18Q4SorcererDragonHarbingerStone",
+        "amount": "1"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "haveLegendaryHarbinger",
+    "HP": 22568073,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "E18Q4SorcererDragon_lockon"
+      }
+    ],
+    "abilities": {
+      "seekerShots": "spearSalvo1",
+      "freezeSpell": "staticBlast1",
+      "shadowApophet": "spiritualGuardian1",
+      "darkFlakResist01": "darkFlakResist01"
+    },
+    "attackPower": 1111563,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2706"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 63,
+    "upgradeXP": 24180946,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 137173547,
+    "nextEvolveLevel": 50,
+    "tierNumber": 12,
+    "rarity": 5
+  },
+  {
+    "identifier": "E18Q4SorcererDragon",
+    "level": 40,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1365744"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 23710558,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "E18Q4SorcererDragon_lockon"
+      }
+    ],
+    "abilities": {
+      "seekerShots": "spearSalvo1",
+      "freezeSpell": "staticBlast1",
+      "shadowApophet": "spiritualGuardian1",
+      "darkFlakResist01": "darkFlakResist01"
+    },
+    "attackPower": 1167835,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2742"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 64,
+    "upgradeXP": 25405102,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 144604898,
+    "nextEvolveLevel": 50,
+    "tierNumber": 12,
+    "rarity": 5
+  },
+  {
+    "identifier": "E18Q4SorcererDragon",
+    "level": 41,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1383793"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 25533656,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "E18Q4SorcererDragon_lockon"
+      }
+    ],
+    "abilities": {
+      "seekerShots": "spearSalvo1",
+      "freezeSpell": "staticBlast1",
+      "shadowApophet": "spiritualGuardian1",
+      "darkFlakResist01": "darkFlakResist01"
+    },
+    "attackPower": 1257630,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2796"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 66,
+    "upgradeXP": 27358510,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 155994368,
+    "nextEvolveLevel": 50,
+    "tierNumber": 12,
+    "rarity": 5
+  },
+  {
+    "identifier": "E18Q4SorcererDragon",
+    "level": 42,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1410867"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 27496939,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "E18Q4SorcererDragon_lockon"
+      }
+    ],
+    "abilities": {
+      "seekerShots": "spearSalvo1",
+      "freezeSpell": "staticBlast1",
+      "shadowApophet": "spiritualGuardian1",
+      "darkFlakResist01": "darkFlakResist01"
+    },
+    "attackPower": 1354330,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2850"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 67,
+    "upgradeXP": 29462110,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 167674771,
+    "nextEvolveLevel": 50,
+    "tierNumber": 12,
+    "rarity": 5
+  },
+  {
+    "identifier": "E18Q4SorcererDragon",
+    "level": 43,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1437942"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "have2LegendaryHarbinger",
+    "HP": 29611152,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "E18Q4SorcererDragon_lockon"
+      }
+    ],
+    "abilities": {
+      "seekerShots": "spearSalvo1",
+      "freezeSpell": "staticBlast1",
+      "shadowApophet": "spiritualGuardian1",
+      "darkFlakResist01": "darkFlakResist01"
+    },
+    "attackPower": 1458465,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2904"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 69,
+    "upgradeXP": 31727463,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 179646106,
+    "nextEvolveLevel": 50,
+    "tierNumber": 12,
+    "rarity": 5
+  },
+  {
+    "identifier": "E18Q4SorcererDragon",
+    "level": 44,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1465016"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 31887929,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "E18Q4SorcererDragon_lockon"
+      }
+    ],
+    "abilities": {
+      "seekerShots": "spearSalvo1",
+      "freezeSpell": "staticBlast1",
+      "shadowApophet": "spiritualGuardian1",
+      "darkFlakResist01": "darkFlakResist01"
+    },
+    "attackPower": 1570606,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2958"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 70,
+    "upgradeXP": 34166999,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 191908373,
+    "nextEvolveLevel": 50,
+    "tierNumber": 12,
+    "rarity": 5
+  },
+  {
+    "identifier": "E18Q4SorcererDragon",
+    "level": 45,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1492090"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 33502237,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "E18Q4SorcererDragon_lockon"
+      }
+    ],
+    "abilities": {
+      "seekerShots": "spearSalvo1",
+      "freezeSpell": "staticBlast1",
+      "shadowApophet": "spiritualGuardian1",
+      "darkFlakResist01": "darkFlakResist01"
+    },
+    "attackPower": 1650118,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2994"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 71,
+    "upgradeXP": 35896698,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 200244846,
+    "nextEvolveLevel": 50,
+    "tierNumber": 12,
+    "rarity": 5
+  },
+  {
+    "identifier": "E18Q4SorcererDragon",
+    "level": 46,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1510139"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "haveMythicHarbinger",
+    "HP": 35198262,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "E18Q4SorcererDragon_lockon"
+      }
+    ],
+    "abilities": {
+      "seekerShots": "spearSalvo1",
+      "freezeSpell": "staticBlast1",
+      "shadowApophet": "spiritualGuardian1",
+      "darkFlakResist01": "darkFlakResist01"
+    },
+    "attackPower": 1733655,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3030"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 72,
+    "upgradeXP": 37713958,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 208710623,
+    "nextEvolveLevel": 50,
+    "tierNumber": 12,
+    "rarity": 5
+  },
+  {
+    "identifier": "E18Q4SorcererDragon",
+    "level": 47,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1528189"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 38852257,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "E18Q4SorcererDragon_lockon"
+      }
+    ],
+    "abilities": {
+      "seekerShots": "spearSalvo1",
+      "freezeSpell": "staticBlast1",
+      "shadowApophet": "spiritualGuardian1",
+      "darkFlakResist01": "darkFlakResist01"
+    },
+    "attackPower": 1913630,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3102"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 74,
+    "upgradeXP": 41629147,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 226030086,
+    "nextEvolveLevel": 50,
+    "tierNumber": 12,
+    "rarity": 5
+  },
+  {
+    "identifier": "E18Q4SorcererDragon",
+    "level": 48,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1564288"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 41839597,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "E18Q4SorcererDragon_lockon"
+      }
+    ],
+    "abilities": {
+      "seekerShots": "spearSalvo1",
+      "freezeSpell": "staticBlast1",
+      "shadowApophet": "spiritualGuardian1",
+      "darkFlakResist01": "darkFlakResist01"
+    },
+    "attackPower": 2060770,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3156"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 77,
+    "upgradeXP": 44830024,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 239359104,
+    "nextEvolveLevel": 50,
+    "tierNumber": 12,
+    "rarity": 5
+  },
+  {
+    "identifier": "E18Q4SorcererDragon",
+    "level": 49,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1591362"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 45056616,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "E18Q4SorcererDragon_lockon"
+      }
+    ],
+    "abilities": {
+      "seekerShots": "spearSalvo1",
+      "freezeSpell": "staticBlast1",
+      "shadowApophet": "spiritualGuardian1",
+      "darkFlakResist01": "darkFlakResist01"
+    },
+    "attackPower": 2219223,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3210"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 80,
+    "upgradeXP": 48277025,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 252979055,
+    "nextEvolveLevel": 50,
+    "tierNumber": 12,
+    "rarity": 5
+  },
+  {
+    "identifier": "E18Q4SorcererDragon",
+    "level": 50,
+    "upgradeCost": [
+      {
+        "type": "E18Q4SorcererDragonVanguardStone",
+        "amount": "1"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "haveLegendaryVanguard",
+    "HP": 48520997,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "E18Q4SorcererDragon_lockon"
+      }
+    ],
+    "abilities": {
+      "seekerShots": "spearSalvo1",
+      "freezeSpell": "staticBlast1",
+      "shadowApophet": "spiritualGuardian1",
+      "darkFlakResist01": "darkFlakResist01"
+    },
+    "attackPower": 2389860,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3264"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 81,
+    "upgradeXP": 51989066,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 266889938,
+    "nextEvolveLevel": 0,
+    "tierNumber": 13,
+    "rarity": 5
+  },
+  {
+    "identifier": "E18Q4SorcererDragon",
+    "level": 51,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1645510"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 50977347,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "E18Q4SorcererDragon_lockon"
+      }
+    ],
+    "abilities": {
+      "seekerShots": "spearSalvo1",
+      "freezeSpell": "staticBlast1",
+      "shadowApophet": "spiritualGuardian1",
+      "darkFlakResist01": "darkFlakResist01"
+    },
+    "attackPower": 2510846,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3300"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 82,
+    "upgradeXP": 54621004,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 276325488,
+    "nextEvolveLevel": 0,
+    "tierNumber": 13,
+    "rarity": 5
+  },
+  {
+    "identifier": "E18Q4SorcererDragon",
+    "level": 52,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1663560"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 53558056,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "E18Q4SorcererDragon_lockon"
+      }
+    ],
+    "abilities": {
+      "seekerShots": "spearSalvo1",
+      "freezeSpell": "staticBlast1",
+      "shadowApophet": "spiritualGuardian1",
+      "darkFlakResist01": "darkFlakResist01"
+    },
+    "attackPower": 2637957,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3336"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 83,
+    "upgradeXP": 57386189,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 285890342,
+    "nextEvolveLevel": 0,
+    "tierNumber": 13,
+    "rarity": 5
+  },
+  {
+    "identifier": "E18Q4SorcererDragon",
+    "level": 53,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1681609"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 54897000,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "E18Q4SorcererDragon_lockon"
+      }
+    ],
+    "abilities": {
+      "seekerShots": "spearSalvo1",
+      "freezeSpell": "staticBlast1",
+      "shadowApophet": "spiritualGuardian1",
+      "darkFlakResist01": "darkFlakResist01"
+    },
+    "attackPower": 2703906,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3354"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 84,
+    "upgradeXP": 58820840,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 290721258,
+    "nextEvolveLevel": 0,
+    "tierNumber": 13,
+    "rarity": 5
+  },
+  {
+    "identifier": "E18Q4SorcererDragon",
+    "level": 54,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1690634"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "have2LegendaryVanguard",
+    "HP": 57676151,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "E18Q4SorcererDragon_lockon"
+      }
+    ],
+    "abilities": {
+      "seekerShots": "spearSalvo1",
+      "freezeSpell": "staticBlast1",
+      "shadowApophet": "spiritualGuardian1",
+      "darkFlakResist01": "darkFlakResist01"
+    },
+    "attackPower": 2840791,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3390"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 85,
+    "upgradeXP": 61798635,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 300480067,
+    "nextEvolveLevel": 0,
+    "tierNumber": 13,
+    "rarity": 5
+  },
+  {
+    "identifier": "E18Q4SorcererDragon",
+    "level": 55,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1708684"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 59118045,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "E18Q4SorcererDragon_lockon"
+      }
+    ],
+    "abilities": {
+      "seekerShots": "spearSalvo1",
+      "freezeSpell": "staticBlast1",
+      "shadowApophet": "spiritualGuardian1",
+      "darkFlakResist01": "darkFlakResist01"
+    },
+    "attackPower": 2911811,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3408"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 85,
+    "upgradeXP": 63343596,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 305407960,
+    "nextEvolveLevel": 0,
+    "tierNumber": 13,
+    "rarity": 5
+  },
+  {
+    "identifier": "E18Q4SorcererDragon",
+    "level": 56,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1717708"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "haveMythicVanguard",
+    "HP": 60595982,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "E18Q4SorcererDragon_lockon"
+      }
+    ],
+    "abilities": {
+      "seekerShots": "spearSalvo1",
+      "freezeSpell": "staticBlast1",
+      "shadowApophet": "spiritualGuardian1",
+      "darkFlakResist01": "darkFlakResist01"
+    },
+    "attackPower": 2984606,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3426"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 86,
+    "upgradeXP": 64927184,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 310368179,
+    "nextEvolveLevel": 0,
+    "tierNumber": 13,
+    "rarity": 5
+  },
+  {
+    "identifier": "E18Q4SorcererDragon",
+    "level": 57,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1726733"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 63663631,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "E18Q4SorcererDragon_lockon"
+      }
+    ],
+    "abilities": {
+      "seekerShots": "spearSalvo1",
+      "freezeSpell": "staticBlast1",
+      "shadowApophet": "spiritualGuardian1",
+      "darkFlakResist01": "darkFlakResist01"
+    },
+    "attackPower": 3135701,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3462"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 87,
+    "upgradeXP": 68214118,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 320385594,
+    "nextEvolveLevel": 0,
+    "tierNumber": 13,
+    "rarity": 5
+  },
+  {
+    "identifier": "E18Q4SorcererDragon",
+    "level": 58,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1744783"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 66886586,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "E18Q4SorcererDragon_lockon"
+      }
+    ],
+    "abilities": {
+      "seekerShots": "spearSalvo1",
+      "freezeSpell": "staticBlast1",
+      "shadowApophet": "spiritualGuardian1",
+      "darkFlakResist01": "darkFlakResist01"
+    },
+    "attackPower": 3294445,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3498"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 88,
+    "upgradeXP": 71667449,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 330532313,
+    "nextEvolveLevel": 0,
+    "tierNumber": 13,
+    "rarity": 5
+  },
+  {
+    "identifier": "E18Q4SorcererDragon",
+    "level": 59,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1762832"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 70272691,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "E18Q4SorcererDragon_lockon"
+      }
+    ],
+    "abilities": {
+      "seekerShots": "spearSalvo1",
+      "freezeSpell": "staticBlast1",
+      "shadowApophet": "spiritualGuardian1",
+      "darkFlakResist01": "darkFlakResist01"
+    },
+    "attackPower": 3461226,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3534"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 89,
+    "upgradeXP": 75295608,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 340808334,
+    "nextEvolveLevel": 0,
+    "tierNumber": 13,
+    "rarity": 5
+  },
+  {
+    "identifier": "E18Q4SorcererDragon",
+    "level": 60,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1780881"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 73830225,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "E18Q4SorcererDragon_lockon"
+      }
+    ],
+    "abilities": {
+      "seekerShots": "spearSalvo1",
+      "freezeSpell": "staticBlast1",
+      "shadowApophet": "spiritualGuardian1",
+      "darkFlakResist01": "darkFlakResist01"
+    },
+    "attackPower": 3636451,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3570"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 90,
+    "upgradeXP": 0,
+    "xpRewardMultiplier": 1.2,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 351213659,
+    "nextEvolveLevel": 0,
+    "tierNumber": 13,
+    "rarity": 5
+  }
+]

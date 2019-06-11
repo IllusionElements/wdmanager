@@ -1,0 +1,2431 @@
+[
+  {
+    "identifier": "algorDragon",
+    "level": 1,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "34272"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 207439,
+    "fullHealDuration": 13562,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T4C2WIdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "dreadfulRoar": "whiteDreadfulRoar38",
+      "heatBlastShield": "heatBlastShield1"
+    },
+    "attackPower": 2552,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "140"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 7,
+    "upgradeXP": 56974,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 13768,
+    "nextEvolveLevel": 7,
+    "tierNumber": 4,
+    "rarity": 6,
+    "sceneFile": "drg_glacialWarrior.lvl"
+  },
+  {
+    "identifier": "algorDragon",
+    "level": 2,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "39168"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 266886,
+    "fullHealDuration": 15840,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T4C2WIdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "dreadfulRoar": "whiteDreadfulRoar40",
+      "heatBlastShield": "heatBlastShield1"
+    },
+    "attackPower": 2820,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "160"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 8,
+    "upgradeXP": 95783,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 19576,
+    "nextEvolveLevel": 7,
+    "tierNumber": 4,
+    "rarity": 6,
+    "sceneFile": "drg_glacialWarrior.lvl"
+  },
+  {
+    "identifier": "algorDragon",
+    "level": 3,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "58526"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 285536,
+    "fullHealDuration": 15840,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T4C2WIdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "dreadfulRoar": "whiteDreadfulRoar42",
+      "heatBlastShield": "heatBlastShield1"
+    },
+    "attackPower": 3046,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "180"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 9,
+    "upgradeXP": 120232,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 22600,
+    "nextEvolveLevel": 7,
+    "tierNumber": 4,
+    "rarity": 6,
+    "sceneFile": "drg_glacialWarrior.lvl"
+  },
+  {
+    "identifier": "algorDragon",
+    "level": 4,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "79536"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 308706,
+    "fullHealDuration": 15840,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T4C2WIdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "dreadfulRoar": "whiteDreadfulRoar44",
+      "heatBlastShield": "heatBlastShield1"
+    },
+    "attackPower": 3333,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "200"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 9,
+    "upgradeXP": 184501,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 26769,
+    "nextEvolveLevel": 7,
+    "tierNumber": 4,
+    "rarity": 6,
+    "sceneFile": "drg_glacialWarrior.lvl"
+  },
+  {
+    "identifier": "algorDragon",
+    "level": 5,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "106930"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 351171,
+    "fullHealDuration": 15840,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T4C2WIdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "dreadfulRoar": "whiteDreadfulRoar46",
+      "heatBlastShield": "heatBlastShield1"
+    },
+    "attackPower": 3742,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "230"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 10,
+    "upgradeXP": 215866,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 34205,
+    "nextEvolveLevel": 7,
+    "tierNumber": 4,
+    "rarity": 6,
+    "sceneFile": "drg_glacialWarrior.lvl"
+  },
+  {
+    "identifier": "algorDragon",
+    "level": 6,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "112811"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 399314,
+    "fullHealDuration": 15840,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T4C2WIdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "dreadfulRoar": "whiteDreadfulRoar48",
+      "heatBlastShield": "heatBlastShield1"
+    },
+    "attackPower": 4268,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "260"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 11,
+    "upgradeXP": 252563,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 44323,
+    "nextEvolveLevel": 7,
+    "tierNumber": 4,
+    "rarity": 6,
+    "sceneFile": "drg_glacialWarrior.lvl"
+  },
+  {
+    "identifier": "algorDragon",
+    "level": 7,
+    "upgradeCost": [
+      {
+        "type": "winterMythicGreenStone",
+        "amount": "1"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "have2GreenEpic",
+    "HP": 564204,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T4C2WIdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "dreadfulRoar": "whiteDreadfulRoar52",
+      "heatBlastShield": "heatBlastShield1"
+    },
+    "attackPower": 6012,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "384"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 13,
+    "upgradeXP": 271862,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 74733,
+    "nextEvolveLevel": 13,
+    "tierNumber": 5,
+    "rarity": 6,
+    "sceneFile": "drg_glacialWarrior_level2.lvl"
+  },
+  {
+    "identifier": "algorDragon",
+    "level": 8,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "125562"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 640634,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T4C2WIdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "dreadfulRoar": "whiteDreadfulRoar54",
+      "heatBlastShield": "heatBlastShield1"
+    },
+    "attackPower": 6721,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "420"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 14,
+    "upgradeXP": 308628,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 94837,
+    "nextEvolveLevel": 13,
+    "tierNumber": 5,
+    "rarity": 6,
+    "sceneFile": "drg_glacialWarrior_level2.lvl"
+  },
+  {
+    "identifier": "algorDragon",
+    "level": 9,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "132468"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 791146,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T4C2WIdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "dreadfulRoar": "whiteDreadfulRoar56",
+      "heatBlastShield": "heatBlastShield1"
+    },
+    "attackPower": 7344,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "456"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 15,
+    "upgradeXP": 465181,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 127953,
+    "nextEvolveLevel": 13,
+    "tierNumber": 5,
+    "rarity": 6,
+    "sceneFile": "drg_glacialWarrior_level2.lvl"
+  },
+  {
+    "identifier": "algorDragon",
+    "level": 10,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "139753"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 851525,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T4C2WIdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "dreadfulRoar": "whiteDreadfulRoar58",
+      "heatBlastShield": "heatBlastShield1",
+      "archerResist01": "archerResist01"
+    },
+    "attackPower": 7967,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "492"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 16,
+    "upgradeXP": 530981,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 149460,
+    "nextEvolveLevel": 13,
+    "tierNumber": 5,
+    "rarity": 6,
+    "sceneFile": "drg_glacialWarrior_level2.lvl"
+  },
+  {
+    "identifier": "algorDragon",
+    "level": 11,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "147440"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 941573,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T4C2WIdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "dreadfulRoar": "whiteDreadfulRoar60",
+      "heatBlastShield": "heatBlastShield1",
+      "archerResist01": "archerResist01"
+    },
+    "attackPower": 8842,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "528"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 17,
+    "upgradeXP": 589581,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 183331,
+    "nextEvolveLevel": 13,
+    "tierNumber": 5,
+    "rarity": 6,
+    "sceneFile": "drg_glacialWarrior_level2.lvl"
+  },
+  {
+    "identifier": "algorDragon",
+    "level": 12,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "155549"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 1073915,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T4C2WIdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "dreadfulRoar": "whiteDreadfulRoar62",
+      "heatBlastShield": "heatBlastShield1",
+      "archerResist01": "archerResist01"
+    },
+    "attackPower": 9991,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "564"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 18,
+    "upgradeXP": 648181,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 236299,
+    "nextEvolveLevel": 13,
+    "tierNumber": 5,
+    "rarity": 6,
+    "sceneFile": "drg_glacialWarrior_level2.lvl"
+  },
+  {
+    "identifier": "algorDragon",
+    "level": 13,
+    "upgradeCost": [
+      {
+        "type": "winterMythicGoldStone",
+        "amount": "1"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "haveGoldLegendary",
+    "HP": 1139868,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T4C2WIdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "dreadfulRoar": "whiteDreadfulRoar63",
+      "heatBlastShield": "heatBlastShield1",
+      "archerResist01": "archerResist01",
+      "iceTurretResist01": "iceTurretResist01"
+    },
+    "attackPower": 10655,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "582"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 18,
+    "upgradeXP": 706781,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 267537,
+    "nextEvolveLevel": 21,
+    "tierNumber": 6,
+    "rarity": 6,
+    "sceneFile": "drg_glacialWarrior_level3.lvl"
+  },
+  {
+    "identifier": "algorDragon",
+    "level": 14,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "173130"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 1378679,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T4C2WIdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "dreadfulRoar": "whiteDreadfulRoar66",
+      "heatBlastShield": "heatBlastShield1",
+      "archerResist01": "archerResist01",
+      "iceTurretResist01": "iceTurretResist01"
+    },
+    "attackPower": 12887,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "636"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 18,
+    "upgradeXP": 765381,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 391371,
+    "nextEvolveLevel": 21,
+    "tierNumber": 6,
+    "rarity": 6,
+    "sceneFile": "drg_glacialWarrior_level3.lvl"
+  },
+  {
+    "identifier": "algorDragon",
+    "level": 15,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "182652"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 1666173,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T4C2WIdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "dreadfulRoar": "whiteDreadfulRoar69",
+      "heatBlastShield": "heatBlastShield1",
+      "archerResist01": "archerResist01",
+      "iceTurretResist01": "iceTurretResist01"
+    },
+    "attackPower": 15510,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "690"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 18,
+    "upgradeXP": 823981,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 569242,
+    "nextEvolveLevel": 21,
+    "tierNumber": 6,
+    "rarity": 6,
+    "sceneFile": "drg_glacialWarrior_level3.lvl"
+  },
+  {
+    "identifier": "algorDragon",
+    "level": 16,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "192698"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 1960913,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T4C2WIdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "dreadfulRoar": "whiteDreadfulRoar72",
+      "heatBlastShield": "heatBlastShield1",
+      "archerResist01": "archerResist01",
+      "iceTurretResist01": "iceTurretResist01"
+    },
+    "attackPower": 18043,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "744"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 19,
+    "upgradeXP": 882581,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 779336,
+    "nextEvolveLevel": 21,
+    "tierNumber": 6,
+    "rarity": 6,
+    "sceneFile": "drg_glacialWarrior_level3.lvl"
+  },
+  {
+    "identifier": "algorDragon",
+    "level": 17,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "203296"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "have2LegendaryGold",
+    "HP": 2132447,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T4C2WIdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "dreadfulRoar": "whiteDreadfulRoar75",
+      "heatBlastShield": "heatBlastShield1",
+      "archerResist01": "archerResist01",
+      "iceTurretResist01": "iceTurretResist01"
+    },
+    "attackPower": 19822,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "798"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 19,
+    "upgradeXP": 941181,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 931054,
+    "nextEvolveLevel": 21,
+    "tierNumber": 6,
+    "rarity": 6,
+    "sceneFile": "drg_glacialWarrior_level3.lvl"
+  },
+  {
+    "identifier": "algorDragon",
+    "level": 18,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "214477"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 2296359,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T4C2WIdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "dreadfulRoar": "whiteDreadfulRoar78",
+      "heatBlastShield": "heatBlastShield1",
+      "archerResist01": "archerResist01",
+      "iceTurretResist01": "iceTurretResist01"
+    },
+    "attackPower": 21346,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "852"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 20,
+    "upgradeXP": 999781,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 1079658,
+    "nextEvolveLevel": 21,
+    "tierNumber": 6,
+    "rarity": 6,
+    "sceneFile": "drg_glacialWarrior_level3.lvl"
+  },
+  {
+    "identifier": "algorDragon",
+    "level": 19,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "226274"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 2472884,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T4C2WIdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "dreadfulRoar": "whiteDreadfulRoar81",
+      "heatBlastShield": "heatBlastShield1",
+      "archerResist01": "archerResist01",
+      "iceTurretResist01": "iceTurretResist01"
+    },
+    "attackPower": 22987,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "906"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 21,
+    "upgradeXP": 1044683,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 1252050,
+    "nextEvolveLevel": 21,
+    "tierNumber": 6,
+    "rarity": 6,
+    "sceneFile": "drg_glacialWarrior_level3.lvl"
+  },
+  {
+    "identifier": "algorDragon",
+    "level": 20,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "238719"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 2662973,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T4C2WIdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "dreadfulRoar": "whiteDreadfulRoar84",
+      "heatBlastShield": "heatBlastShield1",
+      "archerResist01": "archerResist01",
+      "iceTurretResist01": "iceTurretResist01"
+    },
+    "attackPower": 24754,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "960"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 22,
+    "upgradeXP": 1117811,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 1451966,
+    "nextEvolveLevel": 21,
+    "tierNumber": 6,
+    "rarity": 6,
+    "sceneFile": "drg_glacialWarrior_level3.lvl"
+  },
+  {
+    "identifier": "algorDragon",
+    "level": 21,
+    "upgradeCost": [
+      {
+        "type": "winterMythicPlatinumStone",
+        "amount": "1"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "havePlatinumLegendary",
+    "HP": 2797742,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T4C2WIdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "dreadfulRoar": "whiteDreadfulRoar86",
+      "heatBlastShield": "heatBlastShield1",
+      "archerResist01": "archerResist01",
+      "iceTurretResist01": "iceTurretResist01"
+    },
+    "attackPower": 26007,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "996"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 23,
+    "upgradeXP": 1229592,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 1602693,
+    "nextEvolveLevel": 29,
+    "tierNumber": 7,
+    "rarity": 6,
+    "sceneFile": "drg_glacialWarrior_level4.lvl"
+  },
+  {
+    "identifier": "algorDragon",
+    "level": 22,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "265700"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 3012796,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T4C2WIdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "dreadfulRoar": "whiteDreadfulRoar89",
+      "heatBlastShield": "heatBlastShield1",
+      "archerResist01": "archerResist01",
+      "iceTurretResist01": "iceTurretResist01"
+    },
+    "attackPower": 28007,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1050"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 24,
+    "upgradeXP": 1352551,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 1858586,
+    "nextEvolveLevel": 29,
+    "tierNumber": 7,
+    "rarity": 6,
+    "sceneFile": "drg_glacialWarrior_level4.lvl"
+  },
+  {
+    "identifier": "algorDragon",
+    "level": 23,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "280313"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 3244401,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T4C2WIdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "dreadfulRoar": "whiteDreadfulRoar92",
+      "heatBlastShield": "heatBlastShield1",
+      "archerResist01": "archerResist01",
+      "iceTurretResist01": "iceTurretResist01"
+    },
+    "attackPower": 30160,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1104"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 25,
+    "upgradeXP": 1487806,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 2155326,
+    "nextEvolveLevel": 29,
+    "tierNumber": 7,
+    "rarity": 6,
+    "sceneFile": "drg_glacialWarrior_level4.lvl"
+  },
+  {
+    "identifier": "algorDragon",
+    "level": 24,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "295731"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 3493840,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T4C2WIdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "dreadfulRoar": "whiteDreadfulRoar95",
+      "heatBlastShield": "heatBlastShield1",
+      "archerResist01": "archerResist01",
+      "iceTurretResist01": "iceTurretResist01"
+    },
+    "attackPower": 32479,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1158"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 26,
+    "upgradeXP": 1636587,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 2499571,
+    "nextEvolveLevel": 29,
+    "tierNumber": 7,
+    "rarity": 6,
+    "sceneFile": "drg_glacialWarrior_level4.lvl"
+  },
+  {
+    "identifier": "algorDragon",
+    "level": 25,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "311996"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 3762432,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T4C2WIdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "dreadfulRoar": "whiteDreadfulRoar98",
+      "heatBlastShield": "heatBlastShield1",
+      "archerResist01": "archerResist01",
+      "iceTurretResist01": "iceTurretResist01"
+    },
+    "attackPower": 34977,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1212"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 26,
+    "upgradeXP": 1800246,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 2898615,
+    "nextEvolveLevel": 29,
+    "tierNumber": 7,
+    "rarity": 6,
+    "sceneFile": "drg_glacialWarrior_level4.lvl"
+  },
+  {
+    "identifier": "algorDragon",
+    "level": 26,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "329156"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "have2LegendaryPlatinum",
+    "HP": 4051647,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T4C2WIdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "dreadfulRoar": "whiteDreadfulRoar101",
+      "heatBlastShield": "heatBlastShield1",
+      "archerResist01": "archerResist01",
+      "iceTurretResist01": "iceTurretResist01"
+    },
+    "attackPower": 36732,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1266"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 26,
+    "upgradeXP": 1980271,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 3278203,
+    "nextEvolveLevel": 29,
+    "tierNumber": 7,
+    "rarity": 6,
+    "sceneFile": "drg_glacialWarrior_level4.lvl"
+  },
+  {
+    "identifier": "algorDragon",
+    "level": 27,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "347259"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 4236389,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T4C2WIdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "dreadfulRoar": "whiteDreadfulRoar103",
+      "heatBlastShield": "heatBlastShield1",
+      "archerResist01": "archerResist01",
+      "iceTurretResist01": "iceTurretResist01"
+    },
+    "attackPower": 38407,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1284"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 26,
+    "upgradeXP": 2178298,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 3513378,
+    "nextEvolveLevel": 29,
+    "tierNumber": 7,
+    "rarity": 6,
+    "sceneFile": "drg_glacialWarrior_level4.lvl"
+  },
+  {
+    "identifier": "algorDragon",
+    "level": 28,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "366358"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 4364754,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T4C2WIdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "dreadfulRoar": "whiteDreadfulRoar104",
+      "heatBlastShield": "heatBlastShield1",
+      "archerResist01": "archerResist01",
+      "iceTurretResist01": "iceTurretResist01"
+    },
+    "attackPower": 39569,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1284"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 26,
+    "upgradeXP": 2396128,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 3619836,
+    "nextEvolveLevel": 29,
+    "tierNumber": 7,
+    "rarity": 6,
+    "sceneFile": "drg_glacialWarrior_level4.lvl"
+  },
+  {
+    "identifier": "algorDragon",
+    "level": 29,
+    "upgradeCost": [
+      {
+        "type": "winterMythicSapphireStone",
+        "amount": "1"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "haveLegendarySapphire",
+    "HP": 4472174,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T4C2WIdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "dreadfulRoar": "whiteDreadfulRoar105",
+      "heatBlastShield": "heatBlastShield1",
+      "archerResist01": "archerResist01",
+      "iceTurretResist01": "iceTurretResist01"
+    },
+    "attackPower": 40545,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1338"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 27,
+    "upgradeXP": 2635741,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 3994045,
+    "nextEvolveLevel": 36,
+    "tierNumber": 8,
+    "rarity": 6,
+    "sceneFile": "drg_glacialWarrior_level5.lvl"
+  },
+  {
+    "identifier": "algorDragon",
+    "level": 30,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "407766"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 4698546,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T4C2WIdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "dreadfulRoar": "whiteDreadfulRoar107",
+      "heatBlastShield": "heatBlastShield1",
+      "archerResist01": "archerResist01",
+      "iceTurretResist01": "iceTurretResist01"
+    },
+    "attackPower": 42598,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1374"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 27,
+    "upgradeXP": 2899315,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 4408635,
+    "nextEvolveLevel": 36,
+    "tierNumber": 8,
+    "rarity": 6,
+    "sceneFile": "drg_glacialWarrior_level5.lvl"
+  },
+  {
+    "identifier": "algorDragon",
+    "level": 31,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "430193"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 4936381,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T4C2WIdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "dreadfulRoar": "whiteDreadfulRoar109",
+      "heatBlastShield": "heatBlastShield1",
+      "archerResist01": "archerResist01",
+      "iceTurretResist01": "iceTurretResist01"
+    },
+    "attackPower": 44754,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1410"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 28,
+    "upgradeXP": 3189247,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 4866239,
+    "nextEvolveLevel": 36,
+    "tierNumber": 8,
+    "rarity": 6,
+    "sceneFile": "drg_glacialWarrior_level5.lvl"
+  },
+  {
+    "identifier": "algorDragon",
+    "level": 32,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "453854"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 5186250,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T4C2WIdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "dreadfulRoar": "whiteDreadfulRoar111",
+      "heatBlastShield": "heatBlastShield1",
+      "archerResist01": "archerResist01",
+      "iceTurretResist01": "iceTurretResist01"
+    },
+    "attackPower": 47020,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1446"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 29,
+    "upgradeXP": 3508172,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 5371377,
+    "nextEvolveLevel": 36,
+    "tierNumber": 8,
+    "rarity": 6,
+    "sceneFile": "drg_glacialWarrior_level5.lvl"
+  },
+  {
+    "identifier": "algorDragon",
+    "level": 33,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "478816"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "have2LegendarySapphire",
+    "HP": 5448754,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T4C2WIdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "dreadfulRoar": "whiteDreadfulRoar113",
+      "heatBlastShield": "heatBlastShield1",
+      "archerResist01": "archerResist01",
+      "iceTurretResist01": "iceTurretResist01"
+    },
+    "attackPower": 49400,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1482"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 29,
+    "upgradeXP": 3858989,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 5929083,
+    "nextEvolveLevel": 36,
+    "tierNumber": 8,
+    "rarity": 6,
+    "sceneFile": "drg_glacialWarrior_level5.lvl"
+  },
+  {
+    "identifier": "algorDragon",
+    "level": 34,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "505151"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 5724547,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T4C2WIdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "dreadfulRoar": "whiteDreadfulRoar115",
+      "heatBlastShield": "heatBlastShield1",
+      "archerResist01": "archerResist01",
+      "iceTurretResist01": "iceTurretResist01"
+    },
+    "attackPower": 51901,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1518"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 30,
+    "upgradeXP": 4244888,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 6544464,
+    "nextEvolveLevel": 36,
+    "tierNumber": 8,
+    "rarity": 6,
+    "sceneFile": "drg_glacialWarrior_level5.lvl"
+  },
+  {
+    "identifier": "algorDragon",
+    "level": 35,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "532934"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 6014327,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T4C2WIdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "dreadfulRoar": "whiteDreadfulRoar117",
+      "heatBlastShield": "heatBlastShield1",
+      "archerResist01": "archerResist01",
+      "iceTurretResist01": "iceTurretResist01"
+    },
+    "attackPower": 54529,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1554"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 31,
+    "upgradeXP": 4478357,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 7223789,
+    "nextEvolveLevel": 36,
+    "tierNumber": 8,
+    "rarity": 6,
+    "sceneFile": "drg_glacialWarrior_level5.lvl"
+  },
+  {
+    "identifier": "algorDragon",
+    "level": 36,
+    "upgradeCost": [
+      {
+        "type": "winterMythicGarnetStone",
+        "amount": "1"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "haveLegendaryGarnet",
+    "HP": 6476722,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T4C2WIdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "dreadfulRoar": "whiteDreadfulRoar118",
+      "heatBlastShield": "heatBlastShield1",
+      "archerResist01": "archerResist01",
+      "iceTurretResist01": "iceTurretResist01"
+    },
+    "attackPower": 58721,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1572"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 31,
+    "upgradeXP": 4724667,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 8377262,
+    "nextEvolveLevel": 46,
+    "tierNumber": 9,
+    "rarity": 6,
+    "sceneFile": "drg_glacialWarrior_level6.lvl"
+  },
+  {
+    "identifier": "algorDragon",
+    "level": 37,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "593169"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 6638615,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T4C2WIdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "dreadfulRoar": "whiteDreadfulRoar119",
+      "heatBlastShield": "heatBlastShield1",
+      "archerResist01": "archerResist01",
+      "iceTurretResist01": "iceTurretResist01"
+    },
+    "attackPower": 60189,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1590"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 31,
+    "upgradeXP": 4984524,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 8801412,
+    "nextEvolveLevel": 46,
+    "tierNumber": 9,
+    "rarity": 6,
+    "sceneFile": "drg_glacialWarrior_level6.lvl"
+  },
+  {
+    "identifier": "algorDragon",
+    "level": 38,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "625793"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 6974650,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T4C2WIdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "dreadfulRoar": "whiteDreadfulRoar121",
+      "heatBlastShield": "heatBlastShield1",
+      "archerResist01": "archerResist01",
+      "iceTurretResist01": "iceTurretResist01"
+    },
+    "attackPower": 63236,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1626"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 32,
+    "upgradeXP": 5258673,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 9715012,
+    "nextEvolveLevel": 46,
+    "tierNumber": 9,
+    "rarity": 6,
+    "sceneFile": "drg_glacialWarrior_level6.lvl"
+  },
+  {
+    "identifier": "algorDragon",
+    "level": 39,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "660212"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 7327700,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T4C2WIdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "dreadfulRoar": "whiteDreadfulRoar123",
+      "heatBlastShield": "heatBlastShield1",
+      "archerResist01": "archerResist01",
+      "iceTurretResist01": "iceTurretResist01"
+    },
+    "attackPower": 66437,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1662"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 33,
+    "upgradeXP": 5547900,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 10723557,
+    "nextEvolveLevel": 46,
+    "tierNumber": 9,
+    "rarity": 6,
+    "sceneFile": "drg_glacialWarrior_level6.lvl"
+  },
+  {
+    "identifier": "algorDragon",
+    "level": 40,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "696523"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 7698622,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T4C2WIdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "dreadfulRoar": "whiteDreadfulRoar125",
+      "heatBlastShield": "heatBlastShield1",
+      "archerResist01": "archerResist01",
+      "iceTurretResist01": "iceTurretResist01"
+    },
+    "attackPower": 69801,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1698"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 33,
+    "upgradeXP": 5853035,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 11836587,
+    "nextEvolveLevel": 46,
+    "tierNumber": 9,
+    "rarity": 6,
+    "sceneFile": "drg_glacialWarrior_level6.lvl"
+  },
+  {
+    "identifier": "algorDragon",
+    "level": 41,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "734832"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "have2LegendaryGarnet",
+    "HP": 8088313,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T4C2WIdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "dreadfulRoar": "whiteDreadfulRoar127",
+      "heatBlastShield": "heatBlastShield1",
+      "archerResist01": "archerResist01",
+      "iceTurretResist01": "iceTurretResist01"
+    },
+    "attackPower": 73334,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1734"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 34,
+    "upgradeXP": 6174952,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 13065426,
+    "nextEvolveLevel": 46,
+    "tierNumber": 9,
+    "rarity": 6,
+    "sceneFile": "drg_glacialWarrior_level6.lvl"
+  },
+  {
+    "identifier": "algorDragon",
+    "level": 42,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "775248"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 8497749,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T4C2WIdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "dreadfulRoar": "whiteDreadfulRoar129",
+      "heatBlastShield": "heatBlastShield1",
+      "archerResist01": "archerResist01",
+      "iceTurretResist01": "iceTurretResist01"
+    },
+    "attackPower": 77047,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1770"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 35,
+    "upgradeXP": 6514574,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 14421698,
+    "nextEvolveLevel": 46,
+    "tierNumber": 9,
+    "rarity": 6,
+    "sceneFile": "drg_glacialWarrior_level6.lvl"
+  },
+  {
+    "identifier": "algorDragon",
+    "level": 43,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "817886"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 8927892,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T4C2WIdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "dreadfulRoar": "whiteDreadfulRoar131",
+      "heatBlastShield": "heatBlastShield1",
+      "archerResist01": "archerResist01",
+      "iceTurretResist01": "iceTurretResist01"
+    },
+    "attackPower": 80947,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1806"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 35,
+    "upgradeXP": 6872876,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 15918750,
+    "nextEvolveLevel": 46,
+    "tierNumber": 9,
+    "rarity": 6,
+    "sceneFile": "drg_glacialWarrior_level6.lvl"
+  },
+  {
+    "identifier": "algorDragon",
+    "level": 44,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "862870"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 9379816,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T4C2WIdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "dreadfulRoar": "whiteDreadfulRoar133",
+      "heatBlastShield": "heatBlastShield1",
+      "archerResist01": "archerResist01",
+      "iceTurretResist01": "iceTurretResist01"
+    },
+    "attackPower": 85045,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1842"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 36,
+    "upgradeXP": 7250884,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 17571200,
+    "nextEvolveLevel": 46,
+    "tierNumber": 9,
+    "rarity": 6,
+    "sceneFile": "drg_glacialWarrior_level6.lvl"
+  },
+  {
+    "identifier": "algorDragon",
+    "level": 45,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "910328"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "haveMythicGarnet",
+    "HP": 11595464,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T4C2WIdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "dreadfulRoar": "whiteDreadfulRoar135",
+      "heatBlastShield": "heatBlastShield1",
+      "archerResist01": "archerResist01",
+      "iceTurretResist01": "iceTurretResist01"
+    },
+    "attackPower": 105135,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1878"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 37,
+    "upgradeXP": 8000000,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 24827178,
+    "nextEvolveLevel": 46,
+    "tierNumber": 9,
+    "rarity": 6,
+    "sceneFile": "drg_glacialWarrior_level7.lvl"
+  },
+  {
+    "identifier": "algorDragon",
+    "level": 46,
+    "upgradeCost": [
+      {
+        "type": "winterMythicEmeraldStone",
+        "amount": "1"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "haveLegendaryEmerald",
+    "HP": 11428196,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T4C2WIdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "dreadfulRoar": "whiteDreadfulRoar143",
+      "heatBlastShield": "heatBlastShield1",
+      "archerResist01": "archerResist01",
+      "iceTurretResist01": "iceTurretResist01"
+    },
+    "attackPower": 103619,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2022"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 39,
+    "upgradeXP": 8849316,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 26083926,
+    "nextEvolveLevel": 0,
+    "tierNumber": 10,
+    "rarity": 6,
+    "sceneFile": "drg_glacialWarrior_level7.lvl"
+  },
+  {
+    "identifier": "algorDragon",
+    "level": 47,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "987806"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 12306870,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T4C2WIdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "dreadfulRoar": "whiteDreadfulRoar146",
+      "heatBlastShield": "heatBlastShield1",
+      "archerResist01": "archerResist01",
+      "iceTurretResist01": "iceTurretResist01"
+    },
+    "attackPower": 111586,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2076"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 40,
+    "upgradeXP": 9648532,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 30249139,
+    "nextEvolveLevel": 0,
+    "tierNumber": 10,
+    "rarity": 6,
+    "sceneFile": "drg_glacialWarrior_level7.lvl"
+  },
+  {
+    "identifier": "algorDragon",
+    "level": 48,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1026545"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 13253086,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T4C2WIdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "dreadfulRoar": "whiteDreadfulRoar149",
+      "heatBlastShield": "heatBlastShield1",
+      "archerResist01": "archerResist01",
+      "iceTurretResist01": "iceTurretResist01"
+    },
+    "attackPower": 120166,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2130"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 40,
+    "upgradeXP": 10447748,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 35079550,
+    "nextEvolveLevel": 0,
+    "tierNumber": 10,
+    "rarity": 6,
+    "sceneFile": "drg_glacialWarrior_level7.lvl"
+  },
+  {
+    "identifier": "algorDragon",
+    "level": 49,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1065284"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "have2LegendaryEmerald",
+    "HP": 13923969,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T4C2WIdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "dreadfulRoar": "whiteDreadfulRoar151",
+      "heatBlastShield": "heatBlastShield1",
+      "archerResist01": "archerResist01",
+      "iceTurretResist01": "iceTurretResist01"
+    },
+    "attackPower": 126249,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2166"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 40,
+    "upgradeXP": 11246968,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 38721101,
+    "nextEvolveLevel": 0,
+    "tierNumber": 10,
+    "rarity": 6,
+    "sceneFile": "drg_glacialWarrior_level7.lvl"
+  },
+  {
+    "identifier": "algorDragon",
+    "level": 50,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1104023"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 14628823,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T4C2WIdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "dreadfulRoar": "whiteDreadfulRoar153",
+      "heatBlastShield": "heatBlastShield1",
+      "archerResist01": "archerResist01",
+      "iceTurretResist01": "iceTurretResist01"
+    },
+    "attackPower": 132640,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2202"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 40,
+    "upgradeXP": 0,
+    "xpRewardMultiplier": 1.2,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 42740793,
+    "nextEvolveLevel": 0,
+    "tierNumber": 10,
+    "rarity": 6,
+    "sceneFile": "drg_glacialWarrior_level7.lvl"
+  }
+]

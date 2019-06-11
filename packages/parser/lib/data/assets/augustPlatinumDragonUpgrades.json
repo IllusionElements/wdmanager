@@ -1,0 +1,1427 @@
+[
+  {
+    "identifier": "augustPlatinumDragon",
+    "level": 1,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "8813"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 86236,
+    "fullHealDuration": 5255,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T3C3SUdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "invertSpell": "invert1",
+      "risingPhoenix": "risingPhoenix1"
+    },
+    "attackPower": 5784,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "80"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 5,
+    "upgradeXP": 16048,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 2968,
+    "nextEvolveLevel": 6,
+    "tierNumber": 3,
+    "rarity": 4
+  },
+  {
+    "identifier": "augustPlatinumDragon",
+    "level": 2,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "13431"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 99750,
+    "fullHealDuration": 6730,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T3C3SUdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "invertSpell": "invert1",
+      "risingPhoenix": "risingPhoenix1"
+    },
+    "attackPower": 6764,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "97"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 5,
+    "upgradeXP": 25425,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 3999,
+    "nextEvolveLevel": 6,
+    "tierNumber": 3,
+    "rarity": 4
+  },
+  {
+    "identifier": "augustPlatinumDragon",
+    "level": 3,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "23746"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 131111,
+    "fullHealDuration": 10086,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T3C3SUdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "invertSpell": "invert1",
+      "risingPhoenix": "risingPhoenix1"
+    },
+    "attackPower": 8825,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "122"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 6,
+    "upgradeXP": 53478,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 8918,
+    "nextEvolveLevel": 6,
+    "tierNumber": 3,
+    "rarity": 4
+  },
+  {
+    "identifier": "augustPlatinumDragon",
+    "level": 4,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "59652"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 170458,
+    "fullHealDuration": 14786,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T3C3SUdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "invertSpell": "invert1",
+      "risingPhoenix": "risingPhoenix1"
+    },
+    "attackPower": 11304,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "150"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 7,
+    "upgradeXP": 104142,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 14855,
+    "nextEvolveLevel": 6,
+    "tierNumber": 3,
+    "rarity": 4
+  },
+  {
+    "identifier": "augustPlatinumDragon",
+    "level": 5,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "88334"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 229345,
+    "fullHealDuration": 15840,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T3C3SUdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "invertSpell": "invert1",
+      "risingPhoenix": "risingPhoenix1"
+    },
+    "attackPower": 13328,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "190"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 8,
+    "upgradeXP": 125000,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 23590,
+    "nextEvolveLevel": 6,
+    "tierNumber": 3,
+    "rarity": 4
+  },
+  {
+    "identifier": "augustPlatinumDragon",
+    "level": 6,
+    "upgradeCost": [
+      {
+        "type": "augustOrangeStone",
+        "amount": "1"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "haveOrangeEpic",
+    "HP": 294956,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T4C3SUdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "invertSpell": "invert1",
+      "risingPhoenix": "risingPhoenix1",
+      "lightningResist01": "lightningResist01"
+    },
+    "attackPower": 17073,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "276"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 10,
+    "upgradeXP": 175313,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 32890,
+    "nextEvolveLevel": 11,
+    "tierNumber": 4,
+    "rarity": 5
+  },
+  {
+    "identifier": "augustPlatinumDragon",
+    "level": 7,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "82368"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 335392,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T4C3SUdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "invertSpell": "invert1",
+      "risingPhoenix": "risingPhoenix1",
+      "lightningResist01": "lightningResist01"
+    },
+    "attackPower": 19469,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "312"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 11,
+    "upgradeXP": 209256,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 42619,
+    "nextEvolveLevel": 11,
+    "tierNumber": 4,
+    "rarity": 5
+  },
+  {
+    "identifier": "augustPlatinumDragon",
+    "level": 8,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "128337"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 407705,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T4C3SUdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "invertSpell": "invert1",
+      "risingPhoenix": "risingPhoenix1",
+      "lightningResist01": "lightningResist01"
+    },
+    "attackPower": 23665,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "366"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 13,
+    "upgradeXP": 337723,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 62985,
+    "nextEvolveLevel": 11,
+    "tierNumber": 4,
+    "rarity": 5
+  },
+  {
+    "identifier": "augustPlatinumDragon",
+    "level": 9,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "147271"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 495035,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T4C3SUdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "invertSpell": "invert1",
+      "risingPhoenix": "risingPhoenix1",
+      "lightningResist01": "lightningResist01"
+    },
+    "attackPower": 28210,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "420"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 14,
+    "upgradeXP": 501367,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 91190,
+    "nextEvolveLevel": 11,
+    "tierNumber": 4,
+    "rarity": 5
+  },
+  {
+    "identifier": "augustPlatinumDragon",
+    "level": 10,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "203285"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 632046,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T4C3SUdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "invertSpell": "invert1",
+      "risingPhoenix": "risingPhoenix1",
+      "lightningResist01": "lightningResist01"
+    },
+    "attackPower": 32033,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "474"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 16,
+    "upgradeXP": 607915,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 132194,
+    "nextEvolveLevel": 11,
+    "tierNumber": 4,
+    "rarity": 5
+  },
+  {
+    "identifier": "augustPlatinumDragon",
+    "level": 11,
+    "upgradeCost": [
+      {
+        "type": "augustGreenStone",
+        "amount": "1"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "haveGreenLegendary",
+    "HP": 727580,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T5C3SDdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "invertSpell": "invert1",
+      "risingPhoenix": "risingPhoenix1",
+      "lightningResist01": "lightningResist01",
+      "sacrifice": "sacrifice1"
+    },
+    "attackPower": 37112,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "528"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 17,
+    "upgradeXP": 736386,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 176280,
+    "nextEvolveLevel": 16,
+    "tierNumber": 5,
+    "rarity": 5
+  },
+  {
+    "identifier": "augustPlatinumDragon",
+    "level": 12,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "241883"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 829843,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T5C3SDdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "invertSpell": "invert1",
+      "risingPhoenix": "risingPhoenix1",
+      "lightningResist01": "lightningResist01",
+      "sacrifice": "sacrifice1"
+    },
+    "attackPower": 41935,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "564"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 18,
+    "upgradeXP": 834699,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 227211,
+    "nextEvolveLevel": 16,
+    "tierNumber": 5,
+    "rarity": 5
+  },
+  {
+    "identifier": "augustPlatinumDragon",
+    "level": 13,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "257322"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 940396,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T5C3SDdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "invertSpell": "invert1",
+      "risingPhoenix": "risingPhoenix1",
+      "lightningResist01": "lightningResist01",
+      "sacrifice": "sacrifice1"
+    },
+    "attackPower": 47633,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "600"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 18,
+    "upgradeXP": 1112202,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 292531,
+    "nextEvolveLevel": 16,
+    "tierNumber": 5,
+    "rarity": 5
+  },
+  {
+    "identifier": "augustPlatinumDragon",
+    "level": 14,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "318874"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 1065343,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T5C3SDdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "invertSpell": "invert1",
+      "risingPhoenix": "risingPhoenix1",
+      "lightningResist01": "lightningResist01",
+      "sacrifice": "sacrifice1"
+    },
+    "attackPower": 54091,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "636"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 18,
+    "upgradeXP": 1259773,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 376319,
+    "nextEvolveLevel": 16,
+    "tierNumber": 5,
+    "rarity": 5
+  },
+  {
+    "identifier": "augustPlatinumDragon",
+    "level": 15,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "336924"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 1213400,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T5C3SDdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "invertSpell": "invert1",
+      "risingPhoenix": "risingPhoenix1",
+      "lightningResist01": "lightningResist01",
+      "sacrifice": "sacrifice1"
+    },
+    "attackPower": 61251,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "672"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 18,
+    "upgradeXP": 1434469,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 485316,
+    "nextEvolveLevel": 16,
+    "tierNumber": 5,
+    "rarity": 5
+  },
+  {
+    "identifier": "augustPlatinumDragon",
+    "level": 16,
+    "upgradeCost": [
+      {
+        "type": "augustGoldStone",
+        "amount": "1"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "haveGoldLegendary",
+    "HP": 1515251,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T6C3SDdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "invertSpell": "invert1",
+      "risingPhoenix": "risingPhoenix1",
+      "lightningResist01": "lightningResist01",
+      "sacrifice": "sacrifice1"
+    },
+    "attackPower": 75736,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "744"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 18,
+    "upgradeXP": 1146308,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 749362,
+    "nextEvolveLevel": 21,
+    "tierNumber": 6,
+    "rarity": 5
+  },
+  {
+    "identifier": "augustPlatinumDragon",
+    "level": 17,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "279815"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 1647800,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T6C3SDdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "invertSpell": "invert1",
+      "risingPhoenix": "risingPhoenix1",
+      "lightningResist01": "lightningResist01",
+      "sacrifice": "sacrifice1"
+    },
+    "attackPower": 83201,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "798"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 18,
+    "upgradeXP": 1234440,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 895245,
+    "nextEvolveLevel": 21,
+    "tierNumber": 6,
+    "rarity": 5
+  },
+  {
+    "identifier": "augustPlatinumDragon",
+    "level": 18,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "365397"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 1774459,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T6C3SDdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "invertSpell": "invert1",
+      "risingPhoenix": "risingPhoenix1",
+      "lightningResist01": "lightningResist01",
+      "sacrifice": "sacrifice1"
+    },
+    "attackPower": 89598,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "852"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 18,
+    "upgradeXP": 1625913,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 1038133,
+    "nextEvolveLevel": 21,
+    "tierNumber": 6,
+    "rarity": 5
+  },
+  {
+    "identifier": "augustPlatinumDragon",
+    "level": 19,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "454245"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 1910865,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T6C3SDdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "invertSpell": "invert1",
+      "risingPhoenix": "risingPhoenix1",
+      "lightningResist01": "lightningResist01",
+      "sacrifice": "sacrifice1"
+    },
+    "attackPower": 96487,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "906"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 18,
+    "upgradeXP": 2046937,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 1203895,
+    "nextEvolveLevel": 21,
+    "tierNumber": 6,
+    "rarity": 5
+  },
+  {
+    "identifier": "augustPlatinumDragon",
+    "level": 20,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "481320"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 2057752,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T6C3SDdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "invertSpell": "invert1",
+      "risingPhoenix": "risingPhoenix1",
+      "lightningResist01": "lightningResist01",
+      "sacrifice": "sacrifice1"
+    },
+    "attackPower": 103906,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "960"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 18,
+    "upgradeXP": 2202169,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 1396122,
+    "nextEvolveLevel": 21,
+    "tierNumber": 6,
+    "rarity": 5
+  },
+  {
+    "identifier": "augustPlatinumDragon",
+    "level": 21,
+    "upgradeCost": [
+      {
+        "type": "augustPlatinumStone",
+        "amount": "1"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "havePlatinumLegendary",
+    "HP": 2109180,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T7C3SIdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "invertSpell": "invert1",
+      "risingPhoenix": "risingPhoenix1",
+      "lightningResist01": "lightningResist01",
+      "sacrifice": "sacrifice1"
+    },
+    "attackPower": 106503,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "978"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 22,
+    "upgradeXP": 1189708,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 1466888,
+    "nextEvolveLevel": 0,
+    "tierNumber": 7,
+    "rarity": 5
+  },
+  {
+    "identifier": "augustPlatinumDragon",
+    "level": 22,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "267696"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 2215924,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T7C3SIdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "invertSpell": "invert1",
+      "risingPhoenix": "risingPhoenix1",
+      "lightningResist01": "lightningResist01",
+      "sacrifice": "sacrifice1"
+    },
+    "attackPower": 111895,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1014"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 23,
+    "upgradeXP": 1249935,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 1619027,
+    "nextEvolveLevel": 0,
+    "tierNumber": 7,
+    "rarity": 5
+  },
+  {
+    "identifier": "augustPlatinumDragon",
+    "level": 23,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "277200"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 2328070,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T7C3SIdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "invertSpell": "invert1",
+      "risingPhoenix": "risingPhoenix1",
+      "lightningResist01": "lightningResist01",
+      "sacrifice": "sacrifice1"
+    },
+    "attackPower": 117559,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1050"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 24,
+    "upgradeXP": 1313211,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 1787102,
+    "nextEvolveLevel": 0,
+    "tierNumber": 7,
+    "rarity": 5
+  },
+  {
+    "identifier": "augustPlatinumDragon",
+    "level": 24,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "380801"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 2445900,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T7C3SIdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "invertSpell": "invert1",
+      "risingPhoenix": "risingPhoenix1",
+      "lightningResist01": "lightningResist01",
+      "sacrifice": "sacrifice1"
+    },
+    "attackPower": 123510,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1086"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 24,
+    "upgradeXP": 1832505,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 1972653,
+    "nextEvolveLevel": 0,
+    "tierNumber": 7,
+    "rarity": 5
+  },
+  {
+    "identifier": "augustPlatinumDragon",
+    "level": 25,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "393424"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 2569706,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T7C3SIdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "invertSpell": "invert1",
+      "risingPhoenix": "risingPhoenix1",
+      "lightningResist01": "lightningResist01",
+      "sacrifice": "sacrifice1"
+    },
+    "attackPower": 129763,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1122"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 25,
+    "upgradeXP": 1925271,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 2177409,
+    "nextEvolveLevel": 0,
+    "tierNumber": 7,
+    "rarity": 5
+  },
+  {
+    "identifier": "augustPlatinumDragon",
+    "level": 26,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "496631"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 2699785,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T7C3SIdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "invertSpell": "invert1",
+      "risingPhoenix": "risingPhoenix1",
+      "lightningResist01": "lightningResist01",
+      "sacrifice": "sacrifice1"
+    },
+    "attackPower": 136332,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1158"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 26,
+    "upgradeXP": 2473982,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 2403434,
+    "nextEvolveLevel": 0,
+    "tierNumber": 7,
+    "rarity": 5
+  },
+  {
+    "identifier": "augustPlatinumDragon",
+    "level": 27,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "519790"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 2907334,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T7C3SIdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "invertSpell": "invert1",
+      "risingPhoenix": "risingPhoenix1",
+      "lightningResist01": "lightningResist01",
+      "sacrifice": "sacrifice1"
+    },
+    "attackPower": 146814,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1212"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 26,
+    "upgradeXP": 3114611,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 2787130,
+    "nextEvolveLevel": 0,
+    "tierNumber": 7,
+    "rarity": 5
+  },
+  {
+    "identifier": "augustPlatinumDragon",
+    "level": 28,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "643765"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 3273572,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T7C3SIdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "invertSpell": "invert1",
+      "risingPhoenix": "risingPhoenix1",
+      "lightningResist01": "lightningResist01",
+      "sacrifice": "sacrifice1"
+    },
+    "attackPower": 161214,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1284"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 26,
+    "upgradeXP": 3354088,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 3446151,
+    "nextEvolveLevel": 0,
+    "tierNumber": 7,
+    "rarity": 5
+  },
+  {
+    "identifier": "augustPlatinumDragon",
+    "level": 29,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "643765"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 3306307,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T7C3SIdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "invertSpell": "invert1",
+      "risingPhoenix": "risingPhoenix1",
+      "lightningResist01": "lightningResist01",
+      "sacrifice": "sacrifice1"
+    },
+    "attackPower": 162826,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1284"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 26,
+    "upgradeXP": 3354088,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 3515418,
+    "nextEvolveLevel": 0,
+    "tierNumber": 7,
+    "rarity": 5
+  },
+  {
+    "identifier": "augustPlatinumDragon",
+    "level": 30,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "643765"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 3372763,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T7C3SIdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "invertSpell": "invert1",
+      "risingPhoenix": "risingPhoenix1",
+      "lightningResist01": "lightningResist01",
+      "sacrifice": "sacrifice1"
+    },
+    "attackPower": 166098,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1284"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 26,
+    "upgradeXP": 0,
+    "xpRewardMultiplier": 1.2,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 3658157,
+    "nextEvolveLevel": 0,
+    "tierNumber": 7,
+    "rarity": 5
+  }
+]

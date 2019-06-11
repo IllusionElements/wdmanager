@@ -1,0 +1,641 @@
+[
+  {
+    "identifier": "T7C1SIdragon",
+    "level": 1,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "0"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 489072,
+    "fullHealDuration": 14400,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T7C1SIdragon_lockon"
+      }
+    ],
+    "abilities": {},
+    "attackPower": 24660,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "304"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 15,
+    "upgradeXP": 166595,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 47320
+  },
+  {
+    "identifier": "T7C1SIdragon",
+    "level": 2,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "85320"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 505637,
+    "fullHealDuration": 14400,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T7C1SIdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "frozenTomb": "frozenTomb1"
+    },
+    "attackPower": 25626,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "316"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 16,
+    "upgradeXP": 202233,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 76266
+  },
+  {
+    "identifier": "T7C1SIdragon",
+    "level": 3,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "88560"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 526397,
+    "fullHealDuration": 14400,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T7C1SIdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "frozenTomb": "frozenTomb1"
+    },
+    "attackPower": 26754,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "328"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 16,
+    "upgradeXP": 248621,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 82911
+  },
+  {
+    "identifier": "T7C1SIdragon",
+    "level": 4,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "91800"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 548285,
+    "fullHealDuration": 14400,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T7C1SIdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "frozenTomb": "frozenTomb1"
+    },
+    "attackPower": 28092,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "340"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 17,
+    "upgradeXP": 296679,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 90668
+  },
+  {
+    "identifier": "T7C1SIdragon",
+    "level": 5,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "95041"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 582064,
+    "fullHealDuration": 14400,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T7C1SIdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "frozenTomb": "frozenTomb1",
+      "archerResist01": "archerResist01"
+    },
+    "attackPower": 29689,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "352"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 17,
+    "upgradeXP": 350276,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 135600
+  },
+  {
+    "identifier": "T7C1SIdragon",
+    "level": 6,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "98280"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 621671,
+    "fullHealDuration": 14400,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T7C1SIdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "frozenTomb": "frozenTomb1",
+      "archerResist01": "archerResist01"
+    },
+    "attackPower": 31488,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "364"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 18,
+    "upgradeXP": 374062,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 153659
+  },
+  {
+    "identifier": "T7C1SIdragon",
+    "level": 7,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "101520"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 663875,
+    "fullHealDuration": 14400,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T7C1SIdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "frozenTomb": "frozenTomb1",
+      "archerResist01": "archerResist01"
+    },
+    "attackPower": 33548,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "376"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 18,
+    "upgradeXP": 397040,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 174778
+  },
+  {
+    "identifier": "T7C1SIdragon",
+    "level": 8,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "104760"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 704646,
+    "fullHealDuration": 14400,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T7C1SIdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "frozenTomb": "frozenTomb1",
+      "archerResist01": "archerResist01"
+    },
+    "attackPower": 35779,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "388"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 18,
+    "upgradeXP": 423910,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 197883
+  },
+  {
+    "identifier": "T7C1SIdragon",
+    "level": 9,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "108000"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 752317,
+    "fullHealDuration": 14400,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T7C1SIdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "frozenTomb": "frozenTomb1",
+      "archerResist01": "archerResist01"
+    },
+    "attackPower": 38107,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "400"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 19,
+    "upgradeXP": 601057,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 225024
+  },
+  {
+    "identifier": "T7C1SIdragon",
+    "level": 10,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "147750"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 803103,
+    "fullHealDuration": 14400,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T7C1SIdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "frozenTomb": "frozenTomb1",
+      "archerResist01": "archerResist01"
+    },
+    "attackPower": 40587,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "412"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 19,
+    "upgradeXP": 637870,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 255840
+  },
+  {
+    "identifier": "T7C1SIdragon",
+    "level": 11,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "152053"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 852275,
+    "fullHealDuration": 14400,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T7C1SIdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "frozenTomb": "frozenTomb1",
+      "archerResist01": "archerResist01"
+    },
+    "attackPower": 43273,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "424"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 19,
+    "upgradeXP": 832686,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 289476
+  },
+  {
+    "identifier": "T7C1SIdragon",
+    "level": 12,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "191237"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 909629,
+    "fullHealDuration": 14400,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T7C1SIdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "frozenTomb": "frozenTomb1",
+      "archerResist01": "archerResist01"
+    },
+    "attackPower": 46076,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "436"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 20,
+    "upgradeXP": 888620,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 328970
+  },
+  {
+    "identifier": "T7C1SIdragon",
+    "level": 13,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "196501"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 970720,
+    "fullHealDuration": 14400,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T7C1SIdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "frozenTomb": "frozenTomb1",
+      "archerResist01": "archerResist01"
+    },
+    "attackPower": 49001,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "448"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 20,
+    "upgradeXP": 1102302,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 373320
+  },
+  {
+    "identifier": "T7C1SIdragon",
+    "level": 14,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "235874"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 1029998,
+    "fullHealDuration": 14400,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T7C1SIdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "frozenTomb": "frozenTomb1",
+      "archerResist01": "archerResist01"
+    },
+    "attackPower": 52083,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "460"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 20,
+    "upgradeXP": 1169589,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 421038
+  },
+  {
+    "identifier": "T7C1SIdragon",
+    "level": 15,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "242027"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 1092859,
+    "fullHealDuration": 14400,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T7C1SIdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "frozenTomb": "frozenTomb1",
+      "archerResist01": "archerResist01"
+    },
+    "attackPower": 55137,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "472"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 21,
+    "upgradeXP": 0,
+    "xpRewardMultiplier": 1.2,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 472920
+  }
+]

@@ -1,0 +1,1325 @@
+[
+  {
+    "identifier": "T5C3WEdragon",
+    "level": 1,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "0"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 239775,
+    "fullHealDuration": 16130,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T5C3WEdragon_flamethrower"
+      }
+    ],
+    "abilities": {},
+    "attackPower": 2927,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "180"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 8,
+    "upgradeXP": 48231,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 5714
+  },
+  {
+    "identifier": "T5C3WEdragon",
+    "level": 2,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "50688"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 290093,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T5C3WEdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "chargedShield": "chargedShield1"
+    },
+    "attackPower": 3065,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "192"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 8,
+    "upgradeXP": 54257,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 10860
+  },
+  {
+    "identifier": "T5C3WEdragon",
+    "level": 3,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "53856"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 301072,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T5C3WEdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "chargedShield": "chargedShield1"
+    },
+    "attackPower": 3192,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "204"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 8,
+    "upgradeXP": 68808,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 11747
+  },
+  {
+    "identifier": "T5C3WEdragon",
+    "level": 4,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "57024"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 310366,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T5C3WEdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "chargedShield": "chargedShield1"
+    },
+    "attackPower": 3310,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "216"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 9,
+    "upgradeXP": 89044,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 12537
+  },
+  {
+    "identifier": "T5C3WEdragon",
+    "level": 5,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "60192"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 322608,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T5C3WEdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "chargedShield": "chargedShield1",
+      "healDragon": "heal1"
+    },
+    "attackPower": 3452,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "228"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 9,
+    "upgradeXP": 112526,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 18146
+  },
+  {
+    "identifier": "T5C3WEdragon",
+    "level": 6,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "63360"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 335550,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T5C3WEdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "chargedShield": "chargedShield1",
+      "healDragon": "heal1"
+    },
+    "attackPower": 3623,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "240"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 9,
+    "upgradeXP": 138812,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 19800
+  },
+  {
+    "identifier": "T5C3WEdragon",
+    "level": 7,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "68112"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 356614,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T5C3WEdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "chargedShield": "chargedShield1",
+      "healDragon": "heal1"
+    },
+    "attackPower": 3831,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "258"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 10,
+    "upgradeXP": 156015,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 22275
+  },
+  {
+    "identifier": "T5C3WEdragon",
+    "level": 8,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "72864"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 381708,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T5C3WEdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "chargedShield": "chargedShield1",
+      "healDragon": "heal1"
+    },
+    "attackPower": 4068,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "276"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 10,
+    "upgradeXP": 175313,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 25300
+  },
+  {
+    "identifier": "T5C3WEdragon",
+    "level": 9,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "77616"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 408492,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T5C3WEdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "chargedShield": "chargedShield1",
+      "healDragon": "heal1",
+      "hurricane": "hurricane1"
+    },
+    "attackPower": 4341,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "294"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 11,
+    "upgradeXP": 195591,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 37577
+  },
+  {
+    "identifier": "T5C3WEdragon",
+    "level": 10,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "82368"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 434037,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T5C3WEdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "chargedShield": "chargedShield1",
+      "healDragon": "heal1",
+      "hurricane": "hurricane1"
+    },
+    "attackPower": 4639,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "312"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 11,
+    "upgradeXP": 209256,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 42619
+  },
+  {
+    "identifier": "T5C3WEdragon",
+    "level": 11,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "87120"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 464356,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T5C3WEdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "chargedShield": "chargedShield1",
+      "healDragon": "heal1",
+      "hurricane": "hurricane1"
+    },
+    "attackPower": 4948,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "330"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 12,
+    "upgradeXP": 223834,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 48667
+  },
+  {
+    "identifier": "T5C3WEdragon",
+    "level": 12,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "91872"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 496693,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T5C3WEdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "chargedShield": "chargedShield1",
+      "healDragon": "heal1",
+      "hurricane": "hurricane1"
+    },
+    "attackPower": 5279,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "348"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 12,
+    "upgradeXP": 237776,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 55510
+  },
+  {
+    "identifier": "T5C3WEdragon",
+    "level": 13,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "96625"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 527618,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T5C3WEdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "chargedShield": "chargedShield1",
+      "healDragon": "heal1",
+      "hurricane": "hurricane1"
+    },
+    "attackPower": 5638,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "366"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 13,
+    "upgradeXP": 254271,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 62985
+  },
+  {
+    "identifier": "T5C3WEdragon",
+    "level": 14,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "101376"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 564204,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T5C3WEdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "chargedShield": "chargedShield1",
+      "healDragon": "heal1",
+      "hurricane": "hurricane1",
+      "lightningResist01": "lightningResist01"
+    },
+    "attackPower": 6012,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "384"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 13,
+    "upgradeXP": 271862,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 71859
+  },
+  {
+    "identifier": "T5C3WEdragon",
+    "level": 15,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "106128"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 603216,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T5C3WEdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "chargedShield": "chargedShield1",
+      "healDragon": "heal1",
+      "hurricane": "hurricane1",
+      "lightningResist01": "lightningResist01"
+    },
+    "attackPower": 6371,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "402"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 14,
+    "upgradeXP": 288732,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 81371
+  },
+  {
+    "identifier": "T5C3WEdragon",
+    "level": 16,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "110880"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 640634,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T5C3WEdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "chargedShield": "chargedShield1",
+      "healDragon": "heal1",
+      "hurricane": "hurricane1",
+      "lightningResist01": "lightningResist01"
+    },
+    "attackPower": 6721,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "420"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 14,
+    "upgradeXP": 308628,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 91190
+  },
+  {
+    "identifier": "T5C3WEdragon",
+    "level": 17,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "115632"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 760848,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T5C3WEdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "chargedShield": "chargedShield1",
+      "healDragon": "heal1",
+      "hurricane": "hurricane1",
+      "lightningResist01": "lightningResist01"
+    },
+    "attackPower": 7043,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "438"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 15,
+    "upgradeXP": 329839,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 113471
+  },
+  {
+    "identifier": "T5C3WEdragon",
+    "level": 18,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "120384"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 791146,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T5C3WEdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "chargedShield": "chargedShield1",
+      "healDragon": "heal1",
+      "hurricane": "hurricane1",
+      "lightningResist01": "lightningResist01"
+    },
+    "attackPower": 7344,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "456"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 15,
+    "upgradeXP": 465181,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 123032
+  },
+  {
+    "identifier": "T5C3WEdragon",
+    "level": 19,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "166206"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 817942,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T5C3WEdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "chargedShield": "chargedShield1",
+      "healDragon": "heal1",
+      "hurricane": "hurricane1",
+      "lightningResist01": "lightningResist01"
+    },
+    "attackPower": 7632,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "474"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 16,
+    "upgradeXP": 497033,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 132194
+  },
+  {
+    "identifier": "T5C3WEdragon",
+    "level": 20,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "172518"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 851525,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T5C3WEdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "chargedShield": "chargedShield1",
+      "healDragon": "heal1",
+      "hurricane": "hurricane1",
+      "lightningResist01": "lightningResist01"
+    },
+    "attackPower": 7967,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "492"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 16,
+    "upgradeXP": 530981,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 143712
+  },
+  {
+    "identifier": "T5C3WEdragon",
+    "level": 21,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "178830"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 886931,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T5C3WEdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "chargedShield": "chargedShield1",
+      "healDragon": "heal1",
+      "hurricane": "hurricane1",
+      "lightningResist01": "lightningResist01"
+    },
+    "attackPower": 8366,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "510"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 17,
+    "upgradeXP": 563705,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 157158
+  },
+  {
+    "identifier": "T5C3WEdragon",
+    "level": 22,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "185141"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 941573,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T5C3WEdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "chargedShield": "chargedShield1",
+      "healDragon": "heal1",
+      "hurricane": "hurricane1",
+      "lightningResist01": "lightningResist01"
+    },
+    "attackPower": 8842,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "528"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 17,
+    "upgradeXP": 736386,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 176280
+  },
+  {
+    "identifier": "T5C3WEdragon",
+    "level": 23,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "234163"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 1005644,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T5C3WEdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "chargedShield": "chargedShield1",
+      "healDragon": "heal1",
+      "hurricane": "hurricane1",
+      "lightningResist01": "lightningResist01"
+    },
+    "attackPower": 9377,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "546"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 18,
+    "upgradeXP": 786390,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 199757
+  },
+  {
+    "identifier": "T5C3WEdragon",
+    "level": 24,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "241883"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 1073915,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T5C3WEdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "chargedShield": "chargedShield1",
+      "healDragon": "heal1",
+      "hurricane": "hurricane1",
+      "lightningResist01": "lightningResist01"
+    },
+    "attackPower": 9991,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "564"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 18,
+    "upgradeXP": 834699,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 227211
+  },
+  {
+    "identifier": "T5C3WEdragon",
+    "level": 25,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "249602"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 1139868,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T5C3WEdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "chargedShield": "chargedShield1",
+      "healDragon": "heal1",
+      "hurricane": "hurricane1",
+      "lightningResist01": "lightningResist01"
+    },
+    "attackPower": 10655,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "582"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 18,
+    "upgradeXP": 891186,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 257248
+  },
+  {
+    "identifier": "T5C3WEdragon",
+    "level": 26,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "257322"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 1216983,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T5C3WEdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "chargedShield": "chargedShield1",
+      "healDragon": "heal1",
+      "hurricane": "hurricane1",
+      "lightningResist01": "lightningResist01"
+    },
+    "attackPower": 11348,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "600"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 18,
+    "upgradeXP": 1112202,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 292531
+  },
+  {
+    "identifier": "T5C3WEdragon",
+    "level": 27,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "309850"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 1299136,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T5C3WEdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "chargedShield": "chargedShield1",
+      "healDragon": "heal1",
+      "hurricane": "hurricane1",
+      "lightningResist01": "lightningResist01"
+    },
+    "attackPower": 12087,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "618"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 18,
+    "upgradeXP": 1180322,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 332592
+  },
+  {
+    "identifier": "T5C3WEdragon",
+    "level": 28,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "318874"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 1378679,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T5C3WEdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "chargedShield": "chargedShield1",
+      "healDragon": "heal1",
+      "hurricane": "hurricane1",
+      "lightningResist01": "lightningResist01"
+    },
+    "attackPower": 12887,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "636"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 18,
+    "upgradeXP": 1259773,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 376319
+  },
+  {
+    "identifier": "T5C3WEdragon",
+    "level": 29,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "327899"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 1471458,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T5C3WEdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "chargedShield": "chargedShield1",
+      "healDragon": "heal1",
+      "hurricane": "hurricane1",
+      "lightningResist01": "lightningResist01"
+    },
+    "attackPower": 13721,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "654"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 18,
+    "upgradeXP": 1344395,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 427661
+  },
+  {
+    "identifier": "T5C3WEdragon",
+    "level": 30,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "336924"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 1570282,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T5C3WEdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "chargedShield": "chargedShield1",
+      "healDragon": "heal1",
+      "hurricane": "hurricane1",
+      "lightningResist01": "lightningResist01"
+    },
+    "attackPower": 14592,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "672"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 18,
+    "upgradeXP": 0,
+    "xpRewardMultiplier": 1.2,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 485316
+  }
+]

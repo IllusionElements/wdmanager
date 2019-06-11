@@ -1,0 +1,1802 @@
+[
+  {
+    "identifier": "T11C4HDdragon",
+    "level": 1,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "0"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 8026750,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T11C4HDdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "dodge": "flash1",
+      "consume": "consume1",
+      "lightSpeed": "lightSpeed1",
+      "lightningResist01": "lightningResist01"
+    },
+    "attackPower": 444750,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2296"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 38,
+    "upgradeXP": 3236206,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 22492332
+  },
+  {
+    "identifier": "T11C4HDdragon",
+    "level": 2,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "595800"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 8227399,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T11C4HDdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "dodge": "flash1",
+      "consume": "consume1",
+      "lightSpeed": "lightSpeed1",
+      "lightningResist01": "lightningResist01"
+    },
+    "attackPower": 455869,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2317"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 39,
+    "upgradeXP": 3317110,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 23630933
+  },
+  {
+    "identifier": "T11C4HDdragon",
+    "level": 3,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "601200"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 8433065,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T11C4HDdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "dodge": "flash1",
+      "consume": "consume1",
+      "lightSpeed": "lightSpeed1",
+      "lightningResist01": "lightningResist01"
+    },
+    "attackPower": 467266,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2338"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 39,
+    "upgradeXP": 3862873,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 24827179
+  },
+  {
+    "identifier": "T11C4HDdragon",
+    "level": 4,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "606600"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 8643872,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T11C4HDdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "dodge": "flash1",
+      "consume": "consume1",
+      "lightSpeed": "lightSpeed1",
+      "lightningResist01": "lightningResist01"
+    },
+    "attackPower": 478947,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2359"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 39,
+    "upgradeXP": 4556438,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 26083926
+  },
+  {
+    "identifier": "T11C4HDdragon",
+    "level": 5,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "612000"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 8859955,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T11C4HDdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "dodge": "flash1",
+      "consume": "consume1",
+      "lightSpeed": "lightSpeed1",
+      "lightningResist01": "lightningResist01"
+    },
+    "attackPower": 490920,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2380"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 40,
+    "upgradeXP": 5249587,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 27404283
+  },
+  {
+    "identifier": "T11C4HDdragon",
+    "level": 6,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "617400"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 9081445,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T11C4HDdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "dodge": "flash1",
+      "consume": "consume1",
+      "lightSpeed": "lightSpeed1",
+      "lightningResist01": "lightningResist01"
+    },
+    "attackPower": 503193,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2401"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 40,
+    "upgradeXP": 5948068,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 28791611
+  },
+  {
+    "identifier": "T11C4HDdragon",
+    "level": 7,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "622800"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 9308469,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T11C4HDdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "dodge": "flash1",
+      "consume": "consume1",
+      "lightSpeed": "lightSpeed1",
+      "lightningResist01": "lightningResist01"
+    },
+    "attackPower": 515773,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2422"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 41,
+    "upgradeXP": 6096768,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 30249140
+  },
+  {
+    "identifier": "T11C4HDdragon",
+    "level": 8,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "628200"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 9541166,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T11C4HDdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "dodge": "flash1",
+      "consume": "consume1",
+      "lightSpeed": "lightSpeed1",
+      "lightningResist01": "lightningResist01"
+    },
+    "attackPower": 528667,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2443"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 41,
+    "upgradeXP": 6249186,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 31780557
+  },
+  {
+    "identifier": "T11C4HDdragon",
+    "level": 9,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "633600"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 9779680,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T11C4HDdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "dodge": "flash1",
+      "consume": "consume1",
+      "lightSpeed": "lightSpeed1",
+      "lightningResist01": "lightningResist01"
+    },
+    "attackPower": 541883,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2464"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 42,
+    "upgradeXP": 6405416,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 33389419
+  },
+  {
+    "identifier": "T11C4HDdragon",
+    "level": 10,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "639000"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 10024152,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T11C4HDdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "dodge": "flash1",
+      "consume": "consume1",
+      "lightSpeed": "lightSpeed1",
+      "lightningResist01": "lightningResist01"
+    },
+    "attackPower": 555430,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2485"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 42,
+    "upgradeXP": 6565551,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 35079550
+  },
+  {
+    "identifier": "T11C4HDdragon",
+    "level": 11,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "644400"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 10274734,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T11C4HDdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "dodge": "flash1",
+      "consume": "consume1",
+      "lightSpeed": "lightSpeed1",
+      "lightningResist01": "lightningResist01"
+    },
+    "attackPower": 569316,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2506"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 43,
+    "upgradeXP": 6729686,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 36855452
+  },
+  {
+    "identifier": "T11C4HDdragon",
+    "level": 12,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "649800"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 10531584,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T11C4HDdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "dodge": "flash1",
+      "consume": "consume1",
+      "lightSpeed": "lightSpeed1",
+      "lightningResist01": "lightningResist01"
+    },
+    "attackPower": 583549,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2527"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 43,
+    "upgradeXP": 6897927,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 38721102
+  },
+  {
+    "identifier": "T11C4HDdragon",
+    "level": 13,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "655200"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 10794856,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T11C4HDdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "dodge": "flash1",
+      "consume": "consume1",
+      "lightSpeed": "lightSpeed1",
+      "lightningResist01": "lightningResist01"
+    },
+    "attackPower": 598137,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2548"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 44,
+    "upgradeXP": 7070373,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 40681366
+  },
+  {
+    "identifier": "T11C4HDdragon",
+    "level": 14,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "660600"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 11064710,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T11C4HDdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "dodge": "flash1",
+      "consume": "consume1",
+      "lightSpeed": "lightSpeed1",
+      "lightningResist01": "lightningResist01"
+    },
+    "attackPower": 613091,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2569"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 44,
+    "upgradeXP": 7247132,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 42740794
+  },
+  {
+    "identifier": "T11C4HDdragon",
+    "level": 15,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "666000"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 11341311,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T11C4HDdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "dodge": "flash1",
+      "consume": "consume1",
+      "lightSpeed": "lightSpeed1",
+      "lightningResist01": "lightningResist01"
+    },
+    "attackPower": 628418,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2590"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 45,
+    "upgradeXP": 7428307,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 44904428
+  },
+  {
+    "identifier": "T11C4HDdragon",
+    "level": 16,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "671401"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 11624824,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T11C4HDdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "dodge": "flash1",
+      "consume": "consume1",
+      "lightSpeed": "lightSpeed1",
+      "lightningResist01": "lightningResist01"
+    },
+    "attackPower": 644128,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2611"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 45,
+    "upgradeXP": 7614015,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 47177614
+  },
+  {
+    "identifier": "T11C4HDdragon",
+    "level": 17,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "676800"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 11915426,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T11C4HDdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "dodge": "flash1",
+      "consume": "consume1",
+      "lightSpeed": "lightSpeed1",
+      "lightningResist01": "lightningResist01"
+    },
+    "attackPower": 660231,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2632"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 46,
+    "upgradeXP": 7804363,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 49566007
+  },
+  {
+    "identifier": "T11C4HDdragon",
+    "level": 18,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "682200"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 12213296,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T11C4HDdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "dodge": "flash1",
+      "consume": "consume1",
+      "lightSpeed": "lightSpeed1",
+      "lightningResist01": "lightningResist01"
+    },
+    "attackPower": 676737,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2653"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 46,
+    "upgradeXP": 10624907,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 52075152
+  },
+  {
+    "identifier": "T11C4HDdragon",
+    "level": 19,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "913272"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 12518618,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T11C4HDdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "dodge": "flash1",
+      "consume": "consume1",
+      "lightSpeed": "lightSpeed1",
+      "lightningResist01": "lightningResist01"
+    },
+    "attackPower": 693655,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2674"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 47,
+    "upgradeXP": 10890526,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 54711330
+  },
+  {
+    "identifier": "T11C4HDdragon",
+    "level": 20,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "920444"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 12831575,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T11C4HDdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "dodge": "flash1",
+      "consume": "consume1",
+      "lightSpeed": "lightSpeed1",
+      "lightningResist01": "lightningResist01"
+    },
+    "attackPower": 710996,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2695"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 47,
+    "upgradeXP": 11162785,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 57481153
+  },
+  {
+    "identifier": "T11C4HDdragon",
+    "level": 21,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "927616"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 13152353,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T11C4HDdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "dodge": "flash1",
+      "consume": "consume1",
+      "lightSpeed": "lightSpeed1",
+      "lightningResist01": "lightningResist01"
+    },
+    "attackPower": 728771,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2716"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 48,
+    "upgradeXP": 11441854,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 60390920
+  },
+  {
+    "identifier": "T11C4HDdragon",
+    "level": 22,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "934789"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 13481150,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T11C4HDdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "dodge": "flash1",
+      "consume": "consume1",
+      "lightSpeed": "lightSpeed1",
+      "lightningResist01": "lightningResist01"
+    },
+    "attackPower": 746990,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2737"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 48,
+    "upgradeXP": 14344235,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 63448123
+  },
+  {
+    "identifier": "T11C4HDdragon",
+    "level": 23,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1152099"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 13818168,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T11C4HDdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "dodge": "flash1",
+      "consume": "consume1",
+      "lightSpeed": "lightSpeed1",
+      "lightningResist01": "lightningResist01"
+    },
+    "attackPower": 765665,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2758"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 49,
+    "upgradeXP": 14702840,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 66660173
+  },
+  {
+    "identifier": "T11C4HDdragon",
+    "level": 24,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1160872"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 14163617,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T11C4HDdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "dodge": "flash1",
+      "consume": "consume1",
+      "lightSpeed": "lightSpeed1",
+      "lightningResist01": "lightningResist01"
+    },
+    "attackPower": 784806,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2779"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 49,
+    "upgradeXP": 15070409,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 70034832
+  },
+  {
+    "identifier": "T11C4HDdragon",
+    "level": 25,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1169644"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 14517697,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T11C4HDdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "dodge": "flash1",
+      "consume": "consume1",
+      "lightSpeed": "lightSpeed1",
+      "lightningResist01": "lightningResist01"
+    },
+    "attackPower": 804426,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2800"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 50,
+    "upgradeXP": 15447166,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 73580215
+  },
+  {
+    "identifier": "T11C4HDdragon",
+    "level": 26,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1178416"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 14880626,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T11C4HDdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "dodge": "flash1",
+      "consume": "consume1",
+      "lightSpeed": "lightSpeed1",
+      "lightningResist01": "lightningResist01"
+    },
+    "attackPower": 824537,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2821"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 51,
+    "upgradeXP": 18510137,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 77305251
+  },
+  {
+    "identifier": "T11C4HDdragon",
+    "level": 27,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1387895"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 15252630,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T11C4HDdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "dodge": "flash1",
+      "consume": "consume1",
+      "lightSpeed": "lightSpeed1",
+      "lightningResist01": "lightningResist01"
+    },
+    "attackPower": 845150,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2842"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 52,
+    "upgradeXP": 18972887,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 81218799
+  },
+  {
+    "identifier": "T11C4HDdragon",
+    "level": 28,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1398151"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 15633931,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T11C4HDdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "dodge": "flash1",
+      "consume": "consume1",
+      "lightSpeed": "lightSpeed1",
+      "lightningResist01": "lightningResist01"
+    },
+    "attackPower": 866279,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2863"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 53,
+    "upgradeXP": 19447206,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 85330321
+  },
+  {
+    "identifier": "T11C4HDdragon",
+    "level": 29,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1408406"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 16024763,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T11C4HDdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "dodge": "flash1",
+      "consume": "consume1",
+      "lightSpeed": "lightSpeed1",
+      "lightningResist01": "lightningResist01"
+    },
+    "attackPower": 887935,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2884"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 54,
+    "upgradeXP": 19933380,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 89650125
+  },
+  {
+    "identifier": "T11C4HDdragon",
+    "level": 30,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1418661"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 16425368,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T11C4HDdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "dodge": "flash1",
+      "consume": "consume1",
+      "lightSpeed": "lightSpeed1",
+      "lightningResist01": "lightningResist01"
+    },
+    "attackPower": 910134,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2905"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 55,
+    "upgradeXP": 20431713,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 91628943
+  },
+  {
+    "identifier": "T11C4HDdragon",
+    "level": 31,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1428917"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 16835990,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T11C4HDdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "dodge": "flash1",
+      "consume": "consume1",
+      "lightSpeed": "lightSpeed1",
+      "lightningResist01": "lightningResist01"
+    },
+    "attackPower": 932887,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2926"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 56,
+    "upgradeXP": 20942504,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 98446448
+  },
+  {
+    "identifier": "T11C4HDdragon",
+    "level": 32,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1439172"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 17256877,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T11C4HDdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "dodge": "flash1",
+      "consume": "consume1",
+      "lightSpeed": "lightSpeed1",
+      "lightningResist01": "lightningResist01"
+    },
+    "attackPower": 956209,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2947"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 57,
+    "upgradeXP": 21466065,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 102923211
+  },
+  {
+    "identifier": "T11C4HDdragon",
+    "level": 33,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1449428"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 17688286,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T11C4HDdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "dodge": "flash1",
+      "consume": "consume1",
+      "lightSpeed": "lightSpeed1",
+      "lightningResist01": "lightningResist01"
+    },
+    "attackPower": 980114,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2968"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 58,
+    "upgradeXP": 22002714,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 107452536
+  },
+  {
+    "identifier": "T11C4HDdragon",
+    "level": 34,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1459683"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 18130480,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T11C4HDdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "dodge": "flash1",
+      "consume": "consume1",
+      "lightSpeed": "lightSpeed1",
+      "lightningResist01": "lightningResist01"
+    },
+    "attackPower": 1004617,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2989"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 59,
+    "upgradeXP": 22552777,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 112034547
+  },
+  {
+    "identifier": "T11C4HDdragon",
+    "level": 35,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1469938"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 18583730,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T11C4HDdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "dodge": "flash1",
+      "consume": "consume1",
+      "lightSpeed": "lightSpeed1",
+      "lightningResist01": "lightningResist01"
+    },
+    "attackPower": 1029732,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3010"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 60,
+    "upgradeXP": 23116595,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 116669364
+  },
+  {
+    "identifier": "T11C4HDdragon",
+    "level": 36,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1480194"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 19048317,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T11C4HDdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "dodge": "flash1",
+      "consume": "consume1",
+      "lightSpeed": "lightSpeed1",
+      "lightningResist01": "lightningResist01"
+    },
+    "attackPower": 1055475,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3031"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 60,
+    "upgradeXP": 23694507,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 120281525
+  },
+  {
+    "identifier": "T11C4HDdragon",
+    "level": 37,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1490449"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 19524517,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T11C4HDdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "dodge": "flash1",
+      "consume": "consume1",
+      "lightSpeed": "lightSpeed1",
+      "lightningResist01": "lightningResist01"
+    },
+    "attackPower": 1081862,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3052"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 61,
+    "upgradeXP": 24286867,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 123927305
+  },
+  {
+    "identifier": "T11C4HDdragon",
+    "level": 38,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1500704"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 20012618,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T11C4HDdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "dodge": "flash1",
+      "consume": "consume1",
+      "lightSpeed": "lightSpeed1",
+      "lightningResist01": "lightningResist01"
+    },
+    "attackPower": 1108908,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3073"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 61,
+    "upgradeXP": 24894038,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 127606704
+  },
+  {
+    "identifier": "T11C4HDdragon",
+    "level": 39,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1510960"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 20512923,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T11C4HDdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "dodge": "flash1",
+      "consume": "consume1",
+      "lightSpeed": "lightSpeed1",
+      "lightningResist01": "lightningResist01"
+    },
+    "attackPower": 1136631,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3094"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 62,
+    "upgradeXP": 25516385,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 131319722
+  },
+  {
+    "identifier": "T11C4HDdragon",
+    "level": 40,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1521215"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 21025740,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T11C4HDdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "dodge": "flash1",
+      "consume": "consume1",
+      "lightSpeed": "lightSpeed1",
+      "lightningResist01": "lightningResist01"
+    },
+    "attackPower": 1165046,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3115"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 62,
+    "upgradeXP": 0,
+    "xpRewardMultiplier": 1.2,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 135066359
+  }
+]

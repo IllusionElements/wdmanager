@@ -1,0 +1,2194 @@
+[
+  {
+    "identifier": "phasmosSapphireDragon",
+    "level": 1,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "16979"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 107072,
+    "fullHealDuration": 7442,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T4C3SUdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "freezeSpell": "iceShock1",
+      "fluxSpell": "flux1"
+    },
+    "attackPower": 7205,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "103"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 6,
+    "upgradeXP": 23263,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 3569,
+    "nextEvolveLevel": 6,
+    "tierNumber": 4,
+    "rarity": 6,
+    "sceneFile": "drg_ghost.lvl"
+  },
+  {
+    "identifier": "phasmosSapphireDragon",
+    "level": 2,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "24970"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 139462,
+    "fullHealDuration": 11120,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T4C3SUdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "freezeSpell": "iceShock1",
+      "fluxSpell": "flux1"
+    },
+    "attackPower": 9449,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "128"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 7,
+    "upgradeXP": 45333,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 8124,
+    "nextEvolveLevel": 6,
+    "tierNumber": 4,
+    "rarity": 6,
+    "sceneFile": "drg_ghost.lvl"
+  },
+  {
+    "identifier": "phasmosSapphireDragon",
+    "level": 3,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "44168"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 206230,
+    "fullHealDuration": 15840,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T4C3SUdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "freezeSpell": "iceShock1",
+      "fluxSpell": "flux1"
+    },
+    "attackPower": 11836,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "160"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 8,
+    "upgradeXP": 95783,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 19576,
+    "nextEvolveLevel": 6,
+    "tierNumber": 4,
+    "rarity": 6,
+    "sceneFile": "drg_ghost.lvl"
+  },
+  {
+    "identifier": "phasmosSapphireDragon",
+    "level": 4,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "79536"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 238546,
+    "fullHealDuration": 15840,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T4C3SUdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "freezeSpell": "iceShock1",
+      "fluxSpell": "flux1"
+    },
+    "attackPower": 13989,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "200"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 9,
+    "upgradeXP": 184501,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 26769,
+    "nextEvolveLevel": 6,
+    "tierNumber": 4,
+    "rarity": 6,
+    "sceneFile": "drg_ghost.lvl"
+  },
+  {
+    "identifier": "phasmosSapphireDragon",
+    "level": 5,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "95000"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 308561,
+    "fullHealDuration": 15840,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T4C3SUdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "freezeSpell": "iceShock1",
+      "fluxSpell": "flux1"
+    },
+    "attackPower": 17911,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "260"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 11,
+    "upgradeXP": 224000,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 44323,
+    "nextEvolveLevel": 6,
+    "tierNumber": 4,
+    "rarity": 6,
+    "sceneFile": "drg_ghost.lvl"
+  },
+  {
+    "identifier": "phasmosSapphireDragon",
+    "level": 6,
+    "upgradeCost": [
+      {
+        "type": "branch4GreenStone",
+        "amount": "1"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "have2GreenEpic",
+    "HP": 358821,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T5C3SDdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "freezeSpell": "iceShock1",
+      "fluxSpell": "flux1",
+      "cloak": "cloak1"
+    },
+    "attackPower": 20769,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "330"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 12,
+    "upgradeXP": 223834,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 50613,
+    "nextEvolveLevel": 11,
+    "tierNumber": 5,
+    "rarity": 6,
+    "sceneFile": "drg_ghost_level2.lvl"
+  },
+  {
+    "identifier": "phasmosSapphireDragon",
+    "level": 7,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "110376"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 435976,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T5C3SDdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "freezeSpell": "iceShock1",
+      "fluxSpell": "flux1",
+      "cloak": "cloak1"
+    },
+    "attackPower": 25236,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "384"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 13,
+    "upgradeXP": 271862,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 74733,
+    "nextEvolveLevel": 11,
+    "tierNumber": 5,
+    "rarity": 6,
+    "sceneFile": "drg_ghost_level2.lvl"
+  },
+  {
+    "identifier": "phasmosSapphireDragon",
+    "level": 8,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "115632"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 587928,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T5C3SDdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "freezeSpell": "iceShock1",
+      "fluxSpell": "flux1",
+      "cloak": "cloak1"
+    },
+    "attackPower": 29561,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "438"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 15,
+    "upgradeXP": 329844,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 118009,
+    "nextEvolveLevel": 11,
+    "tierNumber": 5,
+    "rarity": 6,
+    "sceneFile": "drg_ghost_level2.lvl"
+  },
+  {
+    "identifier": "phasmosSapphireDragon",
+    "level": 9,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "140000"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 657997,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T5C3SDdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "freezeSpell": "iceShock1",
+      "fluxSpell": "flux1",
+      "cloak": "cloak1",
+      "iceTurretResist01": "iceTurretResist01"
+    },
+    "attackPower": 33442,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "492"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 16,
+    "upgradeXP": 530981,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 149460,
+    "nextEvolveLevel": 11,
+    "tierNumber": 5,
+    "rarity": 6,
+    "sceneFile": "drg_ghost_level2.lvl"
+  },
+  {
+    "identifier": "phasmosSapphireDragon",
+    "level": 10,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "150000"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 777088,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T5C3SDdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "freezeSpell": "iceShock1",
+      "fluxSpell": "flux1",
+      "cloak": "cloak1",
+      "iceTurretResist01": "iceTurretResist01"
+    },
+    "attackPower": 39360,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "546"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 18,
+    "upgradeXP": 786440,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 207747,
+    "nextEvolveLevel": 11,
+    "tierNumber": 5,
+    "rarity": 6,
+    "sceneFile": "drg_ghost_level2.lvl"
+  },
+  {
+    "identifier": "phasmosSapphireDragon",
+    "level": 11,
+    "upgradeCost": [
+      {
+        "type": "branch4GoldStone",
+        "amount": "1"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "haveGoldLegendary",
+    "HP": 940396,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T6C3SDdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "freezeSpell": "iceShock1",
+      "fluxSpell": "flux1",
+      "cloak": "cloak1",
+      "iceTurretResist01": "iceTurretResist01"
+    },
+    "attackPower": 47633,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "600"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 18,
+    "upgradeXP": 825000,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 304232,
+    "nextEvolveLevel": 16,
+    "tierNumber": 6,
+    "rarity": 6,
+    "sceneFile": "drg_ghost_level3.lvl"
+  },
+  {
+    "identifier": "phasmosSapphireDragon",
+    "level": 12,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "182160"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 1287497,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T6C3SDdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "freezeSpell": "iceShock1",
+      "fluxSpell": "flux1",
+      "cloak": "cloak1",
+      "iceTurretResist01": "iceTurretResist01"
+    },
+    "attackPower": 65104,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "690"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 18,
+    "upgradeXP": 950000,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 569242,
+    "nextEvolveLevel": 16,
+    "tierNumber": 6,
+    "rarity": 6,
+    "sceneFile": "drg_ghost_level3.lvl"
+  },
+  {
+    "identifier": "phasmosSapphireDragon",
+    "level": 13,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "210000"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 1607623,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T6C3SDdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "freezeSpell": "iceShock1",
+      "fluxSpell": "flux1",
+      "cloak": "cloak1",
+      "iceTurretResist01": "iceTurretResist01"
+    },
+    "attackPower": 81022,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "780"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 18,
+    "upgradeXP": 1204834,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 884524,
+    "nextEvolveLevel": 16,
+    "tierNumber": 6,
+    "rarity": 6,
+    "sceneFile": "drg_ghost_level3.lvl"
+  },
+  {
+    "identifier": "phasmosSapphireDragon",
+    "level": 14,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "240000"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 1818811,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T6C3SDdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "freezeSpell": "iceShock1",
+      "fluxSpell": "flux1",
+      "cloak": "cloak1",
+      "iceTurretResist01": "iceTurretResist01"
+    },
+    "attackPower": 91838,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "870"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 18,
+    "upgradeXP": 1666559,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 1134300,
+    "nextEvolveLevel": 16,
+    "tierNumber": 6,
+    "rarity": 6,
+    "sceneFile": "drg_ghost_level3.lvl"
+  },
+  {
+    "identifier": "phasmosSapphireDragon",
+    "level": 15,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "300000"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 2057752,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T6C3SDdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "freezeSpell": "iceShock1",
+      "fluxSpell": "flux1",
+      "cloak": "cloak1",
+      "iceTurretResist01": "iceTurretResist01"
+    },
+    "attackPower": 103906,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "960"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 18,
+    "upgradeXP": 2225000,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 1451966,
+    "nextEvolveLevel": 16,
+    "tierNumber": 6,
+    "rarity": 6,
+    "sceneFile": "drg_ghost_level3.lvl"
+  },
+  {
+    "identifier": "phasmosSapphireDragon",
+    "level": 16,
+    "upgradeCost": [
+      {
+        "type": "branch4PlatinumStone",
+        "amount": "1"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "havePlatinumLegendary",
+    "HP": 2215924,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T7C3SIdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "freezeSpell": "iceShock1",
+      "fluxSpell": "flux1",
+      "cloak": "cloak1",
+      "iceTurretResist01": "iceTurretResist01"
+    },
+    "attackPower": 111895,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1014"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 23,
+    "upgradeXP": 1249940,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 1683788,
+    "nextEvolveLevel": 21,
+    "tierNumber": 7,
+    "rarity": 6,
+    "sceneFile": "drg_ghost_level4.lvl"
+  },
+  {
+    "identifier": "phasmosSapphireDragon",
+    "level": 17,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "420000"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 2445900,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T7C3SIdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "freezeSpell": "iceShock1",
+      "fluxSpell": "flux1",
+      "cloak": "cloak1",
+      "iceTurretResist01": "iceTurretResist01"
+    },
+    "attackPower": 123510,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1086"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 24,
+    "upgradeXP": 1832505,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 2051559,
+    "nextEvolveLevel": 21,
+    "tierNumber": 7,
+    "rarity": 6,
+    "sceneFile": "drg_ghost_level4.lvl"
+  },
+  {
+    "identifier": "phasmosSapphireDragon",
+    "level": 18,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "440000"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 2633944,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T7C3SIdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "freezeSpell": "iceShock1",
+      "fluxSpell": "flux1",
+      "cloak": "cloak1",
+      "iceTurretResist01": "iceTurretResist01"
+    },
+    "attackPower": 133007,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1140"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 25,
+    "upgradeXP": 2413642,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 2379087,
+    "nextEvolveLevel": 21,
+    "tierNumber": 7,
+    "rarity": 6,
+    "sceneFile": "drg_ghost_level4.lvl"
+  },
+  {
+    "identifier": "phasmosSapphireDragon",
+    "level": 19,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "470000"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 2907334,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T7C3SIdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "freezeSpell": "iceShock1",
+      "fluxSpell": "flux1",
+      "cloak": "cloak1",
+      "iceTurretResist01": "iceTurretResist01"
+    },
+    "attackPower": 146814,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1212"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 26,
+    "upgradeXP": 2700000,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 2898615,
+    "nextEvolveLevel": 21,
+    "tierNumber": 7,
+    "rarity": 6,
+    "sceneFile": "drg_ghost_level4.lvl"
+  },
+  {
+    "identifier": "phasmosSapphireDragon",
+    "level": 20,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "500000"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 3209071,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T7C3SIdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "freezeSpell": "iceShock1",
+      "fluxSpell": "flux1",
+      "cloak": "cloak1",
+      "iceTurretResist01": "iceTurretResist01"
+    },
+    "attackPower": 158038,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1284"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 26,
+    "upgradeXP": 2950000,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 3444152,
+    "nextEvolveLevel": 21,
+    "tierNumber": 7,
+    "rarity": 6,
+    "sceneFile": "drg_ghost_level4.lvl"
+  },
+  {
+    "identifier": "phasmosSapphireDragon",
+    "level": 21,
+    "upgradeCost": [
+      {
+        "type": "branch4SapphireStone",
+        "amount": "1"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "haveLegendarySapphire",
+    "HP": 3721450,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T7C3SIdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "freezeSpell": "iceShock1",
+      "fluxSpell": "flux1",
+      "cloak": "cloak1",
+      "iceTurretResist01": "iceTurretResist01"
+    },
+    "attackPower": 183275,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1392"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 27,
+    "upgradeXP": 3200000,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 4631773,
+    "nextEvolveLevel": 31,
+    "tierNumber": 8,
+    "rarity": 6,
+    "sceneFile": "drg_ghost_level5.lvl"
+  },
+  {
+    "identifier": "phasmosSapphireDragon",
+    "level": 22,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "560000"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 3814476,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T7C3SIdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "freezeSpell": "iceShock1",
+      "fluxSpell": "flux1",
+      "cloak": "cloak1",
+      "iceTurretResist01": "iceTurretResist01"
+    },
+    "attackPower": 187857,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1410"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 28,
+    "upgradeXP": 3495641,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 4866239,
+    "nextEvolveLevel": 31,
+    "tierNumber": 8,
+    "rarity": 6,
+    "sceneFile": "drg_ghost_level5.lvl"
+  },
+  {
+    "identifier": "phasmosSapphireDragon",
+    "level": 23,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "590000"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 3909825,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T7C3SIdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "freezeSpell": "iceShock1",
+      "fluxSpell": "flux1",
+      "cloak": "cloak1",
+      "iceTurretResist01": "iceTurretResist01"
+    },
+    "attackPower": 192553,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1428"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 28,
+    "upgradeXP": 4083036,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 5112696,
+    "nextEvolveLevel": 31,
+    "tierNumber": 8,
+    "rarity": 6,
+    "sceneFile": "drg_ghost_level5.lvl"
+  },
+  {
+    "identifier": "phasmosSapphireDragon",
+    "level": 24,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "620000"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 4007557,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T7C3SIdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "freezeSpell": "iceShock1",
+      "fluxSpell": "flux1",
+      "cloak": "cloak1",
+      "iceTurretResist01": "iceTurretResist01"
+    },
+    "attackPower": 197367,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1446"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 29,
+    "upgradeXP": 3672602,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 5371377,
+    "nextEvolveLevel": 31,
+    "tierNumber": 8,
+    "rarity": 6,
+    "sceneFile": "drg_ghost_level5.lvl"
+  },
+  {
+    "identifier": "phasmosSapphireDragon",
+    "level": 25,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "650000"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 4107726,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T7C3SIdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "freezeSpell": "iceShock1",
+      "fluxSpell": "flux1",
+      "cloak": "cloak1",
+      "iceTurretResist01": "iceTurretResist01"
+    },
+    "attackPower": 202301,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1464"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 29,
+    "upgradeXP": 3764416,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 5643269,
+    "nextEvolveLevel": 31,
+    "tierNumber": 8,
+    "rarity": 6,
+    "sceneFile": "drg_ghost_level5.lvl"
+  },
+  {
+    "identifier": "phasmosSapphireDragon",
+    "level": 26,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "680000"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 4210401,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T7C3SIdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "freezeSpell": "iceShock1",
+      "fluxSpell": "flux1",
+      "cloak": "cloak1",
+      "iceTurretResist01": "iceTurretResist01"
+    },
+    "attackPower": 207358,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1482"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 29,
+    "upgradeXP": 4510848,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 5929083,
+    "nextEvolveLevel": 31,
+    "tierNumber": 8,
+    "rarity": 6,
+    "sceneFile": "drg_ghost_level5.lvl"
+  },
+  {
+    "identifier": "phasmosSapphireDragon",
+    "level": 27,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "710000"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 4315641,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T7C3SIdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "freezeSpell": "iceShock1",
+      "fluxSpell": "flux1",
+      "cloak": "cloak1",
+      "iceTurretResist01": "iceTurretResist01"
+    },
+    "attackPower": 212542,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1500"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 30,
+    "upgradeXP": 4623620,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 6229083,
+    "nextEvolveLevel": 31,
+    "tierNumber": 8,
+    "rarity": 6,
+    "sceneFile": "drg_ghost_level5.lvl"
+  },
+  {
+    "identifier": "phasmosSapphireDragon",
+    "level": 28,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "740000"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 4423514,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T7C3SIdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "freezeSpell": "iceShock1",
+      "fluxSpell": "flux1",
+      "cloak": "cloak1",
+      "iceTurretResist01": "iceTurretResist01"
+    },
+    "attackPower": 217855,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1518"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 30,
+    "upgradeXP": 4744207,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 6544464,
+    "nextEvolveLevel": 31,
+    "tierNumber": 8,
+    "rarity": 6,
+    "sceneFile": "drg_ghost_level5.lvl"
+  },
+  {
+    "identifier": "phasmosSapphireDragon",
+    "level": 29,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "770000"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 4647435,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T7C3SIdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "freezeSpell": "iceShock1",
+      "fluxSpell": "flux1",
+      "cloak": "cloak1",
+      "iceTurretResist01": "iceTurretResist01"
+    },
+    "attackPower": 228884,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1554"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 31,
+    "upgradeXP": 4857686,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 7223789,
+    "nextEvolveLevel": 31,
+    "tierNumber": 8,
+    "rarity": 6,
+    "sceneFile": "drg_ghost_level5.lvl"
+  },
+  {
+    "identifier": "phasmosSapphireDragon",
+    "level": 30,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "780000"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "haveMythicSapphire",
+    "HP": 5468391,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T7C3SIdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "freezeSpell": "iceShock1",
+      "fluxSpell": "flux1",
+      "cloak": "cloak1",
+      "iceTurretResist01": "iceTurretResist01"
+    },
+    "attackPower": 269319,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1618"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 32,
+    "upgradeXP": 4988840,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 9246926,
+    "nextEvolveLevel": 31,
+    "tierNumber": 8,
+    "rarity": 6,
+    "sceneFile": "drg_ghost_level5.lvl"
+  },
+  {
+    "identifier": "phasmosSapphireDragon",
+    "level": 31,
+    "upgradeCost": [
+      {
+        "type": "branch4GarnetStone",
+        "amount": "1"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "haveLegendaryGarnet",
+    "HP": 5468391,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T7C3SIdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "freezeSpell": "iceShock1",
+      "fluxSpell": "flux1",
+      "cloak": "cloak1",
+      "iceTurretResist01": "iceTurretResist01"
+    },
+    "attackPower": 269319,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1662"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 33,
+    "upgradeXP": 5123540,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "1"
+      }
+    ],
+    "powerLevel": 9246926,
+    "nextEvolveLevel": 0,
+    "tierNumber": 9,
+    "rarity": 6,
+    "sceneFile": "drg_ghost_level5.lvl"
+  },
+  {
+    "identifier": "phasmosSapphireDragon",
+    "level": 32,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "803580"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 5524223,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T7C3SIdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "freezeSpell": "iceShock1",
+      "fluxSpell": "flux1",
+      "cloak": "cloak1",
+      "iceTurretResist01": "iceTurretResist01"
+    },
+    "attackPower": 272070,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1680"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 33,
+    "upgradeXP": 5261880,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "2"
+      }
+    ],
+    "powerLevel": 10206745,
+    "nextEvolveLevel": 0,
+    "tierNumber": 9,
+    "rarity": 6,
+    "sceneFile": "drg_ghost_level5.lvl"
+  },
+  {
+    "identifier": "phasmosSapphireDragon",
+    "level": 33,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "815630"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 5662314,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T7C3SIdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "freezeSpell": "iceShock1",
+      "fluxSpell": "flux1",
+      "cloak": "cloak1",
+      "iceTurretResist01": "iceTurretResist01"
+    },
+    "attackPower": 278872,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1698"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 33,
+    "upgradeXP": 5403950,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "3"
+      }
+    ],
+    "powerLevel": 10723557,
+    "nextEvolveLevel": 0,
+    "tierNumber": 9,
+    "rarity": 6,
+    "sceneFile": "drg_ghost_level5.lvl"
+  },
+  {
+    "identifier": "phasmosSapphireDragon",
+    "level": 34,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "827860"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 5803856,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T7C3SIdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "freezeSpell": "iceShock1",
+      "fluxSpell": "flux1",
+      "cloak": "cloak1",
+      "iceTurretResist01": "iceTurretResist01"
+    },
+    "attackPower": 285843,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1716"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 34,
+    "upgradeXP": 5549860,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "4"
+      }
+    ],
+    "powerLevel": 11266400,
+    "nextEvolveLevel": 0,
+    "tierNumber": 9,
+    "rarity": 6,
+    "sceneFile": "drg_ghost_level5.lvl"
+  },
+  {
+    "identifier": "phasmosSapphireDragon",
+    "level": 35,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "840280"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 5948935,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T7C3SIdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "freezeSpell": "iceShock1",
+      "fluxSpell": "flux1",
+      "cloak": "cloak1",
+      "iceTurretResist01": "iceTurretResist01"
+    },
+    "attackPower": 292989,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1734"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 34,
+    "upgradeXP": 5699710,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "5"
+      }
+    ],
+    "powerLevel": 11836587,
+    "nextEvolveLevel": 0,
+    "tierNumber": 9,
+    "rarity": 6,
+    "sceneFile": "drg_ghost_level5.lvl"
+  },
+  {
+    "identifier": "phasmosSapphireDragon",
+    "level": 36,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "852880"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 6097637,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T7C3SIdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "freezeSpell": "iceShock1",
+      "fluxSpell": "flux1",
+      "cloak": "cloak1",
+      "iceTurretResist01": "iceTurretResist01"
+    },
+    "attackPower": 300314,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1752"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 34,
+    "upgradeXP": 5853600,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "6"
+      }
+    ],
+    "powerLevel": 12435804,
+    "nextEvolveLevel": 0,
+    "tierNumber": 9,
+    "rarity": 6,
+    "sceneFile": "drg_ghost_level5.lvl"
+  },
+  {
+    "identifier": "phasmosSapphireDragon",
+    "level": 37,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "865670"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "have2LegendaryGarnet",
+    "HP": 6250060,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T7C3SIdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "freezeSpell": "iceShock1",
+      "fluxSpell": "flux1",
+      "cloak": "cloak1",
+      "iceTurretResist01": "iceTurretResist01"
+    },
+    "attackPower": 307822,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1770"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 35,
+    "upgradeXP": 6011650,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "7"
+      }
+    ],
+    "powerLevel": 13065426,
+    "nextEvolveLevel": 0,
+    "tierNumber": 9,
+    "rarity": 6,
+    "sceneFile": "drg_ghost_level5.lvl"
+  },
+  {
+    "identifier": "phasmosSapphireDragon",
+    "level": 38,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "878660"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 6406297,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T7C3SIdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "freezeSpell": "iceShock1",
+      "fluxSpell": "flux1",
+      "cloak": "cloak1",
+      "iceTurretResist01": "iceTurretResist01"
+    },
+    "attackPower": 315517,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1788"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 35,
+    "upgradeXP": 6173960,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "8"
+      }
+    ],
+    "powerLevel": 13726680,
+    "nextEvolveLevel": 0,
+    "tierNumber": 9,
+    "rarity": 6,
+    "sceneFile": "drg_ghost_level5.lvl"
+  },
+  {
+    "identifier": "phasmosSapphireDragon",
+    "level": 39,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "891840"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 6566443,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T7C3SIdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "freezeSpell": "iceShock1",
+      "fluxSpell": "flux1",
+      "cloak": "cloak1",
+      "iceTurretResist01": "iceTurretResist01"
+    },
+    "attackPower": 323405,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1806"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 35,
+    "upgradeXP": 6340660,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "9"
+      }
+    ],
+    "powerLevel": 14421698,
+    "nextEvolveLevel": 0,
+    "tierNumber": 9,
+    "rarity": 6,
+    "sceneFile": "drg_ghost_level5.lvl"
+  },
+  {
+    "identifier": "phasmosSapphireDragon",
+    "level": 40,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "905220"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 6730585,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T7C3SIdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "freezeSpell": "iceShock1",
+      "fluxSpell": "flux1",
+      "cloak": "cloak1",
+      "iceTurretResist01": "iceTurretResist01"
+    },
+    "attackPower": 331490,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1824"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 36,
+    "upgradeXP": 6511860,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "10"
+      }
+    ],
+    "powerLevel": 15151772,
+    "nextEvolveLevel": 0,
+    "tierNumber": 9,
+    "rarity": 6,
+    "sceneFile": "drg_ghost_level5.lvl"
+  },
+  {
+    "identifier": "phasmosSapphireDragon",
+    "level": 41,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "918800"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 6898826,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T7C3SIdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "freezeSpell": "iceShock1",
+      "fluxSpell": "flux1",
+      "cloak": "cloak1",
+      "iceTurretResist01": "iceTurretResist01"
+    },
+    "attackPower": 339777,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1842"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 36,
+    "upgradeXP": 6687680,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "11"
+      }
+    ],
+    "powerLevel": 15918750,
+    "nextEvolveLevel": 0,
+    "tierNumber": 9,
+    "rarity": 6,
+    "sceneFile": "drg_ghost_level5.lvl"
+  },
+  {
+    "identifier": "phasmosSapphireDragon",
+    "level": 42,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "932580"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 7071274,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T7C3SIdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "freezeSpell": "iceShock1",
+      "fluxSpell": "flux1",
+      "cloak": "cloak1",
+      "iceTurretResist01": "iceTurretResist01"
+    },
+    "attackPower": 348271,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1860"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 36,
+    "upgradeXP": 6868250,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "12"
+      }
+    ],
+    "powerLevel": 16724523,
+    "nextEvolveLevel": 0,
+    "tierNumber": 9,
+    "rarity": 6,
+    "sceneFile": "drg_ghost_level5.lvl"
+  },
+  {
+    "identifier": "phasmosSapphireDragon",
+    "level": 43,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "946570"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 7248040,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T7C3SIdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "freezeSpell": "iceShock1",
+      "fluxSpell": "flux1",
+      "cloak": "cloak1",
+      "iceTurretResist01": "iceTurretResist01"
+    },
+    "attackPower": 356978,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1878"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 37,
+    "upgradeXP": 7053690,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "13"
+      }
+    ],
+    "powerLevel": 17571200,
+    "nextEvolveLevel": 0,
+    "tierNumber": 9,
+    "rarity": 6,
+    "sceneFile": "drg_ghost_level5.lvl"
+  },
+  {
+    "identifier": "phasmosSapphireDragon",
+    "level": 44,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "960770"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 7429228,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T7C3SIdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "freezeSpell": "iceShock1",
+      "fluxSpell": "flux1",
+      "cloak": "cloak1",
+      "iceTurretResist01": "iceTurretResist01"
+    },
+    "attackPower": 365902,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1896"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 37,
+    "upgradeXP": 7250884,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "14"
+      }
+    ],
+    "powerLevel": 18460564,
+    "nextEvolveLevel": 0,
+    "tierNumber": 9,
+    "rarity": 6,
+    "sceneFile": "drg_ghost_level5.lvl"
+  },
+  {
+    "identifier": "phasmosSapphireDragon",
+    "level": 45,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "960770"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 7614944,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T7C3SIdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "freezeSpell": "iceShock1",
+      "fluxSpell": "flux1",
+      "cloak": "cloak1",
+      "iceTurretResist01": "iceTurretResist01"
+    },
+    "attackPower": 375049,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1914"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 37,
+    "upgradeXP": 0,
+    "xpRewardMultiplier": 1.2,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "15"
+      }
+    ],
+    "powerLevel": 19395175,
+    "nextEvolveLevel": 0,
+    "tierNumber": 9,
+    "rarity": 6,
+    "sceneFile": "drg_ghost_level5.lvl"
+  }
+]

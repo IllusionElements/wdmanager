@@ -1,0 +1,1352 @@
+[
+  {
+    "identifier": "chineseDragon02",
+    "level": 1,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "0"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 27769,
+    "fullHealDuration": 90,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "chineseDragon02_lockon"
+      }
+    ],
+    "abilities": {
+      "aoeSpell": "aoe2",
+      "freezeSpell": "freeze3",
+      "chainLightning": "chainLightning3",
+      "ballistaResist01": "ballistaResist01"
+    },
+    "attackPower": 2735,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "0"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage4",
+    "requiredStableLevel": 30,
+    "upgradeXP": 5984,
+    "xpRewardMultiplier": 0,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 281
+  },
+  {
+    "identifier": "chineseDragon02",
+    "level": 2,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "5607"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 40597,
+    "fullHealDuration": 90,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "chineseDragon02_lockon"
+      }
+    ],
+    "abilities": {
+      "aoeSpell": "aoe2",
+      "freezeSpell": "freeze3",
+      "chainLightning": "chainLightning3",
+      "ballistaResist01": "ballistaResist01"
+    },
+    "attackPower": 3272,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "0"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage4",
+    "requiredStableLevel": 30,
+    "upgradeXP": 11787,
+    "xpRewardMultiplier": 0,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 500
+  },
+  {
+    "identifier": "chineseDragon02",
+    "level": 3,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "8823"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 48810,
+    "fullHealDuration": 90,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "chineseDragon02_lockon"
+      }
+    ],
+    "abilities": {
+      "aoeSpell": "aoe2",
+      "freezeSpell": "freeze3",
+      "chainLightning": "chainLightning3",
+      "ballistaResist01": "ballistaResist01"
+    },
+    "attackPower": 3995,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "0"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage4",
+    "requiredStableLevel": 30,
+    "upgradeXP": 21337,
+    "xpRewardMultiplier": 0,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 740
+  },
+  {
+    "identifier": "chineseDragon02",
+    "level": 4,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "15830"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 63490,
+    "fullHealDuration": 90,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "chineseDragon02_lockon"
+      }
+    ],
+    "abilities": {
+      "aoeSpell": "aoe2",
+      "freezeSpell": "freeze3",
+      "chainLightning": "chainLightning3",
+      "ballistaResist01": "ballistaResist01"
+    },
+    "attackPower": 5089,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "0"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage4",
+    "requiredStableLevel": 30,
+    "upgradeXP": 36130,
+    "xpRewardMultiplier": 0,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 1224
+  },
+  {
+    "identifier": "chineseDragon02",
+    "level": 5,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "27105"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 89507,
+    "fullHealDuration": 90,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "chineseDragon02_lockon"
+      }
+    ],
+    "abilities": {
+      "aoeSpell": "aoe2",
+      "freezeSpell": "freeze3",
+      "chainLightning": "chainLightning3",
+      "ballistaResist01": "ballistaResist01"
+    },
+    "attackPower": 6036,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "0"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage4",
+    "requiredStableLevel": 30,
+    "upgradeXP": 59120,
+    "xpRewardMultiplier": 0,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 2727
+  },
+  {
+    "identifier": "chineseDragon02",
+    "level": 6,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "42182"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 100981,
+    "fullHealDuration": 90,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "chineseDragon02_lockon"
+      }
+    ],
+    "abilities": {
+      "aoeSpell": "aoe2",
+      "freezeSpell": "freeze3",
+      "chainLightning": "chainLightning3",
+      "ballistaResist01": "ballistaResist01"
+    },
+    "attackPower": 6947,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "0"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage4",
+    "requiredStableLevel": 30,
+    "upgradeXP": 93366,
+    "xpRewardMultiplier": 0,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 3510
+  },
+  {
+    "identifier": "chineseDragon02",
+    "level": 7,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "63068"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 123836,
+    "fullHealDuration": 90,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "chineseDragon02_lockon"
+      }
+    ],
+    "abilities": {
+      "aoeSpell": "aoe2",
+      "freezeSpell": "freeze3",
+      "chainLightning": "chainLightning3",
+      "ballistaResist01": "ballistaResist01"
+    },
+    "attackPower": 8390,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "0"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage4",
+    "requiredStableLevel": 30,
+    "upgradeXP": 132389,
+    "xpRewardMultiplier": 0,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 5214
+  },
+  {
+    "identifier": "chineseDragon02",
+    "level": 8,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "88546"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 151589,
+    "fullHealDuration": 90,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "chineseDragon02_lockon"
+      }
+    ],
+    "abilities": {
+      "aoeSpell": "aoe2",
+      "freezeSpell": "freeze3",
+      "chainLightning": "chainLightning3",
+      "ballistaResist01": "ballistaResist01"
+    },
+    "attackPower": 10270,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "0"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage4",
+    "requiredStableLevel": 30,
+    "upgradeXP": 187407,
+    "xpRewardMultiplier": 0,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 7812
+  },
+  {
+    "identifier": "chineseDragon02",
+    "level": 9,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "125770"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 185281,
+    "fullHealDuration": 90,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "chineseDragon02_lockon"
+      }
+    ],
+    "abilities": {
+      "aoeSpell": "aoe2",
+      "freezeSpell": "freeze3",
+      "chainLightning": "chainLightning3",
+      "ballistaResist01": "ballistaResist01"
+    },
+    "attackPower": 12287,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "0"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage4",
+    "requiredStableLevel": 30,
+    "upgradeXP": 264881,
+    "xpRewardMultiplier": 0,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 14855
+  },
+  {
+    "identifier": "chineseDragon02",
+    "level": 10,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "161568"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 239828,
+    "fullHealDuration": 90,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "chineseDragon02_lockon"
+      }
+    ],
+    "abilities": {
+      "aoeSpell": "aoe2",
+      "freezeSpell": "freeze3",
+      "chainLightning": "chainLightning3",
+      "ballistaResist01": "ballistaResist01"
+    },
+    "attackPower": 13893,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "0"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage4",
+    "requiredStableLevel": 30,
+    "upgradeXP": 373840,
+    "xpRewardMultiplier": 0,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 21731
+  },
+  {
+    "identifier": "chineseDragon02",
+    "level": 11,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "191664"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 275566,
+    "fullHealDuration": 90,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "chineseDragon02_lockon"
+      }
+    ],
+    "abilities": {
+      "aoeSpell": "aoe2",
+      "freezeSpell": "freeze3",
+      "chainLightning": "chainLightning3",
+      "ballistaResist01": "ballistaResist01"
+    },
+    "attackPower": 16080,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "0"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage4",
+    "requiredStableLevel": 30,
+    "upgradeXP": 526919,
+    "xpRewardMultiplier": 0,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 28958
+  },
+  {
+    "identifier": "chineseDragon02",
+    "level": 12,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "232848"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 335392,
+    "fullHealDuration": 90,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "chineseDragon02_lockon"
+      }
+    ],
+    "abilities": {
+      "aoeSpell": "aoe2",
+      "freezeSpell": "freeze3",
+      "chainLightning": "chainLightning3",
+      "ballistaResist01": "ballistaResist01"
+    },
+    "attackPower": 19469,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "0"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage4",
+    "requiredStableLevel": 30,
+    "upgradeXP": 670866,
+    "xpRewardMultiplier": 0,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 42619
+  },
+  {
+    "identifier": "chineseDragon02",
+    "level": 13,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "275616"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 407705,
+    "fullHealDuration": 90,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "chineseDragon02_lockon"
+      }
+    ],
+    "abilities": {
+      "aoeSpell": "aoe2",
+      "freezeSpell": "freeze3",
+      "chainLightning": "chainLightning3",
+      "ballistaResist01": "ballistaResist01"
+    },
+    "attackPower": 23665,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "0"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage4",
+    "requiredStableLevel": 30,
+    "upgradeXP": 814866,
+    "xpRewardMultiplier": 0,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 62985
+  },
+  {
+    "identifier": "chineseDragon02",
+    "level": 14,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "318384"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 495035,
+    "fullHealDuration": 90,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "chineseDragon02_lockon"
+      }
+    ],
+    "abilities": {
+      "aoeSpell": "aoe2",
+      "freezeSpell": "freeze3",
+      "chainLightning": "chainLightning3",
+      "ballistaResist01": "ballistaResist01"
+    },
+    "attackPower": 28210,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "0"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage4",
+    "requiredStableLevel": 30,
+    "upgradeXP": 988702,
+    "xpRewardMultiplier": 0,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 91190
+  },
+  {
+    "identifier": "chineseDragon02",
+    "level": 15,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "361152"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 632046,
+    "fullHealDuration": 90,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "chineseDragon02_lockon"
+      }
+    ],
+    "abilities": {
+      "aoeSpell": "aoe2",
+      "freezeSpell": "freeze3",
+      "chainLightning": "chainLightning3",
+      "ballistaResist01": "ballistaResist01"
+    },
+    "attackPower": 32033,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "0"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage4",
+    "requiredStableLevel": 30,
+    "upgradeXP": 1198403,
+    "xpRewardMultiplier": 0,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 132194
+  },
+  {
+    "identifier": "chineseDragon02",
+    "level": 16,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "403920"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 727580,
+    "fullHealDuration": 90,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "chineseDragon02_lockon"
+      }
+    ],
+    "abilities": {
+      "aoeSpell": "aoe2",
+      "freezeSpell": "freeze3",
+      "chainLightning": "chainLightning3",
+      "ballistaResist01": "ballistaResist01"
+    },
+    "attackPower": 37112,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "0"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage4",
+    "requiredStableLevel": 30,
+    "upgradeXP": 0,
+    "xpRewardMultiplier": 0,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 176280
+  },
+  {
+    "identifier": "chineseDragon02",
+    "level": 17,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "0"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 727580,
+    "fullHealDuration": 90,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "chineseDragon02_lockon"
+      }
+    ],
+    "abilities": {
+      "aoeSpell": "aoe2",
+      "freezeSpell": "freeze3",
+      "chainLightning": "chainLightning3",
+      "ballistaResist01": "ballistaResist01"
+    },
+    "attackPower": 37112,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "0"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage4",
+    "requiredStableLevel": 30,
+    "upgradeXP": 0,
+    "xpRewardMultiplier": 0,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 176280
+  },
+  {
+    "identifier": "chineseDragon02",
+    "level": 18,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "0"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 727580,
+    "fullHealDuration": 90,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "chineseDragon02_lockon"
+      }
+    ],
+    "abilities": {
+      "aoeSpell": "aoe2",
+      "freezeSpell": "freeze3",
+      "chainLightning": "chainLightning3",
+      "ballistaResist01": "ballistaResist01"
+    },
+    "attackPower": 37112,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "0"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage4",
+    "requiredStableLevel": 30,
+    "upgradeXP": 0,
+    "xpRewardMultiplier": 0,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 176280
+  },
+  {
+    "identifier": "chineseDragon02",
+    "level": 19,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "0"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 727580,
+    "fullHealDuration": 90,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "chineseDragon02_lockon"
+      }
+    ],
+    "abilities": {
+      "aoeSpell": "aoe2",
+      "freezeSpell": "freeze3",
+      "chainLightning": "chainLightning3",
+      "ballistaResist01": "ballistaResist01"
+    },
+    "attackPower": 37112,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "0"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage4",
+    "requiredStableLevel": 30,
+    "upgradeXP": 0,
+    "xpRewardMultiplier": 0,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 176280
+  },
+  {
+    "identifier": "chineseDragon02",
+    "level": 20,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "0"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 727580,
+    "fullHealDuration": 90,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "chineseDragon02_lockon"
+      }
+    ],
+    "abilities": {
+      "aoeSpell": "aoe2",
+      "freezeSpell": "freeze3",
+      "chainLightning": "chainLightning3",
+      "ballistaResist01": "ballistaResist01"
+    },
+    "attackPower": 37112,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "0"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage4",
+    "requiredStableLevel": 30,
+    "upgradeXP": 0,
+    "xpRewardMultiplier": 0,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 176280
+  },
+  {
+    "identifier": "chineseDragon02",
+    "level": 21,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "0"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 727580,
+    "fullHealDuration": 90,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "chineseDragon02_lockon"
+      }
+    ],
+    "abilities": {
+      "aoeSpell": "aoe2",
+      "freezeSpell": "freeze3",
+      "chainLightning": "chainLightning3",
+      "ballistaResist01": "ballistaResist01"
+    },
+    "attackPower": 37112,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "0"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage4",
+    "requiredStableLevel": 30,
+    "upgradeXP": 0,
+    "xpRewardMultiplier": 0,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 176280
+  },
+  {
+    "identifier": "chineseDragon02",
+    "level": 22,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "0"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 727580,
+    "fullHealDuration": 90,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "chineseDragon02_lockon"
+      }
+    ],
+    "abilities": {
+      "aoeSpell": "aoe2",
+      "freezeSpell": "freeze3",
+      "chainLightning": "chainLightning3",
+      "ballistaResist01": "ballistaResist01"
+    },
+    "attackPower": 37112,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "0"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage4",
+    "requiredStableLevel": 30,
+    "upgradeXP": 0,
+    "xpRewardMultiplier": 0,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 176280
+  },
+  {
+    "identifier": "chineseDragon02",
+    "level": 23,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "0"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 727580,
+    "fullHealDuration": 90,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "chineseDragon02_lockon"
+      }
+    ],
+    "abilities": {
+      "aoeSpell": "aoe2",
+      "freezeSpell": "freeze3",
+      "chainLightning": "chainLightning3",
+      "ballistaResist01": "ballistaResist01"
+    },
+    "attackPower": 37112,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "0"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage4",
+    "requiredStableLevel": 30,
+    "upgradeXP": 0,
+    "xpRewardMultiplier": 0,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 176280
+  },
+  {
+    "identifier": "chineseDragon02",
+    "level": 24,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "0"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 727580,
+    "fullHealDuration": 90,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "chineseDragon02_lockon"
+      }
+    ],
+    "abilities": {
+      "aoeSpell": "aoe2",
+      "freezeSpell": "freeze3",
+      "chainLightning": "chainLightning3",
+      "ballistaResist01": "ballistaResist01"
+    },
+    "attackPower": 37112,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "0"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage4",
+    "requiredStableLevel": 30,
+    "upgradeXP": 0,
+    "xpRewardMultiplier": 0,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 176280
+  },
+  {
+    "identifier": "chineseDragon02",
+    "level": 25,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "0"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 727580,
+    "fullHealDuration": 90,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "chineseDragon02_lockon"
+      }
+    ],
+    "abilities": {
+      "aoeSpell": "aoe2",
+      "freezeSpell": "freeze3",
+      "chainLightning": "chainLightning3",
+      "ballistaResist01": "ballistaResist01"
+    },
+    "attackPower": 37112,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "0"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage4",
+    "requiredStableLevel": 30,
+    "upgradeXP": 0,
+    "xpRewardMultiplier": 0,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 176280
+  },
+  {
+    "identifier": "chineseDragon02",
+    "level": 26,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "0"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 727580,
+    "fullHealDuration": 90,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "chineseDragon02_lockon"
+      }
+    ],
+    "abilities": {
+      "aoeSpell": "aoe2",
+      "freezeSpell": "freeze3",
+      "chainLightning": "chainLightning3",
+      "ballistaResist01": "ballistaResist01"
+    },
+    "attackPower": 37112,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "0"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage4",
+    "requiredStableLevel": 30,
+    "upgradeXP": 0,
+    "xpRewardMultiplier": 0,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 176280
+  },
+  {
+    "identifier": "chineseDragon02",
+    "level": 27,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "0"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 727580,
+    "fullHealDuration": 90,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "chineseDragon02_lockon"
+      }
+    ],
+    "abilities": {
+      "aoeSpell": "aoe2",
+      "freezeSpell": "freeze3",
+      "chainLightning": "chainLightning3",
+      "ballistaResist01": "ballistaResist01"
+    },
+    "attackPower": 37112,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "0"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage4",
+    "requiredStableLevel": 30,
+    "upgradeXP": 0,
+    "xpRewardMultiplier": 0,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 176280
+  },
+  {
+    "identifier": "chineseDragon02",
+    "level": 28,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "0"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 727580,
+    "fullHealDuration": 90,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "chineseDragon02_lockon"
+      }
+    ],
+    "abilities": {
+      "aoeSpell": "aoe2",
+      "freezeSpell": "freeze3",
+      "chainLightning": "chainLightning3",
+      "ballistaResist01": "ballistaResist01"
+    },
+    "attackPower": 37112,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "0"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage4",
+    "requiredStableLevel": 30,
+    "upgradeXP": 0,
+    "xpRewardMultiplier": 0,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 176280
+  },
+  {
+    "identifier": "chineseDragon02",
+    "level": 29,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "0"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 727580,
+    "fullHealDuration": 90,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "chineseDragon02_lockon"
+      }
+    ],
+    "abilities": {
+      "aoeSpell": "aoe2",
+      "freezeSpell": "freeze3",
+      "chainLightning": "chainLightning3",
+      "ballistaResist01": "ballistaResist01"
+    },
+    "attackPower": 37112,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "0"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage4",
+    "requiredStableLevel": 30,
+    "upgradeXP": 0,
+    "xpRewardMultiplier": 0,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 176280
+  },
+  {
+    "identifier": "chineseDragon02",
+    "level": 30,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "0"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 727580,
+    "fullHealDuration": 90,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "chineseDragon02_lockon"
+      }
+    ],
+    "abilities": {
+      "aoeSpell": "aoe2",
+      "freezeSpell": "freeze3",
+      "chainLightning": "chainLightning3",
+      "ballistaResist01": "ballistaResist01"
+    },
+    "attackPower": 37112,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "0"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage4",
+    "requiredStableLevel": 30,
+    "upgradeXP": 0,
+    "xpRewardMultiplier": 0,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 176280
+  }
+]

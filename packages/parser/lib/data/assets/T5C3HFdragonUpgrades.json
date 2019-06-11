@@ -1,0 +1,868 @@
+[
+  {
+    "identifier": "T5C3HFdragon",
+    "level": 1,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "0"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 123398,
+    "fullHealDuration": 10086,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T5C3HFdragon_fireball"
+      }
+    ],
+    "abilities": {},
+    "attackPower": 9344,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "122"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 6,
+    "upgradeXP": 24785,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 3430
+  },
+  {
+    "identifier": "T5C3HFdragon",
+    "level": 2,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "24970"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 131259,
+    "fullHealDuration": 11120,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T5C3HFdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "lockdown": "lockdown1"
+    },
+    "attackPower": 10005,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "128"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 7,
+    "upgradeXP": 27905,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 5859
+  },
+  {
+    "identifier": "T5C3HFdragon",
+    "level": 3,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "26194"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 140737,
+    "fullHealDuration": 12315,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T5C3HFdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "lockdown": "lockdown1"
+    },
+    "attackPower": 10692,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "134"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 7,
+    "upgradeXP": 35685,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 6716
+  },
+  {
+    "identifier": "T5C3HFdragon",
+    "level": 4,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "34272"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 150865,
+    "fullHealDuration": 13562,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T5C3HFdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "lockdown": "lockdown1"
+    },
+    "attackPower": 11342,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "140"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 7,
+    "upgradeXP": 45854,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 7638
+  },
+  {
+    "identifier": "T5C3HFdragon",
+    "level": 5,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "36720"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 160431,
+    "fullHealDuration": 14786,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T5C3HFdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "lockdown": "lockdown1",
+      "kamikaze": "selfDestruct1"
+    },
+    "attackPower": 11969,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "150"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 8,
+    "upgradeXP": 57993,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 11427
+  },
+  {
+    "identifier": "T5C3HFdragon",
+    "level": 6,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "39168"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 194099,
+    "fullHealDuration": 15840,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T5C3HFdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "lockdown": "lockdown1",
+      "kamikaze": "selfDestruct1"
+    },
+    "attackPower": 12532,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "160"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 8,
+    "upgradeXP": 72115,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 14480
+  },
+  {
+    "identifier": "T5C3HFdragon",
+    "level": 7,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "41616"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 201445,
+    "fullHealDuration": 15840,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T5C3HFdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "lockdown": "lockdown1",
+      "kamikaze": "selfDestruct1"
+    },
+    "attackPower": 13049,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "170"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 8,
+    "upgradeXP": 80498,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 15662
+  },
+  {
+    "identifier": "T5C3HFdragon",
+    "level": 8,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "44064"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 207663,
+    "fullHealDuration": 15840,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T5C3HFdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "lockdown": "lockdown1",
+      "kamikaze": "selfDestruct1"
+    },
+    "attackPower": 13534,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "180"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 9,
+    "upgradeXP": 90522,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 16716
+  },
+  {
+    "identifier": "T5C3HFdragon",
+    "level": 9,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "46512"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 215855,
+    "fullHealDuration": 15840,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T5C3HFdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "lockdown": "lockdown1",
+      "kamikaze": "selfDestruct1",
+      "lightningResist01": "lightningResist01"
+    },
+    "attackPower": 14111,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "190"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 9,
+    "upgradeXP": 101772,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 23590
+  },
+  {
+    "identifier": "T5C3HFdragon",
+    "level": 10,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "48960"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 224514,
+    "fullHealDuration": 15840,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T5C3HFdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "lockdown": "lockdown1",
+      "kamikaze": "selfDestruct1",
+      "lightningResist01": "lightningResist01"
+    },
+    "attackPower": 14812,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "200"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 9,
+    "upgradeXP": 113573,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 25740
+  },
+  {
+    "identifier": "T5C3HFdragon",
+    "level": 11,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "52632"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 238607,
+    "fullHealDuration": 15840,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T5C3HFdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "lockdown": "lockdown1",
+      "kamikaze": "selfDestruct1",
+      "lightningResist01": "lightningResist01"
+    },
+    "attackPower": 15664,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "215"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 10,
+    "upgradeXP": 127648,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 28958
+  },
+  {
+    "identifier": "T5C3HFdragon",
+    "level": 12,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "56304"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 255397,
+    "fullHealDuration": 15840,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T5C3HFdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "lockdown": "lockdown1",
+      "kamikaze": "selfDestruct1",
+      "lightningResist01": "lightningResist01"
+    },
+    "attackPower": 16631,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "230"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 10,
+    "upgradeXP": 190515,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 32890
+  },
+  {
+    "identifier": "T5C3HFdragon",
+    "level": 13,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "79661"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 273319,
+    "fullHealDuration": 15840,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T5C3HFdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "lockdown": "lockdown1",
+      "kamikaze": "selfDestruct1",
+      "lightningResist01": "lightningResist01"
+    },
+    "attackPower": 17749,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "245"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 11,
+    "upgradeXP": 212550,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 37577
+  },
+  {
+    "identifier": "T5C3HFdragon",
+    "level": 14,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "84538"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 290410,
+    "fullHealDuration": 15840,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T5C3HFdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "lockdown": "lockdown1",
+      "kamikaze": "selfDestruct1",
+      "lightningResist01": "lightningResist01"
+    },
+    "attackPower": 18965,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "260"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 11,
+    "upgradeXP": 227400,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 42619
+  },
+  {
+    "identifier": "T5C3HFdragon",
+    "level": 15,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "89415"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 310697,
+    "fullHealDuration": 15840,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T5C3HFdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "lockdown": "lockdown1",
+      "kamikaze": "selfDestruct1",
+      "lightningResist01": "lightningResist01"
+    },
+    "attackPower": 20232,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "275"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 12,
+    "upgradeXP": 297507,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 48667
+  },
+  {
+    "identifier": "T5C3HFdragon",
+    "level": 16,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "115327"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 332333,
+    "fullHealDuration": 15840,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T5C3HFdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "lockdown": "lockdown1",
+      "kamikaze": "selfDestruct1",
+      "lightningResist01": "lightningResist01"
+    },
+    "attackPower": 21583,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "290"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 12,
+    "upgradeXP": 316037,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 55510
+  },
+  {
+    "identifier": "T5C3HFdragon",
+    "level": 17,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "121293"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 353024,
+    "fullHealDuration": 15840,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T5C3HFdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "lockdown": "lockdown1",
+      "kamikaze": "selfDestruct1",
+      "lightningResist01": "lightningResist01"
+    },
+    "attackPower": 23052,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "305"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 13,
+    "upgradeXP": 395098,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 62985
+  },
+  {
+    "identifier": "T5C3HFdragon",
+    "level": 18,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "148772"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 377504,
+    "fullHealDuration": 15840,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T5C3HFdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "lockdown": "lockdown1",
+      "kamikaze": "selfDestruct1",
+      "lightningResist01": "lightningResist01"
+    },
+    "attackPower": 24583,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "320"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 13,
+    "upgradeXP": 422432,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 71859
+  },
+  {
+    "identifier": "T5C3HFdragon",
+    "level": 19,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "155746"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 403607,
+    "fullHealDuration": 15840,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T5C3HFdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "lockdown": "lockdown1",
+      "kamikaze": "selfDestruct1",
+      "lightningResist01": "lightningResist01"
+    },
+    "attackPower": 26050,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "335"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 14,
+    "upgradeXP": 448645,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 81371
+  },
+  {
+    "identifier": "T5C3HFdragon",
+    "level": 20,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "162719"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 428642,
+    "fullHealDuration": 15840,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T5C3HFdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "lockdown": "lockdown1",
+      "kamikaze": "selfDestruct1",
+      "lightningResist01": "lightningResist01"
+    },
+    "attackPower": 27480,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "350"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 14,
+    "upgradeXP": 0,
+    "xpRewardMultiplier": 1.2,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 91190
+  }
+]

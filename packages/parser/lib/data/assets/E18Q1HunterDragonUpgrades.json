@@ -1,0 +1,2868 @@
+[
+  {
+    "identifier": "E18Q1HunterDragon",
+    "level": 1,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "0"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 174382,
+    "fullHealDuration": 16130,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "E18Q1HunterDragon_fireball"
+      }
+    ],
+    "abilities": {
+      "berserk": "autumnsReap1",
+      "lockdown": "entrap1"
+    },
+    "attackPower": 13009,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "180"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 8,
+    "upgradeXP": 48231,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 14855,
+    "nextEvolveLevel": 6,
+    "tierNumber": 4,
+    "rarity": 5
+  },
+  {
+    "identifier": "E18Q1HunterDragon",
+    "level": 2,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "50688"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 225721,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "E18Q1HunterDragon_fireball"
+      }
+    ],
+    "abilities": {
+      "berserk": "autumnsReap1",
+      "lockdown": "entrap1"
+    },
+    "attackPower": 14711,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "216"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 9,
+    "upgradeXP": 68106,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 21731,
+    "nextEvolveLevel": 6,
+    "tierNumber": 4,
+    "rarity": 5
+  },
+  {
+    "identifier": "E18Q1HunterDragon",
+    "level": 3,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "60192"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 259356,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "E18Q1HunterDragon_fireball"
+      }
+    ],
+    "abilities": {
+      "berserk": "autumnsReap1",
+      "lockdown": "entrap1"
+    },
+    "attackPower": 17026,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "258"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 10,
+    "upgradeXP": 109112,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 28958,
+    "nextEvolveLevel": 6,
+    "tierNumber": 4,
+    "rarity": 5
+  },
+  {
+    "identifier": "E18Q1HunterDragon",
+    "level": 4,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "72864"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 315664,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "E18Q1HunterDragon_fireball"
+      }
+    ],
+    "abilities": {
+      "berserk": "autumnsReap1",
+      "lockdown": "entrap1"
+    },
+    "attackPower": 20614,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "312"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 11,
+    "upgradeXP": 168413,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 42619,
+    "nextEvolveLevel": 6,
+    "tierNumber": 4,
+    "rarity": 5
+  },
+  {
+    "identifier": "E18Q1HunterDragon",
+    "level": 5,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "87120"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 383722,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "E18Q1HunterDragon_fireball"
+      }
+    ],
+    "abilities": {
+      "berserk": "autumnsReap1",
+      "lockdown": "entrap1"
+    },
+    "attackPower": 25057,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "366"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 13,
+    "upgradeXP": 230022,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 62985,
+    "nextEvolveLevel": 6,
+    "tierNumber": 4,
+    "rarity": 5
+  },
+  {
+    "identifier": "E18Q1HunterDragon",
+    "level": 6,
+    "upgradeCost": [
+      {
+        "type": "E18Q1HunterDragonGreenStone",
+        "amount": "1"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "have2GreenEpic",
+    "HP": 438703,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "E18Q1HunterDragon_fireball"
+      }
+    ],
+    "abilities": {
+      "berserk": "autumnsReap1",
+      "lockdown": "entrap1",
+      "cloak": "vanish1"
+    },
+    "attackPower": 28316,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "402"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 14,
+    "upgradeXP": 288732,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 81371,
+    "nextEvolveLevel": 10,
+    "tierNumber": 5,
+    "rarity": 5
+  },
+  {
+    "identifier": "E18Q1HunterDragon",
+    "level": 7,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "110880"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 575379,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "E18Q1HunterDragon_fireball"
+      }
+    ],
+    "abilities": {
+      "berserk": "autumnsReap1",
+      "lockdown": "entrap1",
+      "cloak": "vanish1"
+    },
+    "attackPower": 32638,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "456"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 15,
+    "upgradeXP": 350234,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 123032,
+    "nextEvolveLevel": 10,
+    "tierNumber": 5,
+    "rarity": 5
+  },
+  {
+    "identifier": "E18Q1HunterDragon",
+    "level": 8,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "125136"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 645041,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "E18Q1HunterDragon_fireball"
+      }
+    ],
+    "abilities": {
+      "berserk": "autumnsReap1",
+      "lockdown": "entrap1",
+      "cloak": "vanish1"
+    },
+    "attackPower": 37181,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "510"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 17,
+    "upgradeXP": 424413,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 157158,
+    "nextEvolveLevel": 10,
+    "tierNumber": 5,
+    "rarity": 5
+  },
+  {
+    "identifier": "E18Q1HunterDragon",
+    "level": 9,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "139392"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 828995,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "E18Q1HunterDragon_fireball"
+      }
+    ],
+    "abilities": {
+      "berserk": "autumnsReap1",
+      "lockdown": "entrap1",
+      "cloak": "vanish1"
+    },
+    "attackPower": 47354,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "564"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 18,
+    "upgradeXP": 513817,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 257248,
+    "nextEvolveLevel": 10,
+    "tierNumber": 5,
+    "rarity": 5
+  },
+  {
+    "identifier": "E18Q1HunterDragon",
+    "level": 10,
+    "upgradeCost": [
+      {
+        "type": "E18Q1HunterDragonGoldStone",
+        "amount": "1"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "haveGoldLegendary",
+    "HP": 944827,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "E18Q1HunterDragon_fireball"
+      }
+    ],
+    "abilities": {
+      "berserk": "autumnsReap1",
+      "lockdown": "entrap1",
+      "cloak": "vanish1",
+      "iceTurretResist01": "iceTurretResist01"
+    },
+    "attackPower": 53718,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "618"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 18,
+    "upgradeXP": 621502,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 332592,
+    "nextEvolveLevel": 19,
+    "tierNumber": 6,
+    "rarity": 5
+  },
+  {
+    "identifier": "E18Q1HunterDragon",
+    "level": 11,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "167904"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 1142023,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "E18Q1HunterDragon_fireball"
+      }
+    ],
+    "abilities": {
+      "berserk": "autumnsReap1",
+      "lockdown": "entrap1",
+      "cloak": "vanish1",
+      "iceTurretResist01": "iceTurretResist01"
+    },
+    "attackPower": 64854,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "672"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 18,
+    "upgradeXP": 751132,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 485316,
+    "nextEvolveLevel": 19,
+    "tierNumber": 6,
+    "rarity": 5
+  },
+  {
+    "identifier": "E18Q1HunterDragon",
+    "level": 12,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "182160"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 1285716,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "E18Q1HunterDragon_fireball"
+      }
+    ],
+    "abilities": {
+      "berserk": "autumnsReap1",
+      "lockdown": "entrap1",
+      "cloak": "vanish1",
+      "iceTurretResist01": "iceTurretResist01"
+    },
+    "attackPower": 72976,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "708"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 18,
+    "upgradeXP": 821470,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 614796,
+    "nextEvolveLevel": 19,
+    "tierNumber": 6,
+    "rarity": 5
+  },
+  {
+    "identifier": "E18Q1HunterDragon",
+    "level": 13,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "191664"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 1476164,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "E18Q1HunterDragon_fireball"
+      }
+    ],
+    "abilities": {
+      "berserk": "autumnsReap1",
+      "lockdown": "entrap1",
+      "cloak": "vanish1",
+      "iceTurretResist01": "iceTurretResist01"
+    },
+    "attackPower": 83202,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "762"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 18,
+    "upgradeXP": 884627,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 804752,
+    "nextEvolveLevel": 19,
+    "tierNumber": 6,
+    "rarity": 5
+  },
+  {
+    "identifier": "E18Q1HunterDragon",
+    "level": 14,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "205920"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 1589627,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "E18Q1HunterDragon_fireball"
+      }
+    ],
+    "abilities": {
+      "berserk": "autumnsReap1",
+      "lockdown": "entrap1",
+      "cloak": "vanish1",
+      "iceTurretResist01": "iceTurretResist01"
+    },
+    "attackPower": 90298,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "816"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 18,
+    "upgradeXP": 952640,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 940576,
+    "nextEvolveLevel": 19,
+    "tierNumber": 6,
+    "rarity": 5
+  },
+  {
+    "identifier": "E18Q1HunterDragon",
+    "level": 15,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "220176"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "have2LegendaryGold",
+    "HP": 1670079,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "E18Q1HunterDragon_fireball"
+      }
+    ],
+    "abilities": {
+      "berserk": "autumnsReap1",
+      "lockdown": "entrap1",
+      "cloak": "vanish1",
+      "iceTurretResist01": "iceTurretResist01"
+    },
+    "attackPower": 94869,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "852"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 18,
+    "upgradeXP": 1000866,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 1038133,
+    "nextEvolveLevel": 19,
+    "tierNumber": 6,
+    "rarity": 5
+  },
+  {
+    "identifier": "E18Q1HunterDragon",
+    "level": 16,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "229680"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 1798461,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "E18Q1HunterDragon_fireball"
+      }
+    ],
+    "abilities": {
+      "berserk": "autumnsReap1",
+      "lockdown": "entrap1",
+      "cloak": "vanish1",
+      "iceTurretResist01": "iceTurretResist01"
+    },
+    "attackPower": 102163,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "906"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 19,
+    "upgradeXP": 1077820,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 1203895,
+    "nextEvolveLevel": 19,
+    "tierNumber": 6,
+    "rarity": 5
+  },
+  {
+    "identifier": "E18Q1HunterDragon",
+    "level": 17,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "243936"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 1889486,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "E18Q1HunterDragon_fireball"
+      }
+    ],
+    "abilities": {
+      "berserk": "autumnsReap1",
+      "lockdown": "entrap1",
+      "cloak": "vanish1",
+      "iceTurretResist01": "iceTurretResist01"
+    },
+    "attackPower": 107334,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "942"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 19,
+    "upgradeXP": 1132381,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 1328896,
+    "nextEvolveLevel": 19,
+    "tierNumber": 6,
+    "rarity": 5
+  },
+  {
+    "identifier": "E18Q1HunterDragon",
+    "level": 18,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "253440"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 2034722,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "E18Q1HunterDragon_fireball"
+      }
+    ],
+    "abilities": {
+      "berserk": "autumnsReap1",
+      "lockdown": "entrap1",
+      "cloak": "vanish1",
+      "iceTurretResist01": "iceTurretResist01"
+    },
+    "attackPower": 115587,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "996"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 20,
+    "upgradeXP": 1619675,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 1541051,
+    "nextEvolveLevel": 19,
+    "tierNumber": 6,
+    "rarity": 5
+  },
+  {
+    "identifier": "E18Q1HunterDragon",
+    "level": 19,
+    "upgradeCost": [
+      {
+        "type": "E18Q1HunterDragonPlatinumStone",
+        "amount": "1"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "havePlatinumLegendary",
+    "HP": 2137699,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "E18Q1HunterDragon_fireball"
+      }
+    ],
+    "abilities": {
+      "berserk": "autumnsReap1",
+      "lockdown": "entrap1",
+      "cloak": "vanish1",
+      "iceTurretResist01": "iceTurretResist01"
+    },
+    "attackPower": 121438,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1032"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 21,
+    "upgradeXP": 1701670,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 1701014,
+    "nextEvolveLevel": 26,
+    "tierNumber": 7,
+    "rarity": 5
+  },
+  {
+    "identifier": "E18Q1HunterDragon",
+    "level": 20,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "368178"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 2302023,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "E18Q1HunterDragon_fireball"
+      }
+    ],
+    "abilities": {
+      "berserk": "autumnsReap1",
+      "lockdown": "entrap1",
+      "cloak": "vanish1",
+      "iceTurretResist01": "iceTurretResist01"
+    },
+    "attackPower": 130776,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1086"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 22,
+    "upgradeXP": 1832505,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 1972653,
+    "nextEvolveLevel": 26,
+    "tierNumber": 7,
+    "rarity": 5
+  },
+  {
+    "identifier": "E18Q1HunterDragon",
+    "level": 21,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "387113"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 2479006,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "E18Q1HunterDragon_fireball"
+      }
+    ],
+    "abilities": {
+      "berserk": "autumnsReap1",
+      "lockdown": "entrap1",
+      "cloak": "vanish1",
+      "iceTurretResist01": "iceTurretResist01"
+    },
+    "attackPower": 140831,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1140"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 23,
+    "upgradeXP": 1973403,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 2287584,
+    "nextEvolveLevel": 26,
+    "tierNumber": 7,
+    "rarity": 5
+  },
+  {
+    "identifier": "E18Q1HunterDragon",
+    "level": 22,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "406048"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 2669589,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "E18Q1HunterDragon_fireball"
+      }
+    ],
+    "abilities": {
+      "berserk": "autumnsReap1",
+      "lockdown": "entrap1",
+      "cloak": "vanish1",
+      "iceTurretResist01": "iceTurretResist01"
+    },
+    "attackPower": 151659,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1194"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 24,
+    "upgradeXP": 2599221,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 2652892,
+    "nextEvolveLevel": 26,
+    "tierNumber": 7,
+    "rarity": 5
+  },
+  {
+    "identifier": "E18Q1HunterDragon",
+    "level": 23,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "519790"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 2874801,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "E18Q1HunterDragon_fireball"
+      }
+    ],
+    "abilities": {
+      "berserk": "autumnsReap1",
+      "lockdown": "entrap1",
+      "cloak": "vanish1",
+      "iceTurretResist01": "iceTurretResist01"
+    },
+    "attackPower": 159271,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1248"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 25,
+    "upgradeXP": 2799070,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 3000270,
+    "nextEvolveLevel": 26,
+    "tierNumber": 7,
+    "rarity": 5
+  },
+  {
+    "identifier": "E18Q1HunterDragon",
+    "level": 24,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "542949"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "have2LegendaryPlatinum",
+    "HP": 3095796,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "E18Q1HunterDragon_fireball"
+      }
+    ],
+    "abilities": {
+      "berserk": "autumnsReap1",
+      "lockdown": "entrap1",
+      "cloak": "vanish1",
+      "iceTurretResist01": "iceTurretResist01"
+    },
+    "attackPower": 171517,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1302"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 26,
+    "upgradeXP": 3014289,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 3479258,
+    "nextEvolveLevel": 26,
+    "tierNumber": 7,
+    "rarity": 5
+  },
+  {
+    "identifier": "E18Q1HunterDragon",
+    "level": 25,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "566108"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 3333791,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "E18Q1HunterDragon_fireball"
+      }
+    ],
+    "abilities": {
+      "berserk": "autumnsReap1",
+      "lockdown": "entrap1",
+      "cloak": "vanish1",
+      "iceTurretResist01": "iceTurretResist01"
+    },
+    "attackPower": 184705,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1338"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 27,
+    "upgradeXP": 3166886,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 4034784,
+    "nextEvolveLevel": 26,
+    "tierNumber": 7,
+    "rarity": 5
+  },
+  {
+    "identifier": "E18Q1HunterDragon",
+    "level": 26,
+    "upgradeCost": [
+      {
+        "type": "E18Q1HunterDragonSapphireStone",
+        "amount": "1"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "haveLegendarySapphire",
+    "HP": 3417125,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "E18Q1HunterDragon_fireball"
+      }
+    ],
+    "abilities": {
+      "berserk": "autumnsReap1",
+      "lockdown": "entrap1",
+      "cloak": "vanish1",
+      "iceTurretResist01": "iceTurretResist01"
+    },
+    "attackPower": 189323,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1374"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 27,
+    "upgradeXP": 3889704,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 4239073,
+    "nextEvolveLevel": 32,
+    "tierNumber": 8,
+    "rarity": 5
+  },
+  {
+    "identifier": "E18Q1HunterDragon",
+    "level": 27,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "697913"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 3679836,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "E18Q1HunterDragon_fireball"
+      }
+    ],
+    "abilities": {
+      "berserk": "autumnsReap1",
+      "lockdown": "entrap1",
+      "cloak": "vanish1",
+      "iceTurretResist01": "iceTurretResist01"
+    },
+    "attackPower": 203879,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1428"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 28,
+    "upgradeXP": 4188780,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 4916054,
+    "nextEvolveLevel": 32,
+    "tierNumber": 8,
+    "rarity": 5
+  },
+  {
+    "identifier": "E18Q1HunterDragon",
+    "level": 28,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "724988"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 3866096,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "E18Q1HunterDragon_fireball"
+      }
+    ],
+    "abilities": {
+      "berserk": "autumnsReap1",
+      "lockdown": "entrap1",
+      "cloak": "vanish1",
+      "iceTurretResist01": "iceTurretResist01"
+    },
+    "attackPower": 214201,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1464"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 29,
+    "upgradeXP": 4400830,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 5426221,
+    "nextEvolveLevel": 32,
+    "tierNumber": 8,
+    "rarity": 5
+  },
+  {
+    "identifier": "E18Q1HunterDragon",
+    "level": 29,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "743037"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "have2LegendarySapphire",
+    "HP": 4163307,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "E18Q1HunterDragon_fireball"
+      }
+    ],
+    "abilities": {
+      "berserk": "autumnsReap1",
+      "lockdown": "entrap1",
+      "cloak": "vanish1",
+      "iceTurretResist01": "iceTurretResist01"
+    },
+    "attackPower": 230670,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1518"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 30,
+    "upgradeXP": 4739207,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 6292754,
+    "nextEvolveLevel": 32,
+    "tierNumber": 8,
+    "rarity": 5
+  },
+  {
+    "identifier": "E18Q1HunterDragon",
+    "level": 30,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "770111"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 4483402,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "E18Q1HunterDragon_fireball"
+      }
+    ],
+    "abilities": {
+      "berserk": "autumnsReap1",
+      "lockdown": "entrap1",
+      "cloak": "vanish1",
+      "iceTurretResist01": "iceTurretResist01"
+    },
+    "attackPower": 248406,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1572"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 31,
+    "upgradeXP": 5103600,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 7297545,
+    "nextEvolveLevel": 32,
+    "tierNumber": 8,
+    "rarity": 5
+  },
+  {
+    "identifier": "E18Q1HunterDragon",
+    "level": 31,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "797185"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 4710344,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "E18Q1HunterDragon_fireball"
+      }
+    ],
+    "abilities": {
+      "berserk": "autumnsReap1",
+      "lockdown": "entrap1",
+      "cloak": "vanish1",
+      "iceTurretResist01": "iceTurretResist01"
+    },
+    "attackPower": 260981,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1608"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 32,
+    "upgradeXP": 5361968,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 8055060,
+    "nextEvolveLevel": 32,
+    "tierNumber": 8,
+    "rarity": 5
+  },
+  {
+    "identifier": "E18Q1HunterDragon",
+    "level": 32,
+    "upgradeCost": [
+      {
+        "type": "E18Q1HunterDragonGarnetStone",
+        "amount": "1"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "haveLegendaryGarnet",
+    "HP": 4948770,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "E18Q1HunterDragon_fireball"
+      }
+    ],
+    "abilities": {
+      "berserk": "autumnsReap1",
+      "lockdown": "entrap1",
+      "cloak": "vanish1",
+      "iceTurretResist01": "iceTurretResist01"
+    },
+    "attackPower": 274193,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1644"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 32,
+    "upgradeXP": 5633412,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 8891275,
+    "nextEvolveLevel": 38,
+    "tierNumber": 9,
+    "rarity": 5
+  },
+  {
+    "identifier": "E18Q1HunterDragon",
+    "level": 33,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "833284"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 5462453,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "E18Q1HunterDragon_fireball"
+      }
+    ],
+    "abilities": {
+      "berserk": "autumnsReap1",
+      "lockdown": "entrap1",
+      "cloak": "vanish1",
+      "iceTurretResist01": "iceTurretResist01"
+    },
+    "attackPower": 302658,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1716"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 34,
+    "upgradeXP": 6218221,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 10833077,
+    "nextEvolveLevel": 38,
+    "tierNumber": 9,
+    "rarity": 5
+  },
+  {
+    "identifier": "E18Q1HunterDragon",
+    "level": 34,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "869383"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 5882410,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "E18Q1HunterDragon_fireball"
+      }
+    ],
+    "abilities": {
+      "berserk": "autumnsReap1",
+      "lockdown": "entrap1",
+      "cloak": "vanish1",
+      "iceTurretResist01": "iceTurretResist01"
+    },
+    "attackPower": 325929,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1770"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 35,
+    "upgradeXP": 6696336,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 12562910,
+    "nextEvolveLevel": 38,
+    "tierNumber": 9,
+    "rarity": 5
+  },
+  {
+    "identifier": "E18Q1HunterDragon",
+    "level": 35,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "896457"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "have2LegendaryGarnet",
+    "HP": 6180181,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "E18Q1HunterDragon_fireball"
+      }
+    ],
+    "abilities": {
+      "berserk": "autumnsReap1",
+      "lockdown": "entrap1",
+      "cloak": "vanish1",
+      "iceTurretResist01": "iceTurretResist01"
+    },
+    "attackPower": 342428,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1806"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 35,
+    "upgradeXP": 7035336,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 13867018,
+    "nextEvolveLevel": 38,
+    "tierNumber": 9,
+    "rarity": 5
+  },
+  {
+    "identifier": "E18Q1HunterDragon",
+    "level": 36,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "914507"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 6655317,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "E18Q1HunterDragon_fireball"
+      }
+    ],
+    "abilities": {
+      "berserk": "autumnsReap1",
+      "lockdown": "entrap1",
+      "cloak": "vanish1",
+      "iceTurretResist01": "iceTurretResist01"
+    },
+    "attackPower": 368758,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1860"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 36,
+    "upgradeXP": 7576277,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 16081273,
+    "nextEvolveLevel": 38,
+    "tierNumber": 9,
+    "rarity": 5
+  },
+  {
+    "identifier": "E18Q1HunterDragon",
+    "level": 37,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "941581"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 7529802,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "E18Q1HunterDragon_fireball"
+      }
+    ],
+    "abilities": {
+      "berserk": "autumnsReap1",
+      "lockdown": "entrap1",
+      "cloak": "vanish1",
+      "iceTurretResist01": "iceTurretResist01"
+    },
+    "attackPower": 417214,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1914"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 37,
+    "upgradeXP": 8158813,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 20585163,
+    "nextEvolveLevel": 38,
+    "tierNumber": 9,
+    "rarity": 5
+  },
+  {
+    "identifier": "E18Q1HunterDragon",
+    "level": 38,
+    "upgradeCost": [
+      {
+        "type": "E18Q1HunterDragonEmeraldStone",
+        "amount": "1"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "haveLegendaryEmerald",
+    "HP": 7718029,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "E18Q1HunterDragon_fireball"
+      }
+    ],
+    "abilities": {
+      "berserk": "autumnsReap1",
+      "lockdown": "entrap1",
+      "cloak": "vanish1",
+      "iceTurretResist01": "iceTurretResist01"
+    },
+    "attackPower": 427645,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1968"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 38,
+    "upgradeXP": 8786136,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 21627242,
+    "nextEvolveLevel": 44,
+    "tierNumber": 10,
+    "rarity": 5
+  },
+  {
+    "identifier": "E18Q1HunterDragon",
+    "level": 39,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "995730"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 8311416,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "E18Q1HunterDragon_fireball"
+      }
+    ],
+    "abilities": {
+      "berserk": "autumnsReap1",
+      "lockdown": "entrap1",
+      "cloak": "vanish1",
+      "iceTurretResist01": "iceTurretResist01"
+    },
+    "attackPower": 460526,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2022"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 39,
+    "upgradeXP": 9461696,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 25080699,
+    "nextEvolveLevel": 44,
+    "tierNumber": 10,
+    "rarity": 5
+  },
+  {
+    "identifier": "E18Q1HunterDragon",
+    "level": 40,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1022804"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 8950451,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "E18Q1HunterDragon_fireball"
+      }
+    ],
+    "abilities": {
+      "berserk": "autumnsReap1",
+      "lockdown": "entrap1",
+      "cloak": "vanish1",
+      "iceTurretResist01": "iceTurretResist01"
+    },
+    "attackPower": 495935,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2076"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 41,
+    "upgradeXP": 10189207,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 29085711,
+    "nextEvolveLevel": 44,
+    "tierNumber": 10,
+    "rarity": 5
+  },
+  {
+    "identifier": "E18Q1HunterDragon",
+    "level": 41,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1049878"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 9638608,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "E18Q1HunterDragon_fireball"
+      }
+    ],
+    "abilities": {
+      "berserk": "autumnsReap1",
+      "lockdown": "entrap1",
+      "cloak": "vanish1",
+      "iceTurretResist01": "iceTurretResist01"
+    },
+    "attackPower": 534068,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2130"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 42,
+    "upgradeXP": 10972658,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 33730337,
+    "nextEvolveLevel": 44,
+    "tierNumber": 10,
+    "rarity": 5
+  },
+  {
+    "identifier": "E18Q1HunterDragon",
+    "level": 42,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1076952"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "have2LegendaryEmerald",
+    "HP": 10379670,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "E18Q1HunterDragon_fireball"
+      }
+    ],
+    "abilities": {
+      "berserk": "autumnsReap1",
+      "lockdown": "entrap1",
+      "cloak": "vanish1",
+      "iceTurretResist01": "iceTurretResist01"
+    },
+    "attackPower": 575132,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2184"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 44,
+    "upgradeXP": 11816341,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 39116698,
+    "nextEvolveLevel": 44,
+    "tierNumber": 10,
+    "rarity": 5
+  },
+  {
+    "identifier": "E18Q1HunterDragon",
+    "level": 43,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1104026"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 11177715,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "E18Q1HunterDragon_fireball"
+      }
+    ],
+    "abilities": {
+      "berserk": "autumnsReap1",
+      "lockdown": "entrap1",
+      "cloak": "vanish1",
+      "iceTurretResist01": "iceTurretResist01"
+    },
+    "attackPower": 619354,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2238"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 45,
+    "upgradeXP": 12724900,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 45363091,
+    "nextEvolveLevel": 44,
+    "tierNumber": 10,
+    "rarity": 5
+  },
+  {
+    "identifier": "E18Q1HunterDragon",
+    "level": 44,
+    "upgradeCost": [
+      {
+        "type": "E18Q1HunterDragonObsidianStone",
+        "amount": "1"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "haveLegendaryObsidian",
+    "HP": 11743554,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "E18Q1HunterDragon_fireball"
+      }
+    ],
+    "abilities": {
+      "berserk": "autumnsReap1",
+      "lockdown": "entrap1",
+      "cloak": "vanish1",
+      "iceTurretResist01": "iceTurretResist01"
+    },
+    "attackPower": 650708,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2274"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 46,
+    "upgradeXP": 13369093,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 50072261,
+    "nextEvolveLevel": 54,
+    "tierNumber": 11,
+    "rarity": 5
+  },
+  {
+    "identifier": "E18Q1HunterDragon",
+    "level": 45,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1149150"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 12646493,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "E18Q1HunterDragon_fireball"
+      }
+    ],
+    "abilities": {
+      "berserk": "autumnsReap1",
+      "lockdown": "entrap1",
+      "cloak": "vanish1",
+      "iceTurretResist01": "iceTurretResist01"
+    },
+    "attackPower": 700741,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2328"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 48,
+    "upgradeXP": 14397039,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 58068192,
+    "nextEvolveLevel": 54,
+    "tierNumber": 11,
+    "rarity": 5
+  },
+  {
+    "identifier": "E18Q1HunterDragon",
+    "level": 46,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1176224"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 13618862,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "E18Q1HunterDragon_fireball"
+      }
+    ],
+    "abilities": {
+      "berserk": "autumnsReap1",
+      "lockdown": "entrap1",
+      "cloak": "vanish1",
+      "iceTurretResist01": "iceTurretResist01"
+    },
+    "attackPower": 754621,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2382"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 49,
+    "upgradeXP": 15504034,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 67341184,
+    "nextEvolveLevel": 54,
+    "tierNumber": 11,
+    "rarity": 5
+  },
+  {
+    "identifier": "E18Q1HunterDragon",
+    "level": 47,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1203298"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "have2LegendaryObsidian",
+    "HP": 14665990,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "E18Q1HunterDragon_fireball"
+      }
+    ],
+    "abilities": {
+      "berserk": "autumnsReap1",
+      "lockdown": "entrap1",
+      "cloak": "vanish1",
+      "iceTurretResist01": "iceTurretResist01"
+    },
+    "attackPower": 812644,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2436"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 52,
+    "upgradeXP": 16696141,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 78094999,
+    "nextEvolveLevel": 54,
+    "tierNumber": 11,
+    "rarity": 5
+  },
+  {
+    "identifier": "E18Q1HunterDragon",
+    "level": 48,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1230373"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 15793623,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "E18Q1HunterDragon_fireball"
+      }
+    ],
+    "abilities": {
+      "berserk": "autumnsReap1",
+      "lockdown": "entrap1",
+      "cloak": "vanish1",
+      "iceTurretResist01": "iceTurretResist01"
+    },
+    "attackPower": 875129,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2490"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 55,
+    "upgradeXP": 17979907,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 88104753,
+    "nextEvolveLevel": 54,
+    "tierNumber": 11,
+    "rarity": 5
+  },
+  {
+    "identifier": "E18Q1HunterDragon",
+    "level": 49,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1257447"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 16593151,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "E18Q1HunterDragon_fireball"
+      }
+    ],
+    "abilities": {
+      "berserk": "autumnsReap1",
+      "lockdown": "entrap1",
+      "cloak": "vanish1",
+      "iceTurretResist01": "iceTurretResist01"
+    },
+    "attackPower": 919432,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2526"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 57,
+    "upgradeXP": 18890137,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 98964626,
+    "nextEvolveLevel": 54,
+    "tierNumber": 11,
+    "rarity": 5
+  },
+  {
+    "identifier": "E18Q1HunterDragon",
+    "level": 50,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1275496"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 17433154,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "E18Q1HunterDragon_fireball"
+      }
+    ],
+    "abilities": {
+      "berserk": "autumnsReap1",
+      "lockdown": "entrap1",
+      "cloak": "vanish1",
+      "iceTurretResist01": "iceTurretResist01"
+    },
+    "attackPower": 965977,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2562"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 59,
+    "upgradeXP": 19846444,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 107725526,
+    "nextEvolveLevel": 54,
+    "tierNumber": 11,
+    "rarity": 5
+  },
+  {
+    "identifier": "E18Q1HunterDragon",
+    "level": 51,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1293546"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 18315689,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "E18Q1HunterDragon_fireball"
+      }
+    ],
+    "abilities": {
+      "berserk": "autumnsReap1",
+      "lockdown": "entrap1",
+      "cloak": "vanish1",
+      "iceTurretResist01": "iceTurretResist01"
+    },
+    "attackPower": 1014880,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2598"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 60,
+    "upgradeXP": 20851166,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 115655313,
+    "nextEvolveLevel": 54,
+    "tierNumber": 11,
+    "rarity": 5
+  },
+  {
+    "identifier": "E18Q1HunterDragon",
+    "level": 52,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1311595"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "haveMythicObsidian",
+    "HP": 19242902,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "E18Q1HunterDragon_fireball"
+      }
+    ],
+    "abilities": {
+      "berserk": "autumnsReap1",
+      "lockdown": "entrap1",
+      "cloak": "vanish1",
+      "iceTurretResist01": "iceTurretResist01"
+    },
+    "attackPower": 1066258,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2634"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 61,
+    "upgradeXP": 21906753,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 122698754,
+    "nextEvolveLevel": 54,
+    "tierNumber": 11,
+    "rarity": 5
+  },
+  {
+    "identifier": "E18Q1HunterDragon",
+    "level": 53,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1329645"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 20217057,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "E18Q1HunterDragon_fireball"
+      }
+    ],
+    "abilities": {
+      "berserk": "autumnsReap1",
+      "lockdown": "entrap1",
+      "cloak": "vanish1",
+      "iceTurretResist01": "iceTurretResist01"
+    },
+    "attackPower": 1120237,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2670"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 62,
+    "upgradeXP": 23015776,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 129871499,
+    "nextEvolveLevel": 54,
+    "tierNumber": 11,
+    "rarity": 5
+  },
+  {
+    "identifier": "E18Q1HunterDragon",
+    "level": 54,
+    "upgradeCost": [
+      {
+        "type": "E18Q1HunterDragonHarbingerStone",
+        "amount": "1"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "haveLegendaryHarbinger",
+    "HP": 21240540,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "E18Q1HunterDragon_fireball"
+      }
+    ],
+    "abilities": {
+      "berserk": "autumnsReap1",
+      "lockdown": "entrap1",
+      "cloak": "vanish1",
+      "iceTurretResist01": "iceTurretResist01"
+    },
+    "attackPower": 1176949,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2706"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 63,
+    "upgradeXP": 24180946,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 137173547,
+    "nextEvolveLevel": 0,
+    "tierNumber": 12,
+    "rarity": 5
+  },
+  {
+    "identifier": "E18Q1HunterDragon",
+    "level": 55,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1365744"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 22873702,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "E18Q1HunterDragon_fireball"
+      }
+    ],
+    "abilities": {
+      "berserk": "autumnsReap1",
+      "lockdown": "entrap1",
+      "cloak": "vanish1",
+      "iceTurretResist01": "iceTurretResist01"
+    },
+    "attackPower": 1267444,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2760"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 65,
+    "upgradeXP": 26040226,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 148369062,
+    "nextEvolveLevel": 0,
+    "tierNumber": 12,
+    "rarity": 5
+  },
+  {
+    "identifier": "E18Q1HunterDragon",
+    "level": 56,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1392818"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 24632466,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "E18Q1HunterDragon_fireball"
+      }
+    ],
+    "abilities": {
+      "berserk": "autumnsReap1",
+      "lockdown": "entrap1",
+      "cloak": "vanish1",
+      "iceTurretResist01": "iceTurretResist01"
+    },
+    "attackPower": 1364899,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2814"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 66,
+    "upgradeXP": 28042467,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 159855510,
+    "nextEvolveLevel": 0,
+    "tierNumber": 12,
+    "rarity": 5
+  },
+  {
+    "identifier": "E18Q1HunterDragon",
+    "level": 57,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1419892"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 26526448,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "E18Q1HunterDragon_fireball"
+      }
+    ],
+    "abilities": {
+      "berserk": "autumnsReap1",
+      "lockdown": "entrap1",
+      "cloak": "vanish1",
+      "iceTurretResist01": "iceTurretResist01"
+    },
+    "attackPower": 1469846,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2868"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 68,
+    "upgradeXP": 30198662,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 171632890,
+    "nextEvolveLevel": 0,
+    "tierNumber": 12,
+    "rarity": 5
+  },
+  {
+    "identifier": "E18Q1HunterDragon",
+    "level": 58,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1446966"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 28566037,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "E18Q1HunterDragon_fireball"
+      }
+    ],
+    "abilities": {
+      "berserk": "autumnsReap1",
+      "lockdown": "entrap1",
+      "cloak": "vanish1",
+      "iceTurretResist01": "iceTurretResist01"
+    },
+    "attackPower": 1582863,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2922"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 69,
+    "upgradeXP": 32520645,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 183701202,
+    "nextEvolveLevel": 0,
+    "tierNumber": 12,
+    "rarity": 5
+  },
+  {
+    "identifier": "E18Q1HunterDragon",
+    "level": 59,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1474040"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 30762466,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "E18Q1HunterDragon_fireball"
+      }
+    ],
+    "abilities": {
+      "berserk": "autumnsReap1",
+      "lockdown": "entrap1",
+      "cloak": "vanish1",
+      "iceTurretResist01": "iceTurretResist01"
+    },
+    "attackPower": 1704570,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2976"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 71,
+    "upgradeXP": 35021169,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 196060446,
+    "nextEvolveLevel": 0,
+    "tierNumber": 12,
+    "rarity": 5
+  },
+  {
+    "identifier": "E18Q1HunterDragon",
+    "level": 60,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1501115"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 33127776,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "E18Q1HunterDragon_fireball"
+      }
+    ],
+    "abilities": {
+      "berserk": "autumnsReap1",
+      "lockdown": "entrap1",
+      "cloak": "vanish1",
+      "iceTurretResist01": "iceTurretResist01"
+    },
+    "attackPower": 1835635,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3030"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 72,
+    "upgradeXP": 0,
+    "xpRewardMultiplier": 1.2,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 208710623,
+    "nextEvolveLevel": 0,
+    "tierNumber": 12,
+    "rarity": 5
+  }
+]

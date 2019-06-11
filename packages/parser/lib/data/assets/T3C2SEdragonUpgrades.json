@@ -1,0 +1,420 @@
+[
+  {
+    "identifier": "T3C2SEdragon",
+    "level": 1,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "0"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 20227,
+    "fullHealDuration": 517,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T3C2SEdragon_lockon"
+      }
+    ],
+    "abilities": {},
+    "attackPower": 2020,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "22"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 2,
+    "upgradeXP": 1239,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 161
+  },
+  {
+    "identifier": "T3C2SEdragon",
+    "level": 2,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "709"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 22215,
+    "fullHealDuration": 615,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T3C2SEdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "summonAIDragon": "summonDragon1"
+    },
+    "attackPower": 2188,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "24"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 2,
+    "upgradeXP": 1649,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 281
+  },
+  {
+    "identifier": "T3C2SEdragon",
+    "level": 3,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "787"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 29377,
+    "fullHealDuration": 873,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T3C2SEdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "summonAIDragon": "summonDragon1"
+    },
+    "attackPower": 2346,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "26"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 2,
+    "upgradeXP": 2152,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 408
+  },
+  {
+    "identifier": "T3C2SEdragon",
+    "level": 4,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1084"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 30696,
+    "fullHealDuration": 966,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T3C2SEdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "summonAIDragon": "summonDragon1"
+    },
+    "attackPower": 2486,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "28"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 2,
+    "upgradeXP": 2826,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 446
+  },
+  {
+    "identifier": "T3C2SEdragon",
+    "level": 5,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1188"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 32478,
+    "fullHealDuration": 1076,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T3C2SEdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "summonAIDragon": "summonDragon1"
+    },
+    "attackPower": 2618,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "30"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 2,
+    "upgradeXP": 3480,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 500
+  },
+  {
+    "identifier": "T3C2SEdragon",
+    "level": 6,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1296"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 33955,
+    "fullHealDuration": 1193,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T3C2SEdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "summonAIDragon": "summonDragon1"
+    },
+    "attackPower": 2774,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "32"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 3,
+    "upgradeXP": 6254,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 556
+  },
+  {
+    "identifier": "T3C2SEdragon",
+    "level": 7,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "2449"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 35911,
+    "fullHealDuration": 1351,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T3C2SEdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "summonAIDragon": "summonDragon1"
+    },
+    "attackPower": 2970,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "34"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 3,
+    "upgradeXP": 9425,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 630
+  },
+  {
+    "identifier": "T3C2SEdragon",
+    "level": 8,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "3274"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 39048,
+    "fullHealDuration": 1580,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T3C2SEdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "summonAIDragon": "summonDragon1"
+    },
+    "attackPower": 3196,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "36"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 3,
+    "upgradeXP": 10840,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 740
+  },
+  {
+    "identifier": "T3C2SEdragon",
+    "level": 9,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "3715"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 42854,
+    "fullHealDuration": 1882,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T3C2SEdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "summonAIDragon": "summonDragon1"
+    },
+    "attackPower": 3467,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "40"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 3,
+    "upgradeXP": 12314,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 875
+  },
+  {
+    "identifier": "T3C2SEdragon",
+    "level": 10,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "5562"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 46450,
+    "fullHealDuration": 2220,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T3C2SEdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "summonAIDragon": "summonDragon1"
+    },
+    "attackPower": 3774,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "44"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 3,
+    "upgradeXP": 0,
+    "xpRewardMultiplier": 1.2,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 1035
+  }
+]

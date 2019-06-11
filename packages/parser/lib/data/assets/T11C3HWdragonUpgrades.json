@@ -1,0 +1,1325 @@
+[
+  {
+    "identifier": "T11C3HWdragon",
+    "level": 1,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "0"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 7718029,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T11C3HWdragon_fireball"
+      }
+    ],
+    "abilities": {},
+    "attackPower": 427645,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1968"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 38,
+    "upgradeXP": 2847862,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 21627242
+  },
+  {
+    "identifier": "T11C3HWdragon",
+    "level": 2,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "524304"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 7910961,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T11C3HWdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "cloak": "cloak1"
+    },
+    "attackPower": 438336,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1986"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 39,
+    "upgradeXP": 2919057,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 22722051
+  },
+  {
+    "identifier": "T11C3HWdragon",
+    "level": 3,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "529056"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 8108716,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T11C3HWdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "cloak": "cloak1"
+    },
+    "attackPower": 449294,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2004"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 39,
+    "upgradeXP": 3399328,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 23872287
+  },
+  {
+    "identifier": "T11C3HWdragon",
+    "level": 4,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "533808"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 8311416,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T11C3HWdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "cloak": "cloak1"
+    },
+    "attackPower": 460526,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2022"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 39,
+    "upgradeXP": 4009666,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 25080699
+  },
+  {
+    "identifier": "T11C3HWdragon",
+    "level": 5,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "538560"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 8519188,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T11C3HWdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "cloak": "cloak1",
+      "desiccatingSand": "noxiousVines1"
+    },
+    "attackPower": 472039,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2040"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 40,
+    "upgradeXP": 4619637,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 26350272
+  },
+  {
+    "identifier": "T11C3HWdragon",
+    "level": 6,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "543312"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 8732158,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T11C3HWdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "cloak": "cloak1",
+      "desiccatingSand": "noxiousVines1"
+    },
+    "attackPower": 483840,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2058"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 40,
+    "upgradeXP": 5234300,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 27684241
+  },
+  {
+    "identifier": "T11C3HWdragon",
+    "level": 7,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "548064"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 8950451,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T11C3HWdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "cloak": "cloak1",
+      "desiccatingSand": "noxiousVines1"
+    },
+    "attackPower": 495935,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2076"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 41,
+    "upgradeXP": 5365156,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 29085711
+  },
+  {
+    "identifier": "T11C3HWdragon",
+    "level": 8,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "552816"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 9174198,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T11C3HWdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "cloak": "cloak1",
+      "desiccatingSand": "noxiousVines1"
+    },
+    "attackPower": 508334,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2094"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 41,
+    "upgradeXP": 5499283,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 30558228
+  },
+  {
+    "identifier": "T11C3HWdragon",
+    "level": 9,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "557568"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 9403538,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T11C3HWdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "cloak": "cloak1",
+      "desiccatingSand": "noxiousVines1",
+      "consume": "consume1"
+    },
+    "attackPower": 521042,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2112"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 42,
+    "upgradeXP": 5636766,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 32105211
+  },
+  {
+    "identifier": "T11C3HWdragon",
+    "level": 10,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "562320"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 9638608,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T11C3HWdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "cloak": "cloak1",
+      "desiccatingSand": "noxiousVines1",
+      "consume": "consume1"
+    },
+    "attackPower": 534068,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2130"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 42,
+    "upgradeXP": 5777685,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 33730337
+  },
+  {
+    "identifier": "T11C3HWdragon",
+    "level": 11,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "567072"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 9879552,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T11C3HWdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "cloak": "cloak1",
+      "desiccatingSand": "noxiousVines1",
+      "consume": "consume1"
+    },
+    "attackPower": 547419,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2148"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 43,
+    "upgradeXP": 5922123,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 35437935
+  },
+  {
+    "identifier": "T11C3HWdragon",
+    "level": 12,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "571824"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 10126523,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T11C3HWdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "cloak": "cloak1",
+      "desiccatingSand": "noxiousVines1",
+      "consume": "consume1"
+    },
+    "attackPower": 561105,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2166"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 43,
+    "upgradeXP": 6070176,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 37231828
+  },
+  {
+    "identifier": "T11C3HWdragon",
+    "level": 13,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "576576"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 10379670,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T11C3HWdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "cloak": "cloak1",
+      "desiccatingSand": "noxiousVines1",
+      "consume": "consume1"
+    },
+    "attackPower": 575132,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2184"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 44,
+    "upgradeXP": 6221928,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 39116698
+  },
+  {
+    "identifier": "T11C3HWdragon",
+    "level": 14,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "581328"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 10639144,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T11C3HWdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "cloak": "cloak1",
+      "desiccatingSand": "noxiousVines1",
+      "consume": "consume1",
+      "lightningResist01": "lightningResist01"
+    },
+    "attackPower": 589510,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2202"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 44,
+    "upgradeXP": 6377476,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 41096917
+  },
+  {
+    "identifier": "T11C3HWdragon",
+    "level": 15,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "586080"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 10905107,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T11C3HWdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "cloak": "cloak1",
+      "desiccatingSand": "noxiousVines1",
+      "consume": "consume1",
+      "lightningResist01": "lightningResist01"
+    },
+    "attackPower": 604248,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2220"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 45,
+    "upgradeXP": 6536910,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 43177334
+  },
+  {
+    "identifier": "T11C3HWdragon",
+    "level": 16,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "590833"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 11177715,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T11C3HWdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "cloak": "cloak1",
+      "desiccatingSand": "noxiousVines1",
+      "consume": "consume1",
+      "lightningResist01": "lightningResist01"
+    },
+    "attackPower": 619354,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2238"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 45,
+    "upgradeXP": 6700333,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 45363091
+  },
+  {
+    "identifier": "T11C3HWdragon",
+    "level": 17,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "595584"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 11457141,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T11C3HWdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "cloak": "cloak1",
+      "desiccatingSand": "noxiousVines1",
+      "consume": "consume1",
+      "lightningResist01": "lightningResist01"
+    },
+    "attackPower": 634838,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2256"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 46,
+    "upgradeXP": 6867840,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 47659622
+  },
+  {
+    "identifier": "T11C3HWdragon",
+    "level": 18,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "600336"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 11743554,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T11C3HWdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "cloak": "cloak1",
+      "desiccatingSand": "noxiousVines1",
+      "consume": "consume1",
+      "lightningResist01": "lightningResist01"
+    },
+    "attackPower": 650708,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2274"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 46,
+    "upgradeXP": 9349918,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 50072261
+  },
+  {
+    "identifier": "T11C3HWdragon",
+    "level": 19,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "803679"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 12037133,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T11C3HWdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "cloak": "cloak1",
+      "desiccatingSand": "noxiousVines1",
+      "consume": "consume1",
+      "lightningResist01": "lightningResist01"
+    },
+    "attackPower": 666976,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2292"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 47,
+    "upgradeXP": 9583663,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 52607048
+  },
+  {
+    "identifier": "T11C3HWdragon",
+    "level": 20,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "809991"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 12338053,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T11C3HWdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "cloak": "cloak1",
+      "desiccatingSand": "noxiousVines1",
+      "consume": "consume1",
+      "lightningResist01": "lightningResist01"
+    },
+    "attackPower": 683650,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2310"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 47,
+    "upgradeXP": 9823251,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 55270340
+  },
+  {
+    "identifier": "T11C3HWdragon",
+    "level": 21,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "816302"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 12646493,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T11C3HWdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "cloak": "cloak1",
+      "desiccatingSand": "noxiousVines1",
+      "consume": "consume1",
+      "lightningResist01": "lightningResist01"
+    },
+    "attackPower": 700741,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2328"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 48,
+    "upgradeXP": 10068831,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 58068192
+  },
+  {
+    "identifier": "T11C3HWdragon",
+    "level": 22,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "822614"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 12962644,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T11C3HWdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "cloak": "cloak1",
+      "desiccatingSand": "noxiousVines1",
+      "consume": "consume1",
+      "lightningResist01": "lightningResist01"
+    },
+    "attackPower": 718260,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2346"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 48,
+    "upgradeXP": 12622926,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 61007811
+  },
+  {
+    "identifier": "T11C3HWdragon",
+    "level": 23,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1013847"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 13286700,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T11C3HWdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "cloak": "cloak1",
+      "desiccatingSand": "noxiousVines1",
+      "consume": "consume1",
+      "lightningResist01": "lightningResist01"
+    },
+    "attackPower": 736216,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2364"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 49,
+    "upgradeXP": 12938499,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 64096321
+  },
+  {
+    "identifier": "T11C3HWdragon",
+    "level": 24,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1021567"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 13618862,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T11C3HWdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "cloak": "cloak1",
+      "desiccatingSand": "noxiousVines1",
+      "consume": "consume1",
+      "lightningResist01": "lightningResist01"
+    },
+    "attackPower": 754621,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2382"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 49,
+    "upgradeXP": 13261960,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 67341184
+  },
+  {
+    "identifier": "T11C3HWdragon",
+    "level": 25,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1029287"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 13959324,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T11C3HWdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "cloak": "cloak1",
+      "desiccatingSand": "noxiousVines1",
+      "consume": "consume1",
+      "lightningResist01": "lightningResist01"
+    },
+    "attackPower": 773487,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2400"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 50,
+    "upgradeXP": 13593506,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 70750207
+  },
+  {
+    "identifier": "T11C3HWdragon",
+    "level": 26,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1037006"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 14308294,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T11C3HWdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "cloak": "cloak1",
+      "desiccatingSand": "noxiousVines1",
+      "consume": "consume1",
+      "lightningResist01": "lightningResist01"
+    },
+    "attackPower": 792824,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2418"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 51,
+    "upgradeXP": 16288921,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 74331972
+  },
+  {
+    "identifier": "T11C3HWdragon",
+    "level": 27,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1221348"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 14665990,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T11C3HWdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "cloak": "cloak1",
+      "desiccatingSand": "noxiousVines1",
+      "consume": "consume1",
+      "lightningResist01": "lightningResist01"
+    },
+    "attackPower": 812644,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2436"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 52,
+    "upgradeXP": 16696141,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 78094999
+  },
+  {
+    "identifier": "T11C3HWdragon",
+    "level": 28,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1230373"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 15032626,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T11C3HWdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "cloak": "cloak1",
+      "desiccatingSand": "noxiousVines1",
+      "consume": "consume1",
+      "lightningResist01": "lightningResist01"
+    },
+    "attackPower": 832960,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2454"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 53,
+    "upgradeXP": 17113541,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 82048386
+  },
+  {
+    "identifier": "T11C3HWdragon",
+    "level": 29,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1239397"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 15408426,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T11C3HWdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "cloak": "cloak1",
+      "desiccatingSand": "noxiousVines1",
+      "consume": "consume1",
+      "lightningResist01": "lightningResist01"
+    },
+    "attackPower": 853784,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2472"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 54,
+    "upgradeXP": 17541374,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 86202043
+  },
+  {
+    "identifier": "T11C3HWdragon",
+    "level": 30,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1248422"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 15793623,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T11C3HWdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "cloak": "cloak1",
+      "desiccatingSand": "noxiousVines1",
+      "consume": "consume1",
+      "lightningResist01": "lightningResist01"
+    },
+    "attackPower": 875129,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2490"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 55,
+    "upgradeXP": 0,
+    "xpRewardMultiplier": 1.2,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 88104753
+  }
+]

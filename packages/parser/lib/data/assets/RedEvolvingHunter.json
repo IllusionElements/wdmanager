@@ -1,0 +1,1492 @@
+[
+  {
+    "identifier": "emberDragon",
+    "level": 1,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "0"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 15070,
+    "fullHealDuration": 244,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T1C1HIdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "instantKill": "instant1"
+    },
+    "attackPower": 1692,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "14"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 1,
+    "upgradeXP": 485,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 173,
+    "nextEvolveLevel": 7,
+    "tierNumber": 1,
+    "rarity": 4,
+    "sceneFile": "drg_ochreHunter_v1.lvl",
+    "discoveredImage": "dragon_ochreHunter_v1_discovered_thumbnail.png",
+    "iconFilename": "dragonThumbnail_ochreHunter_v1_discovered.png"
+  },
+  {
+    "identifier": "emberDragon",
+    "level": 2,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "300"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 31796,
+    "fullHealDuration": 244,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T1C1HIdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "instantKill": "instant1"
+    },
+    "attackPower": 2857,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "26"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 2,
+    "upgradeXP": 1351,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 313,
+    "nextEvolveLevel": 7,
+    "tierNumber": 1,
+    "rarity": 4,
+    "sceneFile": "drg_ochreHunter_v1.lvl",
+    "discoveredImage": "dragon_ochreHunter_v1_discovered_thumbnail.png",
+    "iconFilename": "dragonThumbnail_ochreHunter_v1_discovered.png"
+  },
+  {
+    "identifier": "emberDragon",
+    "level": 3,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1188"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 35152,
+    "fullHealDuration": 244,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T1C1HIdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "instantKill": "instant1"
+    },
+    "attackPower": 3188,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "30"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 2,
+    "upgradeXP": 2857,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 575,
+    "nextEvolveLevel": 7,
+    "tierNumber": 1,
+    "rarity": 4,
+    "sceneFile": "drg_ochreHunter_v1.lvl",
+    "discoveredImage": "dragon_ochreHunter_v1_discovered_thumbnail.png",
+    "iconFilename": "dragonThumbnail_ochreHunter_v1_discovered.png"
+  },
+  {
+    "identifier": "emberDragon",
+    "level": 4,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1300"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 38868,
+    "fullHealDuration": 244,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T1C1HIdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "instantKill": "instant1"
+    },
+    "attackPower": 3617,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "34"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 3,
+    "upgradeXP": 5366,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 966,
+    "nextEvolveLevel": 7,
+    "tierNumber": 1,
+    "rarity": 4,
+    "sceneFile": "drg_ochreHunter_v1.lvl",
+    "discoveredImage": "dragon_ochreHunter_v1_discovered_thumbnail.png",
+    "iconFilename": "dragonThumbnail_ochreHunter_v1_discovered.png"
+  },
+  {
+    "identifier": "emberDragon",
+    "level": 5,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "2074"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 46383,
+    "fullHealDuration": 244,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T1C1HIdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "instantKill": "instant1"
+    },
+    "attackPower": 4222,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "40"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 3,
+    "upgradeXP": 7011,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 1341,
+    "nextEvolveLevel": 7,
+    "tierNumber": 1,
+    "rarity": 4,
+    "sceneFile": "drg_ochreHunter_v1.lvl",
+    "discoveredImage": "dragon_ochreHunter_v1_discovered_thumbnail.png",
+    "iconFilename": "dragonThumbnail_ochreHunter_v1_discovered.png"
+  },
+  {
+    "identifier": "emberDragon",
+    "level": 6,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "3105"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 50276,
+    "fullHealDuration": 244,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T1C1HIdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "instantKill": "instant1"
+    },
+    "attackPower": 4595,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "44"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 3,
+    "upgradeXP": 8034,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 1587,
+    "nextEvolveLevel": 7,
+    "tierNumber": 1,
+    "rarity": 4,
+    "sceneFile": "drg_ochreHunter_v1.lvl",
+    "discoveredImage": "dragon_ochreHunter_v1_discovered_thumbnail.png",
+    "iconFilename": "dragonThumbnail_ochreHunter_v1_discovered.png"
+  },
+  {
+    "identifier": "emberDragon",
+    "level": 7,
+    "upgradeCost": [
+      {
+        "type": "evolvingHunterPurpleStone",
+        "amount": "1"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "have1PurpleDragon",
+    "HP": 54975,
+    "fullHealDuration": 244,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T1C1HIdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "instantKill": "instant1",
+      "cloak": "cloak1"
+    },
+    "attackPower": 4958,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "48"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 4,
+    "upgradeXP": 12085,
+    "xpRewardMultiplier": 1.2,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 1877,
+    "nextEvolveLevel": 15,
+    "tierNumber": 2,
+    "rarity": 4,
+    "sceneFile": "drg_ochreHunter_v2.lvl",
+    "discoveredImage": "dragon_ochreHunter_v2_discovered_thumbnail.png",
+    "iconFilename": "dragonThumbnail_ochreHunter_v2_discovered.png"
+  },
+  {
+    "identifier": "emberDragon",
+    "level": 8,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "5073"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 59410,
+    "fullHealDuration": 244,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T1C1HIdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "instantKill": "instant1",
+      "cloak": "cloak1"
+    },
+    "attackPower": 5288,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "52"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 4,
+    "upgradeXP": 13800,
+    "xpRewardMultiplier": 1.2,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 2156,
+    "nextEvolveLevel": 15,
+    "tierNumber": 2,
+    "rarity": 4,
+    "sceneFile": "drg_ochreHunter_v2.lvl",
+    "discoveredImage": "dragon_ochreHunter_v2_discovered_thumbnail.png",
+    "iconFilename": "dragonThumbnail_ochreHunter_v2_discovered.png"
+  },
+  {
+    "identifier": "emberDragon",
+    "level": 9,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "6962"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 74696,
+    "fullHealDuration": 244,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T1C1HIdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "instantKill": "instant1",
+      "cloak": "cloak1"
+    },
+    "attackPower": 5604,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "56"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 4,
+    "upgradeXP": 19058,
+    "xpRewardMultiplier": 1.2,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 2870,
+    "nextEvolveLevel": 15,
+    "tierNumber": 2,
+    "rarity": 4,
+    "sceneFile": "drg_ochreHunter_v2.lvl",
+    "discoveredImage": "dragon_ochreHunter_v2_discovered_thumbnail.png",
+    "iconFilename": "dragonThumbnail_ochreHunter_v2_discovered.png"
+  },
+  {
+    "identifier": "emberDragon",
+    "level": 10,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "8000"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 84219,
+    "fullHealDuration": 244,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T1C1HIdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "instantKill": "instant1",
+      "cloak": "cloak1"
+    },
+    "attackPower": 6415,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "68"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 5,
+    "upgradeXP": 24000,
+    "xpRewardMultiplier": 1.2,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 3702,
+    "nextEvolveLevel": 15,
+    "tierNumber": 2,
+    "rarity": 4,
+    "sceneFile": "drg_ochreHunter_v2.lvl",
+    "discoveredImage": "dragon_ochreHunter_v2_discovered_thumbnail.png",
+    "iconFilename": "dragonThumbnail_ochreHunter_v2_discovered.png"
+  },
+  {
+    "identifier": "emberDragon",
+    "level": 11,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "12500"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "haveRarePurpleDragon",
+    "HP": 107965,
+    "fullHealDuration": 244,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T1C1HIdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "instantKill": "instant1",
+      "cloak": "cloak1"
+    },
+    "attackPower": 8236,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "97"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 5,
+    "upgradeXP": 28000,
+    "xpRewardMultiplier": 1.2,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 4599,
+    "nextEvolveLevel": 15,
+    "tierNumber": 2,
+    "rarity": 4,
+    "sceneFile": "drg_ochreHunter_v2.lvl",
+    "discoveredImage": "dragon_ochreHunter_v2_discovered_thumbnail.png",
+    "iconFilename": "dragonThumbnail_ochreHunter_v2_discovered.png"
+  },
+  {
+    "identifier": "emberDragon",
+    "level": 12,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "16325"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 123311,
+    "fullHealDuration": 244,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T1C1HIdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "instantKill": "instant1",
+      "cloak": "cloak1"
+    },
+    "attackPower": 9399,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "109"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 6,
+    "upgradeXP": 32005,
+    "xpRewardMultiplier": 1.2,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 7795,
+    "nextEvolveLevel": 15,
+    "tierNumber": 2,
+    "rarity": 4,
+    "sceneFile": "drg_ochreHunter_v2.lvl",
+    "discoveredImage": "dragon_ochreHunter_v2_discovered_thumbnail.png",
+    "iconFilename": "dragonThumbnail_ochreHunter_v2_discovered.png"
+  },
+  {
+    "identifier": "emberDragon",
+    "level": 13,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "19707"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 132299,
+    "fullHealDuration": 244,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T1C1HIdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "instantKill": "instant1",
+      "cloak": "cloak1"
+    },
+    "attackPower": 10050,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "115"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 6,
+    "upgradeXP": 36048,
+    "xpRewardMultiplier": 1.2,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 8946,
+    "nextEvolveLevel": 15,
+    "tierNumber": 2,
+    "rarity": 4,
+    "sceneFile": "drg_ochreHunter_v2.lvl",
+    "discoveredImage": "dragon_ochreHunter_v2_discovered_thumbnail.png",
+    "iconFilename": "dragonThumbnail_ochreHunter_v2_discovered.png"
+  },
+  {
+    "identifier": "emberDragon",
+    "level": 14,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "23400"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 141908,
+    "fullHealDuration": 244,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T1C1HIdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "instantKill": "instant1",
+      "cloak": "cloak1"
+    },
+    "attackPower": 10746,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "122"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 6,
+    "upgradeXP": 53478,
+    "xpRewardMultiplier": 1.2,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 10256,
+    "nextEvolveLevel": 15,
+    "tierNumber": 2,
+    "rarity": 4,
+    "sceneFile": "drg_ochreHunter_v2.lvl",
+    "discoveredImage": "dragon_ochreHunter_v2_discovered_thumbnail.png",
+    "iconFilename": "dragonThumbnail_ochreHunter_v2_discovered.png"
+  },
+  {
+    "identifier": "emberDragon",
+    "level": 15,
+    "upgradeCost": [
+      {
+        "type": "evolvingHunterBlueStone",
+        "amount": "1"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "have1BlueDragon",
+    "HP": 161848,
+    "fullHealDuration": 244,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T1C1HIdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "instantKill": "instant1",
+      "cloak": "cloak1",
+      "archerResist01": "archerResist01"
+    },
+    "attackPower": 12296,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "134"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 7,
+    "upgradeXP": 67772,
+    "xpRewardMultiplier": 1.2,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 13386,
+    "nextEvolveLevel": 21,
+    "tierNumber": 3,
+    "rarity": 4,
+    "sceneFile": "drg_ochreHunter_v3.lvl",
+    "discoveredImage": "dragon_ochreHunter_v3_discovered_thumbnail.png",
+    "iconFilename": "dragonThumbnail_ochreHunter_v3_discovered.png"
+  },
+  {
+    "identifier": "emberDragon",
+    "level": 16,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "45521"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 173495,
+    "fullHealDuration": 244,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T1C1HIdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "instantKill": "instant1",
+      "cloak": "cloak1",
+      "archerResist01": "archerResist01"
+    },
+    "attackPower": 13043,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "140"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 7,
+    "upgradeXP": 92555,
+    "xpRewardMultiplier": 1.2,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 15225,
+    "nextEvolveLevel": 21,
+    "tierNumber": 3,
+    "rarity": 4,
+    "sceneFile": "drg_ochreHunter_v3.lvl",
+    "discoveredImage": "dragon_ochreHunter_v3_discovered_thumbnail.png",
+    "iconFilename": "dragonThumbnail_ochreHunter_v3_discovered.png"
+  },
+  {
+    "identifier": "emberDragon",
+    "level": 17,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "59652"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 184496,
+    "fullHealDuration": 244,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T1C1HIdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "instantKill": "instant1",
+      "cloak": "cloak1",
+      "archerResist01": "archerResist01"
+    },
+    "attackPower": 13764,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "150"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 8,
+    "upgradeXP": 104142,
+    "xpRewardMultiplier": 1.2,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 17083,
+    "nextEvolveLevel": 21,
+    "tierNumber": 3,
+    "rarity": 4,
+    "sceneFile": "drg_ochreHunter_v3.lvl",
+    "discoveredImage": "dragon_ochreHunter_v3_discovered_thumbnail.png",
+    "iconFilename": "dragonThumbnail_ochreHunter_v3_discovered.png"
+  },
+  {
+    "identifier": "emberDragon",
+    "level": 18,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "63629"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 223214,
+    "fullHealDuration": 244,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T1C1HIdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "instantKill": "instant1",
+      "cloak": "cloak1",
+      "archerResist01": "archerResist01"
+    },
+    "attackPower": 14412,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "160"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 8,
+    "upgradeXP": 136957,
+    "xpRewardMultiplier": 1.2,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 21648,
+    "nextEvolveLevel": 21,
+    "tierNumber": 3,
+    "rarity": 4,
+    "sceneFile": "drg_ochreHunter_v3.lvl",
+    "discoveredImage": "dragon_ochreHunter_v3_discovered_thumbnail.png",
+    "iconFilename": "dragonThumbnail_ochreHunter_v3_discovered.png"
+  },
+  {
+    "identifier": "emberDragon",
+    "level": 19,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "83684"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "haveBlueEpic",
+    "HP": 238812,
+    "fullHealDuration": 244,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T1C1HIdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "instantKill": "instant1",
+      "cloak": "cloak1",
+      "archerResist01": "archerResist01"
+    },
+    "attackPower": 15564,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "180"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 9,
+    "upgradeXP": 171916,
+    "xpRewardMultiplier": 1.2,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 24991,
+    "nextEvolveLevel": 21,
+    "tierNumber": 3,
+    "rarity": 4,
+    "sceneFile": "drg_ochreHunter_v3.lvl",
+    "discoveredImage": "dragon_ochreHunter_v3_discovered_thumbnail.png",
+    "iconFilename": "dragonThumbnail_ochreHunter_v3_discovered.png"
+  },
+  {
+    "identifier": "emberDragon",
+    "level": 20,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "88334"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 248233,
+    "fullHealDuration": 244,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T1C1HIdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "instantKill": "instant1",
+      "cloak": "cloak1",
+      "archerResist01": "archerResist01"
+    },
+    "attackPower": 16228,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "190"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 9,
+    "upgradeXP": 186916,
+    "xpRewardMultiplier": 1.2,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 27129,
+    "nextEvolveLevel": 21,
+    "tierNumber": 3,
+    "rarity": 4,
+    "sceneFile": "drg_ochreHunter_v3.lvl",
+    "discoveredImage": "dragon_ochreHunter_v3_discovered_thumbnail.png",
+    "iconFilename": "dragonThumbnail_ochreHunter_v3_discovered.png"
+  },
+  {
+    "identifier": "emberDragon",
+    "level": 21,
+    "upgradeCost": [
+      {
+        "type": "evolvingHunterOrangeStone",
+        "amount": "1"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "haveOrangeEpic",
+    "HP": 274398,
+    "fullHealDuration": 244,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T1C1HIdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "instantKill": "instant1",
+      "cloak": "cloak1",
+      "archerResist01": "archerResist01",
+      "invertSpell": "reverse1"
+    },
+    "attackPower": 18014,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "215"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 10,
+    "upgradeXP": 201916,
+    "xpRewardMultiplier": 1.2,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 33302,
+    "nextEvolveLevel": 0,
+    "tierNumber": 4,
+    "rarity": 5,
+    "sceneFile": "drg_ochreHunter_v4.lvl",
+    "discoveredImage": "dragon_ochreHunter_v4_discovered_thumbnail.png",
+    "iconFilename": "dragonThumbnail_ochreHunter_v4_discovered.png"
+  },
+  {
+    "identifier": "emberDragon",
+    "level": 22,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "106930"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 293707,
+    "fullHealDuration": 244,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T1C1HIdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "instantKill": "instant1",
+      "cloak": "cloak1",
+      "archerResist01": "archerResist01",
+      "invertSpell": "reverse1"
+    },
+    "attackPower": 19126,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "230"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 10,
+    "upgradeXP": 216916,
+    "xpRewardMultiplier": 1.2,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 37824,
+    "nextEvolveLevel": 0,
+    "tierNumber": 4,
+    "rarity": 5,
+    "sceneFile": "drg_ochreHunter_v4.lvl",
+    "discoveredImage": "dragon_ochreHunter_v4_discovered_thumbnail.png",
+    "iconFilename": "dragonThumbnail_ochreHunter_v4_discovered.png"
+  },
+  {
+    "identifier": "emberDragon",
+    "level": 23,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "113904"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 314317,
+    "fullHealDuration": 244,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T1C1HIdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "instantKill": "instant1",
+      "cloak": "cloak1",
+      "archerResist01": "archerResist01",
+      "invertSpell": "reverse1"
+    },
+    "attackPower": 20411,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "245"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 11,
+    "upgradeXP": 231916,
+    "xpRewardMultiplier": 1.2,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 43214,
+    "nextEvolveLevel": 0,
+    "tierNumber": 4,
+    "rarity": 5,
+    "sceneFile": "drg_ochreHunter_v4.lvl",
+    "discoveredImage": "dragon_ochreHunter_v4_discovered_thumbnail.png",
+    "iconFilename": "dragonThumbnail_ochreHunter_v4_discovered.png"
+  },
+  {
+    "identifier": "emberDragon",
+    "level": 24,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "120877"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 333972,
+    "fullHealDuration": 244,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T1C1HIdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "instantKill": "instant1",
+      "cloak": "cloak1",
+      "archerResist01": "archerResist01",
+      "invertSpell": "reverse1"
+    },
+    "attackPower": 21810,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "260"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 11,
+    "upgradeXP": 246916,
+    "xpRewardMultiplier": 1.2,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 49012,
+    "nextEvolveLevel": 0,
+    "tierNumber": 4,
+    "rarity": 5,
+    "sceneFile": "drg_ochreHunter_v4.lvl",
+    "discoveredImage": "dragon_ochreHunter_v4_discovered_thumbnail.png",
+    "iconFilename": "dragonThumbnail_ochreHunter_v4_discovered.png"
+  },
+  {
+    "identifier": "emberDragon",
+    "level": 25,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "130000"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 415416,
+    "fullHealDuration": 244,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T1C1HIdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "instantKill": "instant1",
+      "cloak": "cloak1",
+      "archerResist01": "archerResist01",
+      "invertSpell": "reverse1"
+    },
+    "attackPower": 26979,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "348"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 12,
+    "upgradeXP": 237776,
+    "xpRewardMultiplier": 1.2,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 63837,
+    "nextEvolveLevel": 0,
+    "tierNumber": 4,
+    "rarity": 5,
+    "sceneFile": "drg_ochreHunter_v4.lvl",
+    "discoveredImage": "dragon_ochreHunter_v4_discovered_thumbnail.png",
+    "iconFilename": "dragonThumbnail_ochreHunter_v4_discovered.png"
+  },
+  {
+    "identifier": "emberDragon",
+    "level": 26,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "150000"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 471880,
+    "fullHealDuration": 244,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T1C1HIdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "instantKill": "instant1",
+      "cloak": "cloak1",
+      "archerResist01": "archerResist01",
+      "invertSpell": "reverse1"
+    },
+    "attackPower": 30728,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "384"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 13,
+    "upgradeXP": 271862,
+    "xpRewardMultiplier": 1.2,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 82638,
+    "nextEvolveLevel": 0,
+    "tierNumber": 4,
+    "rarity": 5,
+    "sceneFile": "drg_ochreHunter_v4.lvl",
+    "discoveredImage": "dragon_ochreHunter_v4_discovered_thumbnail.png",
+    "iconFilename": "dragonThumbnail_ochreHunter_v4_discovered.png"
+  },
+  {
+    "identifier": "emberDragon",
+    "level": 27,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "160000"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "haveOrangeLegendary",
+    "HP": 535803,
+    "fullHealDuration": 244,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T1C1HIdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "instantKill": "instant1",
+      "cloak": "cloak1",
+      "archerResist01": "archerResist01",
+      "invertSpell": "reverse1"
+    },
+    "attackPower": 34349,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "420"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 14,
+    "upgradeXP": 308628,
+    "xpRewardMultiplier": 1.2,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 104869,
+    "nextEvolveLevel": 0,
+    "tierNumber": 4,
+    "rarity": 5,
+    "sceneFile": "drg_ochreHunter_v4.lvl",
+    "discoveredImage": "dragon_ochreHunter_v4_discovered_thumbnail.png",
+    "iconFilename": "dragonThumbnail_ochreHunter_v4_discovered.png"
+  },
+  {
+    "identifier": "emberDragon",
+    "level": 28,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "170000"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 661686,
+    "fullHealDuration": 244,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T1C1HIdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "instantKill": "instant1",
+      "cloak": "cloak1",
+      "archerResist01": "archerResist01",
+      "invertSpell": "reverse1"
+    },
+    "attackPower": 37534,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "474"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 15,
+    "upgradeXP": 497033,
+    "xpRewardMultiplier": 1.2,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 141487,
+    "nextEvolveLevel": 0,
+    "tierNumber": 4,
+    "rarity": 5,
+    "sceneFile": "drg_ochreHunter_v4.lvl",
+    "discoveredImage": "dragon_ochreHunter_v4_discovered_thumbnail.png",
+    "iconFilename": "dragonThumbnail_ochreHunter_v4_discovered.png"
+  },
+  {
+    "identifier": "emberDragon",
+    "level": 29,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "180000"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 712185,
+    "fullHealDuration": 244,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T1C1HIdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "instantKill": "instant1",
+      "cloak": "cloak1",
+      "archerResist01": "archerResist01",
+      "invertSpell": "reverse1"
+    },
+    "attackPower": 40720,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "528"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 16,
+    "upgradeXP": 736386,
+    "xpRewardMultiplier": 1.2,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 165269,
+    "nextEvolveLevel": 0,
+    "tierNumber": 4,
+    "rarity": 5,
+    "sceneFile": "drg_ochreHunter_v4.lvl",
+    "discoveredImage": "dragon_ochreHunter_v4_discovered_thumbnail.png",
+    "iconFilename": "dragonThumbnail_ochreHunter_v4_discovered.png"
+  },
+  {
+    "identifier": "emberDragon",
+    "level": 30,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "200000"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 787498,
+    "fullHealDuration": 244,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T1C1HIdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "instantKill": "instant1",
+      "cloak": "cloak1",
+      "archerResist01": "archerResist01",
+      "invertSpell": "reverse1"
+    },
+    "attackPower": 45189,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "564"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 17,
+    "upgradeXP": 0,
+    "xpRewardMultiplier": 1.2,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 202722,
+    "nextEvolveLevel": 0,
+    "tierNumber": 4,
+    "rarity": 5,
+    "sceneFile": "drg_ochreHunter_v4.lvl",
+    "discoveredImage": "dragon_ochreHunter_v4_discovered_thumbnail.png",
+    "iconFilename": "dragonThumbnail_ochreHunter_v4_discovered.png"
+  }
+]

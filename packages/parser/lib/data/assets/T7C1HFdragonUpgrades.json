@@ -1,0 +1,641 @@
+[
+  {
+    "identifier": "T7C1HFdragon",
+    "level": 1,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "0"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 460303,
+    "fullHealDuration": 14400,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T7C1HFdragon_fireball"
+      }
+    ],
+    "abilities": {},
+    "attackPower": 26111,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "304"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 15,
+    "upgradeXP": 166595,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 47320
+  },
+  {
+    "identifier": "T7C1HFdragon",
+    "level": 2,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "85320"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 475894,
+    "fullHealDuration": 14400,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T7C1HFdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "galvanicOverloadSpell": "galvanicOverload1"
+    },
+    "attackPower": 27134,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "316"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 16,
+    "upgradeXP": 202233,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 76266
+  },
+  {
+    "identifier": "T7C1HFdragon",
+    "level": 3,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "88560"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 495433,
+    "fullHealDuration": 14400,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T7C1HFdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "galvanicOverloadSpell": "galvanicOverload1"
+    },
+    "attackPower": 28328,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "328"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 16,
+    "upgradeXP": 248621,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 82911
+  },
+  {
+    "identifier": "T7C1HFdragon",
+    "level": 4,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "91800"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 516033,
+    "fullHealDuration": 14400,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T7C1HFdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "galvanicOverloadSpell": "galvanicOverload1"
+    },
+    "attackPower": 29745,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "340"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 17,
+    "upgradeXP": 296679,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 90668
+  },
+  {
+    "identifier": "T7C1HFdragon",
+    "level": 5,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "95041"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 547825,
+    "fullHealDuration": 14400,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T7C1HFdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "galvanicOverloadSpell": "galvanicOverload1",
+      "iceTurretResist01": "iceTurretResist01"
+    },
+    "attackPower": 31436,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "352"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 17,
+    "upgradeXP": 350276,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 135600
+  },
+  {
+    "identifier": "T7C1HFdragon",
+    "level": 6,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "98280"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 585102,
+    "fullHealDuration": 14400,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T7C1HFdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "galvanicOverloadSpell": "galvanicOverload1",
+      "iceTurretResist01": "iceTurretResist01"
+    },
+    "attackPower": 33341,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "364"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 18,
+    "upgradeXP": 374062,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 153659
+  },
+  {
+    "identifier": "T7C1HFdragon",
+    "level": 7,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "101520"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 624823,
+    "fullHealDuration": 14400,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T7C1HFdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "galvanicOverloadSpell": "galvanicOverload1",
+      "iceTurretResist01": "iceTurretResist01"
+    },
+    "attackPower": 35521,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "376"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 18,
+    "upgradeXP": 397040,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 174778
+  },
+  {
+    "identifier": "T7C1HFdragon",
+    "level": 8,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "104760"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 663196,
+    "fullHealDuration": 14400,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T7C1HFdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "galvanicOverloadSpell": "galvanicOverload1",
+      "iceTurretResist01": "iceTurretResist01"
+    },
+    "attackPower": 37884,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "388"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 18,
+    "upgradeXP": 423910,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 197883
+  },
+  {
+    "identifier": "T7C1HFdragon",
+    "level": 9,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "108000"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 708063,
+    "fullHealDuration": 14400,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T7C1HFdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "galvanicOverloadSpell": "galvanicOverload1",
+      "iceTurretResist01": "iceTurretResist01"
+    },
+    "attackPower": 40348,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "400"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 19,
+    "upgradeXP": 601057,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 225024
+  },
+  {
+    "identifier": "T7C1HFdragon",
+    "level": 10,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "147750"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 755861,
+    "fullHealDuration": 14400,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T7C1HFdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "galvanicOverloadSpell": "galvanicOverload1",
+      "iceTurretResist01": "iceTurretResist01"
+    },
+    "attackPower": 42975,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "412"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 19,
+    "upgradeXP": 637870,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 255840
+  },
+  {
+    "identifier": "T7C1HFdragon",
+    "level": 11,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "152053"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 802141,
+    "fullHealDuration": 14400,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T7C1HFdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "galvanicOverloadSpell": "galvanicOverload1",
+      "iceTurretResist01": "iceTurretResist01"
+    },
+    "attackPower": 45819,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "424"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 19,
+    "upgradeXP": 832686,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 289476
+  },
+  {
+    "identifier": "T7C1HFdragon",
+    "level": 12,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "191237"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 856121,
+    "fullHealDuration": 14400,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T7C1HFdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "galvanicOverloadSpell": "galvanicOverload1",
+      "iceTurretResist01": "iceTurretResist01"
+    },
+    "attackPower": 48786,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "436"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 20,
+    "upgradeXP": 888620,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 328970
+  },
+  {
+    "identifier": "T7C1HFdragon",
+    "level": 13,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "196501"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 913619,
+    "fullHealDuration": 14400,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T7C1HFdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "galvanicOverloadSpell": "galvanicOverload1",
+      "iceTurretResist01": "iceTurretResist01"
+    },
+    "attackPower": 51883,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "448"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 20,
+    "upgradeXP": 1102302,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 373320
+  },
+  {
+    "identifier": "T7C1HFdragon",
+    "level": 14,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "235874"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 969410,
+    "fullHealDuration": 14400,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T7C1HFdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "galvanicOverloadSpell": "galvanicOverload1",
+      "iceTurretResist01": "iceTurretResist01"
+    },
+    "attackPower": 55147,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "460"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 20,
+    "upgradeXP": 1169589,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 421038
+  },
+  {
+    "identifier": "T7C1HFdragon",
+    "level": 15,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "242027"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 1028573,
+    "fullHealDuration": 14400,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T7C1HFdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "galvanicOverloadSpell": "galvanicOverload1",
+      "iceTurretResist01": "iceTurretResist01"
+    },
+    "attackPower": 58381,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "472"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 21,
+    "upgradeXP": 0,
+    "xpRewardMultiplier": 1.2,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 472920
+  }
+]

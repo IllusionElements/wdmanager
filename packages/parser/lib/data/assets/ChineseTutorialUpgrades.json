@@ -1,0 +1,671 @@
+[
+  {
+    "identifier": "ChineseTutorialUpgrades",
+    "level": 1,
+    "upgradeCost": [
+      {
+        "type": ""
+      }
+    ],
+    "upgradeTimeInSeconds": 0,
+    "achievementRequirements": "",
+    "HP": 10000,
+    "fullHealDuration": 3,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "chinese_attackTut"
+      }
+    ],
+    "abilities": {},
+    "attackPower": 1200,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "10"
+      }
+    ],
+    "forwardSpeed": 3,
+    "spellRageIdentifier": "rageChinese",
+    "requiredStableLevel": 1,
+    "upgradeXP": 100,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "100"
+      }
+    ],
+    "powerLevel": 100
+  },
+  {
+    "identifier": "ChineseTutorialUpgrades",
+    "level": 2,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "10"
+      }
+    ],
+    "upgradeTimeInSeconds": 15,
+    "achievementRequirements": "level02",
+    "HP": 10200,
+    "fullHealDuration": 300,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "chinese_attackTut"
+      }
+    ],
+    "abilities": {
+      "chainLightning": "chainLightningTut"
+    },
+    "attackPower": 1200,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "10"
+      }
+    ],
+    "forwardSpeed": 3,
+    "spellRageIdentifier": "rageChinese",
+    "requiredStableLevel": 2,
+    "upgradeXP": 150,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "100"
+      }
+    ],
+    "powerLevel": 200
+  },
+  {
+    "identifier": "ChineseTutorialUpgrades",
+    "level": 3,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "40"
+      }
+    ],
+    "upgradeTimeInSeconds": 900,
+    "achievementRequirements": "level03",
+    "HP": 9540,
+    "fullHealDuration": 300,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "chinese_attackTut"
+      }
+    ],
+    "abilities": {
+      "chainLightning": "chainLightningTut"
+    },
+    "attackPower": 1200,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "10"
+      }
+    ],
+    "forwardSpeed": 3,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 2,
+    "upgradeXP": 200,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "100"
+      }
+    ],
+    "powerLevel": 300
+  },
+  {
+    "identifier": "ChineseTutorialUpgrades",
+    "level": 4,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "230"
+      }
+    ],
+    "upgradeTimeInSeconds": 3600,
+    "achievementRequirements": "level04",
+    "HP": 12340,
+    "fullHealDuration": 300,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "chinese_attackTut"
+      }
+    ],
+    "abilities": {
+      "chainLightning": "chainLightningTut"
+    },
+    "attackPower": 1200,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "10"
+      }
+    ],
+    "forwardSpeed": 3,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 2,
+    "upgradeXP": 250,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "100"
+      }
+    ],
+    "powerLevel": 400
+  },
+  {
+    "identifier": "ChineseTutorialUpgrades",
+    "level": 5,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "660"
+      }
+    ],
+    "upgradeTimeInSeconds": 7200,
+    "achievementRequirements": "level05",
+    "HP": 14410,
+    "fullHealDuration": 300,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "chinese_attackTut"
+      }
+    ],
+    "abilities": {
+      "chainLightning": "chainLightningTut"
+    },
+    "attackPower": 1200,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "10"
+      }
+    ],
+    "forwardSpeed": 3,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 2,
+    "upgradeXP": 300,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "100"
+      }
+    ],
+    "powerLevel": 500
+  },
+  {
+    "identifier": "ChineseTutorialUpgrades",
+    "level": 6,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1430"
+      }
+    ],
+    "upgradeTimeInSeconds": 10800,
+    "achievementRequirements": "level06",
+    "HP": 14250,
+    "fullHealDuration": 300,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "chinese_attackTut"
+      }
+    ],
+    "abilities": {
+      "chainLightning": "chainLightningTut"
+    },
+    "attackPower": 1200,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "10"
+      }
+    ],
+    "forwardSpeed": 3,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 2,
+    "upgradeXP": 350,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "100"
+      }
+    ],
+    "powerLevel": 600
+  },
+  {
+    "identifier": "ChineseTutorialUpgrades",
+    "level": 7,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "5280"
+      }
+    ],
+    "upgradeTimeInSeconds": 21600,
+    "achievementRequirements": "level08",
+    "HP": 24930,
+    "fullHealDuration": 300,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "chinese_attackTut"
+      }
+    ],
+    "abilities": {
+      "chainLightning": "chainLightningTut"
+    },
+    "attackPower": 1200,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "10"
+      }
+    ],
+    "forwardSpeed": 3,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 2,
+    "upgradeXP": 400,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "100"
+      }
+    ],
+    "powerLevel": 700
+  },
+  {
+    "identifier": "ChineseTutorialUpgrades",
+    "level": 8,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "24440"
+      }
+    ],
+    "upgradeTimeInSeconds": 43200,
+    "achievementRequirements": "level11",
+    "HP": 44430,
+    "fullHealDuration": 300,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "chinese_attackTut"
+      }
+    ],
+    "abilities": {
+      "chainLightning": "chainLightningTut"
+    },
+    "attackPower": 1200,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "10"
+      }
+    ],
+    "forwardSpeed": 3,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 2,
+    "upgradeXP": 450,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "100"
+      }
+    ],
+    "powerLevel": 800
+  },
+  {
+    "identifier": "ChineseTutorialUpgrades",
+    "level": 9,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "150840"
+      }
+    ],
+    "upgradeTimeInSeconds": 108000,
+    "achievementRequirements": "level15",
+    "HP": 77220,
+    "fullHealDuration": 300,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "chinese_attackTut"
+      }
+    ],
+    "abilities": {
+      "chainLightning": "chainLightningTut"
+    },
+    "attackPower": 1200,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "10"
+      }
+    ],
+    "forwardSpeed": 3,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 2,
+    "upgradeXP": 500,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "100"
+      }
+    ],
+    "powerLevel": 900
+  },
+  {
+    "identifier": "ChineseTutorialUpgrades",
+    "level": 10,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "150840"
+      }
+    ],
+    "upgradeTimeInSeconds": 108000,
+    "achievementRequirements": "level15",
+    "HP": 77220,
+    "fullHealDuration": 300,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "chinese_attackTut"
+      }
+    ],
+    "abilities": {
+      "chainLightning": "chainLightningTut"
+    },
+    "attackPower": 1200,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "10"
+      }
+    ],
+    "forwardSpeed": 3,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 2,
+    "upgradeXP": 550,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "100"
+      }
+    ],
+    "powerLevel": 1000
+  },
+  {
+    "identifier": "ChineseTutorialUpgrades",
+    "level": 11,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "150840"
+      }
+    ],
+    "upgradeTimeInSeconds": 108000,
+    "achievementRequirements": "level15",
+    "HP": 77220,
+    "fullHealDuration": 300,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "chinese_attackTut"
+      }
+    ],
+    "abilities": {
+      "chainLightning": "chainLightningTut"
+    },
+    "attackPower": 1200,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "10"
+      }
+    ],
+    "forwardSpeed": 3,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 2,
+    "upgradeXP": 600,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "100"
+      }
+    ],
+    "powerLevel": 1100
+  },
+  {
+    "identifier": "ChineseTutorialUpgrades",
+    "level": 12,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "150840"
+      }
+    ],
+    "upgradeTimeInSeconds": 108000,
+    "achievementRequirements": "level15",
+    "HP": 77220,
+    "fullHealDuration": 300,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "chinese_attackTut"
+      }
+    ],
+    "abilities": {
+      "chainLightning": "chainLightningTut"
+    },
+    "attackPower": 1200,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "10"
+      }
+    ],
+    "forwardSpeed": 3,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 2,
+    "upgradeXP": 650,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "100"
+      }
+    ],
+    "powerLevel": 1200
+  },
+  {
+    "identifier": "ChineseTutorialUpgrades",
+    "level": 13,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "150840"
+      }
+    ],
+    "upgradeTimeInSeconds": 108000,
+    "achievementRequirements": "level15",
+    "HP": 77220,
+    "fullHealDuration": 300,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "chinese_attackTut"
+      }
+    ],
+    "abilities": {
+      "chainLightning": "chainLightningTut"
+    },
+    "attackPower": 1200,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "10"
+      }
+    ],
+    "forwardSpeed": 3,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 2,
+    "upgradeXP": 700,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "100"
+      }
+    ],
+    "powerLevel": 1300
+  },
+  {
+    "identifier": "ChineseTutorialUpgrades",
+    "level": 14,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "150840"
+      }
+    ],
+    "upgradeTimeInSeconds": 108000,
+    "achievementRequirements": "level15",
+    "HP": 77220,
+    "fullHealDuration": 300,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "chinese_attackTut"
+      }
+    ],
+    "abilities": {
+      "chainLightning": "chainLightningTut"
+    },
+    "attackPower": 1200,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "10"
+      }
+    ],
+    "forwardSpeed": 3,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 2,
+    "upgradeXP": 750,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "100"
+      }
+    ],
+    "powerLevel": 1400
+  },
+  {
+    "identifier": "ChineseTutorialUpgrades",
+    "level": 15,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "150840"
+      }
+    ],
+    "upgradeTimeInSeconds": 108000,
+    "achievementRequirements": "level15",
+    "HP": 77220,
+    "fullHealDuration": 300,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "chinese_attackTut"
+      }
+    ],
+    "abilities": {
+      "chainLightning": "chainLightningTut"
+    },
+    "attackPower": 1200,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "10"
+      }
+    ],
+    "forwardSpeed": 3,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 2,
+    "upgradeXP": 800,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "100"
+      }
+    ],
+    "powerLevel": 1500
+  },
+  {
+    "identifier": "ChineseTutorialUpgrades",
+    "level": 16,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "150840"
+      }
+    ],
+    "upgradeTimeInSeconds": 108000,
+    "achievementRequirements": "level15",
+    "HP": 77220,
+    "fullHealDuration": 300,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "chinese_attackTut"
+      }
+    ],
+    "abilities": {
+      "chainLightning": "chainLightningTut"
+    },
+    "attackPower": 1200,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "10"
+      }
+    ],
+    "forwardSpeed": 3,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 2,
+    "upgradeXP": 850,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "100"
+      }
+    ],
+    "powerLevel": 1600
+  }
+]

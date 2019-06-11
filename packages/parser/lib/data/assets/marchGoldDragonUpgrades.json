@@ -1,0 +1,1325 @@
+[
+  {
+    "identifier": "marchGoldDragon",
+    "level": 1,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "0"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 553344,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T6C3HIdragon_fireball"
+      }
+    ],
+    "abilities": {},
+    "attackPower": 31299,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "438"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 15,
+    "upgradeXP": 203039,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 43643
+  },
+  {
+    "identifier": "marchGoldDragon",
+    "level": 2,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "120384"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 575379,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T6C3HIdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "stealEssence": "stealEssence1"
+    },
+    "attackPower": 32638,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "456"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 15,
+    "upgradeXP": 215594,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 70980
+  },
+  {
+    "identifier": "marchGoldDragon",
+    "level": 3,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "125136"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 594867,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T6C3HIdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "stealEssence": "stealEssence1"
+    },
+    "attackPower": 33917,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "474"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 16,
+    "upgradeXP": 261714,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 76266
+  },
+  {
+    "identifier": "marchGoldDragon",
+    "level": 4,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "129888"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 619291,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T6C3HIdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "stealEssence": "stealEssence1"
+    },
+    "attackPower": 35409,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "492"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 16,
+    "upgradeXP": 321745,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 82911
+  },
+  {
+    "identifier": "marchGoldDragon",
+    "level": 5,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "134640"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 645041,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T6C3HIdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "stealEssence": "stealEssence1",
+      "instantKill": "instant1"
+    },
+    "attackPower": 37181,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "510"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 17,
+    "upgradeXP": 383938,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 120891
+  },
+  {
+    "identifier": "marchGoldDragon",
+    "level": 6,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "139392"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 684781,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T6C3HIdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "stealEssence": "stealEssence1",
+      "instantKill": "instant1"
+    },
+    "attackPower": 39295,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "528"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 17,
+    "upgradeXP": 453299,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 135600
+  },
+  {
+    "identifier": "marchGoldDragon",
+    "level": 7,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "144144"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 731377,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T6C3HIdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "stealEssence": "stealEssence1",
+      "instantKill": "instant1"
+    },
+    "attackPower": 41676,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "546"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 18,
+    "upgradeXP": 484080,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 153659
+  },
+  {
+    "identifier": "marchGoldDragon",
+    "level": 8,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "148896"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 781029,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T6C3HIdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "stealEssence": "stealEssence1",
+      "instantKill": "instant1"
+    },
+    "attackPower": 44401,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "564"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 18,
+    "upgradeXP": 513817,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 174778
+  },
+  {
+    "identifier": "marchGoldDragon",
+    "level": 9,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "153648"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 828995,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T6C3HIdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "stealEssence": "stealEssence1",
+      "instantKill": "instant1",
+      "cloak": "cloak1"
+    },
+    "attackPower": 47354,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "582"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 18,
+    "upgradeXP": 548589,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 257248
+  },
+  {
+    "identifier": "marchGoldDragon",
+    "level": 10,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "158400"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 885079,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T6C3HIdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "stealEssence": "stealEssence1",
+      "instantKill": "instant1",
+      "cloak": "cloak1"
+    },
+    "attackPower": 50435,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "600"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 18,
+    "upgradeXP": 585633,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 292531
+  },
+  {
+    "identifier": "marchGoldDragon",
+    "level": 11,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "163152"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 944827,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T6C3HIdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "stealEssence": "stealEssence1",
+      "instantKill": "instant1",
+      "cloak": "cloak1"
+    },
+    "attackPower": 53718,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "618"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 18,
+    "upgradeXP": 621502,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 332592
+  },
+  {
+    "identifier": "marchGoldDragon",
+    "level": 12,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "167904"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 1002676,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T6C3HIdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "stealEssence": "stealEssence1",
+      "instantKill": "instant1",
+      "cloak": "cloak1"
+    },
+    "attackPower": 57273,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "636"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 18,
+    "upgradeXP": 663337,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 376319
+  },
+  {
+    "identifier": "marchGoldDragon",
+    "level": 13,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "172656"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 1070151,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T6C3HIdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "stealEssence": "stealEssence1",
+      "instantKill": "instant1",
+      "cloak": "cloak1"
+    },
+    "attackPower": 60983,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "654"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 18,
+    "upgradeXP": 707895,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 427661
+  },
+  {
+    "identifier": "marchGoldDragon",
+    "level": 14,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "177408"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 1142023,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T6C3HIdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "stealEssence": "stealEssence1",
+      "instantKill": "instant1",
+      "cloak": "cloak1",
+      "archerResist01": "archerResist01"
+    },
+    "attackPower": 64854,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "672"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 18,
+    "upgradeXP": 751132,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 485316
+  },
+  {
+    "identifier": "marchGoldDragon",
+    "level": 15,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "182160"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 1211762,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T6C3HIdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "stealEssence": "stealEssence1",
+      "instantKill": "instant1",
+      "cloak": "cloak1",
+      "archerResist01": "archerResist01"
+    },
+    "attackPower": 68934,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "690"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 18,
+    "upgradeXP": 796983,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 547349
+  },
+  {
+    "identifier": "marchGoldDragon",
+    "level": 16,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "186912"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 1285716,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T6C3HIdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "stealEssence": "stealEssence1",
+      "instantKill": "instant1",
+      "cloak": "cloak1",
+      "archerResist01": "archerResist01"
+    },
+    "attackPower": 72976,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "708"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 18,
+    "upgradeXP": 821470,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 614796
+  },
+  {
+    "identifier": "marchGoldDragon",
+    "level": 17,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "191664"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 1361972,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T6C3HIdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "stealEssence": "stealEssence1",
+      "instantKill": "instant1",
+      "cloak": "cloak1",
+      "archerResist01": "archerResist01"
+    },
+    "attackPower": 76770,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "726"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 18,
+    "upgradeXP": 842004,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 685143
+  },
+  {
+    "identifier": "marchGoldDragon",
+    "level": 18,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "196416"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 1426119,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T6C3HIdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "stealEssence": "stealEssence1",
+      "instantKill": "instant1",
+      "cloak": "cloak1",
+      "archerResist01": "archerResist01"
+    },
+    "attackPower": 80191,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "744"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 18,
+    "upgradeXP": 1146308,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 749362
+  },
+  {
+    "identifier": "marchGoldDragon",
+    "level": 19,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "267192"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 1476164,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T6C3HIdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "stealEssence": "stealEssence1",
+      "instantKill": "instant1",
+      "cloak": "cloak1",
+      "archerResist01": "archerResist01"
+    },
+    "attackPower": 83202,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "762"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 18,
+    "upgradeXP": 1174963,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 804752
+  },
+  {
+    "identifier": "marchGoldDragon",
+    "level": 20,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "273504"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 1513057,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T6C3HIdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "stealEssence": "stealEssence1",
+      "instantKill": "instant1",
+      "cloak": "cloak1",
+      "archerResist01": "archerResist01"
+    },
+    "attackPower": 85788,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "780"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 18,
+    "upgradeXP": 1204334,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 850504
+  },
+  {
+    "identifier": "marchGoldDragon",
+    "level": 21,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "279815"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 1550871,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T6C3HIdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "stealEssence": "stealEssence1",
+      "instantKill": "instant1",
+      "cloak": "cloak1",
+      "archerResist01": "archerResist01"
+    },
+    "attackPower": 88096,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "798"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 18,
+    "upgradeXP": 1234440,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 895245
+  },
+  {
+    "identifier": "marchGoldDragon",
+    "level": 22,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "286127"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 1589627,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T6C3HIdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "stealEssence": "stealEssence1",
+      "instantKill": "instant1",
+      "cloak": "cloak1",
+      "archerResist01": "archerResist01"
+    },
+    "attackPower": 90298,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "816"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 18,
+    "upgradeXP": 1547569,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 940576
+  },
+  {
+    "identifier": "marchGoldDragon",
+    "level": 23,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "357677"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 1629356,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T6C3HIdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "stealEssence": "stealEssence1",
+      "instantKill": "instant1",
+      "cloak": "cloak1",
+      "archerResist01": "archerResist01"
+    },
+    "attackPower": 92555,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "834"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 18,
+    "upgradeXP": 1586256,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 988187
+  },
+  {
+    "identifier": "marchGoldDragon",
+    "level": 24,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "365397"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 1670079,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T6C3HIdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "stealEssence": "stealEssence1",
+      "instantKill": "instant1",
+      "cloak": "cloak1",
+      "archerResist01": "archerResist01"
+    },
+    "attackPower": 94869,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "852"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 18,
+    "upgradeXP": 1625913,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 1038133
+  },
+  {
+    "identifier": "marchGoldDragon",
+    "level": 25,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "373117"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 1711822,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T6C3HIdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "stealEssence": "stealEssence1",
+      "instantKill": "instant1",
+      "cloak": "cloak1",
+      "archerResist01": "archerResist01"
+    },
+    "attackPower": 97240,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "870"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 18,
+    "upgradeXP": 1666559,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 1090674
+  },
+  {
+    "identifier": "marchGoldDragon",
+    "level": 26,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "380836"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 1754606,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T6C3HIdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "stealEssence": "stealEssence1",
+      "instantKill": "instant1",
+      "cloak": "cloak1",
+      "archerResist01": "archerResist01"
+    },
+    "attackPower": 99671,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "888"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 18,
+    "upgradeXP": 1997012,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 1145976
+  },
+  {
+    "identifier": "marchGoldDragon",
+    "level": 27,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "454245"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 1798461,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T6C3HIdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "stealEssence": "stealEssence1",
+      "instantKill": "instant1",
+      "cloak": "cloak1",
+      "archerResist01": "archerResist01"
+    },
+    "attackPower": 102163,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "906"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 18,
+    "upgradeXP": 2046937,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 1203895
+  },
+  {
+    "identifier": "marchGoldDragon",
+    "level": 28,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "463270"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 1843414,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T6C3HIdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "stealEssence": "stealEssence1",
+      "instantKill": "instant1",
+      "cloak": "cloak1",
+      "archerResist01": "archerResist01"
+    },
+    "attackPower": 104717,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "924"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 18,
+    "upgradeXP": 2098104,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 1264916
+  },
+  {
+    "identifier": "marchGoldDragon",
+    "level": 29,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "472295"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 1889486,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T6C3HIdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "stealEssence": "stealEssence1",
+      "instantKill": "instant1",
+      "cloak": "cloak1",
+      "archerResist01": "archerResist01"
+    },
+    "attackPower": 107334,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "942"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 18,
+    "upgradeXP": 2150556,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 1328896
+  },
+  {
+    "identifier": "marchGoldDragon",
+    "level": 30,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "481320"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 1936708,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T6C3HIdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "stealEssence": "stealEssence1",
+      "instantKill": "instant1",
+      "cloak": "cloak1",
+      "archerResist01": "archerResist01"
+    },
+    "attackPower": 110018,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "960"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 18,
+    "upgradeXP": 0,
+    "xpRewardMultiplier": 1.2,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 1396122
+  }
+]

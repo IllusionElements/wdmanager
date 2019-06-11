@@ -1,0 +1,2366 @@
+[
+  {
+    "identifier": "juneTwitchDragon",
+    "level": 1,
+    "upgradeCost": [
+      {
+        "type": "juneTwitchDragon",
+        "amount": "3"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 39724,
+    "fullHealDuration": 966,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T1C3WEdragon_flamethrower"
+      }
+    ],
+    "abilities": {},
+    "attackPower": 593,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "28"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 2,
+    "upgradeXP": 3191,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 595,
+    "nextEvolveLevel": 7,
+    "tierNumber": 1,
+    "rarity": 5
+  },
+  {
+    "identifier": "juneTwitchDragon",
+    "level": 2,
+    "upgradeCost": [
+      {
+        "type": "juneTwitchDragon",
+        "amount": "6"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 42030,
+    "fullHealDuration": 1076,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T1C3WEdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "healDragon": "heal1"
+    },
+    "attackPower": 624,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "30"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 2,
+    "upgradeXP": 4806,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 666,
+    "nextEvolveLevel": 7,
+    "tierNumber": 1,
+    "rarity": 5
+  },
+  {
+    "identifier": "juneTwitchDragon",
+    "level": 3,
+    "upgradeCost": [
+      {
+        "type": "juneTwitchDragon",
+        "amount": "6"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 43942,
+    "fullHealDuration": 1193,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T1C3WEdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "healDragon": "heal1"
+    },
+    "attackPower": 661,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "32"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 3,
+    "upgradeXP": 5956,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 741,
+    "nextEvolveLevel": 7,
+    "tierNumber": 1,
+    "rarity": 5
+  },
+  {
+    "identifier": "juneTwitchDragon",
+    "level": 4,
+    "upgradeCost": [
+      {
+        "type": "juneTwitchDragon",
+        "amount": "6"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 46473,
+    "fullHealDuration": 1351,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T1C3WEdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "healDragon": "heal1"
+    },
+    "attackPower": 708,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "34"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 3,
+    "upgradeXP": 8493,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 840,
+    "nextEvolveLevel": 7,
+    "tierNumber": 1,
+    "rarity": 5
+  },
+  {
+    "identifier": "juneTwitchDragon",
+    "level": 5,
+    "upgradeCost": [
+      {
+        "type": "juneTwitchDragon",
+        "amount": "6"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 50533,
+    "fullHealDuration": 1580,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T1C3WEdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "healDragon": "heal1",
+      "cannonResist01": "cannonResist01"
+    },
+    "attackPower": 762,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "36"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 3,
+    "upgradeXP": 9767,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 987,
+    "nextEvolveLevel": 7,
+    "tierNumber": 1,
+    "rarity": 5
+  },
+  {
+    "identifier": "juneTwitchDragon",
+    "level": 6,
+    "upgradeCost": [
+      {
+        "type": "juneTwitchDragon",
+        "amount": "6"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 55458,
+    "fullHealDuration": 1882,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T1C3WEdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "healDragon": "heal1",
+      "cannonResist01": "cannonResist01"
+    },
+    "attackPower": 826,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "40"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 3,
+    "upgradeXP": 10255,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 1166,
+    "nextEvolveLevel": 7,
+    "tierNumber": 1,
+    "rarity": 5
+  },
+  {
+    "identifier": "juneTwitchDragon",
+    "level": 7,
+    "upgradeCost": [
+      {
+        "type": "juneTwitchDragon",
+        "amount": "6"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 158185,
+    "fullHealDuration": 9101,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T2C3WEdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "healDragon": "heal1",
+      "cannonResist01": "cannonResist01"
+    },
+    "attackPower": 1967,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "115"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 6,
+    "upgradeXP": 52705,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 7779,
+    "nextEvolveLevel": 13,
+    "tierNumber": 2,
+    "rarity": 5
+  },
+  {
+    "identifier": "juneTwitchDragon",
+    "level": 8,
+    "upgradeCost": [
+      {
+        "type": "juneTwitchDragon",
+        "amount": "7"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 169673,
+    "fullHealDuration": 10086,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T2C3WEdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "healDragon": "heal1",
+      "cannonResist01": "cannonResist01"
+    },
+    "attackPower": 2103,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "122"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 6,
+    "upgradeXP": 58868,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 8918,
+    "nextEvolveLevel": 13,
+    "tierNumber": 2,
+    "rarity": 5
+  },
+  {
+    "identifier": "juneTwitchDragon",
+    "level": 9,
+    "upgradeCost": [
+      {
+        "type": "juneTwitchDragon",
+        "amount": "8"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 180480,
+    "fullHealDuration": 11120,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T2C3WEdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "healDragon": "heal1",
+      "cannonResist01": "cannonResist01"
+    },
+    "attackPower": 2251,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "128"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 7,
+    "upgradeXP": 77484,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 10156,
+    "nextEvolveLevel": 13,
+    "tierNumber": 2,
+    "rarity": 5
+  },
+  {
+    "identifier": "juneTwitchDragon",
+    "level": 10,
+    "upgradeCost": [
+      {
+        "type": "juneTwitchDragon",
+        "amount": "8"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 193514,
+    "fullHealDuration": 12315,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T2C3WEdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "healDragon": "heal1",
+      "cannonResist01": "cannonResist01"
+    },
+    "attackPower": 2406,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "134"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 7,
+    "upgradeXP": 87214,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 11640,
+    "nextEvolveLevel": 13,
+    "tierNumber": 2,
+    "rarity": 5
+  },
+  {
+    "identifier": "juneTwitchDragon",
+    "level": 11,
+    "upgradeCost": [
+      {
+        "type": "juneTwitchDragon",
+        "amount": "8"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 207439,
+    "fullHealDuration": 13562,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T2C3WEdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "healDragon": "heal1",
+      "cannonResist01": "cannonResist01"
+    },
+    "attackPower": 2552,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "140"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 7,
+    "upgradeXP": 97382,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 13239,
+    "nextEvolveLevel": 13,
+    "tierNumber": 2,
+    "rarity": 5
+  },
+  {
+    "identifier": "juneTwitchDragon",
+    "level": 12,
+    "upgradeCost": [
+      {
+        "type": "juneTwitchDragon",
+        "amount": "8"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 220593,
+    "fullHealDuration": 14786,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T2C3WEdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "healDragon": "heal1",
+      "cannonResist01": "cannonResist01"
+    },
+    "attackPower": 2693,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "150"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 8,
+    "upgradeXP": 102251,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 14855,
+    "nextEvolveLevel": 13,
+    "tierNumber": 2,
+    "rarity": 5
+  },
+  {
+    "identifier": "juneTwitchDragon",
+    "level": 13,
+    "upgradeCost": [
+      {
+        "type": "juneTwitchDragon",
+        "amount": "8"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 266886,
+    "fullHealDuration": 15840,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T3C2WFdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "healDragon": "heal1",
+      "intimidatingRoar": "intimidatingRoar1",
+      "cannonResist01": "cannonResist01"
+    },
+    "attackPower": 2820,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "180"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 8,
+    "upgradeXP": 152878,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 18824,
+    "nextEvolveLevel": 19,
+    "tierNumber": 3,
+    "rarity": 5
+  },
+  {
+    "identifier": "juneTwitchDragon",
+    "level": 14,
+    "upgradeCost": [
+      {
+        "type": "juneTwitchDragon",
+        "amount": "10"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 276987,
+    "fullHealDuration": 15840,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T3C2WFdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "healDragon": "heal1",
+      "intimidatingRoar": "intimidatingRoar1",
+      "cannonResist01": "cannonResist01"
+    },
+    "attackPower": 2936,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "190"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 8,
+    "upgradeXP": 171916,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 20361,
+    "nextEvolveLevel": 19,
+    "tierNumber": 3,
+    "rarity": 5
+  },
+  {
+    "identifier": "juneTwitchDragon",
+    "level": 15,
+    "upgradeCost": [
+      {
+        "type": "juneTwitchDragon",
+        "amount": "10"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 285536,
+    "fullHealDuration": 15840,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T3C2WFdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "healDragon": "heal1",
+      "intimidatingRoar": "intimidatingRoar1",
+      "cannonResist01": "cannonResist01"
+    },
+    "attackPower": 3046,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "200"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 9,
+    "upgradeXP": 180511,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 21731,
+    "nextEvolveLevel": 19,
+    "tierNumber": 3,
+    "rarity": 5
+  },
+  {
+    "identifier": "juneTwitchDragon",
+    "level": 16,
+    "upgradeCost": [
+      {
+        "type": "juneTwitchDragon",
+        "amount": "10"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 296800,
+    "fullHealDuration": 15840,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T3C2WFdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "healDragon": "heal1",
+      "intimidatingRoar": "intimidatingRoar1",
+      "cannonResist01": "cannonResist01"
+    },
+    "attackPower": 3175,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "210"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 9,
+    "upgradeXP": 189536,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 23590,
+    "nextEvolveLevel": 19,
+    "tierNumber": 3,
+    "rarity": 5
+  },
+  {
+    "identifier": "juneTwitchDragon",
+    "level": 17,
+    "upgradeCost": [
+      {
+        "type": "juneTwitchDragon",
+        "amount": "10"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 311640,
+    "fullHealDuration": 15840,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T3C2WFdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "healDragon": "heal1",
+      "intimidatingRoar": "intimidatingRoar1",
+      "cannonResist01": "cannonResist01"
+    },
+    "attackPower": 3333,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "220"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 9,
+    "upgradeXP": 199012,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 24769,
+    "nextEvolveLevel": 19,
+    "tierNumber": 3,
+    "rarity": 5
+  },
+  {
+    "identifier": "juneTwitchDragon",
+    "level": 18,
+    "upgradeCost": [
+      {
+        "type": "juneTwitchDragon",
+        "amount": "10"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 327222,
+    "fullHealDuration": 15840,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T3C2WFdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "healDragon": "heal1",
+      "intimidatingRoar": "intimidatingRoar1",
+      "cannonResist01": "cannonResist01"
+    },
+    "attackPower": 3499,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "230"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 9,
+    "upgradeXP": 208962,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 26007,
+    "nextEvolveLevel": 19,
+    "tierNumber": 3,
+    "rarity": 5
+  },
+  {
+    "identifier": "juneTwitchDragon",
+    "level": 19,
+    "upgradeCost": [
+      {
+        "type": "juneTwitchDragon",
+        "amount": "10"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 817942,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T4C2WIdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "healDragon": "heal1",
+      "intimidatingRoar": "intimidatingRoar1",
+      "seethingSpark": "seethingSpark1",
+      "cannonResist01": "cannonResist01"
+    },
+    "attackPower": 7632,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "474"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 9,
+    "upgradeXP": 607915,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 132194,
+    "nextEvolveLevel": 25,
+    "tierNumber": 4,
+    "rarity": 5
+  },
+  {
+    "identifier": "juneTwitchDragon",
+    "level": 20,
+    "upgradeCost": [
+      {
+        "type": "juneTwitchDragon",
+        "amount": "14"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 851525,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T4C2WIdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "healDragon": "heal1",
+      "intimidatingRoar": "intimidatingRoar1",
+      "seethingSpark": "seethingSpark1",
+      "cannonResist01": "cannonResist01"
+    },
+    "attackPower": 7967,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "492"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 16,
+    "upgradeXP": 759230,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 143712,
+    "nextEvolveLevel": 25,
+    "tierNumber": 4,
+    "rarity": 5
+  },
+  {
+    "identifier": "juneTwitchDragon",
+    "level": 21,
+    "upgradeCost": [
+      {
+        "type": "juneTwitchDragon",
+        "amount": "14"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 886931,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T4C2WIdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "healDragon": "heal1",
+      "intimidatingRoar": "intimidatingRoar1",
+      "seethingSpark": "seethingSpark1",
+      "cannonResist01": "cannonResist01"
+    },
+    "attackPower": 8366,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "510"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 17,
+    "upgradeXP": 806021,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 157158,
+    "nextEvolveLevel": 25,
+    "tierNumber": 4,
+    "rarity": 5
+  },
+  {
+    "identifier": "juneTwitchDragon",
+    "level": 22,
+    "upgradeCost": [
+      {
+        "type": "juneTwitchDragon",
+        "amount": "14"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 941573,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T4C2WIdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "healDragon": "heal1",
+      "intimidatingRoar": "intimidatingRoar1",
+      "seethingSpark": "seethingSpark1",
+      "cannonResist01": "cannonResist01"
+    },
+    "attackPower": 8842,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "528"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 17,
+    "upgradeXP": 860880,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 176280,
+    "nextEvolveLevel": 25,
+    "tierNumber": 4,
+    "rarity": 5
+  },
+  {
+    "identifier": "juneTwitchDragon",
+    "level": 23,
+    "upgradeCost": [
+      {
+        "type": "juneTwitchDragon",
+        "amount": "14"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 1005644,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T4C2WIdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "healDragon": "heal1",
+      "intimidatingRoar": "intimidatingRoar1",
+      "seethingSpark": "seethingSpark1",
+      "cannonResist01": "cannonResist01"
+    },
+    "attackPower": 9377,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "546"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 18,
+    "upgradeXP": 919338,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 199757,
+    "nextEvolveLevel": 25,
+    "tierNumber": 4,
+    "rarity": 5
+  },
+  {
+    "identifier": "juneTwitchDragon",
+    "level": 24,
+    "upgradeCost": [
+      {
+        "type": "juneTwitchDragon",
+        "amount": "15"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 1073915,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T4C2WIdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "healDragon": "heal1",
+      "intimidatingRoar": "intimidatingRoar1",
+      "seethingSpark": "seethingSpark1",
+      "cannonResist01": "cannonResist01"
+    },
+    "attackPower": 9991,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "564"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 18,
+    "upgradeXP": 965304,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 227211,
+    "nextEvolveLevel": 25,
+    "tierNumber": 4,
+    "rarity": 5
+  },
+  {
+    "identifier": "juneTwitchDragon",
+    "level": 25,
+    "upgradeCost": [
+      {
+        "type": "juneTwitchDragon",
+        "amount": "15"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 1139868,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T5C3WEdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "healDragon": "heal1",
+      "intimidatingRoar": "intimidatingRoar1",
+      "seethingSpark": "seethingSpark1",
+      "cannonResist01": "cannonResist01"
+    },
+    "attackPower": 10655,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "582"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 18,
+    "upgradeXP": 891186,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 257248,
+    "nextEvolveLevel": 31,
+    "tierNumber": 5,
+    "rarity": 5
+  },
+  {
+    "identifier": "juneTwitchDragon",
+    "level": 26,
+    "upgradeCost": [
+      {
+        "type": "juneTwitchDragon",
+        "amount": "18"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 1216983,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T5C3WEdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "healDragon": "heal1",
+      "intimidatingRoar": "intimidatingRoar1",
+      "seethingSpark": "seethingSpark1",
+      "cannonResist01": "cannonResist01"
+    },
+    "attackPower": 11348,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "600"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 18,
+    "upgradeXP": 1112202,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 292531,
+    "nextEvolveLevel": 31,
+    "tierNumber": 5,
+    "rarity": 5
+  },
+  {
+    "identifier": "juneTwitchDragon",
+    "level": 27,
+    "upgradeCost": [
+      {
+        "type": "juneTwitchDragon",
+        "amount": "18"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 1299136,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T5C3WEdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "healDragon": "heal1",
+      "intimidatingRoar": "intimidatingRoar1",
+      "seethingSpark": "seethingSpark1",
+      "cannonResist01": "cannonResist01"
+    },
+    "attackPower": 12087,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "618"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 18,
+    "upgradeXP": 1180322,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 332592,
+    "nextEvolveLevel": 31,
+    "tierNumber": 5,
+    "rarity": 5
+  },
+  {
+    "identifier": "juneTwitchDragon",
+    "level": 28,
+    "upgradeCost": [
+      {
+        "type": "juneTwitchDragon",
+        "amount": "18"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 1378679,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T5C3WEdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "healDragon": "heal1",
+      "intimidatingRoar": "intimidatingRoar1",
+      "seethingSpark": "seethingSpark1",
+      "cannonResist01": "cannonResist01"
+    },
+    "attackPower": 12887,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "636"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 18,
+    "upgradeXP": 1259773,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 376319,
+    "nextEvolveLevel": 31,
+    "tierNumber": 5,
+    "rarity": 5
+  },
+  {
+    "identifier": "juneTwitchDragon",
+    "level": 29,
+    "upgradeCost": [
+      {
+        "type": "juneTwitchDragon",
+        "amount": "18"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 1471458,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T5C3WEdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "healDragon": "heal1",
+      "intimidatingRoar": "intimidatingRoar1",
+      "seethingSpark": "seethingSpark1",
+      "cannonResist01": "cannonResist01"
+    },
+    "attackPower": 13721,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "654"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 18,
+    "upgradeXP": 1344395,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 427661,
+    "nextEvolveLevel": 31,
+    "tierNumber": 5,
+    "rarity": 5
+  },
+  {
+    "identifier": "juneTwitchDragon",
+    "level": 30,
+    "upgradeCost": [
+      {
+        "type": "juneTwitchDragon",
+        "amount": "18"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 1570282,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T5C3WEdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "healDragon": "heal1",
+      "intimidatingRoar": "intimidatingRoar1",
+      "seethingSpark": "seethingSpark1",
+      "cannonResist01": "cannonResist01"
+    },
+    "attackPower": 14592,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "672"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 18,
+    "upgradeXP": 1411614,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 485316,
+    "nextEvolveLevel": 31,
+    "tierNumber": 5,
+    "rarity": 5
+  },
+  {
+    "identifier": "juneTwitchDragon",
+    "level": 31,
+    "upgradeCost": [
+      {
+        "type": "juneTwitchDragon",
+        "amount": "18"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 2132447,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T6C3WFdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "healDragon": "heal1",
+      "intimidatingRoar": "intimidatingRoar1",
+      "seethingSpark": "seethingSpark1",
+      "cannonResist01": "cannonResist01"
+    },
+    "attackPower": 19822,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "798"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 18,
+    "upgradeXP": 1234440,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 895245,
+    "nextEvolveLevel": 41,
+    "tierNumber": 6,
+    "rarity": 5
+  },
+  {
+    "identifier": "juneTwitchDragon",
+    "level": 32,
+    "upgradeCost": [
+      {
+        "type": "juneTwitchDragon",
+        "amount": "27"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 2185738,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T6C3WFdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "healDragon": "heal1",
+      "intimidatingRoar": "intimidatingRoar1",
+      "seethingSpark": "seethingSpark1",
+      "cannonResist01": "cannonResist01"
+    },
+    "attackPower": 20317,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "816"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 18,
+    "upgradeXP": 1547569,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 940576,
+    "nextEvolveLevel": 41,
+    "tierNumber": 6,
+    "rarity": 5
+  },
+  {
+    "identifier": "juneTwitchDragon",
+    "level": 33,
+    "upgradeCost": [
+      {
+        "type": "juneTwitchDragon",
+        "amount": "27"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 2240365,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T6C3WFdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "healDragon": "heal1",
+      "intimidatingRoar": "intimidatingRoar1",
+      "seethingSpark": "seethingSpark1",
+      "cannonResist01": "cannonResist01"
+    },
+    "attackPower": 20825,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "834"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 18,
+    "upgradeXP": 1586256,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 988187,
+    "nextEvolveLevel": 41,
+    "tierNumber": 6,
+    "rarity": 5
+  },
+  {
+    "identifier": "juneTwitchDragon",
+    "level": 34,
+    "upgradeCost": [
+      {
+        "type": "juneTwitchDragon",
+        "amount": "27"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 2296359,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T6C3WFdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "healDragon": "heal1",
+      "intimidatingRoar": "intimidatingRoar1",
+      "seethingSpark": "seethingSpark1",
+      "cannonResist01": "cannonResist01"
+    },
+    "attackPower": 21346,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "852"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 18,
+    "upgradeXP": 1625913,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 1038133,
+    "nextEvolveLevel": 41,
+    "tierNumber": 6,
+    "rarity": 5
+  },
+  {
+    "identifier": "juneTwitchDragon",
+    "level": 35,
+    "upgradeCost": [
+      {
+        "type": "juneTwitchDragon",
+        "amount": "27"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 2353755,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T6C3WFdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "healDragon": "heal1",
+      "intimidatingRoar": "intimidatingRoar1",
+      "seethingSpark": "seethingSpark1",
+      "cannonResist01": "cannonResist01"
+    },
+    "attackPower": 21879,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "870"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 18,
+    "upgradeXP": 1666559,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 1090674,
+    "nextEvolveLevel": 41,
+    "tierNumber": 6,
+    "rarity": 5
+  },
+  {
+    "identifier": "juneTwitchDragon",
+    "level": 36,
+    "upgradeCost": [
+      {
+        "type": "juneTwitchDragon",
+        "amount": "27"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 2412583,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T6C3WFdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "healDragon": "heal1",
+      "intimidatingRoar": "intimidatingRoar1",
+      "seethingSpark": "seethingSpark1",
+      "cannonResist01": "cannonResist01"
+    },
+    "attackPower": 22426,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "888"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 18,
+    "upgradeXP": 1997012,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 1145976,
+    "nextEvolveLevel": 41,
+    "tierNumber": 6,
+    "rarity": 5
+  },
+  {
+    "identifier": "juneTwitchDragon",
+    "level": 37,
+    "upgradeCost": [
+      {
+        "type": "juneTwitchDragon",
+        "amount": "27"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 2472884,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T6C3WFdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "healDragon": "heal1",
+      "intimidatingRoar": "intimidatingRoar1",
+      "seethingSpark": "seethingSpark1",
+      "cannonResist01": "cannonResist01"
+    },
+    "attackPower": 22987,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "906"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 18,
+    "upgradeXP": 2046937,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 1203895,
+    "nextEvolveLevel": 41,
+    "tierNumber": 6,
+    "rarity": 5
+  },
+  {
+    "identifier": "juneTwitchDragon",
+    "level": 38,
+    "upgradeCost": [
+      {
+        "type": "juneTwitchDragon",
+        "amount": "27"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 2534694,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T6C3WFdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "healDragon": "heal1",
+      "intimidatingRoar": "intimidatingRoar1",
+      "seethingSpark": "seethingSpark1",
+      "cannonResist01": "cannonResist01"
+    },
+    "attackPower": 23562,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "924"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 18,
+    "upgradeXP": 2098104,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 1264916,
+    "nextEvolveLevel": 41,
+    "tierNumber": 6,
+    "rarity": 5
+  },
+  {
+    "identifier": "juneTwitchDragon",
+    "level": 39,
+    "upgradeCost": [
+      {
+        "type": "juneTwitchDragon",
+        "amount": "27"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 2598042,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T6C3WFdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "healDragon": "heal1",
+      "intimidatingRoar": "intimidatingRoar1",
+      "seethingSpark": "seethingSpark1",
+      "cannonResist01": "cannonResist01"
+    },
+    "attackPower": 24151,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "942"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 18,
+    "upgradeXP": 2150556,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 1328896,
+    "nextEvolveLevel": 41,
+    "tierNumber": 6,
+    "rarity": 5
+  },
+  {
+    "identifier": "juneTwitchDragon",
+    "level": 40,
+    "upgradeCost": [
+      {
+        "type": "juneTwitchDragon",
+        "amount": "27"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 2662973,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T6C3WFdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "healDragon": "heal1",
+      "intimidatingRoar": "intimidatingRoar1",
+      "seethingSpark": "seethingSpark1",
+      "cannonResist01": "cannonResist01"
+    },
+    "attackPower": 24754,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "960"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 18,
+    "upgradeXP": 2258083,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 1396122,
+    "nextEvolveLevel": 41,
+    "tierNumber": 6,
+    "rarity": 5
+  },
+  {
+    "identifier": "juneTwitchDragon",
+    "level": 41,
+    "upgradeCost": [
+      {
+        "type": "juneTwitchDragon",
+        "amount": "27"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 3325501,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T7C3WIdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "healDragon": "heal1",
+      "intimidatingRoar": "intimidatingRoar1",
+      "seethingSpark": "seethingSpark1",
+      "cannonResist01": "cannonResist01"
+    },
+    "attackPower": 30914,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1122"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 26,
+    "upgradeXP": 1925271,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 2177409,
+    "nextEvolveLevel": 0,
+    "tierNumber": 7,
+    "rarity": 5
+  },
+  {
+    "identifier": "juneTwitchDragon",
+    "level": 42,
+    "upgradeCost": [
+      {
+        "type": "juneTwitchDragon",
+        "amount": "38"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 3408633,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T7C3WIdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "healDragon": "heal1",
+      "intimidatingRoar": "intimidatingRoar1",
+      "seethingSpark": "seethingSpark1",
+      "cannonResist01": "cannonResist01"
+    },
+    "attackPower": 31687,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1140"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 26,
+    "upgradeXP": 2413642,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 2287584,
+    "nextEvolveLevel": 0,
+    "tierNumber": 7,
+    "rarity": 5
+  },
+  {
+    "identifier": "juneTwitchDragon",
+    "level": 43,
+    "upgradeCost": [
+      {
+        "type": "juneTwitchDragon",
+        "amount": "38"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 3493840,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T7C3WIdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "healDragon": "heal1",
+      "intimidatingRoar": "intimidatingRoar1",
+      "seethingSpark": "seethingSpark1",
+      "cannonResist01": "cannonResist01"
+    },
+    "attackPower": 32479,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1158"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 26,
+    "upgradeXP": 2473982,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 2403434,
+    "nextEvolveLevel": 0,
+    "tierNumber": 7,
+    "rarity": 5
+  },
+  {
+    "identifier": "juneTwitchDragon",
+    "level": 44,
+    "upgradeCost": [
+      {
+        "type": "juneTwitchDragon",
+        "amount": "38"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 3581172,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T7C3WIdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "healDragon": "heal1",
+      "intimidatingRoar": "intimidatingRoar1",
+      "seethingSpark": "seethingSpark1",
+      "cannonResist01": "cannonResist01"
+    },
+    "attackPower": 33291,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1176"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 26,
+    "upgradeXP": 2535828,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 2525078,
+    "nextEvolveLevel": 0,
+    "tierNumber": 7,
+    "rarity": 5
+  },
+  {
+    "identifier": "juneTwitchDragon",
+    "level": 45,
+    "upgradeCost": [
+      {
+        "type": "juneTwitchDragon",
+        "amount": "38"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 3670685,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T7C3WIdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "healDragon": "heal1",
+      "intimidatingRoar": "intimidatingRoar1",
+      "seethingSpark": "seethingSpark1",
+      "cannonResist01": "cannonResist01"
+    },
+    "attackPower": 34124,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1194"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 26,
+    "upgradeXP": 2599221,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 2652892,
+    "nextEvolveLevel": 0,
+    "tierNumber": 7,
+    "rarity": 5
+  },
+  {
+    "identifier": "juneTwitchDragon",
+    "level": 46,
+    "upgradeCost": [
+      {
+        "type": "juneTwitchDragon",
+        "amount": "38"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 3762432,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T7C3WIdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "healDragon": "heal1",
+      "intimidatingRoar": "intimidatingRoar1",
+      "seethingSpark": "seethingSpark1",
+      "cannonResist01": "cannonResist01"
+    },
+    "attackPower": 34977,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1212"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 26,
+    "upgradeXP": 3114611,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 2787130,
+    "nextEvolveLevel": 0,
+    "tierNumber": 7,
+    "rarity": 5
+  },
+  {
+    "identifier": "juneTwitchDragon",
+    "level": 47,
+    "upgradeCost": [
+      {
+        "type": "juneTwitchDragon",
+        "amount": "38"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 3856468,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T7C3WIdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "healDragon": "heal1",
+      "intimidatingRoar": "intimidatingRoar1",
+      "seethingSpark": "seethingSpark1",
+      "cannonResist01": "cannonResist01"
+    },
+    "attackPower": 35403,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1230"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 26,
+    "upgradeXP": 3192472,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 2891632,
+    "nextEvolveLevel": 0,
+    "tierNumber": 7,
+    "rarity": 5
+  },
+  {
+    "identifier": "juneTwitchDragon",
+    "level": 48,
+    "upgradeCost": [
+      {
+        "type": "juneTwitchDragon",
+        "amount": "38"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 3952851,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T7C3WIdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "healDragon": "heal1",
+      "intimidatingRoar": "intimidatingRoar1",
+      "seethingSpark": "seethingSpark1",
+      "cannonResist01": "cannonResist01"
+    },
+    "attackPower": 35836,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1248"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 26,
+    "upgradeXP": 3272283,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 3000270,
+    "nextEvolveLevel": 0,
+    "tierNumber": 7,
+    "rarity": 5
+  },
+  {
+    "identifier": "juneTwitchDragon",
+    "level": 49,
+    "upgradeCost": [
+      {
+        "type": "juneTwitchDragon",
+        "amount": "38"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 4051647,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T7C3WIdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "healDragon": "heal1",
+      "intimidatingRoar": "intimidatingRoar1",
+      "seethingSpark": "seethingSpark1",
+      "cannonResist01": "cannonResist01"
+    },
+    "attackPower": 36732,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1266"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 26,
+    "upgradeXP": 3354088,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 3152119,
+    "nextEvolveLevel": 0,
+    "tierNumber": 7,
+    "rarity": 5
+  },
+  {
+    "identifier": "juneTwitchDragon",
+    "level": 50,
+    "upgradeCost": [
+      {
+        "type": "juneTwitchDragon",
+        "amount": "38"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 4152916,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T7C3WIdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "healDragon": "heal1",
+      "intimidatingRoar": "intimidatingRoar1",
+      "seethingSpark": "seethingSpark1",
+      "cannonResist01": "cannonResist01"
+    },
+    "attackPower": 37651,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1284"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 26,
+    "upgradeXP": 0,
+    "xpRewardMultiplier": 1.2,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 3311685,
+    "nextEvolveLevel": 0,
+    "tierNumber": 7,
+    "rarity": 5
+  }
+]

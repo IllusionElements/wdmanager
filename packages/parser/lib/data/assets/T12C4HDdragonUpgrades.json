@@ -1,0 +1,2252 @@
+[
+  {
+    "identifier": "T12C4HDdragon",
+    "level": 1,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "0"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 13152353,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T12C4HDdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "cloak": "cloak1",
+      "stealEssence": "leechEssence1",
+      "energySyphon": "soulDevour1",
+      "adaptiveResist": "adaptiveResist1"
+    },
+    "attackPower": 728771,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2716"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 48,
+    "upgradeXP": 6363452,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 60390920
+  },
+  {
+    "identifier": "T12C4HDdragon",
+    "level": 2,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "703800"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 13481150,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T12C4HDdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "cloak": "cloak1",
+      "stealEssence": "leechEssence1",
+      "energySyphon": "soulDevour1",
+      "adaptiveResist": "adaptiveResist1"
+    },
+    "attackPower": 746990,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2737"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 48,
+    "upgradeXP": 6522538,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 63448123
+  },
+  {
+    "identifier": "T12C4HDdragon",
+    "level": 3,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "709200"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 13818168,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T12C4HDdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "cloak": "cloak1",
+      "stealEssence": "leechEssence1",
+      "energySyphon": "soulDevour1",
+      "adaptiveResist": "adaptiveResist1"
+    },
+    "attackPower": 765665,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2758"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 49,
+    "upgradeXP": 7595692,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 66660173
+  },
+  {
+    "identifier": "T12C4HDdragon",
+    "level": 4,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "714600"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 14163617,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T12C4HDdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "cloak": "cloak1",
+      "stealEssence": "leechEssence1",
+      "energySyphon": "soulDevour1",
+      "adaptiveResist": "adaptiveResist1"
+    },
+    "attackPower": 784806,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2779"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 49,
+    "upgradeXP": 8959473,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 70034832
+  },
+  {
+    "identifier": "T12C4HDdragon",
+    "level": 5,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "720000"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 14517697,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T12C4HDdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "cloak": "cloak1",
+      "stealEssence": "leechEssence1",
+      "energySyphon": "soulDevour1",
+      "adaptiveResist": "adaptiveResist1"
+    },
+    "attackPower": 804426,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2800"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 50,
+    "upgradeXP": 10322434,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 73580215
+  },
+  {
+    "identifier": "T12C4HDdragon",
+    "level": 6,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "725400"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 14880626,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T12C4HDdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "cloak": "cloak1",
+      "stealEssence": "leechEssence1",
+      "energySyphon": "soulDevour1",
+      "adaptiveResist": "adaptiveResist1"
+    },
+    "attackPower": 824537,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2821"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 51,
+    "upgradeXP": 11695879,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 77305251
+  },
+  {
+    "identifier": "T12C4HDdragon",
+    "level": 7,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "730800"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 15252630,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T12C4HDdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "cloak": "cloak1",
+      "stealEssence": "leechEssence1",
+      "energySyphon": "soulDevour1",
+      "adaptiveResist": "adaptiveResist1"
+    },
+    "attackPower": 845150,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2842"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 52,
+    "upgradeXP": 11988274,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 81218799
+  },
+  {
+    "identifier": "T12C4HDdragon",
+    "level": 8,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "736200"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 15633931,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T12C4HDdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "cloak": "cloak1",
+      "stealEssence": "leechEssence1",
+      "energySyphon": "soulDevour1",
+      "adaptiveResist": "adaptiveResist1"
+    },
+    "attackPower": 866279,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2863"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 53,
+    "upgradeXP": 12287979,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 85330321
+  },
+  {
+    "identifier": "T12C4HDdragon",
+    "level": 9,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "741600"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 16024763,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T12C4HDdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "cloak": "cloak1",
+      "stealEssence": "leechEssence1",
+      "energySyphon": "soulDevour1",
+      "adaptiveResist": "adaptiveResist1"
+    },
+    "attackPower": 887935,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2884"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 54,
+    "upgradeXP": 12595174,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 89650125
+  },
+  {
+    "identifier": "T12C4HDdragon",
+    "level": 10,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "747000"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 16425368,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T12C4HDdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "cloak": "cloak1",
+      "stealEssence": "leechEssence1",
+      "energySyphon": "soulDevour1",
+      "adaptiveResist": "adaptiveResist1"
+    },
+    "attackPower": 910134,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2905"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 55,
+    "upgradeXP": 12910053,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 91628943
+  },
+  {
+    "identifier": "T12C4HDdragon",
+    "level": 11,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "752400"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 16835990,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T12C4HDdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "cloak": "cloak1",
+      "stealEssence": "leechEssence1",
+      "energySyphon": "soulDevour1",
+      "adaptiveResist": "adaptiveResist1"
+    },
+    "attackPower": 932887,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2926"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 56,
+    "upgradeXP": 13232803,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 98446448
+  },
+  {
+    "identifier": "T12C4HDdragon",
+    "level": 12,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "757800"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 17256877,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T12C4HDdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "cloak": "cloak1",
+      "stealEssence": "leechEssence1",
+      "energySyphon": "soulDevour1",
+      "adaptiveResist": "adaptiveResist1"
+    },
+    "attackPower": 956209,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2947"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 57,
+    "upgradeXP": 13563622,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 102923211
+  },
+  {
+    "identifier": "T12C4HDdragon",
+    "level": 13,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "763200"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 17688286,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T12C4HDdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "cloak": "cloak1",
+      "stealEssence": "leechEssence1",
+      "energySyphon": "soulDevour1",
+      "adaptiveResist": "adaptiveResist1"
+    },
+    "attackPower": 980114,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2968"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 58,
+    "upgradeXP": 13902711,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 107452536
+  },
+  {
+    "identifier": "T12C4HDdragon",
+    "level": 14,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "768600"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 18130480,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T12C4HDdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "cloak": "cloak1",
+      "stealEssence": "leechEssence1",
+      "energySyphon": "soulDevour1",
+      "adaptiveResist": "adaptiveResist1"
+    },
+    "attackPower": 1004617,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2989"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 59,
+    "upgradeXP": 14250276,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 112034547
+  },
+  {
+    "identifier": "T12C4HDdragon",
+    "level": 15,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "774000"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 18583730,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T12C4HDdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "cloak": "cloak1",
+      "stealEssence": "leechEssence1",
+      "energySyphon": "soulDevour1",
+      "adaptiveResist": "adaptiveResist1"
+    },
+    "attackPower": 1029732,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3010"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 60,
+    "upgradeXP": 14606532,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 116669364
+  },
+  {
+    "identifier": "T12C4HDdragon",
+    "level": 16,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "779400"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 19048317,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T12C4HDdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "cloak": "cloak1",
+      "stealEssence": "leechEssence1",
+      "energySyphon": "soulDevour1",
+      "adaptiveResist": "adaptiveResist1"
+    },
+    "attackPower": 1055475,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3031"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 60,
+    "upgradeXP": 14971693,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 120281525
+  },
+  {
+    "identifier": "T12C4HDdragon",
+    "level": 17,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "784800"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 19524517,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T12C4HDdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "cloak": "cloak1",
+      "stealEssence": "leechEssence1",
+      "energySyphon": "soulDevour1",
+      "adaptiveResist": "adaptiveResist1"
+    },
+    "attackPower": 1081862,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3052"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 61,
+    "upgradeXP": 15345984,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 123927305
+  },
+  {
+    "identifier": "T12C4HDdragon",
+    "level": 18,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "790200"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 20012618,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T12C4HDdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "cloak": "cloak1",
+      "stealEssence": "leechEssence1",
+      "energySyphon": "soulDevour1",
+      "adaptiveResist": "adaptiveResist1"
+    },
+    "attackPower": 1108908,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3073"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 61,
+    "upgradeXP": 20892118,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 127606704
+  },
+  {
+    "identifier": "T12C4HDdragon",
+    "level": 19,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1056717"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 20512923,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T12C4HDdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "cloak": "cloak1",
+      "stealEssence": "leechEssence1",
+      "energySyphon": "soulDevour1",
+      "adaptiveResist": "adaptiveResist1"
+    },
+    "attackPower": 1136631,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3094"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 62,
+    "upgradeXP": 21414417,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 131319722
+  },
+  {
+    "identifier": "T12C4HDdragon",
+    "level": 20,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1063890"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 21025740,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T12C4HDdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "cloak": "cloak1",
+      "stealEssence": "leechEssence1",
+      "energySyphon": "soulDevour1",
+      "adaptiveResist": "adaptiveResist1"
+    },
+    "attackPower": 1165046,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3115"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 62,
+    "upgradeXP": 21949775,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 135066359
+  },
+  {
+    "identifier": "T12C4HDdragon",
+    "level": 21,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1071062"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 21551381,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T12C4HDdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "cloak": "cloak1",
+      "stealEssence": "leechEssence1",
+      "energySyphon": "soulDevour1",
+      "adaptiveResist": "adaptiveResist1"
+    },
+    "attackPower": 1194172,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3136"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 63,
+    "upgradeXP": 22498519,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 138846614
+  },
+  {
+    "identifier": "T12C4HDdragon",
+    "level": 22,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1078234"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 22090161,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T12C4HDdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "cloak": "cloak1",
+      "stealEssence": "leechEssence1",
+      "energySyphon": "soulDevour1",
+      "adaptiveResist": "adaptiveResist1"
+    },
+    "attackPower": 1224026,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3157"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 63,
+    "upgradeXP": 28205569,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 142660489
+  },
+  {
+    "identifier": "T12C4HDdragon",
+    "level": 23,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1327546"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 22642406,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T12C4HDdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "cloak": "cloak1",
+      "stealEssence": "leechEssence1",
+      "energySyphon": "soulDevour1",
+      "adaptiveResist": "adaptiveResist1"
+    },
+    "attackPower": 1254627,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3178"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 64,
+    "upgradeXP": 28910703,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 146507982
+  },
+  {
+    "identifier": "T12C4HDdragon",
+    "level": 24,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1336318"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 23208452,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T12C4HDdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "cloak": "cloak1",
+      "stealEssence": "leechEssence1",
+      "energySyphon": "soulDevour1",
+      "adaptiveResist": "adaptiveResist1"
+    },
+    "attackPower": 1285993,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3199"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 64,
+    "upgradeXP": 29633469,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 150389094
+  },
+  {
+    "identifier": "T12C4HDdragon",
+    "level": 25,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1345090"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 23788650,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T12C4HDdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "cloak": "cloak1",
+      "stealEssence": "leechEssence1",
+      "energySyphon": "soulDevour1",
+      "adaptiveResist": "adaptiveResist1"
+    },
+    "attackPower": 1318142,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3220"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 65,
+    "upgradeXP": 30374302,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 154303825
+  },
+  {
+    "identifier": "T12C4HDdragon",
+    "level": 26,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1353863"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 24383362,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T12C4HDdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "cloak": "cloak1",
+      "stealEssence": "leechEssence1",
+      "energySyphon": "soulDevour1",
+      "adaptiveResist": "adaptiveResist1"
+    },
+    "attackPower": 1351096,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3241"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 65,
+    "upgradeXP": 36397130,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 158252175
+  },
+  {
+    "identifier": "T12C4HDdragon",
+    "level": 27,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1593003"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 24992944,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T12C4HDdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "cloak": "cloak1",
+      "stealEssence": "leechEssence1",
+      "energySyphon": "soulDevour1",
+      "adaptiveResist": "adaptiveResist1"
+    },
+    "attackPower": 1384873,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3262"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 66,
+    "upgradeXP": 37307059,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 162234143
+  },
+  {
+    "identifier": "T12C4HDdragon",
+    "level": 28,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1603258"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 25617765,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T12C4HDdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "cloak": "cloak1",
+      "stealEssence": "leechEssence1",
+      "energySyphon": "soulDevour1",
+      "adaptiveResist": "adaptiveResist1"
+    },
+    "attackPower": 1419494,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3283"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 66,
+    "upgradeXP": 38239728,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 166249731
+  },
+  {
+    "identifier": "T12C4HDdragon",
+    "level": 29,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1613514"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 26258204,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T12C4HDdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "cloak": "cloak1",
+      "stealEssence": "leechEssence1",
+      "energySyphon": "soulDevour1",
+      "adaptiveResist": "adaptiveResist1"
+    },
+    "attackPower": 1454982,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3304"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 67,
+    "upgradeXP": 39195715,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 170298937
+  },
+  {
+    "identifier": "T12C4HDdragon",
+    "level": 30,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1623769"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 26914651,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T12C4HDdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "cloak": "cloak1",
+      "stealEssence": "leechEssence1",
+      "energySyphon": "soulDevour1",
+      "adaptiveResist": "adaptiveResist1"
+    },
+    "attackPower": 1491356,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3325"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 67,
+    "upgradeXP": 40175605,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 174381762
+  },
+  {
+    "identifier": "T12C4HDdragon",
+    "level": 31,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1634024"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 27587506,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T12C4HDdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "cloak": "cloak1",
+      "stealEssence": "leechEssence1",
+      "energySyphon": "soulDevour1",
+      "adaptiveResist": "adaptiveResist1"
+    },
+    "attackPower": 1528640,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3346"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 68,
+    "upgradeXP": 41179994,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 178498206
+  },
+  {
+    "identifier": "T12C4HDdragon",
+    "level": 32,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1644280"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 28277181,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T12C4HDdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "cloak": "cloak1",
+      "stealEssence": "leechEssence1",
+      "energySyphon": "soulDevour1",
+      "adaptiveResist": "adaptiveResist1"
+    },
+    "attackPower": 1566856,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3367"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 68,
+    "upgradeXP": 42209486,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 182648268
+  },
+  {
+    "identifier": "T12C4HDdragon",
+    "level": 33,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1654535"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 28984092,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T12C4HDdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "cloak": "cloak1",
+      "stealEssence": "leechEssence1",
+      "energySyphon": "soulDevour1",
+      "adaptiveResist": "adaptiveResist1"
+    },
+    "attackPower": 1606027,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3388"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 69,
+    "upgradeXP": 43264722,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 186831950
+  },
+  {
+    "identifier": "T12C4HDdragon",
+    "level": 34,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1664791"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 29708679,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T12C4HDdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "cloak": "cloak1",
+      "stealEssence": "leechEssence1",
+      "energySyphon": "soulDevour1",
+      "adaptiveResist": "adaptiveResist1"
+    },
+    "attackPower": 1646177,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3409"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 69,
+    "upgradeXP": 44346335,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 191049250
+  },
+  {
+    "identifier": "T12C4HDdragon",
+    "level": 35,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1675046"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 30451383,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T12C4HDdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "cloak": "cloak1",
+      "stealEssence": "leechEssence1",
+      "energySyphon": "soulDevour1",
+      "adaptiveResist": "adaptiveResist1"
+    },
+    "attackPower": 1687332,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3430"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 70,
+    "upgradeXP": 45454987,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 195300169
+  },
+  {
+    "identifier": "T12C4HDdragon",
+    "level": 36,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1685301"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 31212655,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T12C4HDdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "cloak": "cloak1",
+      "stealEssence": "leechEssence1",
+      "energySyphon": "soulDevour1",
+      "adaptiveResist": "adaptiveResist1"
+    },
+    "attackPower": 1729515,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3451"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 70,
+    "upgradeXP": 46591363,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 199584707
+  },
+  {
+    "identifier": "T12C4HDdragon",
+    "level": 37,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1695557"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 31992964,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T12C4HDdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "cloak": "cloak1",
+      "stealEssence": "leechEssence1",
+      "energySyphon": "soulDevour1",
+      "adaptiveResist": "adaptiveResist1"
+    },
+    "attackPower": 1772752,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3472"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 71,
+    "upgradeXP": 47756140,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 203902864
+  },
+  {
+    "identifier": "T12C4HDdragon",
+    "level": 38,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1705812"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 32792778,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T12C4HDdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "cloak": "cloak1",
+      "stealEssence": "leechEssence1",
+      "energySyphon": "soulDevour1",
+      "adaptiveResist": "adaptiveResist1"
+    },
+    "attackPower": 1817071,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3493"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 71,
+    "upgradeXP": 48950043,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 208254640
+  },
+  {
+    "identifier": "T12C4HDdragon",
+    "level": 39,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1716067"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 33612583,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T12C4HDdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "cloak": "cloak1",
+      "stealEssence": "leechEssence1",
+      "energySyphon": "soulDevour1",
+      "adaptiveResist": "adaptiveResist1"
+    },
+    "attackPower": 1862498,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3514"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 72,
+    "upgradeXP": 50173786,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 212640034
+  },
+  {
+    "identifier": "T12C4HDdragon",
+    "level": 40,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1726323"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 34452887,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T12C4HDdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "cloak": "cloak1",
+      "stealEssence": "leechEssence1",
+      "energySyphon": "soulDevour1",
+      "adaptiveResist": "adaptiveResist1"
+    },
+    "attackPower": 1909060,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3535"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 72,
+    "upgradeXP": 51428125,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 217059048
+  },
+  {
+    "identifier": "T12C4HDdragon",
+    "level": 41,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1736578"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 35314204,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T12C4HDdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "cloak": "cloak1",
+      "stealEssence": "leechEssence1",
+      "energySyphon": "soulDevour1",
+      "adaptiveResist": "adaptiveResist1"
+    },
+    "attackPower": 1956786,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3556"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 73,
+    "upgradeXP": 52713827,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 221511680
+  },
+  {
+    "identifier": "T12C4HDdragon",
+    "level": 42,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1746834"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 36197048,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T12C4HDdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "cloak": "cloak1",
+      "stealEssence": "leechEssence1",
+      "energySyphon": "soulDevour1",
+      "adaptiveResist": "adaptiveResist1"
+    },
+    "attackPower": 2005706,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3577"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 73,
+    "upgradeXP": 54031672,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 225997931
+  },
+  {
+    "identifier": "T12C4HDdragon",
+    "level": 43,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1757089"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 37101963,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T12C4HDdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "cloak": "cloak1",
+      "stealEssence": "leechEssence1",
+      "energySyphon": "soulDevour1",
+      "adaptiveResist": "adaptiveResist1"
+    },
+    "attackPower": 2055848,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3598"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 74,
+    "upgradeXP": 55382460,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 230517801
+  },
+  {
+    "identifier": "T12C4HDdragon",
+    "level": 44,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1767344"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 38029503,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T12C4HDdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "cloak": "cloak1",
+      "stealEssence": "leechEssence1",
+      "energySyphon": "soulDevour1",
+      "adaptiveResist": "adaptiveResist1"
+    },
+    "attackPower": 2107244,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3619"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 74,
+    "upgradeXP": 56767019,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 235071290
+  },
+  {
+    "identifier": "T12C4HDdragon",
+    "level": 45,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1777600"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 38980231,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T12C4HDdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "cloak": "cloak1",
+      "stealEssence": "leechEssence1",
+      "energySyphon": "soulDevour1",
+      "adaptiveResist": "adaptiveResist1"
+    },
+    "attackPower": 2159925,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3640"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 75,
+    "upgradeXP": 58186187,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 239658397
+  },
+  {
+    "identifier": "T12C4HDdragon",
+    "level": 46,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1787855"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 39954728,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T12C4HDdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "cloak": "cloak1",
+      "stealEssence": "leechEssence1",
+      "energySyphon": "soulDevour1",
+      "adaptiveResist": "adaptiveResist1"
+    },
+    "attackPower": 2213923,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3661"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 76,
+    "upgradeXP": 59640838,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 244279123
+  },
+  {
+    "identifier": "T12C4HDdragon",
+    "level": 47,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1798110"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 40953582,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T12C4HDdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "cloak": "cloak1",
+      "stealEssence": "leechEssence1",
+      "energySyphon": "soulDevour1",
+      "adaptiveResist": "adaptiveResist1"
+    },
+    "attackPower": 2269271,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3682"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 77,
+    "upgradeXP": 61131851,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 248933469
+  },
+  {
+    "identifier": "T12C4HDdragon",
+    "level": 48,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1808366"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 41977402,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T12C4HDdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "cloak": "cloak1",
+      "stealEssence": "leechEssence1",
+      "energySyphon": "soulDevour1",
+      "adaptiveResist": "adaptiveResist1"
+    },
+    "attackPower": 2326003,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3703"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 78,
+    "upgradeXP": 62660142,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 253621433
+  },
+  {
+    "identifier": "T12C4HDdragon",
+    "level": 49,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1818621"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 43026819,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T12C4HDdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "cloak": "cloak1",
+      "stealEssence": "leechEssence1",
+      "energySyphon": "soulDevour1",
+      "adaptiveResist": "adaptiveResist1"
+    },
+    "attackPower": 2384153,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3724"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 79,
+    "upgradeXP": 64226645,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 258343015
+  },
+  {
+    "identifier": "T12C4HDdragon",
+    "level": 50,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1828877"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 44102476,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T12C4HDdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "cloak": "cloak1",
+      "stealEssence": "leechEssence1",
+      "energySyphon": "soulDevour1",
+      "adaptiveResist": "adaptiveResist1"
+    },
+    "attackPower": 2443756,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3745"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 80,
+    "upgradeXP": 0,
+    "xpRewardMultiplier": 1.2,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 263098217
+  }
+]

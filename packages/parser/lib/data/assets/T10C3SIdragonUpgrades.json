@@ -1,0 +1,1325 @@
+[
+  {
+    "identifier": "T10C3SIdragon",
+    "level": 1,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "0"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 5524223,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T10C3SIdragon_lockon"
+      }
+    ],
+    "abilities": {},
+    "attackPower": 272070,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1680"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 33,
+    "upgradeXP": 1918403,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 3774684
+  },
+  {
+    "identifier": "T10C3SIdragon",
+    "level": 2,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "448272"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 5662314,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T10C3SIdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "invincibleSpell": "invincible1"
+    },
+    "attackPower": 278872,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1698"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 33,
+    "upgradeXP": 1966362,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 5948719
+  },
+  {
+    "identifier": "T10C3SIdragon",
+    "level": 3,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "453024"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 5803856,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T10C3SIdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "invincibleSpell": "invincible1"
+    },
+    "attackPower": 285843,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1716"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 34,
+    "upgradeXP": 2289887,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 6249852
+  },
+  {
+    "identifier": "T10C3SIdragon",
+    "level": 4,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "457776"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 5948935,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T10C3SIdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "invincibleSpell": "invincible1"
+    },
+    "attackPower": 292989,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1734"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 34,
+    "upgradeXP": 2701027,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 6566154
+  },
+  {
+    "identifier": "T10C3SIdragon",
+    "level": 5,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "462528"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 6097637,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T10C3SIdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "invincibleSpell": "invincible1",
+      "desiccatingSand": "noxiousVines1"
+    },
+    "attackPower": 300314,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1752"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 34,
+    "upgradeXP": 3111920,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 9198080
+  },
+  {
+    "identifier": "T10C3SIdragon",
+    "level": 6,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "467280"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 6250060,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T10C3SIdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "invincibleSpell": "invincible1",
+      "desiccatingSand": "noxiousVines1"
+    },
+    "attackPower": 307822,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1770"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 35,
+    "upgradeXP": 3525975,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 9663777
+  },
+  {
+    "identifier": "T10C3SIdragon",
+    "level": 7,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "472032"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 6406297,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T10C3SIdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "invincibleSpell": "invincible1",
+      "desiccatingSand": "noxiousVines1"
+    },
+    "attackPower": 315517,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1788"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 35,
+    "upgradeXP": 3614123,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 10152870
+  },
+  {
+    "identifier": "T10C3SIdragon",
+    "level": 8,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "476784"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 6566443,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T10C3SIdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "invincibleSpell": "invincible1",
+      "desiccatingSand": "noxiousVines1"
+    },
+    "attackPower": 323405,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1806"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 35,
+    "upgradeXP": 3704476,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 10666937
+  },
+  {
+    "identifier": "T10C3SIdragon",
+    "level": 9,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "481536"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 6730585,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T10C3SIdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "invincibleSpell": "invincible1",
+      "desiccatingSand": "noxiousVines1",
+      "fluxSpell": "flux1"
+    },
+    "attackPower": 331490,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1824"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 36,
+    "upgradeXP": 3797086,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 14569012
+  },
+  {
+    "identifier": "T10C3SIdragon",
+    "level": 10,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "486288"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 6898826,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T10C3SIdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "invincibleSpell": "invincible1",
+      "desiccatingSand": "noxiousVines1",
+      "fluxSpell": "flux1"
+    },
+    "attackPower": 339777,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1842"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 36,
+    "upgradeXP": 3892011,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 15306491
+  },
+  {
+    "identifier": "T10C3SIdragon",
+    "level": 11,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "491040"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 7071274,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T10C3SIdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "invincibleSpell": "invincible1",
+      "desiccatingSand": "noxiousVines1",
+      "fluxSpell": "flux1"
+    },
+    "attackPower": 348271,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1860"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 36,
+    "upgradeXP": 3989310,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 16081273
+  },
+  {
+    "identifier": "T10C3SIdragon",
+    "level": 12,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "495792"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 7248040,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T10C3SIdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "invincibleSpell": "invincible1",
+      "desiccatingSand": "noxiousVines1",
+      "fluxSpell": "flux1"
+    },
+    "attackPower": 356978,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1878"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 37,
+    "upgradeXP": 4089042,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 16895385
+  },
+  {
+    "identifier": "T10C3SIdragon",
+    "level": 13,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "500544"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 7429228,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T10C3SIdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "invincibleSpell": "invincible1",
+      "desiccatingSand": "noxiousVines1",
+      "fluxSpell": "flux1"
+    },
+    "attackPower": 365902,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1896"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 37,
+    "upgradeXP": 4191265,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 17750543
+  },
+  {
+    "identifier": "T10C3SIdragon",
+    "level": 14,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "505296"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 7614944,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T10C3SIdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "invincibleSpell": "invincible1",
+      "desiccatingSand": "noxiousVines1",
+      "fluxSpell": "flux1",
+      "stormResist01": "stormResist01"
+    },
+    "attackPower": 375049,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1914"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 37,
+    "upgradeXP": 4296046,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 18649207
+  },
+  {
+    "identifier": "T10C3SIdragon",
+    "level": 15,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "510048"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 7805299,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T10C3SIdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "invincibleSpell": "invincible1",
+      "desiccatingSand": "noxiousVines1",
+      "fluxSpell": "flux1",
+      "stormResist01": "stormResist01"
+    },
+    "attackPower": 384425,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1932"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 38,
+    "upgradeXP": 4403446,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 19593350
+  },
+  {
+    "identifier": "T10C3SIdragon",
+    "level": 16,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "514800"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 8000415,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T10C3SIdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "invincibleSpell": "invincible1",
+      "desiccatingSand": "noxiousVines1",
+      "fluxSpell": "flux1",
+      "stormResist01": "stormResist01"
+    },
+    "attackPower": 394036,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1950"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 38,
+    "upgradeXP": 4513528,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 20585163
+  },
+  {
+    "identifier": "T10C3SIdragon",
+    "level": 17,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "519552"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 8200406,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T10C3SIdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "invincibleSpell": "invincible1",
+      "desiccatingSand": "noxiousVines1",
+      "fluxSpell": "flux1",
+      "stormResist01": "stormResist01"
+    },
+    "attackPower": 403887,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1968"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 38,
+    "upgradeXP": 4626365,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 21627242
+  },
+  {
+    "identifier": "T10C3SIdragon",
+    "level": 18,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "524304"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 8405396,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T10C3SIdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "invincibleSpell": "invincible1",
+      "desiccatingSand": "noxiousVines1",
+      "fluxSpell": "flux1",
+      "stormResist01": "stormResist01"
+    },
+    "attackPower": 413984,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1986"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 39,
+    "upgradeXP": 6298360,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 22722051
+  },
+  {
+    "identifier": "T10C3SIdragon",
+    "level": 19,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "702693"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 8615511,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T10C3SIdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "invincibleSpell": "invincible1",
+      "desiccatingSand": "noxiousVines1",
+      "fluxSpell": "flux1",
+      "stormResist01": "stormResist01"
+    },
+    "attackPower": 424333,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2004"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 39,
+    "upgradeXP": 6455816,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 23872287
+  },
+  {
+    "identifier": "T10C3SIdragon",
+    "level": 20,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "709005"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 8830879,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T10C3SIdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "invincibleSpell": "invincible1",
+      "desiccatingSand": "noxiousVines1",
+      "fluxSpell": "flux1",
+      "stormResist01": "stormResist01"
+    },
+    "attackPower": 434941,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2022"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 39,
+    "upgradeXP": 6617209,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 25080699
+  },
+  {
+    "identifier": "T10C3SIdragon",
+    "level": 21,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "715317"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 9051637,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T10C3SIdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "invincibleSpell": "invincible1",
+      "desiccatingSand": "noxiousVines1",
+      "fluxSpell": "flux1",
+      "stormResist01": "stormResist01"
+    },
+    "attackPower": 445814,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2040"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 40,
+    "upgradeXP": 6782638,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 26350272
+  },
+  {
+    "identifier": "T10C3SIdragon",
+    "level": 22,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "721628"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 9277918,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T10C3SIdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "invincibleSpell": "invincible1",
+      "desiccatingSand": "noxiousVines1",
+      "fluxSpell": "flux1",
+      "stormResist01": "stormResist01"
+    },
+    "attackPower": 456960,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2058"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 40,
+    "upgradeXP": 8503146,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 27684241
+  },
+  {
+    "identifier": "T10C3SIdragon",
+    "level": 23,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "890333"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 9509854,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T10C3SIdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "invincibleSpell": "invincible1",
+      "desiccatingSand": "noxiousVines1",
+      "fluxSpell": "flux1",
+      "stormResist01": "stormResist01"
+    },
+    "attackPower": 468383,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2076"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 40,
+    "upgradeXP": 8715722,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 29085711
+  },
+  {
+    "identifier": "T10C3SIdragon",
+    "level": 24,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "898053"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 9747585,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T10C3SIdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "invincibleSpell": "invincible1",
+      "desiccatingSand": "noxiousVines1",
+      "fluxSpell": "flux1",
+      "stormResist01": "stormResist01"
+    },
+    "attackPower": 480093,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2094"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 40,
+    "upgradeXP": 8933613,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 30558228
+  },
+  {
+    "identifier": "T10C3SIdragon",
+    "level": 25,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "905772"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 9991259,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T10C3SIdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "invincibleSpell": "invincible1",
+      "desiccatingSand": "noxiousVines1",
+      "fluxSpell": "flux1",
+      "stormResist01": "stormResist01"
+    },
+    "attackPower": 492095,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2112"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 40,
+    "upgradeXP": 9156953,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 32105211
+  },
+  {
+    "identifier": "T10C3SIdragon",
+    "level": 26,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "913492"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 10241021,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T10C3SIdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "invincibleSpell": "invincible1",
+      "desiccatingSand": "noxiousVines1",
+      "fluxSpell": "flux1",
+      "stormResist01": "stormResist01"
+    },
+    "attackPower": 504397,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2130"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 40,
+    "upgradeXP": 10972658,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 33730337
+  },
+  {
+    "identifier": "T10C3SIdragon",
+    "level": 27,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1076952"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 10497024,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T10C3SIdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "invincibleSpell": "invincible1",
+      "desiccatingSand": "noxiousVines1",
+      "fluxSpell": "flux1",
+      "stormResist01": "stormResist01"
+    },
+    "attackPower": 517007,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2148"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 40,
+    "upgradeXP": 11246968,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 35437935
+  },
+  {
+    "identifier": "T10C3SIdragon",
+    "level": 28,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1085977"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 10759431,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T10C3SIdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "invincibleSpell": "invincible1",
+      "desiccatingSand": "noxiousVines1",
+      "fluxSpell": "flux1",
+      "stormResist01": "stormResist01"
+    },
+    "attackPower": 529932,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2166"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 40,
+    "upgradeXP": 11528141,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 37231828
+  },
+  {
+    "identifier": "T10C3SIdragon",
+    "level": 29,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1095002"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 11028399,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T10C3SIdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "invincibleSpell": "invincible1",
+      "desiccatingSand": "noxiousVines1",
+      "fluxSpell": "flux1",
+      "stormResist01": "stormResist01"
+    },
+    "attackPower": 543180,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2184"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 40,
+    "upgradeXP": 11816341,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 39116698
+  },
+  {
+    "identifier": "T10C3SIdragon",
+    "level": 30,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1104026"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 11304091,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T10C3SIdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "invincibleSpell": "invincible1",
+      "desiccatingSand": "noxiousVines1",
+      "fluxSpell": "flux1",
+      "stormResist01": "stormResist01"
+    },
+    "attackPower": 556760,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2202"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 40,
+    "upgradeXP": 0,
+    "xpRewardMultiplier": 1.2,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 41096917
+  }
+]

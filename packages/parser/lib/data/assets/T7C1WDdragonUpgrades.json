@@ -1,0 +1,641 @@
+[
+  {
+    "identifier": "T7C1WDdragon",
+    "level": 1,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "0"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 632917,
+    "fullHealDuration": 14400,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T7C1WDdragon_flamethrower"
+      }
+    ],
+    "abilities": {},
+    "attackPower": 5875,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "304"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 15,
+    "upgradeXP": 166595,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 47320
+  },
+  {
+    "identifier": "T7C1WDdragon",
+    "level": 2,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "85320"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 654354,
+    "fullHealDuration": 14400,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T7C1WDdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "seethingSpark": "seethingSpark1"
+    },
+    "attackPower": 6105,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "316"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 16,
+    "upgradeXP": 202233,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 76266
+  },
+  {
+    "identifier": "T7C1WDdragon",
+    "level": 3,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "88560"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 681220,
+    "fullHealDuration": 14400,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T7C1WDdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "seethingSpark": "seethingSpark1"
+    },
+    "attackPower": 6374,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "328"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 16,
+    "upgradeXP": 248621,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 82911
+  },
+  {
+    "identifier": "T7C1WDdragon",
+    "level": 4,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "91800"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 709545,
+    "fullHealDuration": 14400,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T7C1WDdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "seethingSpark": "seethingSpark1"
+    },
+    "attackPower": 6693,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "340"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 17,
+    "upgradeXP": 296679,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 90668
+  },
+  {
+    "identifier": "T7C1WDdragon",
+    "level": 5,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "95041"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 753259,
+    "fullHealDuration": 14400,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T7C1WDdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "seethingSpark": "seethingSpark1",
+      "fireTurretResist01": "fireTurretResist01"
+    },
+    "attackPower": 7073,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "352"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 17,
+    "upgradeXP": 350276,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 135600
+  },
+  {
+    "identifier": "T7C1WDdragon",
+    "level": 6,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "98280"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 804515,
+    "fullHealDuration": 14400,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T7C1WDdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "seethingSpark": "seethingSpark1",
+      "fireTurretResist01": "fireTurretResist01"
+    },
+    "attackPower": 7502,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "364"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 18,
+    "upgradeXP": 374062,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 153659
+  },
+  {
+    "identifier": "T7C1WDdragon",
+    "level": 7,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "101520"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 859132,
+    "fullHealDuration": 14400,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T7C1WDdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "seethingSpark": "seethingSpark1",
+      "fireTurretResist01": "fireTurretResist01"
+    },
+    "attackPower": 7993,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "376"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 18,
+    "upgradeXP": 397040,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 174778
+  },
+  {
+    "identifier": "T7C1WDdragon",
+    "level": 8,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "104760"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 911894,
+    "fullHealDuration": 14400,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T7C1WDdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "seethingSpark": "seethingSpark1",
+      "fireTurretResist01": "fireTurretResist01"
+    },
+    "attackPower": 8524,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "388"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 18,
+    "upgradeXP": 423910,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 197883
+  },
+  {
+    "identifier": "T7C1WDdragon",
+    "level": 9,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "108000"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 973586,
+    "fullHealDuration": 14400,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T7C1WDdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "seethingSpark": "seethingSpark1",
+      "fireTurretResist01": "fireTurretResist01"
+    },
+    "attackPower": 9079,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "400"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 19,
+    "upgradeXP": 601057,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 225024
+  },
+  {
+    "identifier": "T7C1WDdragon",
+    "level": 10,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "147750"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 1039309,
+    "fullHealDuration": 14400,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T7C1WDdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "seethingSpark": "seethingSpark1",
+      "fireTurretResist01": "fireTurretResist01"
+    },
+    "attackPower": 9670,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "412"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 19,
+    "upgradeXP": 637870,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 255840
+  },
+  {
+    "identifier": "T7C1WDdragon",
+    "level": 11,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "152053"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 1102944,
+    "fullHealDuration": 14400,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T7C1WDdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "seethingSpark": "seethingSpark1",
+      "fireTurretResist01": "fireTurretResist01"
+    },
+    "attackPower": 10310,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "424"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 19,
+    "upgradeXP": 832686,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 289476
+  },
+  {
+    "identifier": "T7C1WDdragon",
+    "level": 12,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "191237"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 1177166,
+    "fullHealDuration": 14400,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T7C1WDdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "seethingSpark": "seethingSpark1",
+      "fireTurretResist01": "fireTurretResist01"
+    },
+    "attackPower": 10977,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "436"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 20,
+    "upgradeXP": 888620,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 328970
+  },
+  {
+    "identifier": "T7C1WDdragon",
+    "level": 13,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "196501"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 1256226,
+    "fullHealDuration": 14400,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T7C1WDdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "seethingSpark": "seethingSpark1",
+      "fireTurretResist01": "fireTurretResist01"
+    },
+    "attackPower": 11674,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "448"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 20,
+    "upgradeXP": 1102302,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 373320
+  },
+  {
+    "identifier": "T7C1WDdragon",
+    "level": 14,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "235874"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 1332938,
+    "fullHealDuration": 14400,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T7C1WDdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "seethingSpark": "seethingSpark1",
+      "fireTurretResist01": "fireTurretResist01"
+    },
+    "attackPower": 12408,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "460"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 20,
+    "upgradeXP": 1169589,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 421038
+  },
+  {
+    "identifier": "T7C1WDdragon",
+    "level": 15,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "242027"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 1414288,
+    "fullHealDuration": 14400,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T7C1WDdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "seethingSpark": "seethingSpark1",
+      "fireTurretResist01": "fireTurretResist01"
+    },
+    "attackPower": 13136,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "472"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 21,
+    "upgradeXP": 0,
+    "xpRewardMultiplier": 1.2,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 472920
+  }
+]

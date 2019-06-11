@@ -1,0 +1,3264 @@
+[
+  {
+    "identifier": "fallEventDragon",
+    "level": 1,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "0"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 30656,
+    "fullHealDuration": 677,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "fallEventDragon_lockon"
+      }
+    ],
+    "abilities": {
+      "risingPhoenix": "reanimate1"
+    },
+    "attackPower": 3019,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "30"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 2,
+    "upgradeXP": 913,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 226,
+    "nextEvolveLevel": 5,
+    "tierNumber": 1,
+    "rarity": 5
+  },
+  {
+    "identifier": "fallEventDragon",
+    "level": 2,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1813"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 42756,
+    "fullHealDuration": 1597,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "fallEventDragon_lockon"
+      }
+    ],
+    "abilities": {
+      "risingPhoenix": "reanimate1"
+    },
+    "attackPower": 3758,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "38"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 2,
+    "upgradeXP": 4917,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 1436,
+    "nextEvolveLevel": 5,
+    "tierNumber": 1,
+    "rarity": 5
+  },
+  {
+    "identifier": "fallEventDragon",
+    "level": 3,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "3626"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 54856,
+    "fullHealDuration": 2517,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "fallEventDragon_lockon"
+      }
+    ],
+    "abilities": {
+      "risingPhoenix": "reanimate1"
+    },
+    "attackPower": 4498,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "46"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 2,
+    "upgradeXP": 8921,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 2647,
+    "nextEvolveLevel": 5,
+    "tierNumber": 1,
+    "rarity": 5
+  },
+  {
+    "identifier": "fallEventDragon",
+    "level": 4,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "5439"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 66954,
+    "fullHealDuration": 3437,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "fallEventDragon_lockon"
+      }
+    ],
+    "abilities": {
+      "risingPhoenix": "reanimate1"
+    },
+    "attackPower": 5237,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "54"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 3,
+    "upgradeXP": 12925,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 3858,
+    "nextEvolveLevel": 5,
+    "tierNumber": 1,
+    "rarity": 5
+  },
+  {
+    "identifier": "fallEventDragon",
+    "level": 5,
+    "upgradeCost": [
+      {
+        "type": "fallEventPurpleStone",
+        "amount": "1"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "have1PurpleDragon",
+    "HP": 79054,
+    "fullHealDuration": 4357,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "fallEventDragon_lockon"
+      }
+    ],
+    "abilities": {
+      "risingPhoenix": "reanimate1",
+      "desiccatingSand": "desiccatingSand1"
+    },
+    "attackPower": 5976,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "62"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 3,
+    "upgradeXP": 16929,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 5069,
+    "nextEvolveLevel": 10,
+    "tierNumber": 2,
+    "rarity": 5
+  },
+  {
+    "identifier": "fallEventDragon",
+    "level": 6,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "10878"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 91153,
+    "fullHealDuration": 5277,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "fallEventDragon_lockon"
+      }
+    ],
+    "abilities": {
+      "risingPhoenix": "reanimate1",
+      "desiccatingSand": "desiccatingSand1"
+    },
+    "attackPower": 6715,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "70"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 3,
+    "upgradeXP": 20933,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 6280,
+    "nextEvolveLevel": 10,
+    "tierNumber": 2,
+    "rarity": 5
+  },
+  {
+    "identifier": "fallEventDragon",
+    "level": 7,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "12691"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 103253,
+    "fullHealDuration": 6197,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "fallEventDragon_lockon"
+      }
+    ],
+    "abilities": {
+      "risingPhoenix": "reanimate1",
+      "desiccatingSand": "desiccatingSand1"
+    },
+    "attackPower": 7454,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "78"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 4,
+    "upgradeXP": 24937,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 7490,
+    "nextEvolveLevel": 10,
+    "tierNumber": 2,
+    "rarity": 5
+  },
+  {
+    "identifier": "fallEventDragon",
+    "level": 8,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "14504"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 115352,
+    "fullHealDuration": 7117,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "fallEventDragon_lockon"
+      }
+    ],
+    "abilities": {
+      "risingPhoenix": "reanimate1",
+      "desiccatingSand": "desiccatingSand1"
+    },
+    "attackPower": 8194,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "86"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 4,
+    "upgradeXP": 28941,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 8701,
+    "nextEvolveLevel": 10,
+    "tierNumber": 2,
+    "rarity": 5
+  },
+  {
+    "identifier": "fallEventDragon",
+    "level": 9,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "16317"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 127451,
+    "fullHealDuration": 8037,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "fallEventDragon_lockon"
+      }
+    ],
+    "abilities": {
+      "risingPhoenix": "reanimate1",
+      "desiccatingSand": "desiccatingSand1"
+    },
+    "attackPower": 8933,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "94"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 4,
+    "upgradeXP": 32945,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 9912,
+    "nextEvolveLevel": 10,
+    "tierNumber": 2,
+    "rarity": 5
+  },
+  {
+    "identifier": "fallEventDragon",
+    "level": 10,
+    "upgradeCost": [
+      {
+        "type": "fallEventBlueStone",
+        "amount": "1"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "have1BlueDragon",
+    "HP": 139550,
+    "fullHealDuration": 8957,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "fallEventDragon_lockon"
+      }
+    ],
+    "abilities": {
+      "risingPhoenix": "reanimate1",
+      "desiccatingSand": "desiccatingSand1"
+    },
+    "attackPower": 9672,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "102"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 5,
+    "upgradeXP": 36949,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 11123,
+    "nextEvolveLevel": 15,
+    "tierNumber": 3,
+    "rarity": 5
+  },
+  {
+    "identifier": "fallEventDragon",
+    "level": 11,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "21756"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 151650,
+    "fullHealDuration": 9877,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "fallEventDragon_lockon"
+      }
+    ],
+    "abilities": {
+      "risingPhoenix": "reanimate1",
+      "desiccatingSand": "desiccatingSand1"
+    },
+    "attackPower": 10411,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "110"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 5,
+    "upgradeXP": 40953,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 12334,
+    "nextEvolveLevel": 15,
+    "tierNumber": 3,
+    "rarity": 5
+  },
+  {
+    "identifier": "fallEventDragon",
+    "level": 12,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "25382"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 163750,
+    "fullHealDuration": 10797,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "fallEventDragon_lockon"
+      }
+    ],
+    "abilities": {
+      "risingPhoenix": "reanimate1",
+      "desiccatingSand": "desiccatingSand1"
+    },
+    "attackPower": 11150,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "118"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 6,
+    "upgradeXP": 44957,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 13544,
+    "nextEvolveLevel": 15,
+    "tierNumber": 3,
+    "rarity": 5
+  },
+  {
+    "identifier": "fallEventDragon",
+    "level": 13,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "29008"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 175849,
+    "fullHealDuration": 11717,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "fallEventDragon_lockon"
+      }
+    ],
+    "abilities": {
+      "risingPhoenix": "reanimate1",
+      "desiccatingSand": "desiccatingSand1"
+    },
+    "attackPower": 11890,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "126"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 6,
+    "upgradeXP": 48961,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 14755,
+    "nextEvolveLevel": 15,
+    "tierNumber": 3,
+    "rarity": 5
+  },
+  {
+    "identifier": "fallEventDragon",
+    "level": 14,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "32634"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 187948,
+    "fullHealDuration": 12637,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "fallEventDragon_lockon"
+      }
+    ],
+    "abilities": {
+      "risingPhoenix": "reanimate1",
+      "desiccatingSand": "desiccatingSand1"
+    },
+    "attackPower": 12629,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "134"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 7,
+    "upgradeXP": 52965,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 15966,
+    "nextEvolveLevel": 15,
+    "tierNumber": 3,
+    "rarity": 5
+  },
+  {
+    "identifier": "fallEventDragon",
+    "level": 15,
+    "upgradeCost": [
+      {
+        "type": "fallEventOrangeStone",
+        "amount": "1"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "haveOrangeEpic",
+    "HP": 200047,
+    "fullHealDuration": 13562,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "fallEventDragon_lockon"
+      }
+    ],
+    "abilities": {
+      "risingPhoenix": "reanimate1",
+      "desiccatingSand": "desiccatingSand1"
+    },
+    "attackPower": 13368,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "140"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 7,
+    "upgradeXP": 56974,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 17183,
+    "nextEvolveLevel": 21,
+    "tierNumber": 4,
+    "rarity": 5
+  },
+  {
+    "identifier": "fallEventDragon",
+    "level": 16,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "39168"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 257375,
+    "fullHealDuration": 15840,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "fallEventDragon_lockon"
+      }
+    ],
+    "abilities": {
+      "risingPhoenix": "reanimate1",
+      "desiccatingSand": "desiccatingSand1"
+    },
+    "attackPower": 14771,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "160"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 8,
+    "upgradeXP": 95783,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 24432,
+    "nextEvolveLevel": 21,
+    "tierNumber": 4,
+    "rarity": 5
+  },
+  {
+    "identifier": "fallEventDragon",
+    "level": 17,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "58526"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 275362,
+    "fullHealDuration": 15840,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "fallEventDragon_lockon"
+      }
+    ],
+    "abilities": {
+      "risingPhoenix": "reanimate1",
+      "desiccatingSand": "desiccatingSand1"
+    },
+    "attackPower": 15952,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "180"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 9,
+    "upgradeXP": 120232,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 28205,
+    "nextEvolveLevel": 21,
+    "tierNumber": 4,
+    "rarity": 5
+  },
+  {
+    "identifier": "fallEventDragon",
+    "level": 18,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "79536"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 297706,
+    "fullHealDuration": 15840,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "fallEventDragon_lockon"
+      }
+    ],
+    "abilities": {
+      "risingPhoenix": "reanimate1",
+      "desiccatingSand": "desiccatingSand1"
+    },
+    "attackPower": 17459,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "200"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 9,
+    "upgradeXP": 184501,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 33408,
+    "nextEvolveLevel": 21,
+    "tierNumber": 4,
+    "rarity": 5
+  },
+  {
+    "identifier": "fallEventDragon",
+    "level": 19,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "106930"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 338657,
+    "fullHealDuration": 15840,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "fallEventDragon_lockon"
+      }
+    ],
+    "abilities": {
+      "risingPhoenix": "reanimate1",
+      "desiccatingSand": "desiccatingSand1"
+    },
+    "attackPower": 19602,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "230"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 10,
+    "upgradeXP": 215866,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 42689,
+    "nextEvolveLevel": 21,
+    "tierNumber": 4,
+    "rarity": 5
+  },
+  {
+    "identifier": "fallEventDragon",
+    "level": 20,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "112811"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 385084,
+    "fullHealDuration": 15840,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "fallEventDragon_lockon"
+      }
+    ],
+    "abilities": {
+      "risingPhoenix": "reanimate1",
+      "desiccatingSand": "desiccatingSand1"
+    },
+    "attackPower": 22352,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "260"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 11,
+    "upgradeXP": 252563,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 55316,
+    "nextEvolveLevel": 21,
+    "tierNumber": 4,
+    "rarity": 5
+  },
+  {
+    "identifier": "fallEventDragon",
+    "level": 21,
+    "upgradeCost": [
+      {
+        "type": "fallEventGreenStone",
+        "amount": "1"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "have2GreenEpic",
+    "HP": 544098,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "fallEventDragon_lockon"
+      }
+    ],
+    "abilities": {
+      "risingPhoenix": "reanimate1",
+      "desiccatingSand": "desiccatingSand1",
+      "frozenTomb": "tectonicTomb1"
+    },
+    "attackPower": 31494,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "384"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 13,
+    "upgradeXP": 271862,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 93268,
+    "nextEvolveLevel": 27,
+    "tierNumber": 5,
+    "rarity": 5
+  },
+  {
+    "identifier": "fallEventDragon",
+    "level": 22,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "125562"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 617803,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "fallEventDragon_lockon"
+      }
+    ],
+    "abilities": {
+      "risingPhoenix": "reanimate1",
+      "desiccatingSand": "desiccatingSand1",
+      "frozenTomb": "tectonicTomb1"
+    },
+    "attackPower": 35206,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "420"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 14,
+    "upgradeXP": 308628,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 118357,
+    "nextEvolveLevel": 27,
+    "tierNumber": 5,
+    "rarity": 5
+  },
+  {
+    "identifier": "fallEventDragon",
+    "level": 23,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "132468"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 762953,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "fallEventDragon_lockon"
+      }
+    ],
+    "abilities": {
+      "risingPhoenix": "reanimate1",
+      "desiccatingSand": "desiccatingSand1",
+      "frozenTomb": "tectonicTomb1"
+    },
+    "attackPower": 38470,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "456"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 15,
+    "upgradeXP": 465181,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 159685,
+    "nextEvolveLevel": 27,
+    "tierNumber": 5,
+    "rarity": 5
+  },
+  {
+    "identifier": "fallEventDragon",
+    "level": 24,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "139753"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 821180,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "fallEventDragon_lockon"
+      }
+    ],
+    "abilities": {
+      "risingPhoenix": "reanimate1",
+      "desiccatingSand": "desiccatingSand1",
+      "frozenTomb": "tectonicTomb1"
+    },
+    "attackPower": 41736,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "492"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 16,
+    "upgradeXP": 530981,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 186527,
+    "nextEvolveLevel": 27,
+    "tierNumber": 5,
+    "rarity": 5
+  },
+  {
+    "identifier": "fallEventDragon",
+    "level": 25,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "147440"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 908020,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "fallEventDragon_lockon"
+      }
+    ],
+    "abilities": {
+      "risingPhoenix": "reanimate1",
+      "desiccatingSand": "desiccatingSand1",
+      "frozenTomb": "tectonicTomb1"
+    },
+    "attackPower": 46315,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "528"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 17,
+    "upgradeXP": 589581,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 228797,
+    "nextEvolveLevel": 27,
+    "tierNumber": 5,
+    "rarity": 5
+  },
+  {
+    "identifier": "fallEventDragon",
+    "level": 26,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "155549"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 1035644,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "fallEventDragon_lockon"
+      }
+    ],
+    "abilities": {
+      "risingPhoenix": "reanimate1",
+      "desiccatingSand": "desiccatingSand1",
+      "frozenTomb": "tectonicTomb1"
+    },
+    "attackPower": 52334,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "564"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 18,
+    "upgradeXP": 648181,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 294901,
+    "nextEvolveLevel": 27,
+    "tierNumber": 5,
+    "rarity": 5
+  },
+  {
+    "identifier": "fallEventDragon",
+    "level": 27,
+    "upgradeCost": [
+      {
+        "type": "fallEventGoldStone",
+        "amount": "1"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "haveGoldLegendary",
+    "HP": 1099247,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "fallEventDragon_lockon"
+      }
+    ],
+    "abilities": {
+      "risingPhoenix": "reanimate1",
+      "desiccatingSand": "desiccatingSand1",
+      "frozenTomb": "tectonicTomb1",
+      "fireTurretResist01": "fireTurretResist01"
+    },
+    "attackPower": 55816,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "582"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 18,
+    "upgradeXP": 706781,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 333887,
+    "nextEvolveLevel": 35,
+    "tierNumber": 6,
+    "rarity": 5
+  },
+  {
+    "identifier": "fallEventDragon",
+    "level": 28,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "173130"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 1329548,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "fallEventDragon_lockon"
+      }
+    ],
+    "abilities": {
+      "risingPhoenix": "reanimate1",
+      "desiccatingSand": "desiccatingSand1",
+      "frozenTomb": "tectonicTomb1",
+      "fireTurretResist01": "fireTurretResist01"
+    },
+    "attackPower": 67506,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "636"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 18,
+    "upgradeXP": 765381,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 488432,
+    "nextEvolveLevel": 35,
+    "tierNumber": 6,
+    "rarity": 5
+  },
+  {
+    "identifier": "fallEventDragon",
+    "level": 29,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "182652"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 1606796,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "fallEventDragon_lockon"
+      }
+    ],
+    "abilities": {
+      "risingPhoenix": "reanimate1",
+      "desiccatingSand": "desiccatingSand1",
+      "frozenTomb": "tectonicTomb1",
+      "fireTurretResist01": "fireTurretResist01"
+    },
+    "attackPower": 81250,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "690"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 18,
+    "upgradeXP": 823981,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 710416,
+    "nextEvolveLevel": 35,
+    "tierNumber": 6,
+    "rarity": 5
+  },
+  {
+    "identifier": "fallEventDragon",
+    "level": 30,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "192698"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 1891033,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "fallEventDragon_lockon"
+      }
+    ],
+    "abilities": {
+      "risingPhoenix": "reanimate1",
+      "desiccatingSand": "desiccatingSand1",
+      "frozenTomb": "tectonicTomb1",
+      "fireTurretResist01": "fireTurretResist01"
+    },
+    "attackPower": 94518,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "744"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 19,
+    "upgradeXP": 882581,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 972612,
+    "nextEvolveLevel": 35,
+    "tierNumber": 6,
+    "rarity": 5
+  },
+  {
+    "identifier": "fallEventDragon",
+    "level": 31,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "203296"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "have2LegendaryGold",
+    "HP": 2056454,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "fallEventDragon_lockon"
+      }
+    ],
+    "abilities": {
+      "risingPhoenix": "reanimate1",
+      "desiccatingSand": "desiccatingSand1",
+      "frozenTomb": "tectonicTomb1",
+      "fireTurretResist01": "fireTurretResist01"
+    },
+    "attackPower": 103835,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "798"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 19,
+    "upgradeXP": 941181,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 1161956,
+    "nextEvolveLevel": 35,
+    "tierNumber": 6,
+    "rarity": 5
+  },
+  {
+    "identifier": "fallEventDragon",
+    "level": 32,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "214477"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 2214524,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "fallEventDragon_lockon"
+      }
+    ],
+    "abilities": {
+      "risingPhoenix": "reanimate1",
+      "desiccatingSand": "desiccatingSand1",
+      "frozenTomb": "tectonicTomb1",
+      "fireTurretResist01": "fireTurretResist01"
+    },
+    "attackPower": 111818,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "852"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 20,
+    "upgradeXP": 999781,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 1347414,
+    "nextEvolveLevel": 35,
+    "tierNumber": 6,
+    "rarity": 5
+  },
+  {
+    "identifier": "fallEventDragon",
+    "level": 33,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "226274"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 2384760,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "fallEventDragon_lockon"
+      }
+    ],
+    "abilities": {
+      "risingPhoenix": "reanimate1",
+      "desiccatingSand": "desiccatingSand1",
+      "frozenTomb": "tectonicTomb1",
+      "fireTurretResist01": "fireTurretResist01"
+    },
+    "attackPower": 120415,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "906"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 21,
+    "upgradeXP": 1044683,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 1562560,
+    "nextEvolveLevel": 35,
+    "tierNumber": 6,
+    "rarity": 5
+  },
+  {
+    "identifier": "fallEventDragon",
+    "level": 34,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "238719"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 2568074,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "fallEventDragon_lockon"
+      }
+    ],
+    "abilities": {
+      "risingPhoenix": "reanimate1",
+      "desiccatingSand": "desiccatingSand1",
+      "frozenTomb": "tectonicTomb1",
+      "fireTurretResist01": "fireTurretResist01"
+    },
+    "attackPower": 129674,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "960"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 22,
+    "upgradeXP": 1117811,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 1812055,
+    "nextEvolveLevel": 35,
+    "tierNumber": 6,
+    "rarity": 5
+  },
+  {
+    "identifier": "fallEventDragon",
+    "level": 35,
+    "upgradeCost": [
+      {
+        "type": "fallEventPlatinumStone",
+        "amount": "1"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "havePlatinumLegendary",
+    "HP": 2698042,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "fallEventDragon_lockon"
+      }
+    ],
+    "abilities": {
+      "risingPhoenix": "reanimate1",
+      "desiccatingSand": "desiccatingSand1",
+      "frozenTomb": "tectonicTomb1",
+      "fireTurretResist01": "fireTurretResist01"
+    },
+    "attackPower": 136240,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "996"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 23,
+    "upgradeXP": 1229592,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 2000161,
+    "nextEvolveLevel": 43,
+    "tierNumber": 7,
+    "rarity": 5
+  },
+  {
+    "identifier": "fallEventDragon",
+    "level": 36,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "265700"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 2905432,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "fallEventDragon_lockon"
+      }
+    ],
+    "abilities": {
+      "risingPhoenix": "reanimate1",
+      "desiccatingSand": "desiccatingSand1",
+      "frozenTomb": "tectonicTomb1",
+      "fireTurretResist01": "fireTurretResist01"
+    },
+    "attackPower": 146713,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1050"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 24,
+    "upgradeXP": 1352551,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 2319516,
+    "nextEvolveLevel": 43,
+    "tierNumber": 7,
+    "rarity": 5
+  },
+  {
+    "identifier": "fallEventDragon",
+    "level": 37,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "280313"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 3128782,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "fallEventDragon_lockon"
+      }
+    ],
+    "abilities": {
+      "risingPhoenix": "reanimate1",
+      "desiccatingSand": "desiccatingSand1",
+      "frozenTomb": "tectonicTomb1",
+      "fireTurretResist01": "fireTurretResist01"
+    },
+    "attackPower": 157994,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1104"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 25,
+    "upgradeXP": 1487806,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 2689847,
+    "nextEvolveLevel": 43,
+    "tierNumber": 7,
+    "rarity": 5
+  },
+  {
+    "identifier": "fallEventDragon",
+    "level": 38,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "295731"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 3369331,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "fallEventDragon_lockon"
+      }
+    ],
+    "abilities": {
+      "risingPhoenix": "reanimate1",
+      "desiccatingSand": "desiccatingSand1",
+      "frozenTomb": "tectonicTomb1",
+      "fireTurretResist01": "fireTurretResist01"
+    },
+    "attackPower": 170142,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1158"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 26,
+    "upgradeXP": 1636587,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 3119465,
+    "nextEvolveLevel": 43,
+    "tierNumber": 7,
+    "rarity": 5
+  },
+  {
+    "identifier": "fallEventDragon",
+    "level": 39,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "311996"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 3628352,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "fallEventDragon_lockon"
+      }
+    ],
+    "abilities": {
+      "risingPhoenix": "reanimate1",
+      "desiccatingSand": "desiccatingSand1",
+      "frozenTomb": "tectonicTomb1",
+      "fireTurretResist01": "fireTurretResist01"
+    },
+    "attackPower": 183224,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1212"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 26,
+    "upgradeXP": 1800246,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 3617472,
+    "nextEvolveLevel": 43,
+    "tierNumber": 7,
+    "rarity": 5
+  },
+  {
+    "identifier": "fallEventDragon",
+    "level": 40,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "329156"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "have2LegendaryPlatinum",
+    "HP": 3907261,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "fallEventDragon_lockon"
+      }
+    ],
+    "abilities": {
+      "risingPhoenix": "reanimate1",
+      "desiccatingSand": "desiccatingSand1",
+      "frozenTomb": "tectonicTomb1",
+      "fireTurretResist01": "fireTurretResist01"
+    },
+    "attackPower": 192420,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1266"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 26,
+    "upgradeXP": 1980271,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 4091198,
+    "nextEvolveLevel": 43,
+    "tierNumber": 7,
+    "rarity": 5
+  },
+  {
+    "identifier": "fallEventDragon",
+    "level": 41,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "347259"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 4085418,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "fallEventDragon_lockon"
+      }
+    ],
+    "abilities": {
+      "risingPhoenix": "reanimate1",
+      "desiccatingSand": "desiccatingSand1",
+      "frozenTomb": "tectonicTomb1",
+      "fireTurretResist01": "fireTurretResist01"
+    },
+    "attackPower": 201196,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1284"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 26,
+    "upgradeXP": 2178298,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 4298302,
+    "nextEvolveLevel": 43,
+    "tierNumber": 7,
+    "rarity": 5
+  },
+  {
+    "identifier": "fallEventDragon",
+    "level": 42,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "366358"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 4209209,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "fallEventDragon_lockon"
+      }
+    ],
+    "abilities": {
+      "risingPhoenix": "reanimate1",
+      "desiccatingSand": "desiccatingSand1",
+      "frozenTomb": "tectonicTomb1",
+      "fireTurretResist01": "fireTurretResist01"
+    },
+    "attackPower": 207290,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1284"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 26,
+    "upgradeXP": 2396128,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 4515798,
+    "nextEvolveLevel": 43,
+    "tierNumber": 7,
+    "rarity": 5
+  },
+  {
+    "identifier": "fallEventDragon",
+    "level": 43,
+    "upgradeCost": [
+      {
+        "type": "fallEventSapphireStone",
+        "amount": "1"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "haveLegendarySapphire",
+    "HP": 4312802,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "fallEventDragon_lockon"
+      }
+    ],
+    "abilities": {
+      "risingPhoenix": "reanimate1",
+      "desiccatingSand": "desiccatingSand1",
+      "frozenTomb": "tectonicTomb1",
+      "fireTurretResist01": "fireTurretResist01"
+    },
+    "attackPower": 212396,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1338"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 27,
+    "upgradeXP": 2635741,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 4984568,
+    "nextEvolveLevel": 50,
+    "tierNumber": 8,
+    "rarity": 5
+  },
+  {
+    "identifier": "fallEventDragon",
+    "level": 44,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "407766"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 4531108,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "fallEventDragon_lockon"
+      }
+    ],
+    "abilities": {
+      "risingPhoenix": "reanimate1",
+      "desiccatingSand": "desiccatingSand1",
+      "frozenTomb": "tectonicTomb1",
+      "fireTurretResist01": "fireTurretResist01"
+    },
+    "attackPower": 223148,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1374"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 27,
+    "upgradeXP": 2899315,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 5501977,
+    "nextEvolveLevel": 50,
+    "tierNumber": 8,
+    "rarity": 5
+  },
+  {
+    "identifier": "fallEventDragon",
+    "level": 45,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "430193"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 4760466,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "fallEventDragon_lockon"
+      }
+    ],
+    "abilities": {
+      "risingPhoenix": "reanimate1",
+      "desiccatingSand": "desiccatingSand1",
+      "frozenTomb": "tectonicTomb1",
+      "fireTurretResist01": "fireTurretResist01"
+    },
+    "attackPower": 234445,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1410"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 28,
+    "upgradeXP": 3189247,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 6073067,
+    "nextEvolveLevel": 50,
+    "tierNumber": 8,
+    "rarity": 5
+  },
+  {
+    "identifier": "fallEventDragon",
+    "level": 46,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "453854"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 5001431,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "fallEventDragon_lockon"
+      }
+    ],
+    "abilities": {
+      "risingPhoenix": "reanimate1",
+      "desiccatingSand": "desiccatingSand1",
+      "frozenTomb": "tectonicTomb1",
+      "fireTurretResist01": "fireTurretResist01"
+    },
+    "attackPower": 246314,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1446"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 29,
+    "upgradeXP": 3508172,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 6703480,
+    "nextEvolveLevel": 50,
+    "tierNumber": 8,
+    "rarity": 5
+  },
+  {
+    "identifier": "fallEventDragon",
+    "level": 47,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "478816"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "have2LegendarySapphire",
+    "HP": 5254580,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "fallEventDragon_lockon"
+      }
+    ],
+    "abilities": {
+      "risingPhoenix": "reanimate1",
+      "desiccatingSand": "desiccatingSand1",
+      "frozenTomb": "tectonicTomb1",
+      "fireTurretResist01": "fireTurretResist01"
+    },
+    "attackPower": 258782,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1482"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 29,
+    "upgradeXP": 3858989,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 7399496,
+    "nextEvolveLevel": 50,
+    "tierNumber": 8,
+    "rarity": 5
+  },
+  {
+    "identifier": "fallEventDragon",
+    "level": 48,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "505151"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 5520546,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "fallEventDragon_lockon"
+      }
+    ],
+    "abilities": {
+      "risingPhoenix": "reanimate1",
+      "desiccatingSand": "desiccatingSand1",
+      "frozenTomb": "tectonicTomb1",
+      "fireTurretResist01": "fireTurretResist01"
+    },
+    "attackPower": 271883,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1518"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 30,
+    "upgradeXP": 4244888,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 8167492,
+    "nextEvolveLevel": 50,
+    "tierNumber": 8,
+    "rarity": 5
+  },
+  {
+    "identifier": "fallEventDragon",
+    "level": 49,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "532934"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 5799998,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "fallEventDragon_lockon"
+      }
+    ],
+    "abilities": {
+      "risingPhoenix": "reanimate1",
+      "desiccatingSand": "desiccatingSand1",
+      "frozenTomb": "tectonicTomb1",
+      "fireTurretResist01": "fireTurretResist01"
+    },
+    "attackPower": 285647,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1554"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 31,
+    "upgradeXP": 4478357,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 9015289,
+    "nextEvolveLevel": 50,
+    "tierNumber": 8,
+    "rarity": 5
+  },
+  {
+    "identifier": "fallEventDragon",
+    "level": 50,
+    "upgradeCost": [
+      {
+        "type": "fallEventGarnetStone",
+        "amount": "1"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "haveLegendaryGarnet",
+    "HP": 6245916,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "fallEventDragon_lockon"
+      }
+    ],
+    "abilities": {
+      "risingPhoenix": "reanimate1",
+      "desiccatingSand": "desiccatingSand1",
+      "frozenTomb": "tectonicTomb1",
+      "fireTurretResist01": "fireTurretResist01"
+    },
+    "attackPower": 307609,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1572"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 31,
+    "upgradeXP": 4724667,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 10454824,
+    "nextEvolveLevel": 60,
+    "tierNumber": 9,
+    "rarity": 5
+  },
+  {
+    "identifier": "fallEventDragon",
+    "level": 51,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "593169"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 6402040,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "fallEventDragon_lockon"
+      }
+    ],
+    "abilities": {
+      "risingPhoenix": "reanimate1",
+      "desiccatingSand": "desiccatingSand1",
+      "frozenTomb": "tectonicTomb1",
+      "fireTurretResist01": "fireTurretResist01"
+    },
+    "attackPower": 315300,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1590"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 31,
+    "upgradeXP": 4984524,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 10984163,
+    "nextEvolveLevel": 60,
+    "tierNumber": 9,
+    "rarity": 5
+  },
+  {
+    "identifier": "fallEventDragon",
+    "level": 52,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "625793"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 6726100,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "fallEventDragon_lockon"
+      }
+    ],
+    "abilities": {
+      "risingPhoenix": "reanimate1",
+      "desiccatingSand": "desiccatingSand1",
+      "frozenTomb": "tectonicTomb1",
+      "fireTurretResist01": "fireTurretResist01"
+    },
+    "attackPower": 331261,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1626"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 32,
+    "upgradeXP": 5258673,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 12124336,
+    "nextEvolveLevel": 60,
+    "tierNumber": 9,
+    "rarity": 5
+  },
+  {
+    "identifier": "fallEventDragon",
+    "level": 53,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "660212"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 7066568,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "fallEventDragon_lockon"
+      }
+    ],
+    "abilities": {
+      "risingPhoenix": "reanimate1",
+      "desiccatingSand": "desiccatingSand1",
+      "frozenTomb": "tectonicTomb1",
+      "fireTurretResist01": "fireTurretResist01"
+    },
+    "attackPower": 348032,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1662"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 33,
+    "upgradeXP": 5547900,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 13383000,
+    "nextEvolveLevel": 60,
+    "tierNumber": 9,
+    "rarity": 5
+  },
+  {
+    "identifier": "fallEventDragon",
+    "level": 54,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "696523"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 7424270,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "fallEventDragon_lockon"
+      }
+    ],
+    "abilities": {
+      "risingPhoenix": "reanimate1",
+      "desiccatingSand": "desiccatingSand1",
+      "frozenTomb": "tectonicTomb1",
+      "fireTurretResist01": "fireTurretResist01"
+    },
+    "attackPower": 365651,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1698"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 33,
+    "upgradeXP": 5853035,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 14772061,
+    "nextEvolveLevel": 60,
+    "tierNumber": 9,
+    "rarity": 5
+  },
+  {
+    "identifier": "fallEventDragon",
+    "level": 55,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "734832"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "have2LegendaryGarnet",
+    "HP": 7800074,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "fallEventDragon_lockon"
+      }
+    ],
+    "abilities": {
+      "risingPhoenix": "reanimate1",
+      "desiccatingSand": "desiccatingSand1",
+      "frozenTomb": "tectonicTomb1",
+      "fireTurretResist01": "fireTurretResist01"
+    },
+    "attackPower": 384162,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1734"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 34,
+    "upgradeXP": 6174952,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 16305652,
+    "nextEvolveLevel": 60,
+    "tierNumber": 9,
+    "rarity": 5
+  },
+  {
+    "identifier": "fallEventDragon",
+    "level": 56,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "775248"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 8194921,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "fallEventDragon_lockon"
+      }
+    ],
+    "abilities": {
+      "risingPhoenix": "reanimate1",
+      "desiccatingSand": "desiccatingSand1",
+      "frozenTomb": "tectonicTomb1",
+      "fireTurretResist01": "fireTurretResist01"
+    },
+    "attackPower": 403609,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1770"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 35,
+    "upgradeXP": 6514574,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 17998280,
+    "nextEvolveLevel": 60,
+    "tierNumber": 9,
+    "rarity": 5
+  },
+  {
+    "identifier": "fallEventDragon",
+    "level": 57,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "817886"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 8609735,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "fallEventDragon_lockon"
+      }
+    ],
+    "abilities": {
+      "risingPhoenix": "reanimate1",
+      "desiccatingSand": "desiccatingSand1",
+      "frozenTomb": "tectonicTomb1",
+      "fireTurretResist01": "fireTurretResist01"
+    },
+    "attackPower": 424042,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1806"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 35,
+    "upgradeXP": 6872876,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 19866601,
+    "nextEvolveLevel": 60,
+    "tierNumber": 9,
+    "rarity": 5
+  },
+  {
+    "identifier": "fallEventDragon",
+    "level": 58,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "862870"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 9045554,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "fallEventDragon_lockon"
+      }
+    ],
+    "abilities": {
+      "risingPhoenix": "reanimate1",
+      "desiccatingSand": "desiccatingSand1",
+      "frozenTomb": "tectonicTomb1",
+      "fireTurretResist01": "fireTurretResist01"
+    },
+    "attackPower": 445508,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1842"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 36,
+    "upgradeXP": 7250884,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 21928858,
+    "nextEvolveLevel": 60,
+    "tierNumber": 9,
+    "rarity": 5
+  },
+  {
+    "identifier": "fallEventDragon",
+    "level": 59,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "910328"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 9503450,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "fallEventDragon_lockon"
+      }
+    ],
+    "abilities": {
+      "risingPhoenix": "reanimate1",
+      "desiccatingSand": "desiccatingSand1",
+      "frozenTomb": "tectonicTomb1",
+      "fireTurretResist01": "fireTurretResist01"
+    },
+    "attackPower": 468061,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1878"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 37,
+    "upgradeXP": 8050100,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 24205178,
+    "nextEvolveLevel": 60,
+    "tierNumber": 9,
+    "rarity": 5
+  },
+  {
+    "identifier": "fallEventDragon",
+    "level": 60,
+    "upgradeCost": [
+      {
+        "type": "fallEventEmeraldStone",
+        "amount": "1"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "haveLegendaryEmerald",
+    "HP": 9741013,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "fallEventDragon_lockon"
+      }
+    ],
+    "abilities": {
+      "risingPhoenix": "reanimate1",
+      "desiccatingSand": "desiccatingSand1",
+      "frozenTomb": "tectonicTomb1",
+      "fireTurretResist01": "fireTurretResist01"
+    },
+    "attackPower": 479762,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1932"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 38,
+    "upgradeXP": 8849316,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 25430600,
+    "nextEvolveLevel": 65,
+    "tierNumber": 10,
+    "rarity": 5
+  },
+  {
+    "identifier": "fallEventDragon",
+    "level": 61,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "987806"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 10752157,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "fallEventDragon_lockon"
+      }
+    ],
+    "abilities": {
+      "risingPhoenix": "reanimate1",
+      "desiccatingSand": "desiccatingSand1",
+      "frozenTomb": "tectonicTomb1",
+      "fireTurretResist01": "fireTurretResist01"
+    },
+    "attackPower": 529567,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2004"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 39,
+    "upgradeXP": 9648532,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 30984319,
+    "nextEvolveLevel": 65,
+    "tierNumber": 10,
+    "rarity": 5
+  },
+  {
+    "identifier": "fallEventDragon",
+    "level": 62,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1026545"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 11926222,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "fallEventDragon_lockon"
+      }
+    ],
+    "abilities": {
+      "risingPhoenix": "reanimate1",
+      "desiccatingSand": "desiccatingSand1",
+      "frozenTomb": "tectonicTomb1",
+      "fireTurretResist01": "fireTurretResist01"
+    },
+    "attackPower": 587396,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2076"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 40,
+    "upgradeXP": 10447750,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 37750926,
+    "nextEvolveLevel": 65,
+    "tierNumber": 10,
+    "rarity": 5
+  },
+  {
+    "identifier": "fallEventDragon",
+    "level": 63,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1065284"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "have2LegendaryEmerald",
+    "HP": 13100286,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "fallEventDragon_lockon"
+      }
+    ],
+    "abilities": {
+      "risingPhoenix": "reanimate1",
+      "desiccatingSand": "desiccatingSand1",
+      "frozenTomb": "tectonicTomb1",
+      "fireTurretResist01": "fireTurretResist01"
+    },
+    "attackPower": 645224,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2148"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 40,
+    "upgradeXP": 11246968,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 45995604,
+    "nextEvolveLevel": 65,
+    "tierNumber": 10,
+    "rarity": 5
+  },
+  {
+    "identifier": "fallEventDragon",
+    "level": 64,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1104023"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 14036658,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "fallEventDragon_lockon"
+      }
+    ],
+    "abilities": {
+      "risingPhoenix": "reanimate1",
+      "desiccatingSand": "desiccatingSand1",
+      "frozenTomb": "tectonicTomb1",
+      "fireTurretResist01": "fireTurretResist01"
+    },
+    "attackPower": 691346,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2202"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 40,
+    "upgradeXP": 12336803,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 53340510,
+    "nextEvolveLevel": 65,
+    "tierNumber": 10,
+    "rarity": 5
+  },
+  {
+    "identifier": "fallEventDragon",
+    "level": 65,
+    "upgradeCost": [
+      {
+        "type": "fallEventObsidianStone",
+        "amount": "1"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "haveLegendaryObsidian",
+    "HP": 14973031,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "fallEventDragon_lockon"
+      }
+    ],
+    "abilities": {
+      "risingPhoenix": "reanimate1",
+      "desiccatingSand": "desiccatingSand1",
+      "frozenTomb": "tectonicTomb1",
+      "fireTurretResist01": "fireTurretResist01"
+    },
+    "attackPower": 737470,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2274"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 46,
+    "upgradeXP": 13426638,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 60086713,
+    "nextEvolveLevel": 0,
+    "tierNumber": 11,
+    "rarity": 5
+  },
+  {
+    "identifier": "fallEventDragon",
+    "level": 66,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1161783"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 16124279,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "fallEventDragon_lockon"
+      }
+    ],
+    "abilities": {
+      "risingPhoenix": "reanimate1",
+      "desiccatingSand": "desiccatingSand1",
+      "frozenTomb": "tectonicTomb1",
+      "fireTurretResist01": "fireTurretResist01"
+    },
+    "attackPower": 794173,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2328"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 48,
+    "upgradeXP": 14516473,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 69681830,
+    "nextEvolveLevel": 0,
+    "tierNumber": 11,
+    "rarity": 5
+  },
+  {
+    "identifier": "fallEventDragon",
+    "level": 67,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1190663"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 17364049,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "fallEventDragon_lockon"
+      }
+    ],
+    "abilities": {
+      "risingPhoenix": "reanimate1",
+      "desiccatingSand": "desiccatingSand1",
+      "frozenTomb": "tectonicTomb1",
+      "fireTurretResist01": "fireTurretResist01"
+    },
+    "attackPower": 855238,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2382"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 49,
+    "upgradeXP": 15606308,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 80809421,
+    "nextEvolveLevel": 0,
+    "tierNumber": 11,
+    "rarity": 5
+  },
+  {
+    "identifier": "fallEventDragon",
+    "level": 68,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1219543"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "have2LegendaryObsidian",
+    "HP": 18699137,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "fallEventDragon_lockon"
+      }
+    ],
+    "abilities": {
+      "risingPhoenix": "reanimate1",
+      "desiccatingSand": "desiccatingSand1",
+      "frozenTomb": "tectonicTomb1",
+      "fireTurretResist01": "fireTurretResist01"
+    },
+    "attackPower": 920996,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2436"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 52,
+    "upgradeXP": 16696141,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 93713999,
+    "nextEvolveLevel": 0,
+    "tierNumber": 11,
+    "rarity": 5
+  },
+  {
+    "identifier": "fallEventDragon",
+    "level": 69,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1248422"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 20136869,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "fallEventDragon_lockon"
+      }
+    ],
+    "abilities": {
+      "risingPhoenix": "reanimate1",
+      "desiccatingSand": "desiccatingSand1",
+      "frozenTomb": "tectonicTomb1",
+      "fireTurretResist01": "fireTurretResist01"
+    },
+    "attackPower": 991812,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2490"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 55,
+    "upgradeXP": 0,
+    "xpRewardMultiplier": 1.2,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 105725704,
+    "nextEvolveLevel": 0,
+    "tierNumber": 11,
+    "rarity": 5
+  }
+]

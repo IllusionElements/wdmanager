@@ -1,0 +1,58 @@
+[
+  {
+    "tier": 1,
+    "currency": "redEggCurrency"
+  },
+  {
+    "tier": 2,
+    "currency": "purpleEggCurrency"
+  },
+  {
+    "tier": 3,
+    "currency": "blueEggCurrency"
+  },
+  {
+    "tier": 4,
+    "currency": "orangeEggCurrency"
+  },
+  {
+    "tier": 5,
+    "currency": "greenEggCurrency"
+  },
+  {
+    "tier": 6,
+    "currency": "goldEggCurrency"
+  },
+  {
+    "tier": 7,
+    "currency": "platinumEggCurrency"
+  },
+  {
+    "tier": 8,
+    "currency": "sapphireEggCurrency"
+  },
+  {
+    "tier": 9,
+    "currency": "garnetEggCurrency"
+  },
+  {
+    "tier": 10,
+    "currency": "emeraldEggCurrency"
+  },
+  {
+    "tier": 11,
+    "currency": "obsidianEggCurrency"
+  },
+  {
+    "tier": 12,
+    "currency": "atlasEggCurrency"
+  },
+  {
+    "tier": 13,
+    "currency": "vanguardEggCurrency"
+  },
+  {
+    "tier": 14,
+    "currency": "empyreanEggCurrency"
+  }
+]

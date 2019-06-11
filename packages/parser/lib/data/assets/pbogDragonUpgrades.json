@@ -1,0 +1,2216 @@
+[
+  {
+    "identifier": "pbogDragon",
+    "level": 1,
+    "upgradeCost": [
+      {
+        "type": "redEggCurrency",
+        "amount": "1"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 39724,
+    "fullHealDuration": 966,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T1C3WEdragon_flamethrower"
+      }
+    ],
+    "abilities": {},
+    "attackPower": 593,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "28"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 2,
+    "upgradeXP": 3191,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 595
+  },
+  {
+    "identifier": "pbogDragon",
+    "level": 2,
+    "upgradeCost": [
+      {
+        "type": "redEggCurrency",
+        "amount": "1"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 42030,
+    "fullHealDuration": 1076,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T1C3WEdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "curePoison": "curePoison1"
+    },
+    "attackPower": 624,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "30"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 2,
+    "upgradeXP": 4806,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 666
+  },
+  {
+    "identifier": "pbogDragon",
+    "level": 3,
+    "upgradeCost": [
+      {
+        "type": "redEggCurrency",
+        "amount": "1"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "redMid1",
+    "HP": 43942,
+    "fullHealDuration": 1193,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T1C3WEdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "curePoison": "curePoison1"
+    },
+    "attackPower": 661,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "32"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 3,
+    "upgradeXP": 5956,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 741
+  },
+  {
+    "identifier": "pbogDragon",
+    "level": 4,
+    "upgradeCost": [
+      {
+        "type": "redEggCurrency",
+        "amount": "2"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 46473,
+    "fullHealDuration": 1351,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T1C3WEdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "curePoison": "curePoison1"
+    },
+    "attackPower": 708,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "34"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 3,
+    "upgradeXP": 8493,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 840
+  },
+  {
+    "identifier": "pbogDragon",
+    "level": 5,
+    "upgradeCost": [
+      {
+        "type": "redEggCurrency",
+        "amount": "2"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "redEnd1",
+    "HP": 50533,
+    "fullHealDuration": 1580,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T1C3WEdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "curePoison": "curePoison1",
+      "cannonResist01": "cannonResist01"
+    },
+    "attackPower": 762,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "36"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 3,
+    "upgradeXP": 9767,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 987
+  },
+  {
+    "identifier": "pbogDragon",
+    "level": 6,
+    "upgradeCost": [
+      {
+        "type": "redEggCurrency",
+        "amount": "2"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 55458,
+    "fullHealDuration": 1882,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T1C3WEdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "curePoison": "curePoison1",
+      "cannonResist01": "cannonResist01"
+    },
+    "attackPower": 826,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "40"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 3,
+    "upgradeXP": 10255,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 1166
+  },
+  {
+    "identifier": "pbogDragon",
+    "level": 7,
+    "upgradeCost": [
+      {
+        "type": "purpleEggCurrency",
+        "amount": "1"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "purpleMid1",
+    "HP": 158185,
+    "fullHealDuration": 9101,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T2C3WEdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "curePoison": "curePoison1",
+      "cannonResist01": "cannonResist01"
+    },
+    "attackPower": 1967,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "115"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 6,
+    "upgradeXP": 52705,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 7779
+  },
+  {
+    "identifier": "pbogDragon",
+    "level": 8,
+    "upgradeCost": [
+      {
+        "type": "purpleEggCurrency",
+        "amount": "1"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 169673,
+    "fullHealDuration": 10086,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T2C3WEdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "curePoison": "curePoison1",
+      "cannonResist01": "cannonResist01"
+    },
+    "attackPower": 2103,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "122"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 6,
+    "upgradeXP": 58868,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 8918
+  },
+  {
+    "identifier": "pbogDragon",
+    "level": 9,
+    "upgradeCost": [
+      {
+        "type": "purpleEggCurrency",
+        "amount": "1"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 180480,
+    "fullHealDuration": 11120,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T2C3WEdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "curePoison": "curePoison1",
+      "cannonResist01": "cannonResist01"
+    },
+    "attackPower": 2251,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "128"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 7,
+    "upgradeXP": 77484,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 10156
+  },
+  {
+    "identifier": "pbogDragon",
+    "level": 10,
+    "upgradeCost": [
+      {
+        "type": "purpleEggCurrency",
+        "amount": "2"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "purpleEnd1",
+    "HP": 193514,
+    "fullHealDuration": 12315,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T2C3WEdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "curePoison": "curePoison1",
+      "cannonResist01": "cannonResist01"
+    },
+    "attackPower": 2406,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "134"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 7,
+    "upgradeXP": 87214,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 11640
+  },
+  {
+    "identifier": "pbogDragon",
+    "level": 11,
+    "upgradeCost": [
+      {
+        "type": "purpleEggCurrency",
+        "amount": "2"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 207439,
+    "fullHealDuration": 13562,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T2C3WEdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "curePoison": "curePoison1",
+      "cannonResist01": "cannonResist01"
+    },
+    "attackPower": 2552,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "140"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 7,
+    "upgradeXP": 97382,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 13239
+  },
+  {
+    "identifier": "pbogDragon",
+    "level": 12,
+    "upgradeCost": [
+      {
+        "type": "purpleEggCurrency",
+        "amount": "2"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 220593,
+    "fullHealDuration": 14786,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T2C3WEdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "curePoison": "curePoison1",
+      "cannonResist01": "cannonResist01"
+    },
+    "attackPower": 2693,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "150"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 8,
+    "upgradeXP": 102251,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 14855
+  },
+  {
+    "identifier": "pbogDragon",
+    "level": 13,
+    "upgradeCost": [
+      {
+        "type": "blueEggCurrency",
+        "amount": "1"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "blueMid1",
+    "HP": 266886,
+    "fullHealDuration": 15840,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T3C2WFdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "curePoison": "curePoison1",
+      "archerResist01": "archerResist01",
+      "cannonResist01": "cannonResist01"
+    },
+    "attackPower": 2820,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "180"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 8,
+    "upgradeXP": 152878,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 18824
+  },
+  {
+    "identifier": "pbogDragon",
+    "level": 14,
+    "upgradeCost": [
+      {
+        "type": "blueEggCurrency",
+        "amount": "1"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 276987,
+    "fullHealDuration": 15840,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T3C2WFdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "curePoison": "curePoison1",
+      "archerResist01": "archerResist01",
+      "cannonResist01": "cannonResist01"
+    },
+    "attackPower": 2936,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "190"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 8,
+    "upgradeXP": 171916,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 20361
+  },
+  {
+    "identifier": "pbogDragon",
+    "level": 15,
+    "upgradeCost": [
+      {
+        "type": "blueEggCurrency",
+        "amount": "1"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 285536,
+    "fullHealDuration": 15840,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T3C2WFdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "curePoison": "curePoison1",
+      "archerResist01": "archerResist01",
+      "cannonResist01": "cannonResist01"
+    },
+    "attackPower": 3046,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "200"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 9,
+    "upgradeXP": 180511,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 21731
+  },
+  {
+    "identifier": "pbogDragon",
+    "level": 16,
+    "upgradeCost": [
+      {
+        "type": "blueEggCurrency",
+        "amount": "2"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "blueEnd1",
+    "HP": 296800,
+    "fullHealDuration": 15840,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T3C2WFdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "curePoison": "curePoison1",
+      "archerResist01": "archerResist01",
+      "cannonResist01": "cannonResist01"
+    },
+    "attackPower": 3175,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "210"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 9,
+    "upgradeXP": 189536,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 23590
+  },
+  {
+    "identifier": "pbogDragon",
+    "level": 17,
+    "upgradeCost": [
+      {
+        "type": "blueEggCurrency",
+        "amount": "2"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 311640,
+    "fullHealDuration": 15840,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T3C2WFdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "curePoison": "curePoison1",
+      "archerResist01": "archerResist01",
+      "cannonResist01": "cannonResist01"
+    },
+    "attackPower": 3333,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "220"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 9,
+    "upgradeXP": 199012,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 24769
+  },
+  {
+    "identifier": "pbogDragon",
+    "level": 18,
+    "upgradeCost": [
+      {
+        "type": "blueEggCurrency",
+        "amount": "2"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 327222,
+    "fullHealDuration": 15840,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T3C2WFdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "curePoison": "curePoison1",
+      "archerResist01": "archerResist01",
+      "cannonResist01": "cannonResist01"
+    },
+    "attackPower": 3499,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "230"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 9,
+    "upgradeXP": 208962,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 26007
+  },
+  {
+    "identifier": "pbogDragon",
+    "level": 19,
+    "upgradeCost": [
+      {
+        "type": "orangeEggCurrency",
+        "amount": "1"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "orangeMid1",
+    "HP": 817942,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T4C2WIdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "curePoison": "curePoison1",
+      "archerResist01": "archerResist01",
+      "seethingSpark": "seethingSpark1",
+      "cannonResist01": "cannonResist01"
+    },
+    "attackPower": 7632,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "474"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 9,
+    "upgradeXP": 607915,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 132194
+  },
+  {
+    "identifier": "pbogDragon",
+    "level": 20,
+    "upgradeCost": [
+      {
+        "type": "orangeEggCurrency",
+        "amount": "1"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 851525,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T4C2WIdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "curePoison": "curePoison1",
+      "archerResist01": "archerResist01",
+      "seethingSpark": "seethingSpark1",
+      "cannonResist01": "cannonResist01"
+    },
+    "attackPower": 7967,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "492"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 16,
+    "upgradeXP": 759230,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 143712
+  },
+  {
+    "identifier": "pbogDragon",
+    "level": 21,
+    "upgradeCost": [
+      {
+        "type": "orangeEggCurrency",
+        "amount": "1"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 886931,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T4C2WIdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "curePoison": "curePoison1",
+      "archerResist01": "archerResist01",
+      "seethingSpark": "seethingSpark1",
+      "cannonResist01": "cannonResist01"
+    },
+    "attackPower": 8366,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "510"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 17,
+    "upgradeXP": 806021,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 157158
+  },
+  {
+    "identifier": "pbogDragon",
+    "level": 22,
+    "upgradeCost": [
+      {
+        "type": "orangeEggCurrency",
+        "amount": "2"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "orangeEnd1",
+    "HP": 941573,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T4C2WIdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "curePoison": "curePoison1",
+      "archerResist01": "archerResist01",
+      "seethingSpark": "seethingSpark1",
+      "cannonResist01": "cannonResist01"
+    },
+    "attackPower": 8842,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "528"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 17,
+    "upgradeXP": 860880,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 176280
+  },
+  {
+    "identifier": "pbogDragon",
+    "level": 23,
+    "upgradeCost": [
+      {
+        "type": "orangeEggCurrency",
+        "amount": "2"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 1005644,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T4C2WIdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "curePoison": "curePoison1",
+      "archerResist01": "archerResist01",
+      "seethingSpark": "seethingSpark1",
+      "cannonResist01": "cannonResist01"
+    },
+    "attackPower": 9377,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "546"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 18,
+    "upgradeXP": 919338,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 199757
+  },
+  {
+    "identifier": "pbogDragon",
+    "level": 24,
+    "upgradeCost": [
+      {
+        "type": "orangeEggCurrency",
+        "amount": "2"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 1073915,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T4C2WIdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "curePoison": "curePoison1",
+      "archerResist01": "archerResist01",
+      "seethingSpark": "seethingSpark1",
+      "cannonResist01": "cannonResist01"
+    },
+    "attackPower": 9991,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "564"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 18,
+    "upgradeXP": 965304,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 227211
+  },
+  {
+    "identifier": "pbogDragon",
+    "level": 25,
+    "upgradeCost": [
+      {
+        "type": "greenEggCurrency",
+        "amount": "1"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "greenMid1",
+    "HP": 1139868,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T5C3WEdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "curePoison": "curePoison1",
+      "archerResist01": "archerResist01",
+      "seethingSpark": "seethingSpark1",
+      "cannonResist01": "cannonResist01"
+    },
+    "attackPower": 10655,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "582"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 18,
+    "upgradeXP": 891186,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 257248
+  },
+  {
+    "identifier": "pbogDragon",
+    "level": 26,
+    "upgradeCost": [
+      {
+        "type": "greenEggCurrency",
+        "amount": "1"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 1216983,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T5C3WEdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "curePoison": "curePoison1",
+      "archerResist01": "archerResist01",
+      "seethingSpark": "seethingSpark1",
+      "cannonResist01": "cannonResist01"
+    },
+    "attackPower": 11348,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "600"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 18,
+    "upgradeXP": 1112202,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 292531
+  },
+  {
+    "identifier": "pbogDragon",
+    "level": 27,
+    "upgradeCost": [
+      {
+        "type": "greenEggCurrency",
+        "amount": "1"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 1299136,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T5C3WEdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "curePoison": "curePoison1",
+      "archerResist01": "archerResist01",
+      "seethingSpark": "seethingSpark1",
+      "cannonResist01": "cannonResist01"
+    },
+    "attackPower": 12087,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "618"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 18,
+    "upgradeXP": 1180322,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 332592
+  },
+  {
+    "identifier": "pbogDragon",
+    "level": 28,
+    "upgradeCost": [
+      {
+        "type": "greenEggCurrency",
+        "amount": "2"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "greenEnd1",
+    "HP": 1378679,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T5C3WEdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "curePoison": "curePoison1",
+      "archerResist01": "archerResist01",
+      "seethingSpark": "seethingSpark1",
+      "cannonResist01": "cannonResist01"
+    },
+    "attackPower": 12887,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "636"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 18,
+    "upgradeXP": 1259773,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 376319
+  },
+  {
+    "identifier": "pbogDragon",
+    "level": 29,
+    "upgradeCost": [
+      {
+        "type": "greenEggCurrency",
+        "amount": "2"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 1471458,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T5C3WEdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "curePoison": "curePoison1",
+      "archerResist01": "archerResist01",
+      "seethingSpark": "seethingSpark1",
+      "cannonResist01": "cannonResist01"
+    },
+    "attackPower": 13721,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "654"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 18,
+    "upgradeXP": 1344395,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 427661
+  },
+  {
+    "identifier": "pbogDragon",
+    "level": 30,
+    "upgradeCost": [
+      {
+        "type": "greenEggCurrency",
+        "amount": "2"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 1570282,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T5C3WEdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "curePoison": "curePoison1",
+      "archerResist01": "archerResist01",
+      "seethingSpark": "seethingSpark1",
+      "cannonResist01": "cannonResist01"
+    },
+    "attackPower": 14592,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "672"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 18,
+    "upgradeXP": 1411614,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 485316
+  },
+  {
+    "identifier": "pbogDragon",
+    "level": 31,
+    "upgradeCost": [
+      {
+        "type": "goldEggCurrency",
+        "amount": "1"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "goldMid1",
+    "HP": 2132447,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T6C3WFdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "curePoison": "curePoison1",
+      "archerResist01": "archerResist01",
+      "seethingSpark": "seethingSpark1",
+      "cannonResist01": "cannonResist01"
+    },
+    "attackPower": 19822,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "798"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 18,
+    "upgradeXP": 1234440,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 895245
+  },
+  {
+    "identifier": "pbogDragon",
+    "level": 32,
+    "upgradeCost": [
+      {
+        "type": "goldEggCurrency",
+        "amount": "1"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 2185738,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T6C3WFdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "curePoison": "curePoison1",
+      "archerResist01": "archerResist01",
+      "seethingSpark": "seethingSpark1",
+      "cannonResist01": "cannonResist01"
+    },
+    "attackPower": 20317,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "816"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 18,
+    "upgradeXP": 1547569,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 940576
+  },
+  {
+    "identifier": "pbogDragon",
+    "level": 33,
+    "upgradeCost": [
+      {
+        "type": "goldEggCurrency",
+        "amount": "1"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 2240365,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T6C3WFdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "curePoison": "curePoison1",
+      "archerResist01": "archerResist01",
+      "seethingSpark": "seethingSpark1",
+      "cannonResist01": "cannonResist01"
+    },
+    "attackPower": 20825,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "834"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 18,
+    "upgradeXP": 1586256,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 988187
+  },
+  {
+    "identifier": "pbogDragon",
+    "level": 34,
+    "upgradeCost": [
+      {
+        "type": "goldEggCurrency",
+        "amount": "1"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 2296359,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T6C3WFdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "curePoison": "curePoison1",
+      "archerResist01": "archerResist01",
+      "seethingSpark": "seethingSpark1",
+      "cannonResist01": "cannonResist01"
+    },
+    "attackPower": 21346,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "852"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 18,
+    "upgradeXP": 1625913,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 1038133
+  },
+  {
+    "identifier": "pbogDragon",
+    "level": 35,
+    "upgradeCost": [
+      {
+        "type": "goldEggCurrency",
+        "amount": "1"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 2353755,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T6C3WFdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "curePoison": "curePoison1",
+      "archerResist01": "archerResist01",
+      "seethingSpark": "seethingSpark1",
+      "cannonResist01": "cannonResist01"
+    },
+    "attackPower": 21879,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "870"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 18,
+    "upgradeXP": 1666559,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 1090674
+  },
+  {
+    "identifier": "pbogDragon",
+    "level": 36,
+    "upgradeCost": [
+      {
+        "type": "goldEggCurrency",
+        "amount": "2"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "goldEnd1",
+    "HP": 2412583,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T6C3WFdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "curePoison": "curePoison1",
+      "archerResist01": "archerResist01",
+      "seethingSpark": "seethingSpark1",
+      "cannonResist01": "cannonResist01"
+    },
+    "attackPower": 22426,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "888"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 18,
+    "upgradeXP": 1997012,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 1145976
+  },
+  {
+    "identifier": "pbogDragon",
+    "level": 37,
+    "upgradeCost": [
+      {
+        "type": "goldEggCurrency",
+        "amount": "2"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 2472884,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T6C3WFdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "curePoison": "curePoison1",
+      "archerResist01": "archerResist01",
+      "seethingSpark": "seethingSpark1",
+      "cannonResist01": "cannonResist01"
+    },
+    "attackPower": 22987,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "906"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 18,
+    "upgradeXP": 2046937,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 1203895
+  },
+  {
+    "identifier": "pbogDragon",
+    "level": 38,
+    "upgradeCost": [
+      {
+        "type": "goldEggCurrency",
+        "amount": "2"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 2534694,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T6C3WFdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "curePoison": "curePoison1",
+      "archerResist01": "archerResist01",
+      "seethingSpark": "seethingSpark1",
+      "cannonResist01": "cannonResist01"
+    },
+    "attackPower": 23562,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "924"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 18,
+    "upgradeXP": 2098104,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 1264916
+  },
+  {
+    "identifier": "pbogDragon",
+    "level": 39,
+    "upgradeCost": [
+      {
+        "type": "goldEggCurrency",
+        "amount": "2"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 2598042,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T6C3WFdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "curePoison": "curePoison1",
+      "archerResist01": "archerResist01",
+      "seethingSpark": "seethingSpark1",
+      "cannonResist01": "cannonResist01"
+    },
+    "attackPower": 24151,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "942"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 18,
+    "upgradeXP": 2150556,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 1328896
+  },
+  {
+    "identifier": "pbogDragon",
+    "level": 40,
+    "upgradeCost": [
+      {
+        "type": "goldEggCurrency",
+        "amount": "2"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 2662973,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T6C3WFdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "curePoison": "curePoison1",
+      "archerResist01": "archerResist01",
+      "seethingSpark": "seethingSpark1",
+      "cannonResist01": "cannonResist01"
+    },
+    "attackPower": 24754,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "960"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 18,
+    "upgradeXP": 2258083,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 1396122
+  },
+  {
+    "identifier": "pbogDragon",
+    "level": 41,
+    "upgradeCost": [
+      {
+        "type": "platinumEggCurrency",
+        "amount": "1"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "platMid1",
+    "HP": 3325501,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T7C3WIdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "curePoison": "curePoison1",
+      "archerResist01": "archerResist01",
+      "seethingSpark": "seethingSpark1",
+      "cannonResist01": "cannonResist01"
+    },
+    "attackPower": 30914,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1122"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 26,
+    "upgradeXP": 1925271,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 2177409
+  },
+  {
+    "identifier": "pbogDragon",
+    "level": 42,
+    "upgradeCost": [
+      {
+        "type": "platinumEggCurrency",
+        "amount": "1"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 3408633,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T7C3WIdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "curePoison": "curePoison1",
+      "archerResist01": "archerResist01",
+      "seethingSpark": "seethingSpark1",
+      "cannonResist01": "cannonResist01"
+    },
+    "attackPower": 31687,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1140"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 26,
+    "upgradeXP": 2413642,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 2287584
+  },
+  {
+    "identifier": "pbogDragon",
+    "level": 43,
+    "upgradeCost": [
+      {
+        "type": "platinumEggCurrency",
+        "amount": "1"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 3493840,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T7C3WIdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "curePoison": "curePoison1",
+      "archerResist01": "archerResist01",
+      "seethingSpark": "seethingSpark1",
+      "cannonResist01": "cannonResist01"
+    },
+    "attackPower": 32479,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1158"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 26,
+    "upgradeXP": 2473982,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 2403434
+  },
+  {
+    "identifier": "pbogDragon",
+    "level": 44,
+    "upgradeCost": [
+      {
+        "type": "platinumEggCurrency",
+        "amount": "1"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 3581172,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T7C3WIdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "curePoison": "curePoison1",
+      "archerResist01": "archerResist01",
+      "seethingSpark": "seethingSpark1",
+      "cannonResist01": "cannonResist01"
+    },
+    "attackPower": 33291,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1176"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 26,
+    "upgradeXP": 2535828,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 2525078
+  },
+  {
+    "identifier": "pbogDragon",
+    "level": 45,
+    "upgradeCost": [
+      {
+        "type": "platinumEggCurrency",
+        "amount": "1"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 3670685,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T7C3WIdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "curePoison": "curePoison1",
+      "archerResist01": "archerResist01",
+      "seethingSpark": "seethingSpark1",
+      "cannonResist01": "cannonResist01"
+    },
+    "attackPower": 34124,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1194"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 26,
+    "upgradeXP": 2599221,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 2652892
+  },
+  {
+    "identifier": "pbogDragon",
+    "level": 46,
+    "upgradeCost": [
+      {
+        "type": "platinumEggCurrency",
+        "amount": "2"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "platEnd1",
+    "HP": 3762432,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T7C3WIdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "curePoison": "curePoison1",
+      "archerResist01": "archerResist01",
+      "seethingSpark": "seethingSpark1",
+      "cannonResist01": "cannonResist01"
+    },
+    "attackPower": 34977,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1212"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 26,
+    "upgradeXP": 3114611,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 2787130
+  },
+  {
+    "identifier": "pbogDragon",
+    "level": 47,
+    "upgradeCost": [
+      {
+        "type": "platinumEggCurrency",
+        "amount": "2"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 3856468,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T7C3WIdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "curePoison": "curePoison1",
+      "archerResist01": "archerResist01",
+      "seethingSpark": "seethingSpark1",
+      "cannonResist01": "cannonResist01"
+    },
+    "attackPower": 35403,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1230"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 26,
+    "upgradeXP": 3192472,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 2891632
+  },
+  {
+    "identifier": "pbogDragon",
+    "level": 48,
+    "upgradeCost": [
+      {
+        "type": "platinumEggCurrency",
+        "amount": "2"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 3952851,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T7C3WIdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "curePoison": "curePoison1",
+      "archerResist01": "archerResist01",
+      "seethingSpark": "seethingSpark1",
+      "cannonResist01": "cannonResist01"
+    },
+    "attackPower": 35836,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1248"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 26,
+    "upgradeXP": 3272283,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 3000270
+  },
+  {
+    "identifier": "pbogDragon",
+    "level": 49,
+    "upgradeCost": [
+      {
+        "type": "platinumEggCurrency",
+        "amount": "2"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 4051647,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T7C3WIdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "curePoison": "curePoison1",
+      "archerResist01": "archerResist01",
+      "seethingSpark": "seethingSpark1",
+      "cannonResist01": "cannonResist01"
+    },
+    "attackPower": 36732,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1266"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 26,
+    "upgradeXP": 3354088,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 3152119
+  },
+  {
+    "identifier": "pbogDragon",
+    "level": 50,
+    "upgradeCost": [
+      {
+        "type": "platinumEggCurrency",
+        "amount": "2"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 4152916,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T7C3WIdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "curePoison": "curePoison1",
+      "archerResist01": "archerResist01",
+      "seethingSpark": "seethingSpark1",
+      "cannonResist01": "cannonResist01"
+    },
+    "attackPower": 37651,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1284"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 26,
+    "upgradeXP": 0,
+    "xpRewardMultiplier": 1.2,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 3311685
+  }
+]

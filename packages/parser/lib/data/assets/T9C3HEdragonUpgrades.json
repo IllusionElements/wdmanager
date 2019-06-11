@@ -1,0 +1,1325 @@
+[
+  {
+    "identifier": "T9C3HEdragon",
+    "level": 1,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "0"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 3502542,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T9C3HEdragon_fireball"
+      }
+    ],
+    "abilities": {},
+    "attackPower": 194056,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1392"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 28,
+    "upgradeXP": 1292294,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 1712934
+  },
+  {
+    "identifier": "T9C3HEdragon",
+    "level": 2,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "372240"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 3590095,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T9C3HEdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "crystallineShield": "crystallineShield1"
+    },
+    "attackPower": 198907,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1410"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 28,
+    "upgradeXP": 1324600,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 2699467
+  },
+  {
+    "identifier": "T9C3HEdragon",
+    "level": 3,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "376992"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 3679836,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T9C3HEdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "crystallineShield": "crystallineShield1"
+    },
+    "attackPower": 203879,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1428"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 28,
+    "upgradeXP": 1542536,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 2836185
+  },
+  {
+    "identifier": "T9C3HEdragon",
+    "level": 4,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "381744"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 3771818,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T9C3HEdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "crystallineShield": "crystallineShield1"
+    },
+    "attackPower": 208976,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1446"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 29,
+    "upgradeXP": 1819491,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 2979684
+  },
+  {
+    "identifier": "T9C3HEdragon",
+    "level": 5,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "386496"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 3866096,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T9C3HEdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "crystallineShield": "crystallineShield1",
+      "desiccatingSand": "desiccatingSand1"
+    },
+    "attackPower": 214201,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1464"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 29,
+    "upgradeXP": 2096281,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 4174016
+  },
+  {
+    "identifier": "T9C3HEdragon",
+    "level": 6,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "391248"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 3962730,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T9C3HEdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "crystallineShield": "crystallineShield1",
+      "desiccatingSand": "desiccatingSand1"
+    },
+    "attackPower": 219555,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1482"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 29,
+    "upgradeXP": 2375200,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 4385417
+  },
+  {
+    "identifier": "T9C3HEdragon",
+    "level": 7,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "396000"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 4061780,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T9C3HEdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "crystallineShield": "crystallineShield1",
+      "desiccatingSand": "desiccatingSand1"
+    },
+    "attackPower": 225044,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1500"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 30,
+    "upgradeXP": 2434580,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 4607310
+  },
+  {
+    "identifier": "T9C3HEdragon",
+    "level": 8,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "400752"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 4163307,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T9C3HEdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "crystallineShield": "crystallineShield1",
+      "desiccatingSand": "desiccatingSand1"
+    },
+    "attackPower": 230670,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1518"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 30,
+    "upgradeXP": 2495443,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 4840580
+  },
+  {
+    "identifier": "T9C3HEdragon",
+    "level": 9,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "405504"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 4267379,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T9C3HEdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "crystallineShield": "crystallineShield1",
+      "desiccatingSand": "desiccatingSand1",
+      "stealEssence": "stealEssence1"
+    },
+    "attackPower": 236437,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1536"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 30,
+    "upgradeXP": 2557828,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 6611223
+  },
+  {
+    "identifier": "T9C3HEdragon",
+    "level": 10,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "410256"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 4374056,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T9C3HEdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "crystallineShield": "crystallineShield1",
+      "desiccatingSand": "desiccatingSand1",
+      "stealEssence": "stealEssence1"
+    },
+    "attackPower": 242348,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1554"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 31,
+    "upgradeXP": 2621771,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 6945951
+  },
+  {
+    "identifier": "T9C3HEdragon",
+    "level": 11,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "415009"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 4483402,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T9C3HEdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "crystallineShield": "crystallineShield1",
+      "desiccatingSand": "desiccatingSand1",
+      "stealEssence": "stealEssence1"
+    },
+    "attackPower": 248406,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1572"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 31,
+    "upgradeXP": 2687315,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 7297545
+  },
+  {
+    "identifier": "T9C3HEdragon",
+    "level": 12,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "419760"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 4595475,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T9C3HEdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "crystallineShield": "crystallineShield1",
+      "desiccatingSand": "desiccatingSand1",
+      "stealEssence": "stealEssence1"
+    },
+    "attackPower": 254616,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1590"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 31,
+    "upgradeXP": 2754497,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 7667087
+  },
+  {
+    "identifier": "T9C3HEdragon",
+    "level": 13,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "424512"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 4710344,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T9C3HEdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "crystallineShield": "crystallineShield1",
+      "desiccatingSand": "desiccatingSand1",
+      "stealEssence": "stealEssence1"
+    },
+    "attackPower": 260981,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1608"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 32,
+    "upgradeXP": 2823360,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 8055060
+  },
+  {
+    "identifier": "T9C3HEdragon",
+    "level": 14,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "429264"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 4828084,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T9C3HEdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "crystallineShield": "crystallineShield1",
+      "desiccatingSand": "desiccatingSand1",
+      "stealEssence": "stealEssence1",
+      "fireTurretResist01": "fireTurretResist01"
+    },
+    "attackPower": 267506,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1626"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 32,
+    "upgradeXP": 2893942,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 8462897
+  },
+  {
+    "identifier": "T9C3HEdragon",
+    "level": 15,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "434016"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 4948770,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T9C3HEdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "crystallineShield": "crystallineShield1",
+      "desiccatingSand": "desiccatingSand1",
+      "stealEssence": "stealEssence1",
+      "fireTurretResist01": "fireTurretResist01"
+    },
+    "attackPower": 274193,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1644"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 32,
+    "upgradeXP": 2966289,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 8891275
+  },
+  {
+    "identifier": "T9C3HEdragon",
+    "level": 16,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "438768"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 5072473,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T9C3HEdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "crystallineShield": "crystallineShield1",
+      "desiccatingSand": "desiccatingSand1",
+      "stealEssence": "stealEssence1",
+      "fireTurretResist01": "fireTurretResist01"
+    },
+    "attackPower": 281048,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1662"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 33,
+    "upgradeXP": 3040444,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 9341358
+  },
+  {
+    "identifier": "T9C3HEdragon",
+    "level": 17,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "443520"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 5199269,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T9C3HEdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "crystallineShield": "crystallineShield1",
+      "desiccatingSand": "desiccatingSand1",
+      "stealEssence": "stealEssence1",
+      "fireTurretResist01": "fireTurretResist01"
+    },
+    "attackPower": 288074,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1680"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 33,
+    "upgradeXP": 3116455,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 9814178
+  },
+  {
+    "identifier": "T9C3HEdragon",
+    "level": 18,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "448272"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 5329237,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T9C3HEdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "crystallineShield": "crystallineShield1",
+      "desiccatingSand": "desiccatingSand1",
+      "stealEssence": "stealEssence1",
+      "fireTurretResist01": "fireTurretResist01"
+    },
+    "attackPower": 295276,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1698"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 33,
+    "upgradeXP": 4242759,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 10311113
+  },
+  {
+    "identifier": "T9C3HEdragon",
+    "level": 19,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "601708"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 5462453,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T9C3HEdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "crystallineShield": "crystallineShield1",
+      "desiccatingSand": "desiccatingSand1",
+      "stealEssence": "stealEssence1",
+      "fireTurretResist01": "fireTurretResist01"
+    },
+    "attackPower": 302658,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1716"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 34,
+    "upgradeXP": 4348826,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 10833077
+  },
+  {
+    "identifier": "T9C3HEdragon",
+    "level": 20,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "608019"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 5598998,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T9C3HEdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "crystallineShield": "crystallineShield1",
+      "desiccatingSand": "desiccatingSand1",
+      "stealEssence": "stealEssence1",
+      "fireTurretResist01": "fireTurretResist01"
+    },
+    "attackPower": 310224,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1734"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 34,
+    "upgradeXP": 4457545,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 11381334
+  },
+  {
+    "identifier": "T9C3HEdragon",
+    "level": 21,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "614331"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 5738953,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T9C3HEdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "crystallineShield": "crystallineShield1",
+      "desiccatingSand": "desiccatingSand1",
+      "stealEssence": "stealEssence1",
+      "fireTurretResist01": "fireTurretResist01"
+    },
+    "attackPower": 317979,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1752"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 34,
+    "upgradeXP": 4568980,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 11957504
+  },
+  {
+    "identifier": "T9C3HEdragon",
+    "level": 22,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "620642"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 5882410,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T9C3HEdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "crystallineShield": "crystallineShield1",
+      "desiccatingSand": "desiccatingSand1",
+      "stealEssence": "stealEssence1",
+      "fireTurretResist01": "fireTurretResist01"
+    },
+    "attackPower": 325929,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1770"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 35,
+    "upgradeXP": 5727963,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 12562910
+  },
+  {
+    "identifier": "T9C3HEdragon",
+    "level": 23,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "766819"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 6029456,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T9C3HEdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "crystallineShield": "crystallineShield1",
+      "desiccatingSand": "desiccatingSand1",
+      "stealEssence": "stealEssence1",
+      "fireTurretResist01": "fireTurretResist01"
+    },
+    "attackPower": 334077,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1788"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 35,
+    "upgradeXP": 5871161,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 13198731
+  },
+  {
+    "identifier": "T9C3HEdragon",
+    "level": 24,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "774538"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 6180181,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T9C3HEdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "crystallineShield": "crystallineShield1",
+      "desiccatingSand": "desiccatingSand1",
+      "stealEssence": "stealEssence1",
+      "fireTurretResist01": "fireTurretResist01"
+    },
+    "attackPower": 342428,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1806"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 35,
+    "upgradeXP": 6017939,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 13867018
+  },
+  {
+    "identifier": "T9C3HEdragon",
+    "level": 25,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "782258"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 6334668,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T9C3HEdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "crystallineShield": "crystallineShield1",
+      "desiccatingSand": "desiccatingSand1",
+      "stealEssence": "stealEssence1",
+      "fireTurretResist01": "fireTurretResist01"
+    },
+    "attackPower": 350989,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1824"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 36,
+    "upgradeXP": 6168385,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 14569012
+  },
+  {
+    "identifier": "T9C3HEdragon",
+    "level": 26,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "789978"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 6493012,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T9C3HEdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "crystallineShield": "crystallineShield1",
+      "desiccatingSand": "desiccatingSand1",
+      "stealEssence": "stealEssence1",
+      "fireTurretResist01": "fireTurretResist01"
+    },
+    "attackPower": 359764,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1842"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 36,
+    "upgradeXP": 7391491,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 15306491
+  },
+  {
+    "identifier": "T9C3HEdragon",
+    "level": 27,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "932556"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 6655317,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T9C3HEdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "crystallineShield": "crystallineShield1",
+      "desiccatingSand": "desiccatingSand1",
+      "stealEssence": "stealEssence1",
+      "fireTurretResist01": "fireTurretResist01"
+    },
+    "attackPower": 368758,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1860"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 36,
+    "upgradeXP": 7576277,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 16081273
+  },
+  {
+    "identifier": "T9C3HEdragon",
+    "level": 28,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "941581"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 6821684,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T9C3HEdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "crystallineShield": "crystallineShield1",
+      "desiccatingSand": "desiccatingSand1",
+      "stealEssence": "stealEssence1",
+      "fireTurretResist01": "fireTurretResist01"
+    },
+    "attackPower": 377976,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1878"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 37,
+    "upgradeXP": 7765681,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 16895385
+  },
+  {
+    "identifier": "T9C3HEdragon",
+    "level": 29,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "950606"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 6992215,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T9C3HEdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "crystallineShield": "crystallineShield1",
+      "desiccatingSand": "desiccatingSand1",
+      "stealEssence": "stealEssence1",
+      "fireTurretResist01": "fireTurretResist01"
+    },
+    "attackPower": 387426,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1896"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 37,
+    "upgradeXP": 7959817,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 17750543
+  },
+  {
+    "identifier": "T9C3HEdragon",
+    "level": 30,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "959631"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 7167006,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T9C3HEdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "crystallineShield": "crystallineShield1",
+      "desiccatingSand": "desiccatingSand1",
+      "stealEssence": "stealEssence1",
+      "fireTurretResist01": "fireTurretResist01"
+    },
+    "attackPower": 397111,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1914"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 37,
+    "upgradeXP": 0,
+    "xpRewardMultiplier": 1.2,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 18649207
+  }
+]

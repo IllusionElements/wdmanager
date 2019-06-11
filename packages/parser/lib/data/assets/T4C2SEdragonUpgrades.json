@@ -1,0 +1,868 @@
+[
+  {
+    "identifier": "T4C2SEdragon",
+    "level": 1,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "0"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 89483,
+    "fullHealDuration": 5712,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T4C2SEdragon_lockon"
+      }
+    ],
+    "abilities": {},
+    "attackPower": 6059,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "85"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 5,
+    "upgradeXP": 12315,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 1610
+  },
+  {
+    "identifier": "T4C2SEdragon",
+    "level": 2,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "12338"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 92903,
+    "fullHealDuration": 6115,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T4C2SEdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "summonAIDragon": "summonDragon1"
+    },
+    "attackPower": 6391,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "90"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 5,
+    "upgradeXP": 13885,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 2633
+  },
+  {
+    "identifier": "T4C2SEdragon",
+    "level": 3,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "13431"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 99750,
+    "fullHealDuration": 6730,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T4C2SEdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "summonAIDragon": "summonDragon1"
+    },
+    "attackPower": 6764,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "97"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 5,
+    "upgradeXP": 17781,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 2999
+  },
+  {
+    "identifier": "T4C2SEdragon",
+    "level": 4,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "16979"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 107072,
+    "fullHealDuration": 7442,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T4C2SEdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "summonAIDragon": "summonDragon1"
+    },
+    "attackPower": 7205,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "103"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 6,
+    "upgradeXP": 22863,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 3432
+  },
+  {
+    "identifier": "T4C2SEdragon",
+    "level": 5,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "18325"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 113929,
+    "fullHealDuration": 8210,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T4C2SEdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "summonAIDragon": "summonDragon1",
+      "invincibleSpell": "invincible1"
+    },
+    "attackPower": 7719,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "109"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 6,
+    "upgradeXP": 28953,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 5214
+  },
+  {
+    "identifier": "T4C2SEdragon",
+    "level": 6,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "19707"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 122234,
+    "fullHealDuration": 9101,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T4C2SEdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "summonAIDragon": "summonDragon1",
+      "invincibleSpell": "invincible1"
+    },
+    "attackPower": 8253,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "115"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 6,
+    "upgradeXP": 36048,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 5984
+  },
+  {
+    "identifier": "T4C2SEdragon",
+    "level": 7,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "23746"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 131111,
+    "fullHealDuration": 10086,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T4C2SEdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "summonAIDragon": "summonDragon1",
+      "invincibleSpell": "invincible1"
+    },
+    "attackPower": 8825,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "122"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 6,
+    "upgradeXP": 40264,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 6860
+  },
+  {
+    "identifier": "T4C2SEdragon",
+    "level": 8,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "24970"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 139462,
+    "fullHealDuration": 11120,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T4C2SEdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "summonAIDragon": "summonDragon1",
+      "invincibleSpell": "invincible1"
+    },
+    "attackPower": 9449,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "128"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 7,
+    "upgradeXP": 45333,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 7812
+  },
+  {
+    "identifier": "T4C2SEdragon",
+    "level": 9,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "26194"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 149533,
+    "fullHealDuration": 12315,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T4C2SEdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "summonAIDragon": "summonDragon1",
+      "invincibleSpell": "invincible1",
+      "archerResist01": "archerResist01"
+    },
+    "attackPower": 10098,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "134"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 7,
+    "upgradeXP": 51025,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 11640
+  },
+  {
+    "identifier": "T4C2SEdragon",
+    "level": 10,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "34272"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 160294,
+    "fullHealDuration": 13562,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T4C2SEdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "summonAIDragon": "summonDragon1",
+      "invincibleSpell": "invincible1",
+      "archerResist01": "archerResist01"
+    },
+    "attackPower": 10712,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "140"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 7,
+    "upgradeXP": 56974,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 13239
+  },
+  {
+    "identifier": "T4C2SEdragon",
+    "level": 11,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "36720"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 170458,
+    "fullHealDuration": 14786,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T4C2SEdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "summonAIDragon": "summonDragon1",
+      "invincibleSpell": "invincible1",
+      "archerResist01": "archerResist01"
+    },
+    "attackPower": 11304,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "150"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 8,
+    "upgradeXP": 64107,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 14855
+  },
+  {
+    "identifier": "T4C2SEdragon",
+    "level": 12,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "39168"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 206230,
+    "fullHealDuration": 15840,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T4C2SEdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "summonAIDragon": "summonDragon1",
+      "invincibleSpell": "invincible1",
+      "archerResist01": "archerResist01"
+    },
+    "attackPower": 11836,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "160"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 8,
+    "upgradeXP": 95783,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 18824
+  },
+  {
+    "identifier": "T4C2SEdragon",
+    "level": 13,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "55275"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 214035,
+    "fullHealDuration": 15840,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T4C2SEdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "summonAIDragon": "summonDragon1",
+      "invincibleSpell": "invincible1",
+      "archerResist01": "archerResist01"
+    },
+    "attackPower": 12324,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "170"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 8,
+    "upgradeXP": 106918,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 20361
+  },
+  {
+    "identifier": "T4C2SEdragon",
+    "level": 14,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "58526"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 220642,
+    "fullHealDuration": 15840,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T4C2SEdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "summonAIDragon": "summonDragon1",
+      "invincibleSpell": "invincible1",
+      "archerResist01": "archerResist01"
+    },
+    "attackPower": 12782,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "180"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 9,
+    "upgradeXP": 120232,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 21731
+  },
+  {
+    "identifier": "T4C2SEdragon",
+    "level": 15,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "61778"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 229345,
+    "fullHealDuration": 15840,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T4C2SEdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "summonAIDragon": "summonDragon1",
+      "invincibleSpell": "invincible1",
+      "archerResist01": "archerResist01"
+    },
+    "attackPower": 13328,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "190"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 9,
+    "upgradeXP": 165330,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 23590
+  },
+  {
+    "identifier": "T4C2SEdragon",
+    "level": 16,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "79536"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 238546,
+    "fullHealDuration": 15840,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T4C2SEdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "summonAIDragon": "summonDragon1",
+      "invincibleSpell": "invincible1",
+      "archerResist01": "archerResist01"
+    },
+    "attackPower": 13989,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "200"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 9,
+    "upgradeXP": 184501,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 25740
+  },
+  {
+    "identifier": "T4C2SEdragon",
+    "level": 17,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "85501"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 253520,
+    "fullHealDuration": 15840,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T4C2SEdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "summonAIDragon": "summonDragon1",
+      "invincibleSpell": "invincible1",
+      "archerResist01": "archerResist01"
+    },
+    "attackPower": 14793,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "215"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 10,
+    "upgradeXP": 242423,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 28958
+  },
+  {
+    "identifier": "T4C2SEdragon",
+    "level": 18,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "106930"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 271360,
+    "fullHealDuration": 15840,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T4C2SEdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "summonAIDragon": "summonDragon1",
+      "invincibleSpell": "invincible1",
+      "archerResist01": "archerResist01"
+    },
+    "attackPower": 15707,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "230"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 10,
+    "upgradeXP": 272410,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 32890
+  },
+  {
+    "identifier": "T4C2SEdragon",
+    "level": 19,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "113904"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 290401,
+    "fullHealDuration": 15840,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T4C2SEdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "summonAIDragon": "summonDragon1",
+      "invincibleSpell": "invincible1",
+      "archerResist01": "archerResist01"
+    },
+    "attackPower": 16763,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "245"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 11,
+    "upgradeXP": 303918,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 37577
+  },
+  {
+    "identifier": "T4C2SEdragon",
+    "level": 20,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "120877"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 308561,
+    "fullHealDuration": 15840,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T4C2SEdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "summonAIDragon": "summonDragon1",
+      "invincibleSpell": "invincible1",
+      "archerResist01": "archerResist01"
+    },
+    "attackPower": 17911,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "260"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 11,
+    "upgradeXP": 0,
+    "xpRewardMultiplier": 1.2,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 42619
+  }
+]

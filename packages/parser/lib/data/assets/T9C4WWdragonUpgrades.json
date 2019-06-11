@@ -1,0 +1,1577 @@
+[
+  {
+    "identifier": "T9C4WWdragon",
+    "level": 1,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "0"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 5008634,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T9C4WWdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "dreadfulRoar": "dreadfulRoar108",
+      "maleficBreath": "maleficBreath108",
+      "gloomAndDoom": "gloomAndDoom1",
+      "devourHope": "devourHope1"
+    },
+    "attackPower": 45409,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1624"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 28,
+    "upgradeXP": 1468515,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 4631774
+  },
+  {
+    "identifier": "T9C4WWdragon",
+    "level": 2,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "423000"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 5133836,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T9C4WWdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "dreadfulRoar": "dreadfulRoar109",
+      "maleficBreath": "maleficBreath109",
+      "gloomAndDoom": "gloomAndDoom1",
+      "devourHope": "devourHope1"
+    },
+    "attackPower": 46545,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1645"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 28,
+    "upgradeXP": 1505227,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 4866239
+  },
+  {
+    "identifier": "T9C4WWdragon",
+    "level": 3,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "428400"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 5262165,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T9C4WWdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "dreadfulRoar": "dreadfulRoar110",
+      "maleficBreath": "maleficBreath110",
+      "gloomAndDoom": "gloomAndDoom1",
+      "devourHope": "devourHope1"
+    },
+    "attackPower": 47708,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1666"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 28,
+    "upgradeXP": 1752882,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 5112696
+  },
+  {
+    "identifier": "T9C4WWdragon",
+    "level": 4,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "433800"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 5393700,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T9C4WWdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "dreadfulRoar": "dreadfulRoar111",
+      "maleficBreath": "maleficBreath111",
+      "gloomAndDoom": "gloomAndDoom1",
+      "devourHope": "devourHope1"
+    },
+    "attackPower": 48901,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1687"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 29,
+    "upgradeXP": 2067604,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 5371377
+  },
+  {
+    "identifier": "T9C4WWdragon",
+    "level": 5,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "439200"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 5528516,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T9C4WWdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "dreadfulRoar": "dreadfulRoar112",
+      "maleficBreath": "maleficBreath112",
+      "gloomAndDoom": "gloomAndDoom1",
+      "devourHope": "devourHope1"
+    },
+    "attackPower": 50123,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1708"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 29,
+    "upgradeXP": 2382138,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 5643270
+  },
+  {
+    "identifier": "T9C4WWdragon",
+    "level": 6,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "444600"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 5666704,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T9C4WWdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "dreadfulRoar": "dreadfulRoar113",
+      "maleficBreath": "maleficBreath113",
+      "gloomAndDoom": "gloomAndDoom1",
+      "devourHope": "devourHope1"
+    },
+    "attackPower": 51376,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1729"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 29,
+    "upgradeXP": 2699091,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 5929084
+  },
+  {
+    "identifier": "T9C4WWdragon",
+    "level": 7,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "450000"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 5808345,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T9C4WWdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "dreadfulRoar": "dreadfulRoar114",
+      "maleficBreath": "maleficBreath114",
+      "gloomAndDoom": "gloomAndDoom1",
+      "devourHope": "devourHope1"
+    },
+    "attackPower": 52661,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1750"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 30,
+    "upgradeXP": 2766568,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 6229083
+  },
+  {
+    "identifier": "T9C4WWdragon",
+    "level": 8,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "455400"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 5953529,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T9C4WWdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "dreadfulRoar": "dreadfulRoar115",
+      "maleficBreath": "maleficBreath115",
+      "gloomAndDoom": "gloomAndDoom1",
+      "devourHope": "devourHope1"
+    },
+    "attackPower": 53977,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1771"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 30,
+    "upgradeXP": 2835731,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 6544464
+  },
+  {
+    "identifier": "T9C4WWdragon",
+    "level": 9,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "460800"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 6102351,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T9C4WWdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "dreadfulRoar": "dreadfulRoar116",
+      "maleficBreath": "maleficBreath116",
+      "gloomAndDoom": "gloomAndDoom1",
+      "devourHope": "devourHope1"
+    },
+    "attackPower": 55327,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1792"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 30,
+    "upgradeXP": 2906623,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 6875672
+  },
+  {
+    "identifier": "T9C4WWdragon",
+    "level": 10,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "466200"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 6254900,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T9C4WWdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "dreadfulRoar": "dreadfulRoar117",
+      "maleficBreath": "maleficBreath117",
+      "gloomAndDoom": "gloomAndDoom1",
+      "devourHope": "devourHope1"
+    },
+    "attackPower": 56710,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1813"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 31,
+    "upgradeXP": 2979286,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 7223789
+  },
+  {
+    "identifier": "T9C4WWdragon",
+    "level": 11,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "471601"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 6411265,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T9C4WWdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "dreadfulRoar": "dreadfulRoar118",
+      "maleficBreath": "maleficBreath118",
+      "gloomAndDoom": "gloomAndDoom1",
+      "devourHope": "devourHope1"
+    },
+    "attackPower": 58127,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1834"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 31,
+    "upgradeXP": 3053767,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 7589447
+  },
+  {
+    "identifier": "T9C4WWdragon",
+    "level": 12,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "477000"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 6571529,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T9C4WWdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "dreadfulRoar": "dreadfulRoar119",
+      "maleficBreath": "maleficBreath119",
+      "gloomAndDoom": "gloomAndDoom1",
+      "devourHope": "devourHope1"
+    },
+    "attackPower": 59581,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1855"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 31,
+    "upgradeXP": 3130111,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 7973770
+  },
+  {
+    "identifier": "T9C4WWdragon",
+    "level": 13,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "482400"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 6735791,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T9C4WWdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "dreadfulRoar": "dreadfulRoar120",
+      "maleficBreath": "maleficBreath120",
+      "gloomAndDoom": "gloomAndDoom1",
+      "devourHope": "devourHope1"
+    },
+    "attackPower": 61070,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1876"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 32,
+    "upgradeXP": 3208363,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 8377262
+  },
+  {
+    "identifier": "T9C4WWdragon",
+    "level": 14,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "487800"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 6904160,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T9C4WWdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "dreadfulRoar": "dreadfulRoar121",
+      "maleficBreath": "maleficBreath121",
+      "gloomAndDoom": "gloomAndDoom1",
+      "devourHope": "devourHope1"
+    },
+    "attackPower": 62597,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1897"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 32,
+    "upgradeXP": 3288571,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 8801413
+  },
+  {
+    "identifier": "T9C4WWdragon",
+    "level": 15,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "493200"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 7076741,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T9C4WWdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "dreadfulRoar": "dreadfulRoar122",
+      "maleficBreath": "maleficBreath122",
+      "gloomAndDoom": "gloomAndDoom1",
+      "devourHope": "devourHope1"
+    },
+    "attackPower": 64162,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1918"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 32,
+    "upgradeXP": 3370783,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 9246926
+  },
+  {
+    "identifier": "T9C4WWdragon",
+    "level": 16,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "498600"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 7253636,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T9C4WWdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "dreadfulRoar": "dreadfulRoar123",
+      "maleficBreath": "maleficBreath123",
+      "gloomAndDoom": "gloomAndDoom1",
+      "devourHope": "devourHope1"
+    },
+    "attackPower": 65766,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1939"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 33,
+    "upgradeXP": 3455050,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 9715012
+  },
+  {
+    "identifier": "T9C4WWdragon",
+    "level": 17,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "504000"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 7434954,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T9C4WWdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "dreadfulRoar": "dreadfulRoar124",
+      "maleficBreath": "maleficBreath124",
+      "gloomAndDoom": "gloomAndDoom1",
+      "devourHope": "devourHope1"
+    },
+    "attackPower": 67410,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1960"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 33,
+    "upgradeXP": 3541426,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 10206746
+  },
+  {
+    "identifier": "T9C4WWdragon",
+    "level": 18,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "509400"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 7620808,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T9C4WWdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "dreadfulRoar": "dreadfulRoar125",
+      "maleficBreath": "maleficBreath125",
+      "gloomAndDoom": "gloomAndDoom1",
+      "devourHope": "devourHope1"
+    },
+    "attackPower": 69095,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1981"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 33,
+    "upgradeXP": 4821317,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 10723557
+  },
+  {
+    "identifier": "T9C4WWdragon",
+    "level": 19,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "683758"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 7811307,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T9C4WWdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "dreadfulRoar": "dreadfulRoar126",
+      "maleficBreath": "maleficBreath126",
+      "gloomAndDoom": "gloomAndDoom1",
+      "devourHope": "devourHope1"
+    },
+    "attackPower": 70822,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2002"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 34,
+    "upgradeXP": 4941848,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 11266400
+  },
+  {
+    "identifier": "T9C4WWdragon",
+    "level": 20,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "690931"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 8006567,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T9C4WWdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "dreadfulRoar": "dreadfulRoar127",
+      "maleficBreath": "maleficBreath127",
+      "gloomAndDoom": "gloomAndDoom1",
+      "devourHope": "devourHope1"
+    },
+    "attackPower": 72593,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2023"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 34,
+    "upgradeXP": 5065392,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 11836587
+  },
+  {
+    "identifier": "T9C4WWdragon",
+    "level": 21,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "698103"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 8206702,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T9C4WWdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "dreadfulRoar": "dreadfulRoar128",
+      "maleficBreath": "maleficBreath128",
+      "gloomAndDoom": "gloomAndDoom1",
+      "devourHope": "devourHope1"
+    },
+    "attackPower": 74408,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2044"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 34,
+    "upgradeXP": 5192023,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 12435804
+  },
+  {
+    "identifier": "T9C4WWdragon",
+    "level": 22,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "705275"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 8411846,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T9C4WWdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "dreadfulRoar": "dreadfulRoar129",
+      "maleficBreath": "maleficBreath129",
+      "gloomAndDoom": "gloomAndDoom1",
+      "devourHope": "devourHope1"
+    },
+    "attackPower": 76268,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2065"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 35,
+    "upgradeXP": 6509049,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 13065427
+  },
+  {
+    "identifier": "T9C4WWdragon",
+    "level": 23,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "871385"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 8622123,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T9C4WWdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "dreadfulRoar": "dreadfulRoar130",
+      "maleficBreath": "maleficBreath130",
+      "gloomAndDoom": "gloomAndDoom1",
+      "devourHope": "devourHope1"
+    },
+    "attackPower": 78174,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2086"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 35,
+    "upgradeXP": 6671774,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 13726680
+  },
+  {
+    "identifier": "T9C4WWdragon",
+    "level": 24,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "880157"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 8837659,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T9C4WWdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "dreadfulRoar": "dreadfulRoar131",
+      "maleficBreath": "maleficBreath131",
+      "gloomAndDoom": "gloomAndDoom1",
+      "devourHope": "devourHope1"
+    },
+    "attackPower": 80129,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2107"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 35,
+    "upgradeXP": 6838568,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 14421699
+  },
+  {
+    "identifier": "T9C4WWdragon",
+    "level": 25,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "888930"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 9058576,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T9C4WWdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "dreadfulRoar": "dreadfulRoar132",
+      "maleficBreath": "maleficBreath132",
+      "gloomAndDoom": "gloomAndDoom1",
+      "devourHope": "devourHope1"
+    },
+    "attackPower": 82132,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2128"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 36,
+    "upgradeXP": 7009529,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 15151772
+  },
+  {
+    "identifier": "T9C4WWdragon",
+    "level": 26,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "897702"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 9285007,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T9C4WWdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "dreadfulRoar": "dreadfulRoar133",
+      "maleficBreath": "maleficBreath133",
+      "gloomAndDoom": "gloomAndDoom1",
+      "devourHope": "devourHope1"
+    },
+    "attackPower": 84185,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2149"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 36,
+    "upgradeXP": 8399422,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 15918751
+  },
+  {
+    "identifier": "T9C4WWdragon",
+    "level": 27,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1059723"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 9517103,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T9C4WWdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "dreadfulRoar": "dreadfulRoar134",
+      "maleficBreath": "maleficBreath134",
+      "gloomAndDoom": "gloomAndDoom1",
+      "devourHope": "devourHope1"
+    },
+    "attackPower": 86290,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2170"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 36,
+    "upgradeXP": 8609405,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 16724524
+  },
+  {
+    "identifier": "T9C4WWdragon",
+    "level": 28,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1069979"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 9755009,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T9C4WWdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "dreadfulRoar": "dreadfulRoar135",
+      "maleficBreath": "maleficBreath135",
+      "gloomAndDoom": "gloomAndDoom1",
+      "devourHope": "devourHope1"
+    },
+    "attackPower": 88447,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2191"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 37,
+    "upgradeXP": 8824638,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 17571200
+  },
+  {
+    "identifier": "T9C4WWdragon",
+    "level": 29,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1080234"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 9998867,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T9C4WWdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "dreadfulRoar": "dreadfulRoar136",
+      "maleficBreath": "maleficBreath136",
+      "gloomAndDoom": "gloomAndDoom1",
+      "devourHope": "devourHope1"
+    },
+    "attackPower": 90658,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2212"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 37,
+    "upgradeXP": 9045247,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 18460565
+  },
+  {
+    "identifier": "T9C4WWdragon",
+    "level": 30,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1090489"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 10248819,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T9C4WWdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "dreadfulRoar": "dreadfulRoar137",
+      "maleficBreath": "maleficBreath137",
+      "gloomAndDoom": "gloomAndDoom1",
+      "devourHope": "devourHope1"
+    },
+    "attackPower": 92924,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2233"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 37,
+    "upgradeXP": 9271378,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 19395175
+  },
+  {
+    "identifier": "T9C4WWdragon",
+    "level": 31,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1100745"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 10505014,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T9C4WWdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "dreadfulRoar": "dreadfulRoar138",
+      "maleficBreath": "maleficBreath138",
+      "gloomAndDoom": "gloomAndDoom1",
+      "devourHope": "devourHope1"
+    },
+    "attackPower": 95247,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2254"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 38,
+    "upgradeXP": 9503159,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 20377084
+  },
+  {
+    "identifier": "T9C4WWdragon",
+    "level": 32,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1111000"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 10767617,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T9C4WWdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "dreadfulRoar": "dreadfulRoar139",
+      "maleficBreath": "maleficBreath139",
+      "gloomAndDoom": "gloomAndDoom1",
+      "devourHope": "devourHope1"
+    },
+    "attackPower": 97629,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2275"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 38,
+    "upgradeXP": 9740731,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 21408570
+  },
+  {
+    "identifier": "T9C4WWdragon",
+    "level": 33,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1121255"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 11036781,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T9C4WWdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "dreadfulRoar": "dreadfulRoar140",
+      "maleficBreath": "maleficBreath140",
+      "gloomAndDoom": "gloomAndDoom1",
+      "devourHope": "devourHope1"
+    },
+    "attackPower": 100069,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2296"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 38,
+    "upgradeXP": 9984246,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 22492332
+  },
+  {
+    "identifier": "T9C4WWdragon",
+    "level": 34,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1131511"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 11312674,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T9C4WWdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "dreadfulRoar": "dreadfulRoar141",
+      "maleficBreath": "maleficBreath141",
+      "gloomAndDoom": "gloomAndDoom1",
+      "devourHope": "devourHope1"
+    },
+    "attackPower": 102571,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2317"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 39,
+    "upgradeXP": 10233848,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 23630933
+  },
+  {
+    "identifier": "T9C4WWdragon",
+    "level": 35,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1141766"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 11595464,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T9C4WWdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "dreadfulRoar": "dreadfulRoar142",
+      "maleficBreath": "maleficBreath142",
+      "gloomAndDoom": "gloomAndDoom1",
+      "devourHope": "devourHope1"
+    },
+    "attackPower": 105135,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2338"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 39,
+    "upgradeXP": 0,
+    "xpRewardMultiplier": 1.2,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 24827179
+  }
+]

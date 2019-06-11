@@ -1,0 +1,641 @@
+[
+  {
+    "identifier": "T3C1WEdragon",
+    "level": 1,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "0"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 46473,
+    "fullHealDuration": 1351,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T3C1WEdragon_flamethrower"
+      }
+    ],
+    "abilities": {},
+    "attackPower": 708,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "34"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 3,
+    "upgradeXP": 3670,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 420
+  },
+  {
+    "identifier": "T3C1WEdragon",
+    "level": 2,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "2285"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 50533,
+    "fullHealDuration": 1580,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T3C1WEdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "chargedShield": "chargedShield1"
+    },
+    "attackPower": 762,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "36"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 3,
+    "upgradeXP": 4796,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 740
+  },
+  {
+    "identifier": "T3C1WEdragon",
+    "level": 3,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "2592"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 55458,
+    "fullHealDuration": 1882,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T3C1WEdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "chargedShield": "chargedShield1"
+    },
+    "attackPower": 826,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "40"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 3,
+    "upgradeXP": 6269,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 875
+  },
+  {
+    "identifier": "T3C1WEdragon",
+    "level": 4,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "3881"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 60112,
+    "fullHealDuration": 2220,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T3C1WEdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "chargedShield": "chargedShield1"
+    },
+    "attackPower": 899,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "44"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 3,
+    "upgradeXP": 8076,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 1035
+  },
+  {
+    "identifier": "T3C1WEdragon",
+    "level": 5,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "4320"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 65731,
+    "fullHealDuration": 2619,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T3C1WEdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "chargedShield": "chargedShield1",
+      "trebuchetResist01": "trebuchetResist01"
+    },
+    "attackPower": 970,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "48"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 4,
+    "upgradeXP": 10109,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 1632
+  },
+  {
+    "identifier": "T3C1WEdragon",
+    "level": 6,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "4774"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 71034,
+    "fullHealDuration": 3019,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T3C1WEdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "chargedShield": "chargedShield1",
+      "trebuchetResist01": "trebuchetResist01"
+    },
+    "attackPower": 1035,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "52"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 4,
+    "upgradeXP": 11544,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 1875
+  },
+  {
+    "identifier": "T3C1WEdragon",
+    "level": 7,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "6552"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 89311,
+    "fullHealDuration": 4023,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T3C1WEdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "chargedShield": "chargedShield1",
+      "trebuchetResist01": "trebuchetResist01"
+    },
+    "attackPower": 1097,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "56"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 4,
+    "upgradeXP": 13035,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 2496
+  },
+  {
+    "identifier": "T3C1WEdragon",
+    "level": 8,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "7155"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 92666,
+    "fullHealDuration": 4380,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T3C1WEdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "chargedShield": "chargedShield1",
+      "trebuchetResist01": "trebuchetResist01"
+    },
+    "attackPower": 1151,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "60"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 4,
+    "upgradeXP": 14850,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 2727
+  },
+  {
+    "identifier": "T3C1WEdragon",
+    "level": 9,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "7776"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 97043,
+    "fullHealDuration": 4777,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T3C1WEdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "chargedShield": "chargedShield1",
+      "trebuchetResist01": "trebuchetResist01"
+    },
+    "attackPower": 1199,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "64"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 5,
+    "upgradeXP": 22253,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 2968
+  },
+  {
+    "identifier": "T3C1WEdragon",
+    "level": 10,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "13413"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 100697,
+    "fullHealDuration": 5192,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T3C1WEdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "chargedShield": "chargedShield1",
+      "trebuchetResist01": "trebuchetResist01"
+    },
+    "attackPower": 1255,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "68"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 5,
+    "upgradeXP": 25097,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 3219
+  },
+  {
+    "identifier": "T3C1WEdragon",
+    "level": 11,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "14460"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 104545,
+    "fullHealDuration": 5559,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T3C1WEdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "chargedShield": "chargedShield1",
+      "trebuchetResist01": "trebuchetResist01"
+    },
+    "attackPower": 1324,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "72"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 5,
+    "upgradeXP": 34609,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 3510
+  },
+  {
+    "identifier": "T3C1WEdragon",
+    "level": 12,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "19251"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 112251,
+    "fullHealDuration": 6118,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T3C1WEdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "chargedShield": "chargedShield1",
+      "trebuchetResist01": "trebuchetResist01"
+    },
+    "attackPower": 1402,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "77"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 5,
+    "upgradeXP": 39008,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 3999
+  },
+  {
+    "identifier": "T3C1WEdragon",
+    "level": 13,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "24338"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 120490,
+    "fullHealDuration": 6765,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T3C1WEdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "chargedShield": "chargedShield1",
+      "trebuchetResist01": "trebuchetResist01"
+    },
+    "attackPower": 1493,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "82"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 6,
+    "upgradeXP": 50954,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 4576
+  },
+  {
+    "identifier": "T3C1WEdragon",
+    "level": 14,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "30708"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 128206,
+    "fullHealDuration": 7464,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T3C1WEdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "chargedShield": "chargedShield1",
+      "trebuchetResist01": "trebuchetResist01"
+    },
+    "attackPower": 1599,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "87"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 6,
+    "upgradeXP": 57406,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 5214
+  },
+  {
+    "identifier": "T3C1WEdragon",
+    "level": 15,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "33023"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 137552,
+    "fullHealDuration": 8273,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T3C1WEdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "chargedShield": "chargedShield1",
+      "trebuchetResist01": "trebuchetResist01"
+    },
+    "attackPower": 1710,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "92"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 6,
+    "upgradeXP": 0,
+    "xpRewardMultiplier": 1.2,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 5984
+  }
+]

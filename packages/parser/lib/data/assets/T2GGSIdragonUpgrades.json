@@ -1,0 +1,303 @@
+[
+  {
+    "identifier": "T2GGSIdragon",
+    "level": 1,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "0"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 46450,
+    "fullHealDuration": 2220,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T2GGSIdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "aoeSpell": "aoe2",
+      "chainLightning": "chainLightning2"
+    },
+    "attackPower": 3774,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "44"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 3,
+    "upgradeXP": 4945,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 1380
+  },
+  {
+    "identifier": "T2GGSIdragon",
+    "level": 2,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "3456"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 50792,
+    "fullHealDuration": 2619,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T2GGSIdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "aoeSpell": "aoe2",
+      "chainLightning": "chainLightning2"
+    },
+    "attackPower": 4072,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "48"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 4,
+    "upgradeXP": 6363,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 1632
+  },
+  {
+    "identifier": "T2GGSIdragon",
+    "level": 3,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "3819"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 54890,
+    "fullHealDuration": 3019,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T2GGSIdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "aoeSpell": "aoe2",
+      "chainLightning": "chainLightning2"
+    },
+    "attackPower": 4343,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "52"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 4,
+    "upgradeXP": 8362,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 1875
+  },
+  {
+    "identifier": "T2GGSIdragon",
+    "level": 4,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "5242"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 69013,
+    "fullHealDuration": 4023,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T2GGSIdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "aoeSpell": "aoe2",
+      "chainLightning": "chainLightning2"
+    },
+    "attackPower": 4602,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "56"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 4,
+    "upgradeXP": 10613,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 2496
+  },
+  {
+    "identifier": "T2GGSIdragon",
+    "level": 5,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "5724"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 71605,
+    "fullHealDuration": 4380,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T2GGSIdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "aoeSpell": "aoe2",
+      "chainLightning": "chainLightning2"
+    },
+    "attackPower": 4829,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "60"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 4,
+    "upgradeXP": 13365,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 2727
+  },
+  {
+    "identifier": "T2GGSIdragon",
+    "level": 6,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "6221"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 74988,
+    "fullHealDuration": 4777,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T2GGSIdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "aoeSpell": "aoe2",
+      "chainLightning": "chainLightning2"
+    },
+    "attackPower": 5030,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "64"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 5,
+    "upgradeXP": 15078,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 2968
+  },
+  {
+    "identifier": "T2GGSIdragon",
+    "level": 7,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "8079"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 77811,
+    "fullHealDuration": 5192,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T2GGSIdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "aoeSpell": "aoe2",
+      "chainLightning": "chainLightning2"
+    },
+    "attackPower": 5268,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "68"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 5,
+    "upgradeXP": 0,
+    "xpRewardMultiplier": 1.2,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 3219
+  }
+]

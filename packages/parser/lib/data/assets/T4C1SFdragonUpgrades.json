@@ -1,0 +1,641 @@
+[
+  {
+    "identifier": "T4C1SFdragon",
+    "level": 1,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "0"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 54890,
+    "fullHealDuration": 3019,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T4C1SFdragon_lockon"
+      }
+    ],
+    "abilities": {},
+    "attackPower": 4343,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "52"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 4,
+    "upgradeXP": 7106,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 938
+  },
+  {
+    "identifier": "T4C1SFdragon",
+    "level": 2,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "6552"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 69013,
+    "fullHealDuration": 4023,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T4C1SFdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "invincibleSpell": "invincible1"
+    },
+    "attackPower": 4602,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "56"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 4,
+    "upgradeXP": 9116,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 1872
+  },
+  {
+    "identifier": "T4C1SFdragon",
+    "level": 3,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "7155"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 71605,
+    "fullHealDuration": 4380,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T4C1SFdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "invincibleSpell": "invincible1"
+    },
+    "attackPower": 4829,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "60"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 4,
+    "upgradeXP": 11951,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 2045
+  },
+  {
+    "identifier": "T4C1SFdragon",
+    "level": 4,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "7777"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 74988,
+    "fullHealDuration": 4777,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T4C1SFdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "invincibleSpell": "invincible1"
+    },
+    "attackPower": 5030,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "64"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 5,
+    "upgradeXP": 15156,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 2226
+  },
+  {
+    "identifier": "T4C1SFdragon",
+    "level": 5,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "10098"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 77811,
+    "fullHealDuration": 5192,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T4C1SFdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "invincibleSpell": "invincible1",
+      "stormResist01": "stormResist01"
+    },
+    "attackPower": 5268,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "68"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 5,
+    "upgradeXP": 18895,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 3219
+  },
+  {
+    "identifier": "T4C1SFdragon",
+    "level": 6,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "10887"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 80785,
+    "fullHealDuration": 5559,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T4C1SFdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "invincibleSpell": "invincible1",
+      "stormResist01": "stormResist01"
+    },
+    "attackPower": 5558,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "72"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 5,
+    "upgradeXP": 21304,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 3510
+  },
+  {
+    "identifier": "T4C1SFdragon",
+    "level": 7,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "11851"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 86740,
+    "fullHealDuration": 6118,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T4C1SFdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "invincibleSpell": "invincible1",
+      "stormResist01": "stormResist01"
+    },
+    "attackPower": 5882,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "77"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 5,
+    "upgradeXP": 24012,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 3999
+  },
+  {
+    "identifier": "T4C1SFdragon",
+    "level": 8,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "14982"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 93106,
+    "fullHealDuration": 6765,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T4C1SFdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "invincibleSpell": "invincible1",
+      "stormResist01": "stormResist01"
+    },
+    "attackPower": 6265,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "82"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 6,
+    "upgradeXP": 26830,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 4576
+  },
+  {
+    "identifier": "T4C1SFdragon",
+    "level": 9,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "16169"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 99069,
+    "fullHealDuration": 7464,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T4C1SFdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "invincibleSpell": "invincible1",
+      "stormResist01": "stormResist01"
+    },
+    "attackPower": 6712,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "87"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 6,
+    "upgradeXP": 40148,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 5214
+  },
+  {
+    "identifier": "T4C1SFdragon",
+    "level": 10,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "23095"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 106290,
+    "fullHealDuration": 8273,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T4C1SFdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "invincibleSpell": "invincible1",
+      "stormResist01": "stormResist01"
+    },
+    "attackPower": 7177,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "92"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 6,
+    "upgradeXP": 45219,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 5984
+  },
+  {
+    "identifier": "T4C1SFdragon",
+    "level": 11,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "27829"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 114009,
+    "fullHealDuration": 9169,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T4C1SFdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "invincibleSpell": "invincible1",
+      "stormResist01": "stormResist01"
+    },
+    "attackPower": 7674,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "97"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 6,
+    "upgradeXP": 61775,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 6860
+  },
+  {
+    "identifier": "T4C1SFdragon",
+    "level": 12,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "35792"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 121272,
+    "fullHealDuration": 10109,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T4C1SFdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "invincibleSpell": "invincible1",
+      "stormResist01": "stormResist01"
+    },
+    "attackPower": 8216,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "102"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 7,
+    "upgradeXP": 69552,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 7812
+  },
+  {
+    "identifier": "T4C1SFdragon",
+    "level": 13,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "37546"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 130029,
+    "fullHealDuration": 11196,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T4C1SFdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "invincibleSpell": "invincible1",
+      "stormResist01": "stormResist01"
+    },
+    "attackPower": 8781,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "107"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 7,
+    "upgradeXP": 91521,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 8954
+  },
+  {
+    "identifier": "T4C1SFdragon",
+    "level": 14,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "57431"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 139386,
+    "fullHealDuration": 12329,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T4C1SFdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "invincibleSpell": "invincible1",
+      "stormResist01": "stormResist01"
+    },
+    "attackPower": 9315,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "112"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 7,
+    "upgradeXP": 102191,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 10184
+  },
+  {
+    "identifier": "T4C1SFdragon",
+    "level": 15,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "61533"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 148225,
+    "fullHealDuration": 13442,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T4C1SFdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "invincibleSpell": "invincible1",
+      "stormResist01": "stormResist01"
+    },
+    "attackPower": 9829,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "120"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 8,
+    "upgradeXP": 0,
+    "xpRewardMultiplier": 1.2,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 11427
+  }
+]

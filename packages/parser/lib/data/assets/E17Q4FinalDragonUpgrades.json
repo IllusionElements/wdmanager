@@ -1,0 +1,2875 @@
+[
+  {
+    "identifier": "E17Q4FinalDragon",
+    "level": 1,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "0"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 181357,
+    "fullHealDuration": 16802,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "E17Q4FinalDragon_fireball"
+      }
+    ],
+    "abilities": {
+      "umbralSpike": "tidalSurge1",
+      "dissipate": "riptide1"
+    },
+    "attackPower": 13530,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "210"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 8,
+    "upgradeXP": 54809,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 15449,
+    "nextEvolveLevel": 3,
+    "tierNumber": 4,
+    "rarity": 6
+  },
+  {
+    "identifier": "E17Q4FinalDragon",
+    "level": 2,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "57600"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 288710,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "E17Q4FinalDragon_fireball"
+      }
+    ],
+    "abilities": {
+      "umbralSpike": "tidalSurge1",
+      "dissipate": "riptide1"
+    },
+    "attackPower": 18800,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "322"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 10,
+    "upgradeXP": 122634,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 34206,
+    "nextEvolveLevel": 3,
+    "tierNumber": 4,
+    "rarity": 6
+  },
+  {
+    "identifier": "E17Q4FinalDragon",
+    "level": 3,
+    "upgradeCost": [
+      {
+        "type": "E17Q4FinalDragonGreenStone",
+        "amount": "1"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "have2GreenEpic",
+    "HP": 456251,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "E17Q4FinalDragon_fireball"
+      }
+    ],
+    "abilities": {
+      "umbralSpike": "tidalSurge1",
+      "dissipate": "riptide1",
+      "frostbite": "corrosiveBrine1"
+    },
+    "attackPower": 29448,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "469"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 14,
+    "upgradeXP": 229466,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 84626,
+    "nextEvolveLevel": 6,
+    "tierNumber": 5,
+    "rarity": 6
+  },
+  {
+    "identifier": "E17Q4FinalDragon",
+    "level": 4,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "126000"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 618662,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "E17Q4FinalDragon_fireball"
+      }
+    ],
+    "abilities": {
+      "umbralSpike": "tidalSurge1",
+      "dissipate": "riptide1",
+      "frostbite": "corrosiveBrine1"
+    },
+    "attackPower": 35273,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "553"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 16,
+    "upgradeXP": 342244,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 137482,
+    "nextEvolveLevel": 6,
+    "tierNumber": 5,
+    "rarity": 6
+  },
+  {
+    "identifier": "E17Q4FinalDragon",
+    "level": 5,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "147600"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 712172,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "E17Q4FinalDragon_fireball"
+      }
+    ],
+    "abilities": {
+      "umbralSpike": "tidalSurge1",
+      "dissipate": "riptide1",
+      "frostbite": "corrosiveBrine1"
+    },
+    "attackPower": 40866,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "616"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 17,
+    "upgradeXP": 465988,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 183331,
+    "nextEvolveLevel": 6,
+    "tierNumber": 5,
+    "rarity": 6
+  },
+  {
+    "identifier": "E17Q4FinalDragon",
+    "level": 6,
+    "upgradeCost": [
+      {
+        "type": "E17Q4FinalDragonGoldStone",
+        "amount": "1"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "haveGoldLegendary",
+    "HP": 920482,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "E17Q4FinalDragon_fireball"
+      }
+    ],
+    "abilities": {
+      "umbralSpike": "tidalSurge1",
+      "dissipate": "riptide1",
+      "frostbite": "corrosiveBrine1",
+      "iceTurretResist01": "iceTurretResist01"
+    },
+    "attackPower": 52452,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "700"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 18,
+    "upgradeXP": 665492,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 304232,
+    "nextEvolveLevel": 14,
+    "tierNumber": 6,
+    "rarity": 6
+  },
+  {
+    "identifier": "E17Q4FinalDragon",
+    "level": 7,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "185400"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 1337145,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "E17Q4FinalDragon_fireball"
+      }
+    ],
+    "abilities": {
+      "umbralSpike": "tidalSurge1",
+      "dissipate": "riptide1",
+      "frostbite": "corrosiveBrine1",
+      "iceTurretResist01": "iceTurretResist01"
+    },
+    "attackPower": 75895,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "826"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 18,
+    "upgradeXP": 933488,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 639388,
+    "nextEvolveLevel": 14,
+    "tierNumber": 6,
+    "rarity": 6
+  },
+  {
+    "identifier": "E17Q4FinalDragon",
+    "level": 8,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "217800"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 1653213,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "E17Q4FinalDragon_fireball"
+      }
+    ],
+    "abilities": {
+      "umbralSpike": "tidalSurge1",
+      "dissipate": "riptide1",
+      "frostbite": "corrosiveBrine1",
+      "iceTurretResist01": "iceTurretResist01"
+    },
+    "attackPower": 93910,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "952"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 18,
+    "upgradeXP": 1082546,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 978199,
+    "nextEvolveLevel": 14,
+    "tierNumber": 6,
+    "rarity": 6
+  },
+  {
+    "identifier": "E17Q4FinalDragon",
+    "level": 9,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "250200"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 1917151,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "E17Q4FinalDragon_fireball"
+      }
+    ],
+    "abilities": {
+      "umbralSpike": "tidalSurge1",
+      "dissipate": "riptide1",
+      "frostbite": "corrosiveBrine1",
+      "iceTurretResist01": "iceTurretResist01"
+    },
+    "attackPower": 108905,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1078"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 19,
+    "upgradeXP": 1255412,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 1315512,
+    "nextEvolveLevel": 14,
+    "tierNumber": 6,
+    "rarity": 6
+  },
+  {
+    "identifier": "E17Q4FinalDragon",
+    "level": 10,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "282600"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "have2LegendaryGold",
+    "HP": 2223207,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "E17Q4FinalDragon_fireball"
+      }
+    ],
+    "abilities": {
+      "umbralSpike": "tidalSurge1",
+      "dissipate": "riptide1",
+      "frostbite": "corrosiveBrine1",
+      "iceTurretResist01": "iceTurretResist01"
+    },
+    "attackPower": 126296,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1204"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 21,
+    "upgradeXP": 1455891,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 1769054,
+    "nextEvolveLevel": 14,
+    "tierNumber": 6,
+    "rarity": 6
+  },
+  {
+    "identifier": "E17Q4FinalDragon",
+    "level": 11,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "315000"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 2453947,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "E17Q4FinalDragon_fireball"
+      }
+    ],
+    "abilities": {
+      "umbralSpike": "tidalSurge1",
+      "dissipate": "riptide1",
+      "frostbite": "corrosiveBrine1",
+      "iceTurretResist01": "iceTurretResist01"
+    },
+    "attackPower": 139407,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1288"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 22,
+    "upgradeXP": 1607022,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 2155326,
+    "nextEvolveLevel": 14,
+    "tierNumber": 6,
+    "rarity": 6
+  },
+  {
+    "identifier": "E17Q4FinalDragon",
+    "level": 12,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "336600"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 2708668,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "E17Q4FinalDragon_fireball"
+      }
+    ],
+    "abilities": {
+      "umbralSpike": "tidalSurge1",
+      "dissipate": "riptide1",
+      "frostbite": "corrosiveBrine1",
+      "iceTurretResist01": "iceTurretResist01"
+    },
+    "attackPower": 153878,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1372"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 24,
+    "upgradeXP": 1773847,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 2626082,
+    "nextEvolveLevel": 14,
+    "tierNumber": 6,
+    "rarity": 6
+  },
+  {
+    "identifier": "E17Q4FinalDragon",
+    "level": 13,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "358200"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 2989793,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "E17Q4FinalDragon_fireball"
+      }
+    ],
+    "abilities": {
+      "umbralSpike": "tidalSurge1",
+      "dissipate": "riptide1",
+      "frostbite": "corrosiveBrine1",
+      "iceTurretResist01": "iceTurretResist01"
+    },
+    "attackPower": 165642,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1456"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 25,
+    "upgradeXP": 1957988,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 3120281,
+    "nextEvolveLevel": 14,
+    "tierNumber": 6,
+    "rarity": 6
+  },
+  {
+    "identifier": "E17Q4FinalDragon",
+    "level": 14,
+    "upgradeCost": [
+      {
+        "type": "E17Q4FinalDragonPlatinumStone",
+        "amount": "1"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "havePlatinumLegendary",
+    "HP": 3219628,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "E17Q4FinalDragon_fireball"
+      }
+    ],
+    "abilities": {
+      "umbralSpike": "tidalSurge1",
+      "dissipate": "riptide1",
+      "frostbite": "corrosiveBrine1",
+      "iceTurretResist01": "iceTurretResist01"
+    },
+    "attackPower": 178378,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1519"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 26,
+    "upgradeXP": 2108537,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 3618428,
+    "nextEvolveLevel": 22,
+    "tierNumber": 7,
+    "rarity": 6
+  },
+  {
+    "identifier": "E17Q4FinalDragon",
+    "level": 15,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "396000"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 3300105,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "E17Q4FinalDragon_fireball"
+      }
+    ],
+    "abilities": {
+      "umbralSpike": "tidalSurge1",
+      "dissipate": "riptide1",
+      "frostbite": "corrosiveBrine1",
+      "iceTurretResist01": "iceTurretResist01"
+    },
+    "attackPower": 182837,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1540"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 26,
+    "upgradeXP": 2161250,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 3801618,
+    "nextEvolveLevel": 22,
+    "tierNumber": 7,
+    "rarity": 6
+  },
+  {
+    "identifier": "E17Q4FinalDragon",
+    "level": 16,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "401400"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 3382590,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "E17Q4FinalDragon_fireball"
+      }
+    ],
+    "abilities": {
+      "umbralSpike": "tidalSurge1",
+      "dissipate": "riptide1",
+      "frostbite": "corrosiveBrine1",
+      "iceTurretResist01": "iceTurretResist01"
+    },
+    "attackPower": 187408,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1561"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 27,
+    "upgradeXP": 2215281,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 3994045,
+    "nextEvolveLevel": 22,
+    "tierNumber": 7,
+    "rarity": 6
+  },
+  {
+    "identifier": "E17Q4FinalDragon",
+    "level": 17,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "406800"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 3467142,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "E17Q4FinalDragon_fireball"
+      }
+    ],
+    "abilities": {
+      "umbralSpike": "tidalSurge1",
+      "dissipate": "riptide1",
+      "frostbite": "corrosiveBrine1",
+      "iceTurretResist01": "iceTurretResist01"
+    },
+    "attackPower": 192093,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1582"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 27,
+    "upgradeXP": 2270662,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 4196175,
+    "nextEvolveLevel": 22,
+    "tierNumber": 7,
+    "rarity": 6
+  },
+  {
+    "identifier": "E17Q4FinalDragon",
+    "level": 18,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "412200"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "have2LegendaryPlatinum",
+    "HP": 3553810,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "E17Q4FinalDragon_fireball"
+      }
+    ],
+    "abilities": {
+      "umbralSpike": "tidalSurge1",
+      "dissipate": "riptide1",
+      "frostbite": "corrosiveBrine1",
+      "iceTurretResist01": "iceTurretResist01"
+    },
+    "attackPower": 196896,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1603"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 27,
+    "upgradeXP": 3091290,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 4408635,
+    "nextEvolveLevel": 22,
+    "tierNumber": 7,
+    "rarity": 6
+  },
+  {
+    "identifier": "E17Q4FinalDragon",
+    "level": 19,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "554657"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 3733699,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "E17Q4FinalDragon_fireball"
+      }
+    ],
+    "abilities": {
+      "umbralSpike": "tidalSurge1",
+      "dissipate": "riptide1",
+      "frostbite": "corrosiveBrine1",
+      "iceTurretResist01": "iceTurretResist01"
+    },
+    "attackPower": 206863,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1645"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 28,
+    "upgradeXP": 3247784,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 4866239,
+    "nextEvolveLevel": 22,
+    "tierNumber": 7,
+    "rarity": 6
+  },
+  {
+    "identifier": "E17Q4FinalDragon",
+    "level": 20,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "569002"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 3922691,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "E17Q4FinalDragon_fireball"
+      }
+    ],
+    "abilities": {
+      "umbralSpike": "tidalSurge1",
+      "dissipate": "riptide1",
+      "frostbite": "corrosiveBrine1",
+      "iceTurretResist01": "iceTurretResist01"
+    },
+    "attackPower": 217335,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1687"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 29,
+    "upgradeXP": 3412197,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 5371377,
+    "nextEvolveLevel": 22,
+    "tierNumber": 7,
+    "rarity": 6
+  },
+  {
+    "identifier": "E17Q4FinalDragon",
+    "level": 21,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "583346"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 4121240,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "E17Q4FinalDragon_fireball"
+      }
+    ],
+    "abilities": {
+      "umbralSpike": "tidalSurge1",
+      "dissipate": "riptide1",
+      "frostbite": "corrosiveBrine1",
+      "iceTurretResist01": "iceTurretResist01"
+    },
+    "attackPower": 228338,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1729"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 29,
+    "upgradeXP": 3584936,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 5929084,
+    "nextEvolveLevel": 22,
+    "tierNumber": 7,
+    "rarity": 6
+  },
+  {
+    "identifier": "E17Q4FinalDragon",
+    "level": 22,
+    "upgradeCost": [
+      {
+        "type": "E17Q4FinalDragonSapphireStone",
+        "amount": "1"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "haveLegendarySapphire",
+    "HP": 4329839,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "E17Q4FinalDragon_fireball"
+      }
+    ],
+    "abilities": {
+      "umbralSpike": "tidalSurge1",
+      "dissipate": "riptide1",
+      "frostbite": "corrosiveBrine1",
+      "iceTurretResist01": "iceTurretResist01"
+    },
+    "attackPower": 239897,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1771"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 30,
+    "upgradeXP": 4606659,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 6544464,
+    "nextEvolveLevel": 30,
+    "tierNumber": 8,
+    "rarity": 6
+  },
+  {
+    "identifier": "E17Q4FinalDragon",
+    "level": 23,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "748572"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 4438074,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "E17Q4FinalDragon_fireball"
+      }
+    ],
+    "abilities": {
+      "umbralSpike": "tidalSurge1",
+      "dissipate": "riptide1",
+      "frostbite": "corrosiveBrine1",
+      "iceTurretResist01": "iceTurretResist01"
+    },
+    "attackPower": 245894,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1792"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 30,
+    "upgradeXP": 4721824,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 6875672,
+    "nextEvolveLevel": 30,
+    "tierNumber": 8,
+    "rarity": 6
+  },
+  {
+    "identifier": "E17Q4FinalDragon",
+    "level": 24,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "757345"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 4662738,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "E17Q4FinalDragon_fireball"
+      }
+    ],
+    "abilities": {
+      "umbralSpike": "tidalSurge1",
+      "dissipate": "riptide1",
+      "frostbite": "corrosiveBrine1",
+      "iceTurretResist01": "iceTurretResist01"
+    },
+    "attackPower": 258342,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1834"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 31,
+    "upgradeXP": 4960859,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 7589447,
+    "nextEvolveLevel": 30,
+    "tierNumber": 8,
+    "rarity": 6
+  },
+  {
+    "identifier": "E17Q4FinalDragon",
+    "level": 25,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "774889"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 4898757,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "E17Q4FinalDragon_fireball"
+      }
+    ],
+    "abilities": {
+      "umbralSpike": "tidalSurge1",
+      "dissipate": "riptide1",
+      "frostbite": "corrosiveBrine1",
+      "iceTurretResist01": "iceTurretResist01"
+    },
+    "attackPower": 271421,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1876"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 32,
+    "upgradeXP": 5212002,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 8377262,
+    "nextEvolveLevel": 30,
+    "tierNumber": 8,
+    "rarity": 6
+  },
+  {
+    "identifier": "E17Q4FinalDragon",
+    "level": 26,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "792434"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "have2LegendarySapphire",
+    "HP": 5146721,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "E17Q4FinalDragon_fireball"
+      }
+    ],
+    "abilities": {
+      "umbralSpike": "tidalSurge1",
+      "dissipate": "riptide1",
+      "frostbite": "corrosiveBrine1",
+      "iceTurretResist01": "iceTurretResist01"
+    },
+    "attackPower": 285161,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1918"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 32,
+    "upgradeXP": 6401605,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 9246926,
+    "nextEvolveLevel": 30,
+    "tierNumber": 8,
+    "rarity": 6
+  },
+  {
+    "identifier": "E17Q4FinalDragon",
+    "level": 27,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "946914"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 5407239,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "E17Q4FinalDragon_fireball"
+      }
+    ],
+    "abilities": {
+      "umbralSpike": "tidalSurge1",
+      "dissipate": "riptide1",
+      "frostbite": "corrosiveBrine1",
+      "iceTurretResist01": "iceTurretResist01"
+    },
+    "attackPower": 299597,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1960"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 33,
+    "upgradeXP": 6725680,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 10206746,
+    "nextEvolveLevel": 30,
+    "tierNumber": 8,
+    "rarity": 6
+  },
+  {
+    "identifier": "E17Q4FinalDragon",
+    "level": 28,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "967425"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 5680951,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "E17Q4FinalDragon_fireball"
+      }
+    ],
+    "abilities": {
+      "umbralSpike": "tidalSurge1",
+      "dissipate": "riptide1",
+      "frostbite": "corrosiveBrine1",
+      "iceTurretResist01": "iceTurretResist01"
+    },
+    "attackPower": 314764,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2002"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 34,
+    "upgradeXP": 7066161,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 11266400,
+    "nextEvolveLevel": 30,
+    "tierNumber": 8,
+    "rarity": 6
+  },
+  {
+    "identifier": "E17Q4FinalDragon",
+    "level": 29,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "987935"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 5968511,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "E17Q4FinalDragon_fireball"
+      }
+    ],
+    "abilities": {
+      "umbralSpike": "tidalSurge1",
+      "dissipate": "riptide1",
+      "frostbite": "corrosiveBrine1",
+      "iceTurretResist01": "iceTurretResist01"
+    },
+    "attackPower": 330698,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2044"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 34,
+    "upgradeXP": 7423876,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 12435804,
+    "nextEvolveLevel": 30,
+    "tierNumber": 8,
+    "rarity": 6
+  },
+  {
+    "identifier": "E17Q4FinalDragon",
+    "level": 30,
+    "upgradeCost": [
+      {
+        "type": "E17Q4FinalDragonGarnetStone",
+        "amount": "1"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "haveLegendaryGarnet",
+    "HP": 6427388,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "E17Q4FinalDragon_fireball"
+      }
+    ],
+    "abilities": {
+      "umbralSpike": "tidalSurge1",
+      "dissipate": "riptide1",
+      "frostbite": "corrosiveBrine1",
+      "iceTurretResist01": "iceTurretResist01"
+    },
+    "attackPower": 356126,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2107"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 35,
+    "upgradeXP": 7994700,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 14421699,
+    "nextEvolveLevel": 38,
+    "tierNumber": 9,
+    "rarity": 6
+  },
+  {
+    "identifier": "E17Q4FinalDragon",
+    "level": 31,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1039212"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 6752733,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "E17Q4FinalDragon_fireball"
+      }
+    ],
+    "abilities": {
+      "umbralSpike": "tidalSurge1",
+      "dissipate": "riptide1",
+      "frostbite": "corrosiveBrine1",
+      "iceTurretResist01": "iceTurretResist01"
+    },
+    "attackPower": 374154,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2149"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 36,
+    "upgradeXP": 8399422,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 15918751,
+    "nextEvolveLevel": 38,
+    "tierNumber": 9,
+    "rarity": 6
+  },
+  {
+    "identifier": "E17Q4FinalDragon",
+    "level": 32,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1059723"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 7094552,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "E17Q4FinalDragon_fireball"
+      }
+    ],
+    "abilities": {
+      "umbralSpike": "tidalSurge1",
+      "dissipate": "riptide1",
+      "frostbite": "corrosiveBrine1",
+      "iceTurretResist01": "iceTurretResist01"
+    },
+    "attackPower": 393095,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2191"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 37,
+    "upgradeXP": 8824638,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 17571200,
+    "nextEvolveLevel": 38,
+    "tierNumber": 9,
+    "rarity": 6
+  },
+  {
+    "identifier": "E17Q4FinalDragon",
+    "level": 33,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1080234"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 7640010,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "E17Q4FinalDragon_fireball"
+      }
+    ],
+    "abilities": {
+      "umbralSpike": "tidalSurge1",
+      "dissipate": "riptide1",
+      "frostbite": "corrosiveBrine1",
+      "iceTurretResist01": "iceTurretResist01"
+    },
+    "attackPower": 423320,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2254"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 38,
+    "upgradeXP": 9503159,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 20377084,
+    "nextEvolveLevel": 38,
+    "tierNumber": 9,
+    "rarity": 6
+  },
+  {
+    "identifier": "E17Q4FinalDragon",
+    "level": 34,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1111000"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "have2LegendaryGarnet",
+    "HP": 8026750,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "E17Q4FinalDragon_fireball"
+      }
+    ],
+    "abilities": {
+      "umbralSpike": "tidalSurge1",
+      "dissipate": "riptide1",
+      "frostbite": "corrosiveBrine1",
+      "iceTurretResist01": "iceTurretResist01"
+    },
+    "attackPower": 444750,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2296"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 38,
+    "upgradeXP": 9984246,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 22492332,
+    "nextEvolveLevel": 38,
+    "tierNumber": 9,
+    "rarity": 6
+  },
+  {
+    "identifier": "E17Q4FinalDragon",
+    "level": 35,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1131511"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 8643872,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "E17Q4FinalDragon_fireball"
+      }
+    ],
+    "abilities": {
+      "umbralSpike": "tidalSurge1",
+      "dissipate": "riptide1",
+      "frostbite": "corrosiveBrine1",
+      "iceTurretResist01": "iceTurretResist01"
+    },
+    "attackPower": 478947,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2359"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 39,
+    "upgradeXP": 10751928,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 26083926,
+    "nextEvolveLevel": 38,
+    "tierNumber": 9,
+    "rarity": 6
+  },
+  {
+    "identifier": "E17Q4FinalDragon",
+    "level": 36,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1162277"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 9308469,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "E17Q4FinalDragon_fireball"
+      }
+    ],
+    "abilities": {
+      "umbralSpike": "tidalSurge1",
+      "dissipate": "riptide1",
+      "frostbite": "corrosiveBrine1",
+      "iceTurretResist01": "iceTurretResist01"
+    },
+    "attackPower": 515773,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2422"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 41,
+    "upgradeXP": 11578644,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 30249140,
+    "nextEvolveLevel": 38,
+    "tierNumber": 9,
+    "rarity": 6
+  },
+  {
+    "identifier": "E17Q4FinalDragon",
+    "level": 37,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1193043"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 10024152,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "E17Q4FinalDragon_fireball"
+      }
+    ],
+    "abilities": {
+      "umbralSpike": "tidalSurge1",
+      "dissipate": "riptide1",
+      "frostbite": "corrosiveBrine1",
+      "iceTurretResist01": "iceTurretResist01"
+    },
+    "attackPower": 555430,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2485"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 42,
+    "upgradeXP": 12468930,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 35079550,
+    "nextEvolveLevel": 38,
+    "tierNumber": 9,
+    "rarity": 6
+  },
+  {
+    "identifier": "E17Q4FinalDragon",
+    "level": 38,
+    "upgradeCost": [
+      {
+        "type": "E17Q4FinalDragonEmeraldStone",
+        "amount": "1"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "haveLegendaryEmerald",
+    "HP": 10794856,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "E17Q4FinalDragon_fireball"
+      }
+    ],
+    "abilities": {
+      "umbralSpike": "tidalSurge1",
+      "dissipate": "riptide1",
+      "frostbite": "corrosiveBrine1",
+      "iceTurretResist01": "iceTurretResist01"
+    },
+    "attackPower": 598137,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2548"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 44,
+    "upgradeXP": 13427661,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 40681366,
+    "nextEvolveLevel": 46,
+    "tierNumber": 10,
+    "rarity": 6
+  },
+  {
+    "identifier": "E17Q4FinalDragon",
+    "level": 39,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1254575"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 11064710,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "E17Q4FinalDragon_fireball"
+      }
+    ],
+    "abilities": {
+      "umbralSpike": "tidalSurge1",
+      "dissipate": "riptide1",
+      "frostbite": "corrosiveBrine1",
+      "iceTurretResist01": "iceTurretResist01"
+    },
+    "attackPower": 613091,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2569"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 44,
+    "upgradeXP": 13763351,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 42740794,
+    "nextEvolveLevel": 46,
+    "tierNumber": 10,
+    "rarity": 6
+  },
+  {
+    "identifier": "E17Q4FinalDragon",
+    "level": 40,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1264831"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 11341311,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "E17Q4FinalDragon_fireball"
+      }
+    ],
+    "abilities": {
+      "umbralSpike": "tidalSurge1",
+      "dissipate": "riptide1",
+      "frostbite": "corrosiveBrine1",
+      "iceTurretResist01": "iceTurretResist01"
+    },
+    "attackPower": 628418,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2590"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 45,
+    "upgradeXP": 14107429,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 44904428,
+    "nextEvolveLevel": 46,
+    "tierNumber": 10,
+    "rarity": 6
+  },
+  {
+    "identifier": "E17Q4FinalDragon",
+    "level": 41,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1275086"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 11624824,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "E17Q4FinalDragon_fireball"
+      }
+    ],
+    "abilities": {
+      "umbralSpike": "tidalSurge1",
+      "dissipate": "riptide1",
+      "frostbite": "corrosiveBrine1",
+      "iceTurretResist01": "iceTurretResist01"
+    },
+    "attackPower": 644128,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2611"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 45,
+    "upgradeXP": 14460114,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 47177614,
+    "nextEvolveLevel": 46,
+    "tierNumber": 10,
+    "rarity": 6
+  },
+  {
+    "identifier": "E17Q4FinalDragon",
+    "level": 42,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1285341"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "have2LegendaryEmerald",
+    "HP": 12213296,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "E17Q4FinalDragon_fireball"
+      }
+    ],
+    "abilities": {
+      "umbralSpike": "tidalSurge1",
+      "dissipate": "riptide1",
+      "frostbite": "corrosiveBrine1",
+      "iceTurretResist01": "iceTurretResist01"
+    },
+    "attackPower": 676737,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2653"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 46,
+    "upgradeXP": 15192151,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 52075152,
+    "nextEvolveLevel": 46,
+    "tierNumber": 10,
+    "rarity": 6
+  },
+  {
+    "identifier": "E17Q4FinalDragon",
+    "level": 43,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1305852"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 12831575,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "E17Q4FinalDragon_fireball"
+      }
+    ],
+    "abilities": {
+      "umbralSpike": "tidalSurge1",
+      "dissipate": "riptide1",
+      "frostbite": "corrosiveBrine1",
+      "iceTurretResist01": "iceTurretResist01"
+    },
+    "attackPower": 710996,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2695"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 47,
+    "upgradeXP": 15961243,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 57481153,
+    "nextEvolveLevel": 46,
+    "tierNumber": 10,
+    "rarity": 6
+  },
+  {
+    "identifier": "E17Q4FinalDragon",
+    "level": 44,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1326363"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 13481150,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "E17Q4FinalDragon_fireball"
+      }
+    ],
+    "abilities": {
+      "umbralSpike": "tidalSurge1",
+      "dissipate": "riptide1",
+      "frostbite": "corrosiveBrine1",
+      "iceTurretResist01": "iceTurretResist01"
+    },
+    "attackPower": 746990,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2737"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 48,
+    "upgradeXP": 16769279,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 63448123,
+    "nextEvolveLevel": 46,
+    "tierNumber": 10,
+    "rarity": 6
+  },
+  {
+    "identifier": "E17Q4FinalDragon",
+    "level": 45,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1346874"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 14163617,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "E17Q4FinalDragon_fireball"
+      }
+    ],
+    "abilities": {
+      "umbralSpike": "tidalSurge1",
+      "dissipate": "riptide1",
+      "frostbite": "corrosiveBrine1",
+      "iceTurretResist01": "iceTurretResist01"
+    },
+    "attackPower": 784806,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2779"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 49,
+    "upgradeXP": 17618220,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 70034832,
+    "nextEvolveLevel": 46,
+    "tierNumber": 10,
+    "rarity": 6
+  },
+  {
+    "identifier": "E17Q4FinalDragon",
+    "level": 46,
+    "upgradeCost": [
+      {
+        "type": "E17Q4FinalDragonObsidianStone",
+        "amount": "1"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "haveLegendaryObsidian",
+    "HP": 15252630,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "E17Q4FinalDragon_fireball"
+      }
+    ],
+    "abilities": {
+      "umbralSpike": "tidalSurge1",
+      "dissipate": "riptide1",
+      "frostbite": "corrosiveBrine1",
+      "iceTurretResist01": "iceTurretResist01"
+    },
+    "attackPower": 845150,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2842"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 52,
+    "upgradeXP": 18972887,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 81218799,
+    "nextEvolveLevel": 56,
+    "tierNumber": 11,
+    "rarity": 6
+  },
+  {
+    "identifier": "E17Q4FinalDragon",
+    "level": 47,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1398151"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 16024763,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "E17Q4FinalDragon_fireball"
+      }
+    ],
+    "abilities": {
+      "umbralSpike": "tidalSurge1",
+      "dissipate": "riptide1",
+      "frostbite": "corrosiveBrine1",
+      "iceTurretResist01": "iceTurretResist01"
+    },
+    "attackPower": 887935,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2884"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 54,
+    "upgradeXP": 19933380,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 89650125,
+    "nextEvolveLevel": 56,
+    "tierNumber": 11,
+    "rarity": 6
+  },
+  {
+    "identifier": "E17Q4FinalDragon",
+    "level": 48,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1418661"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 16835990,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "E17Q4FinalDragon_fireball"
+      }
+    ],
+    "abilities": {
+      "umbralSpike": "tidalSurge1",
+      "dissipate": "riptide1",
+      "frostbite": "corrosiveBrine1",
+      "iceTurretResist01": "iceTurretResist01"
+    },
+    "attackPower": 932887,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2926"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 56,
+    "upgradeXP": 20942504,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 98446448,
+    "nextEvolveLevel": 56,
+    "tierNumber": 11,
+    "rarity": 6
+  },
+  {
+    "identifier": "E17Q4FinalDragon",
+    "level": 49,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1439172"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 17256877,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "E17Q4FinalDragon_fireball"
+      }
+    ],
+    "abilities": {
+      "umbralSpike": "tidalSurge1",
+      "dissipate": "riptide1",
+      "frostbite": "corrosiveBrine1",
+      "iceTurretResist01": "iceTurretResist01"
+    },
+    "attackPower": 956209,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2947"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 57,
+    "upgradeXP": 21466065,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 102923211,
+    "nextEvolveLevel": 56,
+    "tierNumber": 11,
+    "rarity": 6
+  },
+  {
+    "identifier": "E17Q4FinalDragon",
+    "level": 50,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1449428"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "have2LegendaryObsidian",
+    "HP": 18130480,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "E17Q4FinalDragon_fireball"
+      }
+    ],
+    "abilities": {
+      "umbralSpike": "tidalSurge1",
+      "dissipate": "riptide1",
+      "frostbite": "corrosiveBrine1",
+      "iceTurretResist01": "iceTurretResist01"
+    },
+    "attackPower": 1004617,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2989"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 59,
+    "upgradeXP": 22552777,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 112034547,
+    "nextEvolveLevel": 56,
+    "tierNumber": 11,
+    "rarity": 6
+  },
+  {
+    "identifier": "E17Q4FinalDragon",
+    "level": 51,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1469938"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 18583730,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "E17Q4FinalDragon_fireball"
+      }
+    ],
+    "abilities": {
+      "umbralSpike": "tidalSurge1",
+      "dissipate": "riptide1",
+      "frostbite": "corrosiveBrine1",
+      "iceTurretResist01": "iceTurretResist01"
+    },
+    "attackPower": 1029732,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3010"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 60,
+    "upgradeXP": 23116595,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 116669364,
+    "nextEvolveLevel": 56,
+    "tierNumber": 11,
+    "rarity": 6
+  },
+  {
+    "identifier": "E17Q4FinalDragon",
+    "level": 52,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1480194"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 19048317,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "E17Q4FinalDragon_fireball"
+      }
+    ],
+    "abilities": {
+      "umbralSpike": "tidalSurge1",
+      "dissipate": "riptide1",
+      "frostbite": "corrosiveBrine1",
+      "iceTurretResist01": "iceTurretResist01"
+    },
+    "attackPower": 1055475,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3031"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 60,
+    "upgradeXP": 23694507,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 120281525,
+    "nextEvolveLevel": 56,
+    "tierNumber": 11,
+    "rarity": 6
+  },
+  {
+    "identifier": "E17Q4FinalDragon",
+    "level": 53,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1490449"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 20012618,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "E17Q4FinalDragon_fireball"
+      }
+    ],
+    "abilities": {
+      "umbralSpike": "tidalSurge1",
+      "dissipate": "riptide1",
+      "frostbite": "corrosiveBrine1",
+      "iceTurretResist01": "iceTurretResist01"
+    },
+    "attackPower": 1108908,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3073"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 61,
+    "upgradeXP": 24894038,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 127606704,
+    "nextEvolveLevel": 56,
+    "tierNumber": 11,
+    "rarity": 6
+  },
+  {
+    "identifier": "E17Q4FinalDragon",
+    "level": 54,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1510960"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "haveMythicObsidian",
+    "HP": 20512923,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "E17Q4FinalDragon_fireball"
+      }
+    ],
+    "abilities": {
+      "umbralSpike": "tidalSurge1",
+      "dissipate": "riptide1",
+      "frostbite": "corrosiveBrine1",
+      "iceTurretResist01": "iceTurretResist01"
+    },
+    "attackPower": 1136631,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3094"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 62,
+    "upgradeXP": 25516385,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 131319722,
+    "nextEvolveLevel": 56,
+    "tierNumber": 11,
+    "rarity": 6
+  },
+  {
+    "identifier": "E17Q4FinalDragon",
+    "level": 55,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1521215"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 21551381,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "E17Q4FinalDragon_fireball"
+      }
+    ],
+    "abilities": {
+      "umbralSpike": "tidalSurge1",
+      "dissipate": "riptide1",
+      "frostbite": "corrosiveBrine1",
+      "iceTurretResist01": "iceTurretResist01"
+    },
+    "attackPower": 1194172,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3136"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 63,
+    "upgradeXP": 26808147,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 138846614,
+    "nextEvolveLevel": 56,
+    "tierNumber": 11,
+    "rarity": 6
+  },
+  {
+    "identifier": "E17Q4FinalDragon",
+    "level": 56,
+    "upgradeCost": [
+      {
+        "type": "E17Q4FinalDragonHarbingerStone",
+        "amount": "1"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "haveLegendaryHarbinger",
+    "HP": 22090161,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "E17Q4FinalDragon_fireball"
+      }
+    ],
+    "abilities": {
+      "umbralSpike": "tidalSurge1",
+      "dissipate": "riptide1",
+      "frostbite": "corrosiveBrine1",
+      "iceTurretResist01": "iceTurretResist01"
+    },
+    "attackPower": 1224026,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3157"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 63,
+    "upgradeXP": 27478348,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 142660489,
+    "nextEvolveLevel": 0,
+    "tierNumber": 12,
+    "rarity": 6
+  },
+  {
+    "identifier": "E17Q4FinalDragon",
+    "level": 57,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1551981"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 24383362,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "E17Q4FinalDragon_fireball"
+      }
+    ],
+    "abilities": {
+      "umbralSpike": "tidalSurge1",
+      "dissipate": "riptide1",
+      "frostbite": "corrosiveBrine1",
+      "iceTurretResist01": "iceTurretResist01"
+    },
+    "attackPower": 1351096,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3241"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 65,
+    "upgradeXP": 30330942,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 158252175,
+    "nextEvolveLevel": 0,
+    "tierNumber": 12,
+    "rarity": 6
+  },
+  {
+    "identifier": "E17Q4FinalDragon",
+    "level": 58,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1593003"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 26914651,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "E17Q4FinalDragon_fireball"
+      }
+    ],
+    "abilities": {
+      "umbralSpike": "tidalSurge1",
+      "dissipate": "riptide1",
+      "frostbite": "corrosiveBrine1",
+      "iceTurretResist01": "iceTurretResist01"
+    },
+    "attackPower": 1491356,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3325"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 67,
+    "upgradeXP": 33479671,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 174381762,
+    "nextEvolveLevel": 0,
+    "tierNumber": 12,
+    "rarity": 6
+  },
+  {
+    "identifier": "E17Q4FinalDragon",
+    "level": 59,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1634024"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 29708679,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "E17Q4FinalDragon_fireball"
+      }
+    ],
+    "abilities": {
+      "umbralSpike": "tidalSurge1",
+      "dissipate": "riptide1",
+      "frostbite": "corrosiveBrine1",
+      "iceTurretResist01": "iceTurretResist01"
+    },
+    "attackPower": 1646177,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3409"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 69,
+    "upgradeXP": 36955279,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 191049250,
+    "nextEvolveLevel": 0,
+    "tierNumber": 12,
+    "rarity": 6
+  },
+  {
+    "identifier": "E17Q4FinalDragon",
+    "level": 60,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1675046"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 34452887,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "E17Q4FinalDragon_fireball"
+      }
+    ],
+    "abilities": {
+      "umbralSpike": "tidalSurge1",
+      "dissipate": "riptide1",
+      "frostbite": "corrosiveBrine1",
+      "iceTurretResist01": "iceTurretResist01"
+    },
+    "attackPower": 1909060,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3535"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 72,
+    "upgradeXP": 0,
+    "xpRewardMultiplier": 1.2,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 217059048,
+    "nextEvolveLevel": 0,
+    "tierNumber": 12,
+    "rarity": 6
+  }
+]

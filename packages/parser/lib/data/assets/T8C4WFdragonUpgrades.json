@@ -1,0 +1,1577 @@
+[
+  {
+    "identifier": "T8C4WFdragon",
+    "level": 1,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "0"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 3056910,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T8C4WFdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "daybreak": "daybreak1",
+      "radiance": "radiance1",
+      "heatedPiercingBreath": "heatedPiercingBreath1",
+      "heatBlastShield": "heatBlastShield1"
+    },
+    "attackPower": 28417,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1204"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 21,
+    "upgradeXP": 896206,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 1769054
+  },
+  {
+    "identifier": "T8C4WFdragon",
+    "level": 2,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "315000"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 3133308,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T8C4WFdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "daybreak": "daybreak1",
+      "radiance": "radiance1",
+      "heatedPiercingBreath": "heatedPiercingBreath1",
+      "heatBlastShield": "heatBlastShield1"
+    },
+    "attackPower": 29127,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1225"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 21,
+    "upgradeXP": 918609,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 1858586
+  },
+  {
+    "identifier": "T8C4WFdragon",
+    "level": 3,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "320400"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 3211618,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T8C4WFdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "daybreak": "daybreak1",
+      "radiance": "radiance1",
+      "heatedPiercingBreath": "heatedPiercingBreath1",
+      "heatBlastShield": "heatBlastShield1"
+    },
+    "attackPower": 29856,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1246"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 22,
+    "upgradeXP": 1069747,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 1952721
+  },
+  {
+    "identifier": "T8C4WFdragon",
+    "level": 4,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "325800"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 3291893,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T8C4WFdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "daybreak": "daybreak1",
+      "radiance": "radiance1",
+      "heatedPiercingBreath": "heatedPiercingBreath1",
+      "heatBlastShield": "heatBlastShield1"
+    },
+    "attackPower": 30602,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1267"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 22,
+    "upgradeXP": 1261815,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 2051559
+  },
+  {
+    "identifier": "T8C4WFdragon",
+    "level": 5,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "331200"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 3374177,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T8C4WFdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "daybreak": "daybreak1",
+      "radiance": "radiance1",
+      "heatedPiercingBreath": "heatedPiercingBreath1",
+      "heatBlastShield": "heatBlastShield1"
+    },
+    "attackPower": 31367,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1288"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 22,
+    "upgradeXP": 1453767,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 2155326
+  },
+  {
+    "identifier": "T8C4WFdragon",
+    "level": 6,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "336600"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 3458521,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T8C4WFdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "daybreak": "daybreak1",
+      "radiance": "radiance1",
+      "heatedPiercingBreath": "heatedPiercingBreath1",
+      "heatBlastShield": "heatBlastShield1"
+    },
+    "attackPower": 32151,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1309"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 23,
+    "upgradeXP": 1647196,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 2264505
+  },
+  {
+    "identifier": "T8C4WFdragon",
+    "level": 7,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "342000"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 3544979,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T8C4WFdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "daybreak": "daybreak1",
+      "radiance": "radiance1",
+      "heatedPiercingBreath": "heatedPiercingBreath1",
+      "heatBlastShield": "heatBlastShield1"
+    },
+    "attackPower": 32955,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1330"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 23,
+    "upgradeXP": 1688376,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 2379087
+  },
+  {
+    "identifier": "T8C4WFdragon",
+    "level": 8,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "347400"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 3633593,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T8C4WFdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "daybreak": "daybreak1",
+      "radiance": "radiance1",
+      "heatedPiercingBreath": "heatedPiercingBreath1",
+      "heatBlastShield": "heatBlastShield1"
+    },
+    "attackPower": 33779,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1351"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 23,
+    "upgradeXP": 1730585,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 2499571
+  },
+  {
+    "identifier": "T8C4WFdragon",
+    "level": 9,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "352800"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 3724419,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T8C4WFdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "daybreak": "daybreak1",
+      "radiance": "radiance1",
+      "heatedPiercingBreath": "heatedPiercingBreath1",
+      "heatBlastShield": "heatBlastShield1"
+    },
+    "attackPower": 34623,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1372"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 24,
+    "upgradeXP": 1773847,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 2626082
+  },
+  {
+    "identifier": "T8C4WFdragon",
+    "level": 10,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "358200"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 3817513,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T8C4WFdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "daybreak": "daybreak1",
+      "radiance": "radiance1",
+      "heatedPiercingBreath": "heatedPiercingBreath1",
+      "heatBlastShield": "heatBlastShield1"
+    },
+    "attackPower": 35489,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1393"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 24,
+    "upgradeXP": 1818191,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 2759007
+  },
+  {
+    "identifier": "T8C4WFdragon",
+    "level": 11,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "363600"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 3912929,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T8C4WFdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "daybreak": "daybreak1",
+      "radiance": "radiance1",
+      "heatedPiercingBreath": "heatedPiercingBreath1",
+      "heatBlastShield": "heatBlastShield1"
+    },
+    "attackPower": 36376,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1414"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 24,
+    "upgradeXP": 1863645,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 2898615
+  },
+  {
+    "identifier": "T8C4WFdragon",
+    "level": 12,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "369000"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 4010726,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T8C4WFdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "daybreak": "daybreak1",
+      "radiance": "radiance1",
+      "heatedPiercingBreath": "heatedPiercingBreath1",
+      "heatBlastShield": "heatBlastShield1"
+    },
+    "attackPower": 36819,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1435"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 25,
+    "upgradeXP": 1910233,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 3007297
+  },
+  {
+    "identifier": "T8C4WFdragon",
+    "level": 13,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "374400"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 4110965,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T8C4WFdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "daybreak": "daybreak1",
+      "radiance": "radiance1",
+      "heatedPiercingBreath": "heatedPiercingBreath1",
+      "heatBlastShield": "heatBlastShield1"
+    },
+    "attackPower": 37270,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1456"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 25,
+    "upgradeXP": 1957988,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 3120281
+  },
+  {
+    "identifier": "T8C4WFdragon",
+    "level": 14,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "379800"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 4213712,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T8C4WFdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "daybreak": "daybreak1",
+      "radiance": "radiance1",
+      "heatedPiercingBreath": "heatedPiercingBreath1",
+      "heatBlastShield": "heatBlastShield1"
+    },
+    "attackPower": 38202,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1477"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 25,
+    "upgradeXP": 2006937,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 3278204
+  },
+  {
+    "identifier": "T8C4WFdragon",
+    "level": 15,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "385200"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 4319032,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T8C4WFdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "daybreak": "daybreak1",
+      "radiance": "radiance1",
+      "heatedPiercingBreath": "heatedPiercingBreath1",
+      "heatBlastShield": "heatBlastShield1"
+    },
+    "attackPower": 39157,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1498"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 26,
+    "upgradeXP": 2057111,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 3444152
+  },
+  {
+    "identifier": "T8C4WFdragon",
+    "level": 16,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "390600"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 4426988,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T8C4WFdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "daybreak": "daybreak1",
+      "radiance": "radiance1",
+      "heatedPiercingBreath": "heatedPiercingBreath1",
+      "heatBlastShield": "heatBlastShield1"
+    },
+    "attackPower": 40135,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1519"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 26,
+    "upgradeXP": 2108537,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 3618428
+  },
+  {
+    "identifier": "T8C4WFdragon",
+    "level": 17,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "396000"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 4537644,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T8C4WFdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "daybreak": "daybreak1",
+      "radiance": "radiance1",
+      "heatedPiercingBreath": "heatedPiercingBreath1",
+      "heatBlastShield": "heatBlastShield1"
+    },
+    "attackPower": 41139,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1540"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 26,
+    "upgradeXP": 2161250,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 3801618
+  },
+  {
+    "identifier": "T8C4WFdragon",
+    "level": 18,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "401400"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 4651061,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T8C4WFdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "daybreak": "daybreak1",
+      "radiance": "radiance1",
+      "heatedPiercingBreath": "heatedPiercingBreath1",
+      "heatBlastShield": "heatBlastShield1"
+    },
+    "attackPower": 42167,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1561"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 27,
+    "upgradeXP": 2942339,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 3994045
+  },
+  {
+    "identifier": "T8C4WFdragon",
+    "level": 19,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "540313"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 4767321,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T8C4WFdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "daybreak": "daybreak1",
+      "radiance": "radiance1",
+      "heatedPiercingBreath": "heatedPiercingBreath1",
+      "heatBlastShield": "heatBlastShield1"
+    },
+    "attackPower": 43221,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1582"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 27,
+    "upgradeXP": 3015896,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 4196175
+  },
+  {
+    "identifier": "T8C4WFdragon",
+    "level": 20,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "547485"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 4886488,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T8C4WFdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "daybreak": "daybreak1",
+      "radiance": "radiance1",
+      "heatedPiercingBreath": "heatedPiercingBreath1",
+      "heatBlastShield": "heatBlastShield1"
+    },
+    "attackPower": 44302,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1603"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 27,
+    "upgradeXP": 3091290,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 4408635
+  },
+  {
+    "identifier": "T8C4WFdragon",
+    "level": 21,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "554657"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 5008634,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T8C4WFdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "daybreak": "daybreak1",
+      "radiance": "radiance1",
+      "heatedPiercingBreath": "heatedPiercingBreath1",
+      "heatBlastShield": "heatBlastShield1"
+    },
+    "attackPower": 45409,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1624"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 28,
+    "upgradeXP": 3168571,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 4631774
+  },
+  {
+    "identifier": "T8C4WFdragon",
+    "level": 22,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "561830"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 5133836,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T8C4WFdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "daybreak": "daybreak1",
+      "radiance": "radiance1",
+      "heatedPiercingBreath": "heatedPiercingBreath1",
+      "heatBlastShield": "heatBlastShield1"
+    },
+    "attackPower": 46545,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1645"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 28,
+    "upgradeXP": 3972320,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 4866239
+  },
+  {
+    "identifier": "T8C4WFdragon",
+    "level": 23,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "695938"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 5262165,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T8C4WFdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "daybreak": "daybreak1",
+      "radiance": "radiance1",
+      "heatedPiercingBreath": "heatedPiercingBreath1",
+      "heatBlastShield": "heatBlastShield1"
+    },
+    "attackPower": 47708,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1666"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 28,
+    "upgradeXP": 4071626,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 5112696
+  },
+  {
+    "identifier": "T8C4WFdragon",
+    "level": 24,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "704711"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 5393700,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T8C4WFdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "daybreak": "daybreak1",
+      "radiance": "radiance1",
+      "heatedPiercingBreath": "heatedPiercingBreath1",
+      "heatBlastShield": "heatBlastShield1"
+    },
+    "attackPower": 48901,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1687"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 29,
+    "upgradeXP": 4173411,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 5371377
+  },
+  {
+    "identifier": "T8C4WFdragon",
+    "level": 25,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "713483"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 5528516,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T8C4WFdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "daybreak": "daybreak1",
+      "radiance": "radiance1",
+      "heatedPiercingBreath": "heatedPiercingBreath1",
+      "heatBlastShield": "heatBlastShield1"
+    },
+    "attackPower": 50123,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1708"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 29,
+    "upgradeXP": 4277745,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 5643270
+  },
+  {
+    "identifier": "T8C4WFdragon",
+    "level": 26,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "722255"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 5666704,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T8C4WFdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "daybreak": "daybreak1",
+      "radiance": "radiance1",
+      "heatedPiercingBreath": "heatedPiercingBreath1",
+      "heatBlastShield": "heatBlastShield1"
+    },
+    "attackPower": 51376,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1729"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 29,
+    "upgradeXP": 5125964,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 5929084
+  },
+  {
+    "identifier": "T8C4WFdragon",
+    "level": 27,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "854616"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 5808345,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T8C4WFdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "daybreak": "daybreak1",
+      "radiance": "radiance1",
+      "heatedPiercingBreath": "heatedPiercingBreath1",
+      "heatBlastShield": "heatBlastShield1"
+    },
+    "attackPower": 52661,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1750"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 30,
+    "upgradeXP": 5254113,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 6229083
+  },
+  {
+    "identifier": "T8C4WFdragon",
+    "level": 28,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "864871"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 5953529,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T8C4WFdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "daybreak": "daybreak1",
+      "radiance": "radiance1",
+      "heatedPiercingBreath": "heatedPiercingBreath1",
+      "heatBlastShield": "heatBlastShield1"
+    },
+    "attackPower": 53977,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1771"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 30,
+    "upgradeXP": 5385463,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 6544464
+  },
+  {
+    "identifier": "T8C4WFdragon",
+    "level": 29,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "875126"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 6102351,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T8C4WFdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "daybreak": "daybreak1",
+      "radiance": "radiance1",
+      "heatedPiercingBreath": "heatedPiercingBreath1",
+      "heatBlastShield": "heatBlastShield1"
+    },
+    "attackPower": 55327,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1792"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 30,
+    "upgradeXP": 5520098,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 6875672
+  },
+  {
+    "identifier": "T8C4WFdragon",
+    "level": 30,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "885382"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 6254900,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T8C4WFdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "daybreak": "daybreak1",
+      "radiance": "radiance1",
+      "heatedPiercingBreath": "heatedPiercingBreath1",
+      "heatBlastShield": "heatBlastShield1"
+    },
+    "attackPower": 56710,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1813"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 31,
+    "upgradeXP": 5658095,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 7223789
+  },
+  {
+    "identifier": "T8C4WFdragon",
+    "level": 31,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "895637"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 6411265,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T8C4WFdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "daybreak": "daybreak1",
+      "radiance": "radiance1",
+      "heatedPiercingBreath": "heatedPiercingBreath1",
+      "heatBlastShield": "heatBlastShield1"
+    },
+    "attackPower": 58127,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1834"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 31,
+    "upgradeXP": 5799545,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 7589447
+  },
+  {
+    "identifier": "T8C4WFdragon",
+    "level": 32,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "905892"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 6571529,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T8C4WFdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "daybreak": "daybreak1",
+      "radiance": "radiance1",
+      "heatedPiercingBreath": "heatedPiercingBreath1",
+      "heatBlastShield": "heatBlastShield1"
+    },
+    "attackPower": 59581,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1855"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 31,
+    "upgradeXP": 5944533,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 7973770
+  },
+  {
+    "identifier": "T8C4WFdragon",
+    "level": 33,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "916148"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 6735791,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T8C4WFdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "daybreak": "daybreak1",
+      "radiance": "radiance1",
+      "heatedPiercingBreath": "heatedPiercingBreath1",
+      "heatBlastShield": "heatBlastShield1"
+    },
+    "attackPower": 61070,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1876"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 32,
+    "upgradeXP": 6093146,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 8377262
+  },
+  {
+    "identifier": "T8C4WFdragon",
+    "level": 34,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "926403"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 6904160,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T8C4WFdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "daybreak": "daybreak1",
+      "radiance": "radiance1",
+      "heatedPiercingBreath": "heatedPiercingBreath1",
+      "heatBlastShield": "heatBlastShield1"
+    },
+    "attackPower": 62597,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1897"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 32,
+    "upgradeXP": 6245471,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 8801413
+  },
+  {
+    "identifier": "T8C4WFdragon",
+    "level": 35,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "936659"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 7076741,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T8C4WFdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "daybreak": "daybreak1",
+      "radiance": "radiance1",
+      "heatedPiercingBreath": "heatedPiercingBreath1",
+      "heatBlastShield": "heatBlastShield1"
+    },
+    "attackPower": 64162,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1918"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 32,
+    "upgradeXP": 0,
+    "xpRewardMultiplier": 1.2,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 9246926
+  }
+]

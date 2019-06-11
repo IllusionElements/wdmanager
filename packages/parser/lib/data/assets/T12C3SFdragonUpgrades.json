@@ -1,0 +1,1775 @@
+[
+  {
+    "identifier": "T12C3SFdragon",
+    "level": 1,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "0"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 13436899,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T12C3SFdragon_lockon"
+      }
+    ],
+    "abilities": {},
+    "attackPower": 661811,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2328"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 48,
+    "upgradeXP": 5514991,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 58068192
+  },
+  {
+    "identifier": "T12C3SFdragon",
+    "level": 2,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "619344"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 13772810,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T12C3SFdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "southernCross": "southernCrossDark1"
+    },
+    "attackPower": 678356,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2346"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 48,
+    "upgradeXP": 5652866,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 61007811
+  },
+  {
+    "identifier": "T12C3SFdragon",
+    "level": 3,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "624096"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 14117119,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T12C3SFdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "southernCross": "southernCrossDark1"
+    },
+    "attackPower": 695315,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2364"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 49,
+    "upgradeXP": 6582933,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 64096321
+  },
+  {
+    "identifier": "T12C3SFdragon",
+    "level": 4,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "628848"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 14470041,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T12C3SFdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "southernCross": "southernCrossDark1"
+    },
+    "attackPower": 712698,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2382"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 49,
+    "upgradeXP": 7764876,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 67341184
+  },
+  {
+    "identifier": "T12C3SFdragon",
+    "level": 5,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "633600"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 14831782,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T12C3SFdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "southernCross": "southernCrossDark1",
+      "nova": "nova1"
+    },
+    "attackPower": 730515,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2400"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 50,
+    "upgradeXP": 8946110,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 70750207
+  },
+  {
+    "identifier": "T12C3SFdragon",
+    "level": 6,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "638352"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 15202562,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T12C3SFdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "southernCross": "southernCrossDark1",
+      "nova": "nova1"
+    },
+    "attackPower": 748778,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2418"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 51,
+    "upgradeXP": 10136428,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 74331972
+  },
+  {
+    "identifier": "T12C3SFdragon",
+    "level": 7,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "643104"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 15582614,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T12C3SFdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "southernCross": "southernCrossDark1",
+      "nova": "nova1"
+    },
+    "attackPower": 767497,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2436"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 52,
+    "upgradeXP": 10389837,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 78094999
+  },
+  {
+    "identifier": "T12C3SFdragon",
+    "level": 8,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "647856"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 15972165,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T12C3SFdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "southernCross": "southernCrossDark1",
+      "nova": "nova1"
+    },
+    "attackPower": 786685,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2454"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 53,
+    "upgradeXP": 10649581,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 82048386
+  },
+  {
+    "identifier": "T12C3SFdragon",
+    "level": 9,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "652608"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 16371452,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T12C3SFdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "southernCross": "southernCrossDark1",
+      "nova": "nova1",
+      "absorbMagic": "absorbMagic1"
+    },
+    "attackPower": 806352,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2472"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 54,
+    "upgradeXP": 10915817,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 86202043
+  },
+  {
+    "identifier": "T12C3SFdragon",
+    "level": 10,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "657360"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 16780724,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T12C3SFdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "southernCross": "southernCrossDark1",
+      "nova": "nova1",
+      "absorbMagic": "absorbMagic1"
+    },
+    "attackPower": 826510,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2490"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 55,
+    "upgradeXP": 11188712,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 88104753
+  },
+  {
+    "identifier": "T12C3SFdragon",
+    "level": 11,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "662112"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 17200230,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T12C3SFdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "southernCross": "southernCrossDark1",
+      "nova": "nova1",
+      "absorbMagic": "absorbMagic1"
+    },
+    "attackPower": 847173,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2508"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 56,
+    "upgradeXP": 11468429,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 94660046
+  },
+  {
+    "identifier": "T12C3SFdragon",
+    "level": 12,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "666864"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 17630223,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T12C3SFdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "southernCross": "southernCrossDark1",
+      "nova": "nova1",
+      "absorbMagic": "absorbMagic1"
+    },
+    "attackPower": 868352,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2526"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 57,
+    "upgradeXP": 11755139,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 98964626
+  },
+  {
+    "identifier": "T12C3SFdragon",
+    "level": 13,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "671616"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 18070965,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T12C3SFdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "southernCross": "southernCrossDark1",
+      "nova": "nova1",
+      "absorbMagic": "absorbMagic1"
+    },
+    "attackPower": 890061,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2544"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 58,
+    "upgradeXP": 12049016,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 103319746
+  },
+  {
+    "identifier": "T12C3SFdragon",
+    "level": 14,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "676368"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 18522726,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T12C3SFdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "southernCross": "southernCrossDark1",
+      "nova": "nova1",
+      "absorbMagic": "absorbMagic1",
+      "fireFlakResist01": "fireFlakResist01"
+    },
+    "attackPower": 912312,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2562"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 59,
+    "upgradeXP": 12350239,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 107725526
+  },
+  {
+    "identifier": "T12C3SFdragon",
+    "level": 15,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "681120"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 18985782,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T12C3SFdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "southernCross": "southernCrossDark1",
+      "nova": "nova1",
+      "absorbMagic": "absorbMagic1",
+      "fireFlakResist01": "fireFlakResist01"
+    },
+    "attackPower": 935120,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2580"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 60,
+    "upgradeXP": 12658994,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 112182080
+  },
+  {
+    "identifier": "T12C3SFdragon",
+    "level": 16,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "685872"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 19460420,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T12C3SFdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "southernCross": "southernCrossDark1",
+      "nova": "nova1",
+      "absorbMagic": "absorbMagic1",
+      "fireFlakResist01": "fireFlakResist01"
+    },
+    "attackPower": 958498,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2598"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 60,
+    "upgradeXP": 12975467,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 115655313
+  },
+  {
+    "identifier": "T12C3SFdragon",
+    "level": 17,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "690624"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 19946922,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T12C3SFdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "southernCross": "southernCrossDark1",
+      "nova": "nova1",
+      "absorbMagic": "absorbMagic1",
+      "fireFlakResist01": "fireFlakResist01"
+    },
+    "attackPower": 982460,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2616"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 61,
+    "upgradeXP": 13299852,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 119160870
+  },
+  {
+    "identifier": "T12C3SFdragon",
+    "level": 18,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "695376"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 20445584,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T12C3SFdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "southernCross": "southernCrossDark1",
+      "nova": "nova1",
+      "absorbMagic": "absorbMagic1",
+      "fireFlakResist01": "fireFlakResist01"
+    },
+    "attackPower": 1007021,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2634"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 61,
+    "upgradeXP": 18106502,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 122698754
+  },
+  {
+    "identifier": "T12C3SFdragon",
+    "level": 19,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "929911"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 20956712,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T12C3SFdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "southernCross": "southernCrossDark1",
+      "nova": "nova1",
+      "absorbMagic": "absorbMagic1",
+      "fireFlakResist01": "fireFlakResist01"
+    },
+    "attackPower": 1032197,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2652"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 62,
+    "upgradeXP": 18559162,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 126268964
+  },
+  {
+    "identifier": "T12C3SFdragon",
+    "level": 20,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "936223"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 21480624,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T12C3SFdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "southernCross": "southernCrossDark1",
+      "nova": "nova1",
+      "absorbMagic": "absorbMagic1",
+      "fireFlakResist01": "fireFlakResist01"
+    },
+    "attackPower": 1058001,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2670"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 62,
+    "upgradeXP": 19023138,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 129871499
+  },
+  {
+    "identifier": "T12C3SFdragon",
+    "level": 21,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "942535"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 22017637,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T12C3SFdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "southernCross": "southernCrossDark1",
+      "nova": "nova1",
+      "absorbMagic": "absorbMagic1",
+      "fireFlakResist01": "fireFlakResist01"
+    },
+    "attackPower": 1084451,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2688"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 63,
+    "upgradeXP": 19498716,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 133506360
+  },
+  {
+    "identifier": "T12C3SFdragon",
+    "level": 22,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "948846"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 22568073,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T12C3SFdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "southernCross": "southernCrossDark1",
+      "nova": "nova1",
+      "absorbMagic": "absorbMagic1",
+      "fireFlakResist01": "fireFlakResist01"
+    },
+    "attackPower": 1111563,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2706"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 63,
+    "upgradeXP": 24444826,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 137173547
+  },
+  {
+    "identifier": "T12C3SFdragon",
+    "level": 23,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1168240"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 23132266,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T12C3SFdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "southernCross": "southernCrossDark1",
+      "nova": "nova1",
+      "absorbMagic": "absorbMagic1",
+      "fireFlakResist01": "fireFlakResist01"
+    },
+    "attackPower": 1139351,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2724"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 64,
+    "upgradeXP": 25055942,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 140873060
+  },
+  {
+    "identifier": "T12C3SFdragon",
+    "level": 24,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1175960"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 23710558,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T12C3SFdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "southernCross": "southernCrossDark1",
+      "nova": "nova1",
+      "absorbMagic": "absorbMagic1",
+      "fireFlakResist01": "fireFlakResist01"
+    },
+    "attackPower": 1167835,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2742"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 64,
+    "upgradeXP": 25682340,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 144604898
+  },
+  {
+    "identifier": "T12C3SFdragon",
+    "level": 25,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1183680"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 24303308,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T12C3SFdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "southernCross": "southernCrossDark1",
+      "nova": "nova1",
+      "absorbMagic": "absorbMagic1",
+      "fireFlakResist01": "fireFlakResist01"
+    },
+    "attackPower": 1197031,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2760"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 65,
+    "upgradeXP": 26324395,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 148369062
+  },
+  {
+    "identifier": "T12C3SFdragon",
+    "level": 26,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1191399"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 24910886,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T12C3SFdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "southernCross": "southernCrossDark1",
+      "nova": "nova1",
+      "absorbMagic": "absorbMagic1",
+      "fireFlakResist01": "fireFlakResist01"
+    },
+    "attackPower": 1226957,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2778"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 65,
+    "upgradeXP": 31544179,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 152165553
+  },
+  {
+    "identifier": "T12C3SFdragon",
+    "level": 27,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1401843"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 25533656,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T12C3SFdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "southernCross": "southernCrossDark1",
+      "nova": "nova1",
+      "absorbMagic": "absorbMagic1",
+      "fireFlakResist01": "fireFlakResist01"
+    },
+    "attackPower": 1257630,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2796"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 66,
+    "upgradeXP": 32332784,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 155994368
+  },
+  {
+    "identifier": "T12C3SFdragon",
+    "level": 28,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1410867"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 26171995,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T12C3SFdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "southernCross": "southernCrossDark1",
+      "nova": "nova1",
+      "absorbMagic": "absorbMagic1",
+      "fireFlakResist01": "fireFlakResist01"
+    },
+    "attackPower": 1289071,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2814"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 66,
+    "upgradeXP": 33141098,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 159855510
+  },
+  {
+    "identifier": "T12C3SFdragon",
+    "level": 29,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1419892"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 26826290,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T12C3SFdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "southernCross": "southernCrossDark1",
+      "nova": "nova1",
+      "absorbMagic": "absorbMagic1",
+      "fireFlakResist01": "fireFlakResist01"
+    },
+    "attackPower": 1321298,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2832"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 67,
+    "upgradeXP": 33969620,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 163748978
+  },
+  {
+    "identifier": "T12C3SFdragon",
+    "level": 30,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1428917"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 27496939,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T12C3SFdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "southernCross": "southernCrossDark1",
+      "nova": "nova1",
+      "absorbMagic": "absorbMagic1",
+      "fireFlakResist01": "fireFlakResist01"
+    },
+    "attackPower": 1354330,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2850"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 67,
+    "upgradeXP": 34818858,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 167674771
+  },
+  {
+    "identifier": "T12C3SFdragon",
+    "level": 31,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1437942"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 28184351,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T12C3SFdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "southernCross": "southernCrossDark1",
+      "nova": "nova1",
+      "absorbMagic": "absorbMagic1",
+      "fireFlakResist01": "fireFlakResist01"
+    },
+    "attackPower": 1388188,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2868"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 68,
+    "upgradeXP": 35689328,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 171632890
+  },
+  {
+    "identifier": "T12C3SFdragon",
+    "level": 32,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1446966"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 28888947,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T12C3SFdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "southernCross": "southernCrossDark1",
+      "nova": "nova1",
+      "absorbMagic": "absorbMagic1",
+      "fireFlakResist01": "fireFlakResist01"
+    },
+    "attackPower": 1422892,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2886"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 68,
+    "upgradeXP": 36581555,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 175623335
+  },
+  {
+    "identifier": "T12C3SFdragon",
+    "level": 33,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1455991"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 29611152,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T12C3SFdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "southernCross": "southernCrossDark1",
+      "nova": "nova1",
+      "absorbMagic": "absorbMagic1",
+      "fireFlakResist01": "fireFlakResist01"
+    },
+    "attackPower": 1458465,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2904"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 69,
+    "upgradeXP": 37496093,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 179646106
+  },
+  {
+    "identifier": "T12C3SFdragon",
+    "level": 34,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1465016"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 30351415,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T12C3SFdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "southernCross": "southernCrossDark1",
+      "nova": "nova1",
+      "absorbMagic": "absorbMagic1",
+      "fireFlakResist01": "fireFlakResist01"
+    },
+    "attackPower": 1494926,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2922"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 69,
+    "upgradeXP": 38433490,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 183701202
+  },
+  {
+    "identifier": "T12C3SFdragon",
+    "level": 35,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1474040"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 31110187,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T12C3SFdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "southernCross": "southernCrossDark1",
+      "nova": "nova1",
+      "absorbMagic": "absorbMagic1",
+      "fireFlakResist01": "fireFlakResist01"
+    },
+    "attackPower": 1532299,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2940"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 70,
+    "upgradeXP": 39394322,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 187788624
+  },
+  {
+    "identifier": "T12C3SFdragon",
+    "level": 36,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1483065"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 31887929,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T12C3SFdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "southernCross": "southernCrossDark1",
+      "nova": "nova1",
+      "absorbMagic": "absorbMagic1",
+      "fireFlakResist01": "fireFlakResist01"
+    },
+    "attackPower": 1570606,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2958"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 70,
+    "upgradeXP": 40379181,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 191908373
+  },
+  {
+    "identifier": "T12C3SFdragon",
+    "level": 37,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1492090"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 32685120,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T12C3SFdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "southernCross": "southernCrossDark1",
+      "nova": "nova1",
+      "absorbMagic": "absorbMagic1",
+      "fireFlakResist01": "fireFlakResist01"
+    },
+    "attackPower": 1609871,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2976"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 71,
+    "upgradeXP": 41388655,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 196060446
+  },
+  {
+    "identifier": "T12C3SFdragon",
+    "level": 38,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1501115"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 33502237,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T12C3SFdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "southernCross": "southernCrossDark1",
+      "nova": "nova1",
+      "absorbMagic": "absorbMagic1",
+      "fireFlakResist01": "fireFlakResist01"
+    },
+    "attackPower": 1650118,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2994"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 71,
+    "upgradeXP": 42423371,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 200244846
+  },
+  {
+    "identifier": "T12C3SFdragon",
+    "level": 39,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1510139"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 34339778,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T12C3SFdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "southernCross": "southernCrossDark1",
+      "nova": "nova1",
+      "absorbMagic": "absorbMagic1",
+      "fireFlakResist01": "fireFlakResist01"
+    },
+    "attackPower": 1691371,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3012"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 72,
+    "upgradeXP": 43483948,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 204461572
+  },
+  {
+    "identifier": "T12C3SFdragon",
+    "level": 40,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1519164"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 35198262,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T12C3SFdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "southernCross": "southernCrossDark1",
+      "nova": "nova1",
+      "absorbMagic": "absorbMagic1",
+      "fireFlakResist01": "fireFlakResist01"
+    },
+    "attackPower": 1733655,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3030"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 72,
+    "upgradeXP": 0,
+    "xpRewardMultiplier": 1.2,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 208710623
+  }
+]

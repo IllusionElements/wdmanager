@@ -1,0 +1,2859 @@
+[
+  {
+    "identifier": "E18Q3FestiveDragon",
+    "level": 1,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "0"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 40597,
+    "fullHealDuration": 1292,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "E18Q3FestiveDragon_lockon"
+      }
+    ],
+    "abilities": {
+      "seekerShots": "soulBarrage1"
+    },
+    "attackPower": 3272,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "45"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 2,
+    "upgradeXP": 3142,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 866,
+    "nextEvolveLevel": 2,
+    "tierNumber": 1,
+    "rarity": 5
+  },
+  {
+    "identifier": "E18Q3FestiveDragon",
+    "level": 2,
+    "upgradeCost": [
+      {
+        "type": "E18Q3FestiveDragonPurpleStone",
+        "amount": "1"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "have1PurpleDragon",
+    "HP": 53567,
+    "fullHealDuration": 2258,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "E18Q3FestiveDragon_lockon"
+      }
+    ],
+    "abilities": {
+      "seekerShots": "soulBarrage1"
+    },
+    "attackPower": 4334,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "60"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 3,
+    "upgradeXP": 6205,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 1516,
+    "nextEvolveLevel": 4,
+    "tierNumber": 2,
+    "rarity": 5
+  },
+  {
+    "identifier": "E18Q3FestiveDragon",
+    "level": 3,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "5692"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 89507,
+    "fullHealDuration": 5256,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "E18Q3FestiveDragon_lockon"
+      }
+    ],
+    "abilities": {
+      "seekerShots": "soulBarrage1"
+    },
+    "attackPower": 6036,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "90"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 4,
+    "upgradeXP": 13440,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 3545,
+    "nextEvolveLevel": 4,
+    "tierNumber": 2,
+    "rarity": 5
+  },
+  {
+    "identifier": "E18Q3FestiveDragon",
+    "level": 4,
+    "upgradeCost": [
+      {
+        "type": "E18Q3FestiveDragonBlueStone",
+        "amount": "1"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "have1BlueDragon",
+    "HP": 123836,
+    "fullHealDuration": 8957,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "E18Q3FestiveDragon_lockon"
+      }
+    ],
+    "abilities": {
+      "seekerShots": "soulBarrage1"
+    },
+    "attackPower": 8390,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "131"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 6,
+    "upgradeXP": 31482,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 6778,
+    "nextEvolveLevel": 6,
+    "tierNumber": 3,
+    "rarity": 5
+  },
+  {
+    "identifier": "E18Q3FestiveDragon",
+    "level": 5,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "25503"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 151589,
+    "fullHealDuration": 12131,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "E18Q3FestiveDragon_lockon"
+      }
+    ],
+    "abilities": {
+      "seekerShots": "soulBarrage1",
+      "nova": "deathKnell1"
+    },
+    "attackPower": 10270,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "153"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 7,
+    "upgradeXP": 50123,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 10156,
+    "nextEvolveLevel": 6,
+    "tierNumber": 3,
+    "rarity": 5
+  },
+  {
+    "identifier": "E18Q3FestiveDragon",
+    "level": 6,
+    "upgradeCost": [
+      {
+        "type": "E18Q3FestiveDragonOrangeStone",
+        "amount": "1"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "haveOrangeEpic",
+    "HP": 185281,
+    "fullHealDuration": 16130,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "E18Q3FestiveDragon_lockon"
+      }
+    ],
+    "abilities": {
+      "seekerShots": "soulBarrage1",
+      "nova": "deathKnell1"
+    },
+    "attackPower": 12287,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "180"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 8,
+    "upgradeXP": 78353,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 14855,
+    "nextEvolveLevel": 9,
+    "tierNumber": 4,
+    "rarity": 5
+  },
+  {
+    "identifier": "E18Q3FestiveDragon",
+    "level": 7,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "50688"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 259289,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "E18Q3FestiveDragon_lockon"
+      }
+    ],
+    "abilities": {
+      "seekerShots": "soulBarrage1",
+      "nova": "deathKnell1"
+    },
+    "attackPower": 15205,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "240"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 9,
+    "upgradeXP": 138812,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 25740,
+    "nextEvolveLevel": 9,
+    "tierNumber": 4,
+    "rarity": 5
+  },
+  {
+    "identifier": "E18Q3FestiveDragon",
+    "level": 8,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "68112"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 407705,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "E18Q3FestiveDragon_lockon"
+      }
+    ],
+    "abilities": {
+      "seekerShots": "soulBarrage1",
+      "nova": "deathKnell1"
+    },
+    "attackPower": 23665,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "366"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 13,
+    "upgradeXP": 254271,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 62985,
+    "nextEvolveLevel": 9,
+    "tierNumber": 4,
+    "rarity": 5
+  },
+  {
+    "identifier": "E18Q3FestiveDragon",
+    "level": 9,
+    "upgradeCost": [
+      {
+        "type": "E18Q3FestiveDragonGreenStone",
+        "amount": "1"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "have2GreenEpic",
+    "HP": 466122,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "E18Q3FestiveDragon_lockon"
+      }
+    ],
+    "abilities": {
+      "seekerShots": "soulBarrage1",
+      "nova": "deathKnell1",
+      "maleficBreath": "ectoplasmicBreath53"
+    },
+    "attackPower": 26743,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "402"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 14,
+    "upgradeXP": 288732,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 81371,
+    "nextEvolveLevel": 12,
+    "tierNumber": 5,
+    "rarity": 5
+  },
+  {
+    "identifier": "E18Q3FestiveDragon",
+    "level": 10,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "110880"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 657997,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "E18Q3FestiveDragon_lockon"
+      }
+    ],
+    "abilities": {
+      "seekerShots": "soulBarrage1",
+      "nova": "deathKnell1",
+      "maleficBreath": "ectoplasmicBreath58"
+    },
+    "attackPower": 33442,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "492"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 16,
+    "upgradeXP": 399775,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 143712,
+    "nextEvolveLevel": 12,
+    "tierNumber": 5,
+    "rarity": 5
+  },
+  {
+    "identifier": "E18Q3FestiveDragon",
+    "level": 11,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "134640"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 880807,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "E18Q3FestiveDragon_lockon"
+      }
+    ],
+    "abilities": {
+      "seekerShots": "soulBarrage1",
+      "nova": "deathKnell1",
+      "maleficBreath": "ectoplasmicBreath63"
+    },
+    "attackPower": 44724,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "582"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 18,
+    "upgradeXP": 548589,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 257248,
+    "nextEvolveLevel": 12,
+    "tierNumber": 5,
+    "rarity": 5
+  },
+  {
+    "identifier": "E18Q3FestiveDragon",
+    "level": 12,
+    "upgradeCost": [
+      {
+        "type": "E18Q3FestiveDragonGoldStone",
+        "amount": "1"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "haveGoldLegendary",
+    "HP": 1003878,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "E18Q3FestiveDragon_lockon"
+      }
+    ],
+    "abilities": {
+      "seekerShots": "soulBarrage1",
+      "nova": "deathKnell1",
+      "maleficBreath": "ectoplasmicBreath65",
+      "darkFlakResist01": "darkFlakResist01"
+    },
+    "attackPower": 50734,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "618"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 18,
+    "upgradeXP": 621502,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 332592,
+    "nextEvolveLevel": 18,
+    "tierNumber": 6,
+    "rarity": 5
+  },
+  {
+    "identifier": "E18Q3FestiveDragon",
+    "level": 13,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "167904"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 1287497,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "E18Q3FestiveDragon_lockon"
+      }
+    ],
+    "abilities": {
+      "seekerShots": "soulBarrage1",
+      "nova": "deathKnell1",
+      "maleficBreath": "ectoplasmicBreath69",
+      "darkFlakResist01": "darkFlakResist01"
+    },
+    "attackPower": 65104,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "690"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 18,
+    "upgradeXP": 796983,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 547349,
+    "nextEvolveLevel": 18,
+    "tierNumber": 6,
+    "rarity": 5
+  },
+  {
+    "identifier": "E18Q3FestiveDragon",
+    "level": 14,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "186912"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 1607623,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "E18Q3FestiveDragon_lockon"
+      }
+    ],
+    "abilities": {
+      "seekerShots": "soulBarrage1",
+      "nova": "deathKnell1",
+      "maleficBreath": "ectoplasmicBreath74",
+      "darkFlakResist01": "darkFlakResist01"
+    },
+    "attackPower": 81022,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "780"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 18,
+    "upgradeXP": 906741,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 850504,
+    "nextEvolveLevel": 18,
+    "tierNumber": 6,
+    "rarity": 5
+  },
+  {
+    "identifier": "E18Q3FestiveDragon",
+    "level": 15,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "210672"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "have2LegendaryGold",
+    "HP": 1774459,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "E18Q3FestiveDragon_lockon"
+      }
+    ],
+    "abilities": {
+      "seekerShots": "soulBarrage1",
+      "nova": "deathKnell1",
+      "maleficBreath": "ectoplasmicBreath78",
+      "darkFlakResist01": "darkFlakResist01"
+    },
+    "attackPower": 89598,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "852"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 18,
+    "upgradeXP": 1000866,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 1038133,
+    "nextEvolveLevel": 18,
+    "tierNumber": 6,
+    "rarity": 5
+  },
+  {
+    "identifier": "E18Q3FestiveDragon",
+    "level": 16,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "229680"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 1958627,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "E18Q3FestiveDragon_lockon"
+      }
+    ],
+    "abilities": {
+      "seekerShots": "soulBarrage1",
+      "nova": "deathKnell1",
+      "maleficBreath": "ectoplasmicBreath82",
+      "darkFlakResist01": "darkFlakResist01"
+    },
+    "attackPower": 98899,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "924"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 19,
+    "upgradeXP": 1104763,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 1264916,
+    "nextEvolveLevel": 18,
+    "tierNumber": 6,
+    "rarity": 5
+  },
+  {
+    "identifier": "E18Q3FestiveDragon",
+    "level": 17,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "248688"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 2161892,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "E18Q3FestiveDragon_lockon"
+      }
+    ],
+    "abilities": {
+      "seekerShots": "soulBarrage1",
+      "nova": "deathKnell1",
+      "maleficBreath": "ectoplasmicBreath86",
+      "darkFlakResist01": "darkFlakResist01"
+    },
+    "attackPower": 109166,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "996"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 20,
+    "upgradeXP": 1219450,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 1541051,
+    "nextEvolveLevel": 18,
+    "tierNumber": 6,
+    "rarity": 5
+  },
+  {
+    "identifier": "E18Q3FestiveDragon",
+    "level": 18,
+    "upgradeCost": [
+      {
+        "type": "E18Q3FestiveDragonPlatinumStone",
+        "amount": "1"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "havePlatinumLegendary",
+    "HP": 2271306,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "E18Q3FestiveDragon_lockon"
+      }
+    ],
+    "abilities": {
+      "seekerShots": "soulBarrage1",
+      "nova": "deathKnell1",
+      "maleficBreath": "ectoplasmicBreath88",
+      "darkFlakResist01": "darkFlakResist01"
+    },
+    "attackPower": 114692,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1032"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 21,
+    "upgradeXP": 1701670,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 1701014,
+    "nextEvolveLevel": 24,
+    "tierNumber": 7,
+    "rarity": 5
+  },
+  {
+    "identifier": "E18Q3FestiveDragon",
+    "level": 19,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "368178"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 2633944,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "E18Q3FestiveDragon_lockon"
+      }
+    ],
+    "abilities": {
+      "seekerShots": "soulBarrage1",
+      "nova": "deathKnell1",
+      "maleficBreath": "ectoplasmicBreath94",
+      "darkFlakResist01": "darkFlakResist01"
+    },
+    "attackPower": 133007,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1140"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 23,
+    "upgradeXP": 1973403,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 2287584,
+    "nextEvolveLevel": 24,
+    "tierNumber": 7,
+    "rarity": 5
+  },
+  {
+    "identifier": "E18Q3FestiveDragon",
+    "level": 20,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "406048"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 3054476,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "E18Q3FestiveDragon_lockon"
+      }
+    ],
+    "abilities": {
+      "seekerShots": "soulBarrage1",
+      "nova": "deathKnell1",
+      "maleficBreath": "ectoplasmicBreath100",
+      "darkFlakResist01": "darkFlakResist01"
+    },
+    "attackPower": 150423,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1248"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 25,
+    "upgradeXP": 2288530,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 3000270,
+    "nextEvolveLevel": 24,
+    "tierNumber": 7,
+    "rarity": 5
+  },
+  {
+    "identifier": "E18Q3FestiveDragon",
+    "level": 21,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "443917"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "have2LegendaryPlatinum",
+    "HP": 3289283,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "E18Q3FestiveDragon_lockon"
+      }
+    ],
+    "abilities": {
+      "seekerShots": "soulBarrage1",
+      "nova": "deathKnell1",
+      "maleficBreath": "ectoplasmicBreath103",
+      "darkFlakResist01": "darkFlakResist01"
+    },
+    "attackPower": 161989,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1302"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 26,
+    "upgradeXP": 2464494,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 3479258,
+    "nextEvolveLevel": 24,
+    "tierNumber": 7,
+    "rarity": 5
+  },
+  {
+    "identifier": "E18Q3FestiveDragon",
+    "level": 22,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "462852"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 3371501,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "E18Q3FestiveDragon_lockon"
+      }
+    ],
+    "abilities": {
+      "seekerShots": "soulBarrage1",
+      "nova": "deathKnell1",
+      "maleficBreath": "ectoplasmicBreath104",
+      "darkFlakResist01": "darkFlakResist01"
+    },
+    "attackPower": 166038,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1320"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 26,
+    "upgradeXP": 3089645,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 3655402,
+    "nextEvolveLevel": 24,
+    "tierNumber": 7,
+    "rarity": 5
+  },
+  {
+    "identifier": "E18Q3FestiveDragon",
+    "level": 23,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "573828"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 3542153,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "E18Q3FestiveDragon_lockon"
+      }
+    ],
+    "abilities": {
+      "seekerShots": "soulBarrage1",
+      "nova": "deathKnell1",
+      "maleficBreath": "ectoplasmicBreath106",
+      "darkFlakResist01": "darkFlakResist01"
+    },
+    "attackPower": 174444,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1356"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 27,
+    "upgradeXP": 3246057,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 4034784,
+    "nextEvolveLevel": 24,
+    "tierNumber": 7,
+    "rarity": 5
+  },
+  {
+    "identifier": "E18Q3FestiveDragon",
+    "level": 24,
+    "upgradeCost": [
+      {
+        "type": "E18Q3FestiveDragonSapphireStone",
+        "amount": "1"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "haveLegendarySapphire",
+    "HP": 3630695,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "E18Q3FestiveDragon_lockon"
+      }
+    ],
+    "abilities": {
+      "seekerShots": "soulBarrage1",
+      "nova": "deathKnell1",
+      "maleficBreath": "ectoplasmicBreath107",
+      "darkFlakResist01": "darkFlakResist01"
+    },
+    "attackPower": 178805,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1374"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 27,
+    "upgradeXP": 3327205,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 4239073,
+    "nextEvolveLevel": 29,
+    "tierNumber": 8,
+    "rarity": 5
+  },
+  {
+    "identifier": "E18Q3FestiveDragon",
+    "level": 25,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "596987"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 4007557,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "E18Q3FestiveDragon_lockon"
+      }
+    ],
+    "abilities": {
+      "seekerShots": "soulBarrage1",
+      "nova": "deathKnell1",
+      "maleficBreath": "ectoplasmicBreath111",
+      "darkFlakResist01": "darkFlakResist01"
+    },
+    "attackPower": 197367,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1446"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 29,
+    "upgradeXP": 3672602,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 5164786,
+    "nextEvolveLevel": 29,
+    "tierNumber": 8,
+    "rarity": 5
+  },
+  {
+    "identifier": "E18Q3FestiveDragon",
+    "level": 26,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "627865"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "have2LegendarySapphire",
+    "HP": 4423514,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "E18Q3FestiveDragon_lockon"
+      }
+    ],
+    "abilities": {
+      "seekerShots": "soulBarrage1",
+      "nova": "deathKnell1",
+      "maleficBreath": "ectoplasmicBreath115",
+      "darkFlakResist01": "darkFlakResist01"
+    },
+    "attackPower": 217855,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1518"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 30,
+    "upgradeXP": 4739207,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 6292754,
+    "nextEvolveLevel": 29,
+    "tierNumber": 8,
+    "rarity": 5
+  },
+  {
+    "identifier": "E18Q3FestiveDragon",
+    "level": 27,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "770111"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 4647435,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "E18Q3FestiveDragon_lockon"
+      }
+    ],
+    "abilities": {
+      "seekerShots": "soulBarrage1",
+      "nova": "deathKnell1",
+      "maleficBreath": "ectoplasmicBreath117",
+      "darkFlakResist01": "darkFlakResist01"
+    },
+    "attackPower": 228884,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1554"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 31,
+    "upgradeXP": 4979123,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 6945951,
+    "nextEvolveLevel": 29,
+    "tierNumber": 8,
+    "rarity": 5
+  },
+  {
+    "identifier": "E18Q3FestiveDragon",
+    "level": 28,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "788161"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 5004740,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "E18Q3FestiveDragon_lockon"
+      }
+    ],
+    "abilities": {
+      "seekerShots": "soulBarrage1",
+      "nova": "deathKnell1",
+      "maleficBreath": "ectoplasmicBreath120",
+      "darkFlakResist01": "darkFlakResist01"
+    },
+    "attackPower": 246482,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1608"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 32,
+    "upgradeXP": 5361968,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 8055060,
+    "nextEvolveLevel": 29,
+    "tierNumber": 8,
+    "rarity": 5
+  },
+  {
+    "identifier": "E18Q3FestiveDragon",
+    "level": 29,
+    "upgradeCost": [
+      {
+        "type": "E18Q3FestiveDragonGarnetStone",
+        "amount": "1"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "haveLegendaryGarnet",
+    "HP": 5258068,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "E18Q3FestiveDragon_lockon"
+      }
+    ],
+    "abilities": {
+      "seekerShots": "soulBarrage1",
+      "nova": "deathKnell1",
+      "maleficBreath": "ectoplasmicBreath122",
+      "darkFlakResist01": "darkFlakResist01"
+    },
+    "attackPower": 258960,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1644"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 32,
+    "upgradeXP": 5633412,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 8891275,
+    "nextEvolveLevel": 34,
+    "tierNumber": 9,
+    "rarity": 5
+  },
+  {
+    "identifier": "E18Q3FestiveDragon",
+    "level": 30,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "833284"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 5662314,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "E18Q3FestiveDragon_lockon"
+      }
+    ],
+    "abilities": {
+      "seekerShots": "soulBarrage1",
+      "nova": "deathKnell1",
+      "maleficBreath": "ectoplasmicBreath125",
+      "darkFlakResist01": "darkFlakResist01"
+    },
+    "attackPower": 278872,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1698"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 33,
+    "upgradeXP": 6066560,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 10311113,
+    "nextEvolveLevel": 34,
+    "tierNumber": 9,
+    "rarity": 5
+  },
+  {
+    "identifier": "E18Q3FestiveDragon",
+    "level": 31,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "860359"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 6097637,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "E18Q3FestiveDragon_lockon"
+      }
+    ],
+    "abilities": {
+      "seekerShots": "soulBarrage1",
+      "nova": "deathKnell1",
+      "maleficBreath": "ectoplasmicBreath128",
+      "darkFlakResist01": "darkFlakResist01"
+    },
+    "attackPower": 300314,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1752"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 34,
+    "upgradeXP": 6533011,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 11957504,
+    "nextEvolveLevel": 34,
+    "tierNumber": 9,
+    "rarity": 5
+  },
+  {
+    "identifier": "E18Q3FestiveDragon",
+    "level": 32,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "887433"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "have2LegendaryGarnet",
+    "HP": 6566443,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "E18Q3FestiveDragon_lockon"
+      }
+    ],
+    "abilities": {
+      "seekerShots": "soulBarrage1",
+      "nova": "deathKnell1",
+      "maleficBreath": "ectoplasmicBreath131",
+      "darkFlakResist01": "darkFlakResist01"
+    },
+    "attackPower": 323405,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1806"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 35,
+    "upgradeXP": 7035336,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 13867018,
+    "nextEvolveLevel": 34,
+    "tierNumber": 9,
+    "rarity": 5
+  },
+  {
+    "identifier": "E18Q3FestiveDragon",
+    "level": 33,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "914507"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 8000415,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "E18Q3FestiveDragon_lockon"
+      }
+    ],
+    "abilities": {
+      "seekerShots": "soulBarrage1",
+      "nova": "deathKnell1",
+      "maleficBreath": "ectoplasmicBreath139",
+      "darkFlakResist01": "darkFlakResist01"
+    },
+    "attackPower": 394036,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1950"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 38,
+    "upgradeXP": 8571843,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 20585163,
+    "nextEvolveLevel": 34,
+    "tierNumber": 9,
+    "rarity": 5
+  },
+  {
+    "identifier": "E18Q3FestiveDragon",
+    "level": 34,
+    "upgradeCost": [
+      {
+        "type": "E18Q3FestiveDragonEmeraldStone",
+        "amount": "1"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "haveLegendaryEmerald",
+    "HP": 8200406,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "E18Q3FestiveDragon_lockon"
+      }
+    ],
+    "abilities": {
+      "seekerShots": "soulBarrage1",
+      "nova": "deathKnell1",
+      "maleficBreath": "ectoplasmicBreath140",
+      "darkFlakResist01": "darkFlakResist01"
+    },
+    "attackPower": 403887,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1968"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 38,
+    "upgradeXP": 8786136,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 21627242,
+    "nextEvolveLevel": 39,
+    "tierNumber": 10,
+    "rarity": 5
+  },
+  {
+    "identifier": "E18Q3FestiveDragon",
+    "level": 35,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "995730"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 9051637,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "E18Q3FestiveDragon_lockon"
+      }
+    ],
+    "abilities": {
+      "seekerShots": "soulBarrage1",
+      "nova": "deathKnell1",
+      "maleficBreath": "ectoplasmicBreath144",
+      "darkFlakResist01": "darkFlakResist01"
+    },
+    "attackPower": 445814,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2040"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 40,
+    "upgradeXP": 9698236,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 26350272,
+    "nextEvolveLevel": 39,
+    "tierNumber": 10,
+    "rarity": 5
+  },
+  {
+    "identifier": "E18Q3FestiveDragon",
+    "level": 36,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1031828"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 9991259,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "E18Q3FestiveDragon_lockon"
+      }
+    ],
+    "abilities": {
+      "seekerShots": "soulBarrage1",
+      "nova": "deathKnell1",
+      "maleficBreath": "ectoplasmicBreath148",
+      "darkFlakResist01": "darkFlakResist01"
+    },
+    "attackPower": 492095,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2112"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 42,
+    "upgradeXP": 10705033,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 32105211,
+    "nextEvolveLevel": 39,
+    "tierNumber": 10,
+    "rarity": 5
+  },
+  {
+    "identifier": "E18Q3FestiveDragon",
+    "level": 37,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1067927"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "have2LegendaryEmerald",
+    "HP": 11028399,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "E18Q3FestiveDragon_lockon"
+      }
+    ],
+    "abilities": {
+      "seekerShots": "soulBarrage1",
+      "nova": "deathKnell1",
+      "maleficBreath": "ectoplasmicBreath152",
+      "darkFlakResist01": "darkFlakResist01"
+    },
+    "attackPower": 543180,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2184"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 44,
+    "upgradeXP": 11816341,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 39116698,
+    "nextEvolveLevel": 39,
+    "tierNumber": 10,
+    "rarity": 5
+  },
+  {
+    "identifier": "E18Q3FestiveDragon",
+    "level": 38,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1104026"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 11876323,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "E18Q3FestiveDragon_lockon"
+      }
+    ],
+    "abilities": {
+      "seekerShots": "soulBarrage1",
+      "nova": "deathKnell1",
+      "maleficBreath": "ectoplasmicBreath155",
+      "darkFlakResist01": "darkFlakResist01"
+    },
+    "attackPower": 584945,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2238"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 45,
+    "upgradeXP": 12724900,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 45363091,
+    "nextEvolveLevel": 39,
+    "tierNumber": 10,
+    "rarity": 5
+  },
+  {
+    "identifier": "E18Q3FestiveDragon",
+    "level": 39,
+    "upgradeCost": [
+      {
+        "type": "E18Q3FestiveDragonObsidianStone",
+        "amount": "1"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "haveLegendaryObsidian",
+    "HP": 12477526,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "E18Q3FestiveDragon_lockon"
+      }
+    ],
+    "abilities": {
+      "seekerShots": "soulBarrage1",
+      "nova": "deathKnell1",
+      "maleficBreath": "ectoplasmicBreath157",
+      "darkFlakResist01": "darkFlakResist01"
+    },
+    "attackPower": 614558,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2274"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 46,
+    "upgradeXP": 13369093,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 50072261,
+    "nextEvolveLevel": 48,
+    "tierNumber": 11,
+    "rarity": 5
+  },
+  {
+    "identifier": "E18Q3FestiveDragon",
+    "level": 40,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1149150"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 13109181,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "E18Q3FestiveDragon_lockon"
+      }
+    ],
+    "abilities": {
+      "seekerShots": "soulBarrage1",
+      "nova": "deathKnell1",
+      "maleficBreath": "ectoplasmicBreath159",
+      "darkFlakResist01": "darkFlakResist01"
+    },
+    "attackPower": 645670,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2310"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 47,
+    "upgradeXP": 14045894,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 55270340,
+    "nextEvolveLevel": 48,
+    "tierNumber": 11,
+    "rarity": 5
+  },
+  {
+    "identifier": "E18Q3FestiveDragon",
+    "level": 41,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1167200"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 13772810,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "E18Q3FestiveDragon_lockon"
+      }
+    ],
+    "abilities": {
+      "seekerShots": "soulBarrage1",
+      "nova": "deathKnell1",
+      "maleficBreath": "ectoplasmicBreath161",
+      "darkFlakResist01": "darkFlakResist01"
+    },
+    "attackPower": 678356,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2346"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 48,
+    "upgradeXP": 14756966,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 61007811,
+    "nextEvolveLevel": 48,
+    "tierNumber": 11,
+    "rarity": 5
+  },
+  {
+    "identifier": "E18Q3FestiveDragon",
+    "level": 42,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1185249"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 14470041,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "E18Q3FestiveDragon_lockon"
+      }
+    ],
+    "abilities": {
+      "seekerShots": "soulBarrage1",
+      "nova": "deathKnell1",
+      "maleficBreath": "ectoplasmicBreath163",
+      "darkFlakResist01": "darkFlakResist01"
+    },
+    "attackPower": 712698,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2382"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 49,
+    "upgradeXP": 15504034,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 67341184,
+    "nextEvolveLevel": 48,
+    "tierNumber": 11,
+    "rarity": 5
+  },
+  {
+    "identifier": "E18Q3FestiveDragon",
+    "level": 43,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1203298"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "have2LegendaryObsidian",
+    "HP": 15582614,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "E18Q3FestiveDragon_lockon"
+      }
+    ],
+    "abilities": {
+      "seekerShots": "soulBarrage1",
+      "nova": "deathKnell1",
+      "maleficBreath": "ectoplasmicBreath166",
+      "darkFlakResist01": "darkFlakResist01"
+    },
+    "attackPower": 767497,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2436"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 52,
+    "upgradeXP": 16696141,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 78094999,
+    "nextEvolveLevel": 48,
+    "tierNumber": 11,
+    "rarity": 5
+  },
+  {
+    "identifier": "E18Q3FestiveDragon",
+    "level": 44,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1230373"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 16371452,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "E18Q3FestiveDragon_lockon"
+      }
+    ],
+    "abilities": {
+      "seekerShots": "soulBarrage1",
+      "nova": "deathKnell1",
+      "maleficBreath": "ectoplasmicBreath168",
+      "darkFlakResist01": "darkFlakResist01"
+    },
+    "attackPower": 806352,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2472"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 54,
+    "upgradeXP": 17541374,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 86202043,
+    "nextEvolveLevel": 48,
+    "tierNumber": 11,
+    "rarity": 5
+  },
+  {
+    "identifier": "E18Q3FestiveDragon",
+    "level": 45,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1248422"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 17200230,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "E18Q3FestiveDragon_lockon"
+      }
+    ],
+    "abilities": {
+      "seekerShots": "soulBarrage1",
+      "nova": "deathKnell1",
+      "maleficBreath": "ectoplasmicBreath170",
+      "darkFlakResist01": "darkFlakResist01"
+    },
+    "attackPower": 847173,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2508"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 56,
+    "upgradeXP": 18429404,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 94660046,
+    "nextEvolveLevel": 48,
+    "tierNumber": 11,
+    "rarity": 5
+  },
+  {
+    "identifier": "E18Q3FestiveDragon",
+    "level": 46,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1266472"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "haveMythicObsidian",
+    "HP": 18522726,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "E18Q3FestiveDragon_lockon"
+      }
+    ],
+    "abilities": {
+      "seekerShots": "soulBarrage1",
+      "nova": "deathKnell1",
+      "maleficBreath": "ectoplasmicBreath173",
+      "darkFlakResist01": "darkFlakResist01"
+    },
+    "attackPower": 912312,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2562"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 59,
+    "upgradeXP": 19846444,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 107725526,
+    "nextEvolveLevel": 48,
+    "tierNumber": 11,
+    "rarity": 5
+  },
+  {
+    "identifier": "E18Q3FestiveDragon",
+    "level": 47,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1293546"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 21480624,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "E18Q3FestiveDragon_lockon"
+      }
+    ],
+    "abilities": {
+      "seekerShots": "soulBarrage1",
+      "nova": "deathKnell1",
+      "maleficBreath": "ectoplasmicBreath179",
+      "darkFlakResist01": "darkFlakResist01"
+    },
+    "attackPower": 1058001,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2670"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 62,
+    "upgradeXP": 23015776,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 129871499,
+    "nextEvolveLevel": 48,
+    "tierNumber": 11,
+    "rarity": 5
+  },
+  {
+    "identifier": "E18Q3FestiveDragon",
+    "level": 48,
+    "upgradeCost": [
+      {
+        "type": "E18Q3FestiveDragonHarbingerStone",
+        "amount": "1"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "haveLegendaryHarbinger",
+    "HP": 22568073,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "E18Q3FestiveDragon_lockon"
+      }
+    ],
+    "abilities": {
+      "seekerShots": "soulBarrage1",
+      "nova": "deathKnell1",
+      "maleficBreath": "ectoplasmicBreath181",
+      "darkFlakResist01": "darkFlakResist01"
+    },
+    "attackPower": 1111563,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2706"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 63,
+    "upgradeXP": 24180946,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 137173547,
+    "nextEvolveLevel": 58,
+    "tierNumber": 12,
+    "rarity": 5
+  },
+  {
+    "identifier": "E18Q3FestiveDragon",
+    "level": 49,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1365744"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 24303308,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "E18Q3FestiveDragon_lockon"
+      }
+    ],
+    "abilities": {
+      "seekerShots": "soulBarrage1",
+      "nova": "deathKnell1",
+      "maleficBreath": "ectoplasmicBreath184",
+      "darkFlakResist01": "darkFlakResist01"
+    },
+    "attackPower": 1197031,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2760"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 65,
+    "upgradeXP": 26040226,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 148369062,
+    "nextEvolveLevel": 58,
+    "tierNumber": 12,
+    "rarity": 5
+  },
+  {
+    "identifier": "E18Q3FestiveDragon",
+    "level": 50,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1392818"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 26171995,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "E18Q3FestiveDragon_lockon"
+      }
+    ],
+    "abilities": {
+      "seekerShots": "soulBarrage1",
+      "nova": "deathKnell1",
+      "maleficBreath": "ectoplasmicBreath187",
+      "darkFlakResist01": "darkFlakResist01"
+    },
+    "attackPower": 1289071,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2814"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 66,
+    "upgradeXP": 28042467,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 159855510,
+    "nextEvolveLevel": 58,
+    "tierNumber": 12,
+    "rarity": 5
+  },
+  {
+    "identifier": "E18Q3FestiveDragon",
+    "level": 51,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1419892"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 28184351,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "E18Q3FestiveDragon_lockon"
+      }
+    ],
+    "abilities": {
+      "seekerShots": "soulBarrage1",
+      "nova": "deathKnell1",
+      "maleficBreath": "ectoplasmicBreath190",
+      "darkFlakResist01": "darkFlakResist01"
+    },
+    "attackPower": 1388188,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2868"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 68,
+    "upgradeXP": 30198662,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 171632890,
+    "nextEvolveLevel": 58,
+    "tierNumber": 12,
+    "rarity": 5
+  },
+  {
+    "identifier": "E18Q3FestiveDragon",
+    "level": 52,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1446966"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "have2LegendaryHarbinger",
+    "HP": 29611152,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "E18Q3FestiveDragon_lockon"
+      }
+    ],
+    "abilities": {
+      "seekerShots": "soulBarrage1",
+      "nova": "deathKnell1",
+      "maleficBreath": "ectoplasmicBreath192",
+      "darkFlakResist01": "darkFlakResist01"
+    },
+    "attackPower": 1458465,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2904"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 69,
+    "upgradeXP": 31727463,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 179646106,
+    "nextEvolveLevel": 58,
+    "tierNumber": 12,
+    "rarity": 5
+  },
+  {
+    "identifier": "E18Q3FestiveDragon",
+    "level": 53,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1465016"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 31110187,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "E18Q3FestiveDragon_lockon"
+      }
+    ],
+    "abilities": {
+      "seekerShots": "soulBarrage1",
+      "nova": "deathKnell1",
+      "maleficBreath": "ectoplasmicBreath194",
+      "darkFlakResist01": "darkFlakResist01"
+    },
+    "attackPower": 1532299,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2940"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 70,
+    "upgradeXP": 33333657,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 187788624,
+    "nextEvolveLevel": 58,
+    "tierNumber": 12,
+    "rarity": 5
+  },
+  {
+    "identifier": "E18Q3FestiveDragon",
+    "level": 54,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1483065"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 33502237,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "E18Q3FestiveDragon_lockon"
+      }
+    ],
+    "abilities": {
+      "seekerShots": "soulBarrage1",
+      "nova": "deathKnell1",
+      "maleficBreath": "ectoplasmicBreath197",
+      "darkFlakResist01": "darkFlakResist01"
+    },
+    "attackPower": 1650118,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2994"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 71,
+    "upgradeXP": 35896698,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 200244846,
+    "nextEvolveLevel": 58,
+    "tierNumber": 12,
+    "rarity": 5
+  },
+  {
+    "identifier": "E18Q3FestiveDragon",
+    "level": 55,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1510139"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "haveMythicHarbinger",
+    "HP": 35198262,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "E18Q3FestiveDragon_lockon"
+      }
+    ],
+    "abilities": {
+      "seekerShots": "soulBarrage1",
+      "nova": "deathKnell1",
+      "maleficBreath": "ectoplasmicBreath199",
+      "darkFlakResist01": "darkFlakResist01"
+    },
+    "attackPower": 1733655,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3030"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 72,
+    "upgradeXP": 37713958,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 208710623,
+    "nextEvolveLevel": 58,
+    "tierNumber": 12,
+    "rarity": 5
+  },
+  {
+    "identifier": "E18Q3FestiveDragon",
+    "level": 56,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1528189"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 39823554,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "E18Q3FestiveDragon_lockon"
+      }
+    ],
+    "abilities": {
+      "seekerShots": "soulBarrage1",
+      "nova": "deathKnell1",
+      "maleficBreath": "ectoplasmicBreath204",
+      "darkFlakResist01": "darkFlakResist01"
+    },
+    "attackPower": 1961471,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3120"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 75,
+    "upgradeXP": 42669870,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 230440766,
+    "nextEvolveLevel": 58,
+    "tierNumber": 12,
+    "rarity": 5
+  },
+  {
+    "identifier": "E18Q3FestiveDragon",
+    "level": 57,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1573313"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 45056616,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "E18Q3FestiveDragon_lockon"
+      }
+    ],
+    "abilities": {
+      "seekerShots": "soulBarrage1",
+      "nova": "deathKnell1",
+      "maleficBreath": "ectoplasmicBreath209",
+      "darkFlakResist01": "darkFlakResist01"
+    },
+    "attackPower": 2219223,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3210"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 80,
+    "upgradeXP": 48277025,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 252979055,
+    "nextEvolveLevel": 58,
+    "tierNumber": 12,
+    "rarity": 5
+  },
+  {
+    "identifier": "E18Q3FestiveDragon",
+    "level": 58,
+    "upgradeCost": [
+      {
+        "type": "E18Q3FestiveDragonVanguardStone",
+        "amount": "1"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "haveLegendaryVanguard",
+    "HP": 48520997,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "E18Q3FestiveDragon_lockon"
+      }
+    ],
+    "abilities": {
+      "seekerShots": "soulBarrage1",
+      "nova": "deathKnell1",
+      "maleficBreath": "ectoplasmicBreath212",
+      "darkFlakResist01": "darkFlakResist01"
+    },
+    "attackPower": 2389860,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3264"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 81,
+    "upgradeXP": 51989066,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 266889938,
+    "nextEvolveLevel": 0,
+    "tierNumber": 13,
+    "rarity": 5
+  },
+  {
+    "identifier": "E18Q3FestiveDragon",
+    "level": 59,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1645510"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 52251771,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "E18Q3FestiveDragon_lockon"
+      }
+    ],
+    "abilities": {
+      "seekerShots": "soulBarrage1",
+      "nova": "deathKnell1",
+      "maleficBreath": "ectoplasmicBreath215",
+      "darkFlakResist01": "darkFlakResist01"
+    },
+    "attackPower": 2573617,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3318"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 83,
+    "upgradeXP": 55986528,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 281091753,
+    "nextEvolveLevel": 0,
+    "tierNumber": 13,
+    "rarity": 5
+  },
+  {
+    "identifier": "E18Q3FestiveDragon",
+    "level": 60,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1672585"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 57676151,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "E18Q3FestiveDragon_lockon"
+      }
+    ],
+    "abilities": {
+      "seekerShots": "soulBarrage1",
+      "nova": "deathKnell1",
+      "maleficBreath": "ectoplasmicBreath219",
+      "darkFlakResist01": "darkFlakResist01"
+    },
+    "attackPower": 2840791,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3390"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 85,
+    "upgradeXP": 0,
+    "xpRewardMultiplier": 1.2,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 300480067,
+    "nextEvolveLevel": 0,
+    "tierNumber": 13,
+    "rarity": 5
+  }
+]

@@ -1,0 +1,641 @@
+[
+  {
+    "identifier": "T5C1WUdragon",
+    "level": 1,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "0"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 112251,
+    "fullHealDuration": 6118,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T5C1WUdragon_flamethrower"
+      }
+    ],
+    "abilities": {},
+    "attackPower": 1402,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "77"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 5,
+    "upgradeXP": 14781,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 2000
+  },
+  {
+    "identifier": "T5C1WUdragon",
+    "level": 2,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "14982"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 120490,
+    "fullHealDuration": 6765,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T5C1WUdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "energySyphon": "syphon1"
+    },
+    "attackPower": 1493,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "82"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 6,
+    "upgradeXP": 18764,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 3432
+  },
+  {
+    "identifier": "T5C1WUdragon",
+    "level": 3,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "16169"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 128206,
+    "fullHealDuration": 7464,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T5C1WUdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "energySyphon": "syphon1"
+    },
+    "attackPower": 1599,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "87"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 6,
+    "upgradeXP": 24327,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 3911
+  },
+  {
+    "identifier": "T5C1WUdragon",
+    "level": 4,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "17388"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 137552,
+    "fullHealDuration": 8273,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T5C1WUdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "energySyphon": "syphon1"
+    },
+    "attackPower": 1710,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "92"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 6,
+    "upgradeXP": 30799,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 4488
+  },
+  {
+    "identifier": "T5C1WUdragon",
+    "level": 5,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "20952"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 147541,
+    "fullHealDuration": 9169,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T5C1WUdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "energySyphon": "syphon1",
+      "stormResist01": "stormResist01"
+    },
+    "attackPower": 1829,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "97"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 6,
+    "upgradeXP": 38027,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 6860
+  },
+  {
+    "identifier": "T5C1WUdragon",
+    "level": 6,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "22032"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 156940,
+    "fullHealDuration": 10109,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T5C1WUdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "energySyphon": "syphon1",
+      "stormResist01": "stormResist01"
+    },
+    "attackPower": 1958,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "102"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 7,
+    "upgradeXP": 42814,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 7812
+  },
+  {
+    "identifier": "T5C1WUdragon",
+    "level": 7,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "23112"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 168273,
+    "fullHealDuration": 11196,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T5C1WUdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "energySyphon": "syphon1",
+      "stormResist01": "stormResist01"
+    },
+    "attackPower": 2092,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "107"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 7,
+    "upgradeXP": 48190,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 8954
+  },
+  {
+    "identifier": "T5C1WUdragon",
+    "level": 8,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "30240"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 180382,
+    "fullHealDuration": 12329,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T5C1WUdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "energySyphon": "syphon1",
+      "stormResist01": "stormResist01"
+    },
+    "attackPower": 2219,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "112"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 7,
+    "upgradeXP": 53809,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 10184
+  },
+  {
+    "identifier": "T5C1WUdragon",
+    "level": 9,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "32400"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 191820,
+    "fullHealDuration": 13442,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T5C1WUdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "energySyphon": "syphon1",
+      "stormResist01": "stormResist01"
+    },
+    "attackPower": 2342,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "120"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 8,
+    "upgradeXP": 80416,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 11427
+  },
+  {
+    "identifier": "T5C1WUdragon",
+    "level": 10,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "45903"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 232075,
+    "fullHealDuration": 14400,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T5C1WUdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "energySyphon": "syphon1",
+      "stormResist01": "stormResist01"
+    },
+    "attackPower": 2452,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "128"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 8,
+    "upgradeXP": 90462,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 14480
+  },
+  {
+    "identifier": "T5C1WUdragon",
+    "level": 11,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "48772"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 240858,
+    "fullHealDuration": 14400,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T5C1WUdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "energySyphon": "syphon1",
+      "stormResist01": "stormResist01"
+    },
+    "attackPower": 2554,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "136"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 8,
+    "upgradeXP": 123505,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 15662
+  },
+  {
+    "identifier": "T5C1WUdragon",
+    "level": 12,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "63161"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 248293,
+    "fullHealDuration": 14400,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T5C1WUdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "energySyphon": "syphon1",
+      "stormResist01": "stormResist01"
+    },
+    "attackPower": 2648,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "144"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 9,
+    "upgradeXP": 138885,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 16716
+  },
+  {
+    "identifier": "T5C1WUdragon",
+    "level": 13,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "66670"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 258087,
+    "fullHealDuration": 14400,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T5C1WUdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "energySyphon": "syphon1",
+      "stormResist01": "stormResist01"
+    },
+    "attackPower": 2761,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "152"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 9,
+    "upgradeXP": 182543,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 18146
+  },
+  {
+    "identifier": "T5C1WUdragon",
+    "level": 14,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "82044"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 268440,
+    "fullHealDuration": 14400,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T5C1WUdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "energySyphon": "syphon1",
+      "stormResist01": "stormResist01"
+    },
+    "attackPower": 2898,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "160"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 9,
+    "upgradeXP": 203709,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 19800
+  },
+  {
+    "identifier": "T5C1WUdragon",
+    "level": 15,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "88197"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 285291,
+    "fullHealDuration": 14400,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T5C1WUdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "energySyphon": "syphon1",
+      "stormResist01": "stormResist01"
+    },
+    "attackPower": 3065,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "172"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 10,
+    "upgradeXP": 0,
+    "xpRewardMultiplier": 1.2,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 22275
+  }
+]

@@ -1,0 +1,1802 @@
+[
+  {
+    "identifier": "T11C4SFdragon",
+    "level": 1,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "0"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 8528422,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T11C4SFdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "stealEssence": "extractEssence1",
+      "risingPhoenix": "resurrection1",
+      "summonAIDragon": "hellspawn1",
+      "nova": "nova1"
+    },
+    "attackPower": 420042,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2296"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 38,
+    "upgradeXP": 3236206,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 22492332
+  },
+  {
+    "identifier": "T11C4SFdragon",
+    "level": 2,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "595800"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 8741612,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T11C4SFdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "stealEssence": "extractEssence1",
+      "risingPhoenix": "resurrection1",
+      "summonAIDragon": "hellspawn1",
+      "nova": "nova1"
+    },
+    "attackPower": 430543,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2317"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 39,
+    "upgradeXP": 3317110,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 23630933
+  },
+  {
+    "identifier": "T11C4SFdragon",
+    "level": 3,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "601200"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 8960131,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T11C4SFdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "stealEssence": "extractEssence1",
+      "risingPhoenix": "resurrection1",
+      "summonAIDragon": "hellspawn1",
+      "nova": "nova1"
+    },
+    "attackPower": 441306,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2338"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 39,
+    "upgradeXP": 3862873,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 24827179
+  },
+  {
+    "identifier": "T11C4SFdragon",
+    "level": 4,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "606600"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 9184114,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T11C4SFdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "stealEssence": "extractEssence1",
+      "risingPhoenix": "resurrection1",
+      "summonAIDragon": "hellspawn1",
+      "nova": "nova1"
+    },
+    "attackPower": 452339,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2359"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 39,
+    "upgradeXP": 4556438,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 26083926
+  },
+  {
+    "identifier": "T11C4SFdragon",
+    "level": 5,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "612000"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 9413702,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T11C4SFdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "stealEssence": "extractEssence1",
+      "risingPhoenix": "resurrection1",
+      "summonAIDragon": "hellspawn1",
+      "nova": "nova1"
+    },
+    "attackPower": 463647,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2380"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 40,
+    "upgradeXP": 5249587,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 27404283
+  },
+  {
+    "identifier": "T11C4SFdragon",
+    "level": 6,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "617400"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 9649035,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T11C4SFdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "stealEssence": "extractEssence1",
+      "risingPhoenix": "resurrection1",
+      "summonAIDragon": "hellspawn1",
+      "nova": "nova1"
+    },
+    "attackPower": 475238,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2401"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 40,
+    "upgradeXP": 5948068,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 28791611
+  },
+  {
+    "identifier": "T11C4SFdragon",
+    "level": 7,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "622800"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 9890249,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T11C4SFdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "stealEssence": "extractEssence1",
+      "risingPhoenix": "resurrection1",
+      "summonAIDragon": "hellspawn1",
+      "nova": "nova1"
+    },
+    "attackPower": 487119,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2422"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 41,
+    "upgradeXP": 6096768,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 30249140
+  },
+  {
+    "identifier": "T11C4SFdragon",
+    "level": 8,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "628200"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 10137489,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T11C4SFdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "stealEssence": "extractEssence1",
+      "risingPhoenix": "resurrection1",
+      "summonAIDragon": "hellspawn1",
+      "nova": "nova1"
+    },
+    "attackPower": 499297,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2443"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 41,
+    "upgradeXP": 6249186,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 31780557
+  },
+  {
+    "identifier": "T11C4SFdragon",
+    "level": 9,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "633600"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 10390909,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T11C4SFdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "stealEssence": "extractEssence1",
+      "risingPhoenix": "resurrection1",
+      "summonAIDragon": "hellspawn1",
+      "nova": "nova1"
+    },
+    "attackPower": 511779,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2464"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 42,
+    "upgradeXP": 6405416,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 33389419
+  },
+  {
+    "identifier": "T11C4SFdragon",
+    "level": 10,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "639000"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 10650662,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T11C4SFdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "stealEssence": "extractEssence1",
+      "risingPhoenix": "resurrection1",
+      "summonAIDragon": "hellspawn1",
+      "nova": "nova1"
+    },
+    "attackPower": 524573,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2485"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 42,
+    "upgradeXP": 6565551,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 35079550
+  },
+  {
+    "identifier": "T11C4SFdragon",
+    "level": 11,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "644400"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 10916905,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T11C4SFdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "stealEssence": "extractEssence1",
+      "risingPhoenix": "resurrection1",
+      "summonAIDragon": "hellspawn1",
+      "nova": "nova1"
+    },
+    "attackPower": 537687,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2506"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 43,
+    "upgradeXP": 6729686,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 36855452
+  },
+  {
+    "identifier": "T11C4SFdragon",
+    "level": 12,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "649800"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 11189808,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T11C4SFdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "stealEssence": "extractEssence1",
+      "risingPhoenix": "resurrection1",
+      "summonAIDragon": "hellspawn1",
+      "nova": "nova1"
+    },
+    "attackPower": 551129,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2527"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 43,
+    "upgradeXP": 6897927,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 38721102
+  },
+  {
+    "identifier": "T11C4SFdragon",
+    "level": 13,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "655200"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 11469535,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T11C4SFdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "stealEssence": "extractEssence1",
+      "risingPhoenix": "resurrection1",
+      "summonAIDragon": "hellspawn1",
+      "nova": "nova1"
+    },
+    "attackPower": 564908,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2548"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 44,
+    "upgradeXP": 7070373,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 40681366
+  },
+  {
+    "identifier": "T11C4SFdragon",
+    "level": 14,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "660600"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 11756255,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T11C4SFdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "stealEssence": "extractEssence1",
+      "risingPhoenix": "resurrection1",
+      "summonAIDragon": "hellspawn1",
+      "nova": "nova1"
+    },
+    "attackPower": 579030,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2569"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 44,
+    "upgradeXP": 7247132,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 42740794
+  },
+  {
+    "identifier": "T11C4SFdragon",
+    "level": 15,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "666000"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 12050143,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T11C4SFdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "stealEssence": "extractEssence1",
+      "risingPhoenix": "resurrection1",
+      "summonAIDragon": "hellspawn1",
+      "nova": "nova1"
+    },
+    "attackPower": 593506,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2590"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 45,
+    "upgradeXP": 7428307,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 44904428
+  },
+  {
+    "identifier": "T11C4SFdragon",
+    "level": 16,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "671401"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 12351375,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T11C4SFdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "stealEssence": "extractEssence1",
+      "risingPhoenix": "resurrection1",
+      "summonAIDragon": "hellspawn1",
+      "nova": "nova1"
+    },
+    "attackPower": 608343,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2611"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 45,
+    "upgradeXP": 7614015,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 47177614
+  },
+  {
+    "identifier": "T11C4SFdragon",
+    "level": 17,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "676800"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 12660140,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T11C4SFdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "stealEssence": "extractEssence1",
+      "risingPhoenix": "resurrection1",
+      "summonAIDragon": "hellspawn1",
+      "nova": "nova1"
+    },
+    "attackPower": 623552,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2632"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 46,
+    "upgradeXP": 7804363,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 49566007
+  },
+  {
+    "identifier": "T11C4SFdragon",
+    "level": 18,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "682200"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 12976627,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T11C4SFdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "stealEssence": "extractEssence1",
+      "risingPhoenix": "resurrection1",
+      "summonAIDragon": "hellspawn1",
+      "nova": "nova1"
+    },
+    "attackPower": 639140,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2653"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 46,
+    "upgradeXP": 10624907,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 52075152
+  },
+  {
+    "identifier": "T11C4SFdragon",
+    "level": 19,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "913272"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 13301032,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T11C4SFdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "stealEssence": "extractEssence1",
+      "risingPhoenix": "resurrection1",
+      "summonAIDragon": "hellspawn1",
+      "nova": "nova1"
+    },
+    "attackPower": 655119,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2674"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 47,
+    "upgradeXP": 10890526,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 54711330
+  },
+  {
+    "identifier": "T11C4SFdragon",
+    "level": 20,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "920444"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 13633548,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T11C4SFdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "stealEssence": "extractEssence1",
+      "risingPhoenix": "resurrection1",
+      "summonAIDragon": "hellspawn1",
+      "nova": "nova1"
+    },
+    "attackPower": 671497,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2695"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 47,
+    "upgradeXP": 11162785,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 57481153
+  },
+  {
+    "identifier": "T11C4SFdragon",
+    "level": 21,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "927616"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 13974375,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T11C4SFdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "stealEssence": "extractEssence1",
+      "risingPhoenix": "resurrection1",
+      "summonAIDragon": "hellspawn1",
+      "nova": "nova1"
+    },
+    "attackPower": 688284,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2716"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 48,
+    "upgradeXP": 11441854,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 60390920
+  },
+  {
+    "identifier": "T11C4SFdragon",
+    "level": 22,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "934789"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 14323722,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T11C4SFdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "stealEssence": "extractEssence1",
+      "risingPhoenix": "resurrection1",
+      "summonAIDragon": "hellspawn1",
+      "nova": "nova1"
+    },
+    "attackPower": 705491,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2737"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 48,
+    "upgradeXP": 14344235,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 63448123
+  },
+  {
+    "identifier": "T11C4SFdragon",
+    "level": 23,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1152099"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 14681804,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T11C4SFdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "stealEssence": "extractEssence1",
+      "risingPhoenix": "resurrection1",
+      "summonAIDragon": "hellspawn1",
+      "nova": "nova1"
+    },
+    "attackPower": 723128,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2758"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 49,
+    "upgradeXP": 14702840,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 66660173
+  },
+  {
+    "identifier": "T11C4SFdragon",
+    "level": 24,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1160872"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 15048843,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T11C4SFdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "stealEssence": "extractEssence1",
+      "risingPhoenix": "resurrection1",
+      "summonAIDragon": "hellspawn1",
+      "nova": "nova1"
+    },
+    "attackPower": 741206,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2779"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 49,
+    "upgradeXP": 15070409,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 70034832
+  },
+  {
+    "identifier": "T11C4SFdragon",
+    "level": 25,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1169644"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 15425053,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T11C4SFdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "stealEssence": "extractEssence1",
+      "risingPhoenix": "resurrection1",
+      "summonAIDragon": "hellspawn1",
+      "nova": "nova1"
+    },
+    "attackPower": 759736,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2800"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 50,
+    "upgradeXP": 15447166,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 73580215
+  },
+  {
+    "identifier": "T11C4SFdragon",
+    "level": 26,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1178416"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 15810665,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T11C4SFdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "stealEssence": "extractEssence1",
+      "risingPhoenix": "resurrection1",
+      "summonAIDragon": "hellspawn1",
+      "nova": "nova1"
+    },
+    "attackPower": 778729,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2821"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 51,
+    "upgradeXP": 18510137,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 77305251
+  },
+  {
+    "identifier": "T11C4SFdragon",
+    "level": 27,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1387895"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 16205919,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T11C4SFdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "stealEssence": "extractEssence1",
+      "risingPhoenix": "resurrection1",
+      "summonAIDragon": "hellspawn1",
+      "nova": "nova1"
+    },
+    "attackPower": 798197,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2842"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 52,
+    "upgradeXP": 18972887,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 81218799
+  },
+  {
+    "identifier": "T11C4SFdragon",
+    "level": 28,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1398151"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 16611052,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T11C4SFdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "stealEssence": "extractEssence1",
+      "risingPhoenix": "resurrection1",
+      "summonAIDragon": "hellspawn1",
+      "nova": "nova1"
+    },
+    "attackPower": 818152,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2863"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 53,
+    "upgradeXP": 19447206,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 85330321
+  },
+  {
+    "identifier": "T11C4SFdragon",
+    "level": 29,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1408406"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 17026310,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T11C4SFdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "stealEssence": "extractEssence1",
+      "risingPhoenix": "resurrection1",
+      "summonAIDragon": "hellspawn1",
+      "nova": "nova1"
+    },
+    "attackPower": 838606,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2884"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 54,
+    "upgradeXP": 19933380,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 89650125
+  },
+  {
+    "identifier": "T11C4SFdragon",
+    "level": 30,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1418661"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 17451953,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T11C4SFdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "stealEssence": "extractEssence1",
+      "risingPhoenix": "resurrection1",
+      "summonAIDragon": "hellspawn1",
+      "nova": "nova1"
+    },
+    "attackPower": 859571,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2905"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 55,
+    "upgradeXP": 20431713,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 91628943
+  },
+  {
+    "identifier": "T11C4SFdragon",
+    "level": 31,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1428917"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 17888239,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T11C4SFdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "stealEssence": "extractEssence1",
+      "risingPhoenix": "resurrection1",
+      "summonAIDragon": "hellspawn1",
+      "nova": "nova1"
+    },
+    "attackPower": 881060,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2926"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 56,
+    "upgradeXP": 20942504,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 98446448
+  },
+  {
+    "identifier": "T11C4SFdragon",
+    "level": 32,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1439172"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 18335432,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T11C4SFdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "stealEssence": "extractEssence1",
+      "risingPhoenix": "resurrection1",
+      "summonAIDragon": "hellspawn1",
+      "nova": "nova1"
+    },
+    "attackPower": 903086,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2947"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 57,
+    "upgradeXP": 21466065,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 102923211
+  },
+  {
+    "identifier": "T11C4SFdragon",
+    "level": 33,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1449428"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 18793804,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T11C4SFdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "stealEssence": "extractEssence1",
+      "risingPhoenix": "resurrection1",
+      "summonAIDragon": "hellspawn1",
+      "nova": "nova1"
+    },
+    "attackPower": 925663,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2968"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 58,
+    "upgradeXP": 22002714,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 107452536
+  },
+  {
+    "identifier": "T11C4SFdragon",
+    "level": 34,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1459683"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 19263635,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T11C4SFdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "stealEssence": "extractEssence1",
+      "risingPhoenix": "resurrection1",
+      "summonAIDragon": "hellspawn1",
+      "nova": "nova1"
+    },
+    "attackPower": 948805,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2989"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 59,
+    "upgradeXP": 22552777,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 112034547
+  },
+  {
+    "identifier": "T11C4SFdragon",
+    "level": 35,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1469938"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 19745213,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T11C4SFdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "stealEssence": "extractEssence1",
+      "risingPhoenix": "resurrection1",
+      "summonAIDragon": "hellspawn1",
+      "nova": "nova1"
+    },
+    "attackPower": 972525,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3010"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 60,
+    "upgradeXP": 23116595,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 116669364
+  },
+  {
+    "identifier": "T11C4SFdragon",
+    "level": 36,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1480194"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 20238837,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T11C4SFdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "stealEssence": "extractEssence1",
+      "risingPhoenix": "resurrection1",
+      "summonAIDragon": "hellspawn1",
+      "nova": "nova1"
+    },
+    "attackPower": 996838,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3031"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 60,
+    "upgradeXP": 23694507,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 120281525
+  },
+  {
+    "identifier": "T11C4SFdragon",
+    "level": 37,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1490449"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 20744799,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T11C4SFdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "stealEssence": "extractEssence1",
+      "risingPhoenix": "resurrection1",
+      "summonAIDragon": "hellspawn1",
+      "nova": "nova1"
+    },
+    "attackPower": 1021758,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3052"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 61,
+    "upgradeXP": 24286867,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 123927305
+  },
+  {
+    "identifier": "T11C4SFdragon",
+    "level": 38,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1500704"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 21263407,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T11C4SFdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "stealEssence": "extractEssence1",
+      "risingPhoenix": "resurrection1",
+      "summonAIDragon": "hellspawn1",
+      "nova": "nova1"
+    },
+    "attackPower": 1047302,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3073"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 61,
+    "upgradeXP": 24894038,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 127606704
+  },
+  {
+    "identifier": "T11C4SFdragon",
+    "level": 39,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1510960"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 21794981,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T11C4SFdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "stealEssence": "extractEssence1",
+      "risingPhoenix": "resurrection1",
+      "summonAIDragon": "hellspawn1",
+      "nova": "nova1"
+    },
+    "attackPower": 1073485,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3094"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 62,
+    "upgradeXP": 25516385,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 131319722
+  },
+  {
+    "identifier": "T11C4SFdragon",
+    "level": 40,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1521215"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 22339848,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T11C4SFdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "stealEssence": "extractEssence1",
+      "risingPhoenix": "resurrection1",
+      "summonAIDragon": "hellspawn1",
+      "nova": "nova1"
+    },
+    "attackPower": 1100322,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3115"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 62,
+    "upgradeXP": 0,
+    "xpRewardMultiplier": 1.2,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 135066359
+  }
+]

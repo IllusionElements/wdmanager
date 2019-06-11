@@ -1,0 +1,1802 @@
+[
+  {
+    "identifier": "T11C4WWdragon",
+    "level": 1,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "0"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 11036781,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T11C4WWdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "maleficBreath": "maleficBreath140",
+      "isolation": "isolation1",
+      "starburn": "starburn1",
+      "darkFlakResist01": "darkFlakResist01"
+    },
+    "attackPower": 100069,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2296"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 38,
+    "upgradeXP": 3236206,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 22492332
+  },
+  {
+    "identifier": "T11C4WWdragon",
+    "level": 2,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "595800"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 11312674,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T11C4WWdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "maleficBreath": "maleficBreath141",
+      "isolation": "isolation1",
+      "starburn": "starburn1",
+      "darkFlakResist01": "darkFlakResist01"
+    },
+    "attackPower": 102571,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2317"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 39,
+    "upgradeXP": 3317110,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 23630933
+  },
+  {
+    "identifier": "T11C4WWdragon",
+    "level": 3,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "601200"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 11595464,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T11C4WWdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "maleficBreath": "maleficBreath142",
+      "isolation": "isolation1",
+      "starburn": "starburn1",
+      "darkFlakResist01": "darkFlakResist01"
+    },
+    "attackPower": 105135,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2338"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 39,
+    "upgradeXP": 3862873,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 24827179
+  },
+  {
+    "identifier": "T11C4WWdragon",
+    "level": 4,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "606600"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 11885324,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T11C4WWdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "maleficBreath": "maleficBreath143",
+      "isolation": "isolation1",
+      "starburn": "starburn1",
+      "darkFlakResist01": "darkFlakResist01"
+    },
+    "attackPower": 107763,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2359"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 39,
+    "upgradeXP": 4556438,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 26083926
+  },
+  {
+    "identifier": "T11C4WWdragon",
+    "level": 5,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "612000"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 12182438,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T11C4WWdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "maleficBreath": "maleficBreath144",
+      "isolation": "isolation1",
+      "starburn": "starburn1",
+      "darkFlakResist01": "darkFlakResist01"
+    },
+    "attackPower": 110457,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2380"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 40,
+    "upgradeXP": 5249587,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 27404283
+  },
+  {
+    "identifier": "T11C4WWdragon",
+    "level": 6,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "617400"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 12486986,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T11C4WWdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "maleficBreath": "maleficBreath145",
+      "isolation": "isolation1",
+      "starburn": "starburn1",
+      "darkFlakResist01": "darkFlakResist01"
+    },
+    "attackPower": 113219,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2401"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 40,
+    "upgradeXP": 5948068,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 28791611
+  },
+  {
+    "identifier": "T11C4WWdragon",
+    "level": 7,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "622800"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 12799145,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T11C4WWdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "maleficBreath": "maleficBreath146",
+      "isolation": "isolation1",
+      "starburn": "starburn1",
+      "darkFlakResist01": "darkFlakResist01"
+    },
+    "attackPower": 116049,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2422"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 41,
+    "upgradeXP": 6096768,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 30249140
+  },
+  {
+    "identifier": "T11C4WWdragon",
+    "level": 8,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "628200"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 13119103,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T11C4WWdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "maleficBreath": "maleficBreath147",
+      "isolation": "isolation1",
+      "starburn": "starburn1",
+      "darkFlakResist01": "darkFlakResist01"
+    },
+    "attackPower": 118950,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2443"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 41,
+    "upgradeXP": 6249186,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 31780557
+  },
+  {
+    "identifier": "T11C4WWdragon",
+    "level": 9,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "633600"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 13447059,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T11C4WWdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "maleficBreath": "maleficBreath148",
+      "isolation": "isolation1",
+      "starburn": "starburn1",
+      "darkFlakResist01": "darkFlakResist01"
+    },
+    "attackPower": 121924,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2464"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 42,
+    "upgradeXP": 6405416,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 33389419
+  },
+  {
+    "identifier": "T11C4WWdragon",
+    "level": 10,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "639000"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 13783209,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T11C4WWdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "maleficBreath": "maleficBreath149",
+      "isolation": "isolation1",
+      "starburn": "starburn1",
+      "darkFlakResist01": "darkFlakResist01"
+    },
+    "attackPower": 124972,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2485"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 42,
+    "upgradeXP": 6565551,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 35079550
+  },
+  {
+    "identifier": "T11C4WWdragon",
+    "level": 11,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "644400"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 14127760,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T11C4WWdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "maleficBreath": "maleficBreath150",
+      "isolation": "isolation1",
+      "starburn": "starburn1",
+      "darkFlakResist01": "darkFlakResist01"
+    },
+    "attackPower": 128097,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2506"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 43,
+    "upgradeXP": 6729686,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 36855452
+  },
+  {
+    "identifier": "T11C4WWdragon",
+    "level": 12,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "649800"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 14480928,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T11C4WWdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "maleficBreath": "maleficBreath151",
+      "isolation": "isolation1",
+      "starburn": "starburn1",
+      "darkFlakResist01": "darkFlakResist01"
+    },
+    "attackPower": 131299,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2527"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 43,
+    "upgradeXP": 6897927,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 38721102
+  },
+  {
+    "identifier": "T11C4WWdragon",
+    "level": 13,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "655200"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 14842927,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T11C4WWdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "maleficBreath": "maleficBreath152",
+      "isolation": "isolation1",
+      "starburn": "starburn1",
+      "darkFlakResist01": "darkFlakResist01"
+    },
+    "attackPower": 134581,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2548"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 44,
+    "upgradeXP": 7070373,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 40681366
+  },
+  {
+    "identifier": "T11C4WWdragon",
+    "level": 14,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "660600"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 15213976,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T11C4WWdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "maleficBreath": "maleficBreath153",
+      "isolation": "isolation1",
+      "starburn": "starburn1",
+      "darkFlakResist01": "darkFlakResist01"
+    },
+    "attackPower": 137946,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2569"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 44,
+    "upgradeXP": 7247132,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 42740794
+  },
+  {
+    "identifier": "T11C4WWdragon",
+    "level": 15,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "666000"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 15594303,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T11C4WWdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "maleficBreath": "maleficBreath154",
+      "isolation": "isolation1",
+      "starburn": "starburn1",
+      "darkFlakResist01": "darkFlakResist01"
+    },
+    "attackPower": 141394,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2590"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 45,
+    "upgradeXP": 7428307,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 44904428
+  },
+  {
+    "identifier": "T11C4WWdragon",
+    "level": 16,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "671401"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 15984133,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T11C4WWdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "maleficBreath": "maleficBreath155",
+      "isolation": "isolation1",
+      "starburn": "starburn1",
+      "darkFlakResist01": "darkFlakResist01"
+    },
+    "attackPower": 144929,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2611"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 45,
+    "upgradeXP": 7614015,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 47177614
+  },
+  {
+    "identifier": "T11C4WWdragon",
+    "level": 17,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "676800"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 16383711,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T11C4WWdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "maleficBreath": "maleficBreath156",
+      "isolation": "isolation1",
+      "starburn": "starburn1",
+      "darkFlakResist01": "darkFlakResist01"
+    },
+    "attackPower": 148552,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2632"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 46,
+    "upgradeXP": 7804363,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 49566007
+  },
+  {
+    "identifier": "T11C4WWdragon",
+    "level": 18,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "682200"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 16793282,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T11C4WWdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "maleficBreath": "maleficBreath157",
+      "isolation": "isolation1",
+      "starburn": "starburn1",
+      "darkFlakResist01": "darkFlakResist01"
+    },
+    "attackPower": 152266,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2653"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 46,
+    "upgradeXP": 10624907,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 52075152
+  },
+  {
+    "identifier": "T11C4WWdragon",
+    "level": 19,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "913272"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 17213100,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T11C4WWdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "maleficBreath": "maleficBreath158",
+      "isolation": "isolation1",
+      "starburn": "starburn1",
+      "darkFlakResist01": "darkFlakResist01"
+    },
+    "attackPower": 156073,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2674"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 47,
+    "upgradeXP": 10890526,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 54711330
+  },
+  {
+    "identifier": "T11C4WWdragon",
+    "level": 20,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "920444"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 17643415,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T11C4WWdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "maleficBreath": "maleficBreath159",
+      "isolation": "isolation1",
+      "starburn": "starburn1",
+      "darkFlakResist01": "darkFlakResist01"
+    },
+    "attackPower": 159975,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2695"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 47,
+    "upgradeXP": 11162785,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 57481153
+  },
+  {
+    "identifier": "T11C4WWdragon",
+    "level": 21,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "927616"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 18084485,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T11C4WWdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "maleficBreath": "maleficBreath160",
+      "isolation": "isolation1",
+      "starburn": "starburn1",
+      "darkFlakResist01": "darkFlakResist01"
+    },
+    "attackPower": 163974,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2716"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 48,
+    "upgradeXP": 11441854,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 60390920
+  },
+  {
+    "identifier": "T11C4WWdragon",
+    "level": 22,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "934789"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 18536581,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T11C4WWdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "maleficBreath": "maleficBreath161",
+      "isolation": "isolation1",
+      "starburn": "starburn1",
+      "darkFlakResist01": "darkFlakResist01"
+    },
+    "attackPower": 168073,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2737"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 48,
+    "upgradeXP": 14344235,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 63448123
+  },
+  {
+    "identifier": "T11C4WWdragon",
+    "level": 23,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1152099"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 18999981,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T11C4WWdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "maleficBreath": "maleficBreath162",
+      "isolation": "isolation1",
+      "starburn": "starburn1",
+      "darkFlakResist01": "darkFlakResist01"
+    },
+    "attackPower": 172275,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2758"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 49,
+    "upgradeXP": 14702840,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 66660173
+  },
+  {
+    "identifier": "T11C4WWdragon",
+    "level": 24,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1160872"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 19474973,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T11C4WWdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "maleficBreath": "maleficBreath163",
+      "isolation": "isolation1",
+      "starburn": "starburn1",
+      "darkFlakResist01": "darkFlakResist01"
+    },
+    "attackPower": 176582,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2779"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 49,
+    "upgradeXP": 15070409,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 70034832
+  },
+  {
+    "identifier": "T11C4WWdragon",
+    "level": 25,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1169644"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 19961833,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T11C4WWdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "maleficBreath": "maleficBreath164",
+      "isolation": "isolation1",
+      "starburn": "starburn1",
+      "darkFlakResist01": "darkFlakResist01"
+    },
+    "attackPower": 180996,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2800"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 50,
+    "upgradeXP": 15447166,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 73580215
+  },
+  {
+    "identifier": "T11C4WWdragon",
+    "level": 26,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1178416"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 20460860,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T11C4WWdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "maleficBreath": "maleficBreath165",
+      "isolation": "isolation1",
+      "starburn": "starburn1",
+      "darkFlakResist01": "darkFlakResist01"
+    },
+    "attackPower": 185521,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2821"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 51,
+    "upgradeXP": 18510137,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 77305251
+  },
+  {
+    "identifier": "T11C4WWdragon",
+    "level": 27,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1387895"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 20972366,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T11C4WWdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "maleficBreath": "maleficBreath166",
+      "isolation": "isolation1",
+      "starburn": "starburn1",
+      "darkFlakResist01": "darkFlakResist01"
+    },
+    "attackPower": 190159,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2842"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 52,
+    "upgradeXP": 18972887,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 81218799
+  },
+  {
+    "identifier": "T11C4WWdragon",
+    "level": 28,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1398151"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 21496655,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T11C4WWdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "maleficBreath": "maleficBreath167",
+      "isolation": "isolation1",
+      "starburn": "starburn1",
+      "darkFlakResist01": "darkFlakResist01"
+    },
+    "attackPower": 194913,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2863"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 53,
+    "upgradeXP": 19447206,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 85330321
+  },
+  {
+    "identifier": "T11C4WWdragon",
+    "level": 29,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1408406"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 22034049,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T11C4WWdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "maleficBreath": "maleficBreath168",
+      "isolation": "isolation1",
+      "starburn": "starburn1",
+      "darkFlakResist01": "darkFlakResist01"
+    },
+    "attackPower": 199786,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2884"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 54,
+    "upgradeXP": 19933380,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 89650125
+  },
+  {
+    "identifier": "T11C4WWdragon",
+    "level": 30,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1418661"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 22584880,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T11C4WWdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "maleficBreath": "maleficBreath169",
+      "isolation": "isolation1",
+      "starburn": "starburn1",
+      "darkFlakResist01": "darkFlakResist01"
+    },
+    "attackPower": 204780,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2905"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 55,
+    "upgradeXP": 20431713,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 91628943
+  },
+  {
+    "identifier": "T11C4WWdragon",
+    "level": 31,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1428917"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 23149486,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T11C4WWdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "maleficBreath": "maleficBreath170",
+      "isolation": "isolation1",
+      "starburn": "starburn1",
+      "darkFlakResist01": "darkFlakResist01"
+    },
+    "attackPower": 209900,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2926"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 56,
+    "upgradeXP": 20942504,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 98446448
+  },
+  {
+    "identifier": "T11C4WWdragon",
+    "level": 32,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1439172"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 23728206,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T11C4WWdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "maleficBreath": "maleficBreath171",
+      "isolation": "isolation1",
+      "starburn": "starburn1",
+      "darkFlakResist01": "darkFlakResist01"
+    },
+    "attackPower": 215147,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2947"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 57,
+    "upgradeXP": 21466065,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 102923211
+  },
+  {
+    "identifier": "T11C4WWdragon",
+    "level": 33,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1449428"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 24321393,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T11C4WWdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "maleficBreath": "maleficBreath172",
+      "isolation": "isolation1",
+      "starburn": "starburn1",
+      "darkFlakResist01": "darkFlakResist01"
+    },
+    "attackPower": 220526,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2968"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 58,
+    "upgradeXP": 22002714,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 107452536
+  },
+  {
+    "identifier": "T11C4WWdragon",
+    "level": 34,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1459683"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 24929409,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T11C4WWdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "maleficBreath": "maleficBreath173",
+      "isolation": "isolation1",
+      "starburn": "starburn1",
+      "darkFlakResist01": "darkFlakResist01"
+    },
+    "attackPower": 226039,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2989"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 59,
+    "upgradeXP": 22552777,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 112034547
+  },
+  {
+    "identifier": "T11C4WWdragon",
+    "level": 35,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1469938"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 25552629,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T11C4WWdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "maleficBreath": "maleficBreath174",
+      "isolation": "isolation1",
+      "starburn": "starburn1",
+      "darkFlakResist01": "darkFlakResist01"
+    },
+    "attackPower": 231690,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3010"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 60,
+    "upgradeXP": 23116595,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 116669364
+  },
+  {
+    "identifier": "T11C4WWdragon",
+    "level": 36,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1480194"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 26191436,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T11C4WWdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "maleficBreath": "maleficBreath175",
+      "isolation": "isolation1",
+      "starburn": "starburn1",
+      "darkFlakResist01": "darkFlakResist01"
+    },
+    "attackPower": 237482,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3031"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 60,
+    "upgradeXP": 23694507,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 120281525
+  },
+  {
+    "identifier": "T11C4WWdragon",
+    "level": 37,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1490449"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 26846211,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T11C4WWdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "maleficBreath": "maleficBreath176",
+      "isolation": "isolation1",
+      "starburn": "starburn1",
+      "darkFlakResist01": "darkFlakResist01"
+    },
+    "attackPower": 243419,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3052"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 61,
+    "upgradeXP": 24286867,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 123927305
+  },
+  {
+    "identifier": "T11C4WWdragon",
+    "level": 38,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1500704"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 27517350,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T11C4WWdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "maleficBreath": "maleficBreath177",
+      "isolation": "isolation1",
+      "starburn": "starburn1",
+      "darkFlakResist01": "darkFlakResist01"
+    },
+    "attackPower": 249505,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3073"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 61,
+    "upgradeXP": 24894038,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 127606704
+  },
+  {
+    "identifier": "T11C4WWdragon",
+    "level": 39,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1510960"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 28205269,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T11C4WWdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "maleficBreath": "maleficBreath178",
+      "isolation": "isolation1",
+      "starburn": "starburn1",
+      "darkFlakResist01": "darkFlakResist01"
+    },
+    "attackPower": 255742,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3094"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 62,
+    "upgradeXP": 25516385,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 131319722
+  },
+  {
+    "identifier": "T11C4WWdragon",
+    "level": 40,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1521215"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 28910392,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T11C4WWdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "maleficBreath": "maleficBreath179",
+      "isolation": "isolation1",
+      "starburn": "starburn1",
+      "darkFlakResist01": "darkFlakResist01"
+    },
+    "attackPower": 262136,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3115"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 62,
+    "upgradeXP": 0,
+    "xpRewardMultiplier": 1.2,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 135066359
+  }
+]

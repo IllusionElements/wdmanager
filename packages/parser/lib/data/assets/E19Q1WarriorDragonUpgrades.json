@@ -1,0 +1,2876 @@
+[
+  {
+    "identifier": "E19Q1WarriorDragon",
+    "level": 1,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "0"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 239775,
+    "fullHealDuration": 807,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "E19Q1WarriorDragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "nova": "eruption1",
+      "cosmicEnergy": "risingTemper1"
+    },
+    "attackPower": 2927,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "180"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 8,
+    "upgradeXP": 48231,
+    "xpRewardMultiplier": 1.5,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 14855,
+    "nextEvolveLevel": 3,
+    "tierNumber": 4,
+    "rarity": 5
+  },
+  {
+    "identifier": "E19Q1WarriorDragon",
+    "level": 2,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "50688"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 527618,
+    "fullHealDuration": 864,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "E19Q1WarriorDragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "nova": "eruption1",
+      "cosmicEnergy": "risingTemper1"
+    },
+    "attackPower": 5638,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "366"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 13,
+    "upgradeXP": 156522,
+    "xpRewardMultiplier": 1.5,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 62985,
+    "nextEvolveLevel": 3,
+    "tierNumber": 4,
+    "rarity": 5
+  },
+  {
+    "identifier": "E19Q1WarriorDragon",
+    "level": 3,
+    "upgradeCost": [
+      {
+        "type": "E19Q1WarriorDragonGreenStone",
+        "amount": "1"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "have2GreenEpic",
+    "HP": 603216,
+    "fullHealDuration": 864,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "E19Q1WarriorDragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "nova": "eruption1",
+      "cosmicEnergy": "risingTemper1",
+      "crystallineShield": "moltenBarrier1"
+    },
+    "attackPower": 6371,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "402"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 14,
+    "upgradeXP": 201930,
+    "xpRewardMultiplier": 1.5,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 81371,
+    "nextEvolveLevel": 5,
+    "tierNumber": 5,
+    "rarity": 5
+  },
+  {
+    "identifier": "E19Q1WarriorDragon",
+    "level": 4,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "110880"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 1139868,
+    "fullHealDuration": 864,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "E19Q1WarriorDragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "nova": "eruption1",
+      "cosmicEnergy": "risingTemper1",
+      "crystallineShield": "moltenBarrier1"
+    },
+    "attackPower": 10655,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "582"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 18,
+    "upgradeXP": 441514,
+    "xpRewardMultiplier": 1.5,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 257248,
+    "nextEvolveLevel": 5,
+    "tierNumber": 5,
+    "rarity": 5
+  },
+  {
+    "identifier": "E19Q1WarriorDragon",
+    "level": 5,
+    "upgradeCost": [
+      {
+        "type": "E19Q1WarriorDragonGoldStone",
+        "amount": "1"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "haveGoldLegendary",
+    "HP": 1299136,
+    "fullHealDuration": 864,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "E19Q1WarriorDragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "nova": "eruption1",
+      "cosmicEnergy": "risingTemper1",
+      "crystallineShield": "moltenBarrier1",
+      "fireFlakResist01": "fireFlakResist01"
+    },
+    "attackPower": 12087,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "618"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 18,
+    "upgradeXP": 562232,
+    "xpRewardMultiplier": 1.5,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 332592,
+    "nextEvolveLevel": 9,
+    "tierNumber": 6,
+    "rarity": 5
+  },
+  {
+    "identifier": "E19Q1WarriorDragon",
+    "level": 6,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "167904"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 1767860,
+    "fullHealDuration": 864,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "E19Q1WarriorDragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "nova": "eruption1",
+      "cosmicEnergy": "risingTemper1",
+      "crystallineShield": "moltenBarrier1",
+      "fireFlakResist01": "fireFlakResist01"
+    },
+    "attackPower": 16420,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "708"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 18,
+    "upgradeXP": 821470,
+    "xpRewardMultiplier": 1.5,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 614796,
+    "nextEvolveLevel": 9,
+    "tierNumber": 6,
+    "rarity": 5
+  },
+  {
+    "identifier": "E19Q1WarriorDragon",
+    "level": 7,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "191664"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "have2LegendaryGold",
+    "HP": 2296359,
+    "fullHealDuration": 864,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "E19Q1WarriorDragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "nova": "eruption1",
+      "cosmicEnergy": "risingTemper1",
+      "crystallineShield": "moltenBarrier1",
+      "fireFlakResist01": "fireFlakResist01"
+    },
+    "attackPower": 21346,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "852"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 18,
+    "upgradeXP": 1000866,
+    "xpRewardMultiplier": 1.5,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 1038133,
+    "nextEvolveLevel": 9,
+    "tierNumber": 6,
+    "rarity": 5
+  },
+  {
+    "identifier": "E19Q1WarriorDragon",
+    "level": 8,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "229680"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 2797742,
+    "fullHealDuration": 864,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "E19Q1WarriorDragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "nova": "eruption1",
+      "cosmicEnergy": "risingTemper1",
+      "crystallineShield": "moltenBarrier1",
+      "fireFlakResist01": "fireFlakResist01"
+    },
+    "attackPower": 26007,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "996"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 20,
+    "upgradeXP": 1219450,
+    "xpRewardMultiplier": 1.5,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 1541051,
+    "nextEvolveLevel": 9,
+    "tierNumber": 6,
+    "rarity": 5
+  },
+  {
+    "identifier": "E19Q1WarriorDragon",
+    "level": 9,
+    "upgradeCost": [
+      {
+        "type": "E19Q1WarriorDragonPlatinumStone",
+        "amount": "1"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "havePlatinumLegendary",
+    "HP": 2939336,
+    "fullHealDuration": 864,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "E19Q1WarriorDragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "nova": "eruption1",
+      "cosmicEnergy": "risingTemper1",
+      "crystallineShield": "moltenBarrier1",
+      "fireFlakResist01": "fireFlakResist01"
+    },
+    "attackPower": 27324,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1032"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 21,
+    "upgradeXP": 1281184,
+    "xpRewardMultiplier": 1.5,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 1701014,
+    "nextEvolveLevel": 13,
+    "tierNumber": 7,
+    "rarity": 5
+  },
+  {
+    "identifier": "E19Q1WarriorDragon",
+    "level": 10,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "277200"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 3952851,
+    "fullHealDuration": 864,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "E19Q1WarriorDragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "nova": "eruption1",
+      "cosmicEnergy": "risingTemper1",
+      "crystallineShield": "moltenBarrier1",
+      "fireFlakResist01": "fireFlakResist01"
+    },
+    "attackPower": 35836,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1248"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 25,
+    "upgradeXP": 1723030,
+    "xpRewardMultiplier": 1.5,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 3000270,
+    "nextEvolveLevel": 13,
+    "tierNumber": 7,
+    "rarity": 5
+  },
+  {
+    "identifier": "E19Q1WarriorDragon",
+    "level": 11,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "334224"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "have2LegendaryPlatinum",
+    "HP": 4256719,
+    "fullHealDuration": 864,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "E19Q1WarriorDragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "nova": "eruption1",
+      "cosmicEnergy": "risingTemper1",
+      "crystallineShield": "moltenBarrier1",
+      "fireFlakResist01": "fireFlakResist01"
+    },
+    "attackPower": 38592,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1302"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 26,
+    "upgradeXP": 1855513,
+    "xpRewardMultiplier": 1.5,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 3479258,
+    "nextEvolveLevel": 13,
+    "tierNumber": 7,
+    "rarity": 5
+  },
+  {
+    "identifier": "E19Q1WarriorDragon",
+    "level": 12,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "348480"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 4698546,
+    "fullHealDuration": 864,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "E19Q1WarriorDragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "nova": "eruption1",
+      "cosmicEnergy": "risingTemper1",
+      "crystallineShield": "moltenBarrier1",
+      "fireFlakResist01": "fireFlakResist01"
+    },
+    "attackPower": 42598,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1374"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 27,
+    "upgradeXP": 2048135,
+    "xpRewardMultiplier": 1.5,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 4239073,
+    "nextEvolveLevel": 13,
+    "tierNumber": 7,
+    "rarity": 5
+  },
+  {
+    "identifier": "E19Q1WarriorDragon",
+    "level": 13,
+    "upgradeCost": [
+      {
+        "type": "E19Q1WarriorDragonSapphireStone",
+        "amount": "1"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "haveLegendarySapphire",
+    "HP": 4936381,
+    "fullHealDuration": 864,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "E19Q1WarriorDragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "nova": "eruption1",
+      "cosmicEnergy": "risingTemper1",
+      "crystallineShield": "moltenBarrier1",
+      "fireFlakResist01": "fireFlakResist01"
+    },
+    "attackPower": 44754,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1410"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 28,
+    "upgradeXP": 2151820,
+    "xpRewardMultiplier": 1.5,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 4679076,
+    "nextEvolveLevel": 17,
+    "tierNumber": 8,
+    "rarity": 5
+  },
+  {
+    "identifier": "E19Q1WarriorDragon",
+    "level": 14,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "376992"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 5186250,
+    "fullHealDuration": 864,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "E19Q1WarriorDragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "nova": "eruption1",
+      "cosmicEnergy": "risingTemper1",
+      "crystallineShield": "moltenBarrier1",
+      "fireFlakResist01": "fireFlakResist01"
+    },
+    "attackPower": 47020,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1446"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 29,
+    "upgradeXP": 2260751,
+    "xpRewardMultiplier": 1.5,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 5164786,
+    "nextEvolveLevel": 17,
+    "tierNumber": 8,
+    "rarity": 5
+  },
+  {
+    "identifier": "E19Q1WarriorDragon",
+    "level": 15,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "386496"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "have2LegendarySapphire",
+    "HP": 5724547,
+    "fullHealDuration": 864,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "E19Q1WarriorDragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "nova": "eruption1",
+      "cosmicEnergy": "risingTemper1",
+      "crystallineShield": "moltenBarrier1",
+      "fireFlakResist01": "fireFlakResist01"
+    },
+    "attackPower": 51901,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1518"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 30,
+    "upgradeXP": 2495443,
+    "xpRewardMultiplier": 1.5,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 6292754,
+    "nextEvolveLevel": 17,
+    "tierNumber": 8,
+    "rarity": 5
+  },
+  {
+    "identifier": "E19Q1WarriorDragon",
+    "level": 16,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "405504"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 6804559,
+    "fullHealDuration": 864,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "E19Q1WarriorDragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "nova": "eruption1",
+      "cosmicEnergy": "risingTemper1",
+      "crystallineShield": "moltenBarrier1",
+      "fireFlakResist01": "fireFlakResist01"
+    },
+    "attackPower": 61694,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1644"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 32,
+    "upgradeXP": 2966289,
+    "xpRewardMultiplier": 1.5,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 8891275,
+    "nextEvolveLevel": 17,
+    "tierNumber": 8,
+    "rarity": 5
+  },
+  {
+    "identifier": "E19Q1WarriorDragon",
+    "level": 17,
+    "upgradeCost": [
+      {
+        "type": "E19Q1WarriorDragonGarnetStone",
+        "amount": "1"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "haveLegendaryGarnet",
+    "HP": 7148994,
+    "fullHealDuration": 864,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "E19Q1WarriorDragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "nova": "eruption1",
+      "cosmicEnergy": "risingTemper1",
+      "crystallineShield": "moltenBarrier1",
+      "fireFlakResist01": "fireFlakResist01"
+    },
+    "attackPower": 64817,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1680"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 33,
+    "upgradeXP": 3116455,
+    "xpRewardMultiplier": 1.5,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 9814178,
+    "nextEvolveLevel": 21,
+    "tierNumber": 9,
+    "rarity": 5
+  },
+  {
+    "identifier": "E19Q1WarriorDragon",
+    "level": 18,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "448272"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 7510872,
+    "fullHealDuration": 864,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "E19Q1WarriorDragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "nova": "eruption1",
+      "cosmicEnergy": "risingTemper1",
+      "crystallineShield": "moltenBarrier1",
+      "fireFlakResist01": "fireFlakResist01"
+    },
+    "attackPower": 68098,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1716"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 34,
+    "upgradeXP": 4348826,
+    "xpRewardMultiplier": 1.5,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 10833077,
+    "nextEvolveLevel": 21,
+    "tierNumber": 9,
+    "rarity": 5
+  },
+  {
+    "identifier": "E19Q1WarriorDragon",
+    "level": 19,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "608019"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "have2LegendaryGarnet",
+    "HP": 8497749,
+    "fullHealDuration": 864,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "E19Q1WarriorDragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "nova": "eruption1",
+      "cosmicEnergy": "risingTemper1",
+      "crystallineShield": "moltenBarrier1",
+      "fireFlakResist01": "fireFlakResist01"
+    },
+    "attackPower": 77047,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1806"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 35,
+    "upgradeXP": 4920290,
+    "xpRewardMultiplier": 1.5,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 13867018,
+    "nextEvolveLevel": 21,
+    "tierNumber": 9,
+    "rarity": 5
+  },
+  {
+    "identifier": "E19Q1WarriorDragon",
+    "level": 20,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "639577"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 11149484,
+    "fullHealDuration": 864,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "E19Q1WarriorDragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "nova": "eruption1",
+      "cosmicEnergy": "risingTemper1",
+      "crystallineShield": "moltenBarrier1",
+      "fireFlakResist01": "fireFlakResist01"
+    },
+    "attackPower": 101091,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2004"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 39,
+    "upgradeXP": 6455816,
+    "xpRewardMultiplier": 1.5,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 23872287,
+    "nextEvolveLevel": 21,
+    "tierNumber": 9,
+    "rarity": 5
+  },
+  {
+    "identifier": "E19Q1WarriorDragon",
+    "level": 21,
+    "upgradeCost": [
+      {
+        "type": "E19Q1WarriorDragonEmeraldStone",
+        "amount": "1"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "haveLegendaryEmerald",
+    "HP": 12306870,
+    "fullHealDuration": 864,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "E19Q1WarriorDragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "nova": "eruption1",
+      "cosmicEnergy": "risingTemper1",
+      "crystallineShield": "moltenBarrier1",
+      "fireFlakResist01": "fireFlakResist01"
+    },
+    "attackPower": 111586,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2076"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 41,
+    "upgradeXP": 7126007,
+    "xpRewardMultiplier": 1.5,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 29085711,
+    "nextEvolveLevel": 25,
+    "tierNumber": 10,
+    "rarity": 5
+  },
+  {
+    "identifier": "E19Q1WarriorDragon",
+    "level": 22,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "734251"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 13584384,
+    "fullHealDuration": 864,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "E19Q1WarriorDragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "nova": "eruption1",
+      "cosmicEnergy": "risingTemper1",
+      "crystallineShield": "moltenBarrier1",
+      "fireFlakResist01": "fireFlakResist01"
+    },
+    "attackPower": 123170,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2148"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 43,
+    "upgradeXP": 9620518,
+    "xpRewardMultiplier": 1.5,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 35437935,
+    "nextEvolveLevel": 25,
+    "tierNumber": 10,
+    "rarity": 5
+  },
+  {
+    "identifier": "E19Q1WarriorDragon",
+    "level": 23,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "928931"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "have2LegendaryEmerald",
+    "HP": 14272046,
+    "fullHealDuration": 864,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "E19Q1WarriorDragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "nova": "eruption1",
+      "cosmicEnergy": "risingTemper1",
+      "crystallineShield": "moltenBarrier1",
+      "fireFlakResist01": "fireFlakResist01"
+    },
+    "attackPower": 129405,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2184"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 44,
+    "upgradeXP": 10107553,
+    "xpRewardMultiplier": 1.5,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 39116698,
+    "nextEvolveLevel": 25,
+    "tierNumber": 10,
+    "rarity": 5
+  },
+  {
+    "identifier": "E19Q1WarriorDragon",
+    "level": 24,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "944371"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 16551058,
+    "fullHealDuration": 864,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "E19Q1WarriorDragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "nova": "eruption1",
+      "cosmicEnergy": "risingTemper1",
+      "crystallineShield": "moltenBarrier1",
+      "fireFlakResist01": "fireFlakResist01"
+    },
+    "attackPower": 150070,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2292"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 47,
+    "upgradeXP": 11721647,
+    "xpRewardMultiplier": 1.5,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 52607048,
+    "nextEvolveLevel": 25,
+    "tierNumber": 10,
+    "rarity": 5
+  },
+  {
+    "identifier": "E19Q1WarriorDragon",
+    "level": 25,
+    "upgradeCost": [
+      {
+        "type": "E19Q1WarriorDragonObsidianStone",
+        "amount": "1"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "haveLegendaryObsidian",
+    "HP": 16964822,
+    "fullHealDuration": 864,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "E19Q1WarriorDragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "nova": "eruption1",
+      "cosmicEnergy": "risingTemper1",
+      "crystallineShield": "moltenBarrier1",
+      "fireFlakResist01": "fireFlakResist01"
+    },
+    "attackPower": 153822,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2310"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 47,
+    "upgradeXP": 12014684,
+    "xpRewardMultiplier": 1.5,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 55270340,
+    "nextEvolveLevel": 34,
+    "tierNumber": 11,
+    "rarity": 5
+  },
+  {
+    "identifier": "E19Q1WarriorDragon",
+    "level": 26,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "998408"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 17388928,
+    "fullHealDuration": 864,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "E19Q1WarriorDragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "nova": "eruption1",
+      "cosmicEnergy": "risingTemper1",
+      "crystallineShield": "moltenBarrier1",
+      "fireFlakResist01": "fireFlakResist01"
+    },
+    "attackPower": 157667,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2328"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 48,
+    "upgradeXP": 14397039,
+    "xpRewardMultiplier": 1.5,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 58068192,
+    "nextEvolveLevel": 34,
+    "tierNumber": 11,
+    "rarity": 5
+  },
+  {
+    "identifier": "E19Q1WarriorDragon",
+    "level": 27,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1176224"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 17823636,
+    "fullHealDuration": 864,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "E19Q1WarriorDragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "nova": "eruption1",
+      "cosmicEnergy": "risingTemper1",
+      "crystallineShield": "moltenBarrier1",
+      "fireFlakResist01": "fireFlakResist01"
+    },
+    "attackPower": 161609,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2346"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 48,
+    "upgradeXP": 14756966,
+    "xpRewardMultiplier": 1.5,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 61007811,
+    "nextEvolveLevel": 34,
+    "tierNumber": 11,
+    "rarity": 5
+  },
+  {
+    "identifier": "E19Q1WarriorDragon",
+    "level": 28,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1185249"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 18725935,
+    "fullHealDuration": 864,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "E19Q1WarriorDragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "nova": "eruption1",
+      "cosmicEnergy": "risingTemper1",
+      "crystallineShield": "moltenBarrier1",
+      "fireFlakResist01": "fireFlakResist01"
+    },
+    "attackPower": 169790,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2382"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 49,
+    "upgradeXP": 15504034,
+    "xpRewardMultiplier": 1.5,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 67341184,
+    "nextEvolveLevel": 34,
+    "tierNumber": 11,
+    "rarity": 5
+  },
+  {
+    "identifier": "E19Q1WarriorDragon",
+    "level": 29,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1203298"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "have2LegendaryObsidian",
+    "HP": 20165736,
+    "fullHealDuration": 864,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "E19Q1WarriorDragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "nova": "eruption1",
+      "cosmicEnergy": "risingTemper1",
+      "crystallineShield": "moltenBarrier1",
+      "fireFlakResist01": "fireFlakResist01"
+    },
+    "attackPower": 182845,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2436"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 52,
+    "upgradeXP": 16696141,
+    "xpRewardMultiplier": 1.5,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 78094999,
+    "nextEvolveLevel": 34,
+    "tierNumber": 11,
+    "rarity": 5
+  },
+  {
+    "identifier": "E19Q1WarriorDragon",
+    "level": 30,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1230373"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 22259121,
+    "fullHealDuration": 864,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "E19Q1WarriorDragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "nova": "eruption1",
+      "cosmicEnergy": "risingTemper1",
+      "crystallineShield": "moltenBarrier1",
+      "fireFlakResist01": "fireFlakResist01"
+    },
+    "attackPower": 201827,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2508"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 56,
+    "upgradeXP": 18429404,
+    "xpRewardMultiplier": 1.5,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 94660046,
+    "nextEvolveLevel": 34,
+    "tierNumber": 11,
+    "rarity": 5
+  },
+  {
+    "identifier": "E19Q1WarriorDragon",
+    "level": 31,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1266472"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "haveMythicObsidian",
+    "HP": 23970586,
+    "fullHealDuration": 864,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "E19Q1WarriorDragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "nova": "eruption1",
+      "cosmicEnergy": "risingTemper1",
+      "crystallineShield": "moltenBarrier1",
+      "fireFlakResist01": "fireFlakResist01"
+    },
+    "attackPower": 217345,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2562"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 59,
+    "upgradeXP": 19846444,
+    "xpRewardMultiplier": 1.5,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 107725526,
+    "nextEvolveLevel": 34,
+    "tierNumber": 11,
+    "rarity": 5
+  },
+  {
+    "identifier": "E19Q1WarriorDragon",
+    "level": 32,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1293546"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 25813664,
+    "fullHealDuration": 864,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "E19Q1WarriorDragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "nova": "eruption1",
+      "cosmicEnergy": "risingTemper1",
+      "crystallineShield": "moltenBarrier1",
+      "fireFlakResist01": "fireFlakResist01"
+    },
+    "attackPower": 234057,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2616"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 61,
+    "upgradeXP": 21372443,
+    "xpRewardMultiplier": 1.5,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 119160870,
+    "nextEvolveLevel": 34,
+    "tierNumber": 11,
+    "rarity": 5
+  },
+  {
+    "identifier": "E19Q1WarriorDragon",
+    "level": 33,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1320620"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 27798454,
+    "fullHealDuration": 864,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "E19Q1WarriorDragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "nova": "eruption1",
+      "cosmicEnergy": "risingTemper1",
+      "crystallineShield": "moltenBarrier1",
+      "fireFlakResist01": "fireFlakResist01"
+    },
+    "attackPower": 252054,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2670"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 62,
+    "upgradeXP": 23015776,
+    "xpRewardMultiplier": 1.5,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 129871499,
+    "nextEvolveLevel": 34,
+    "tierNumber": 11,
+    "rarity": 5
+  },
+  {
+    "identifier": "E19Q1WarriorDragon",
+    "level": 34,
+    "upgradeCost": [
+      {
+        "type": "E19Q1WarriorDragonHarbingerStone",
+        "amount": "1"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "haveLegendaryHarbinger",
+    "HP": 29205742,
+    "fullHealDuration": 864,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "E19Q1WarriorDragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "nova": "eruption1",
+      "cosmicEnergy": "risingTemper1",
+      "crystallineShield": "moltenBarrier1",
+      "fireFlakResist01": "fireFlakResist01"
+    },
+    "attackPower": 264814,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2706"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 63,
+    "upgradeXP": 24180946,
+    "xpRewardMultiplier": 1.5,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 137173547,
+    "nextEvolveLevel": 44,
+    "tierNumber": 12,
+    "rarity": 5
+  },
+  {
+    "identifier": "E19Q1WarriorDragon",
+    "level": 35,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1365744"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 33043555,
+    "fullHealDuration": 864,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "E19Q1WarriorDragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "nova": "eruption1",
+      "cosmicEnergy": "risingTemper1",
+      "crystallineShield": "moltenBarrier1",
+      "fireFlakResist01": "fireFlakResist01"
+    },
+    "attackPower": 299612,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2796"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 66,
+    "upgradeXP": 27358510,
+    "xpRewardMultiplier": 1.5,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 155994368,
+    "nextEvolveLevel": 44,
+    "tierNumber": 12,
+    "rarity": 5
+  },
+  {
+    "identifier": "E19Q1WarriorDragon",
+    "level": 36,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1410867"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 35584274,
+    "fullHealDuration": 864,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "E19Q1WarriorDragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "nova": "eruption1",
+      "cosmicEnergy": "risingTemper1",
+      "crystallineShield": "moltenBarrier1",
+      "fireFlakResist01": "fireFlakResist01"
+    },
+    "attackPower": 322650,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2850"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 67,
+    "upgradeXP": 29462110,
+    "xpRewardMultiplier": 1.5,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 167674771,
+    "nextEvolveLevel": 44,
+    "tierNumber": 12,
+    "rarity": 5
+  },
+  {
+    "identifier": "E19Q1WarriorDragon",
+    "level": 37,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1437942"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "have2LegendaryHarbinger",
+    "HP": 38320314,
+    "fullHealDuration": 864,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "E19Q1WarriorDragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "nova": "eruption1",
+      "cosmicEnergy": "risingTemper1",
+      "crystallineShield": "moltenBarrier1",
+      "fireFlakResist01": "fireFlakResist01"
+    },
+    "attackPower": 347458,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2904"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 69,
+    "upgradeXP": 31727463,
+    "xpRewardMultiplier": 1.5,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 179646106,
+    "nextEvolveLevel": 44,
+    "tierNumber": 12,
+    "rarity": 5
+  },
+  {
+    "identifier": "E19Q1WarriorDragon",
+    "level": 38,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1465016"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 41266731,
+    "fullHealDuration": 864,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "E19Q1WarriorDragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "nova": "eruption1",
+      "cosmicEnergy": "risingTemper1",
+      "crystallineShield": "moltenBarrier1",
+      "fireFlakResist01": "fireFlakResist01"
+    },
+    "attackPower": 374174,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2958"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 70,
+    "upgradeXP": 34166999,
+    "xpRewardMultiplier": 1.5,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 191908373,
+    "nextEvolveLevel": 44,
+    "tierNumber": 12,
+    "rarity": 5
+  },
+  {
+    "identifier": "E19Q1WarriorDragon",
+    "level": 39,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1492090"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 43355836,
+    "fullHealDuration": 864,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "E19Q1WarriorDragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "nova": "eruption1",
+      "cosmicEnergy": "risingTemper1",
+      "crystallineShield": "moltenBarrier1",
+      "fireFlakResist01": "fireFlakResist01"
+    },
+    "attackPower": 393117,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2994"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 71,
+    "upgradeXP": 35896698,
+    "xpRewardMultiplier": 1.5,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 200244846,
+    "nextEvolveLevel": 44,
+    "tierNumber": 12,
+    "rarity": 5
+  },
+  {
+    "identifier": "E19Q1WarriorDragon",
+    "level": 40,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1510139"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "haveMythicHarbinger",
+    "HP": 45550692,
+    "fullHealDuration": 864,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "E19Q1WarriorDragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "nova": "eruption1",
+      "cosmicEnergy": "risingTemper1",
+      "crystallineShield": "moltenBarrier1",
+      "fireFlakResist01": "fireFlakResist01"
+    },
+    "attackPower": 413018,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3030"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 72,
+    "upgradeXP": 37713958,
+    "xpRewardMultiplier": 1.5,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 208710623,
+    "nextEvolveLevel": 44,
+    "tierNumber": 12,
+    "rarity": 5
+  },
+  {
+    "identifier": "E19Q1WarriorDragon",
+    "level": 41,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1528189"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 50279391,
+    "fullHealDuration": 864,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "E19Q1WarriorDragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "nova": "eruption1",
+      "cosmicEnergy": "risingTemper1",
+      "crystallineShield": "moltenBarrier1",
+      "fireFlakResist01": "fireFlakResist01"
+    },
+    "attackPower": 455895,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3102"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 74,
+    "upgradeXP": 41629147,
+    "xpRewardMultiplier": 1.5,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 226030086,
+    "nextEvolveLevel": 44,
+    "tierNumber": 12,
+    "rarity": 5
+  },
+  {
+    "identifier": "E19Q1WarriorDragon",
+    "level": 42,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1564288"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 52824760,
+    "fullHealDuration": 864,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "E19Q1WarriorDragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "nova": "eruption1",
+      "cosmicEnergy": "risingTemper1",
+      "crystallineShield": "moltenBarrier1",
+      "fireFlakResist01": "fireFlakResist01"
+    },
+    "attackPower": 478974,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3138"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 76,
+    "upgradeXP": 43736615,
+    "xpRewardMultiplier": 1.5,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 234883773,
+    "nextEvolveLevel": 44,
+    "tierNumber": 12,
+    "rarity": 5
+  },
+  {
+    "identifier": "E19Q1WarriorDragon",
+    "level": 43,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1582337"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 58308562,
+    "fullHealDuration": 864,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "E19Q1WarriorDragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "nova": "eruption1",
+      "cosmicEnergy": "risingTemper1",
+      "crystallineShield": "moltenBarrier1",
+      "fireFlakResist01": "fireFlakResist01"
+    },
+    "attackPower": 528698,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3210"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 80,
+    "upgradeXP": 48277025,
+    "xpRewardMultiplier": 1.5,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 252979055,
+    "nextEvolveLevel": 44,
+    "tierNumber": 12,
+    "rarity": 5
+  },
+  {
+    "identifier": "E19Q1WarriorDragon",
+    "level": 44,
+    "upgradeCost": [
+      {
+        "type": "E19Q1WarriorDragonVanguardStone",
+        "amount": "1"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "haveLegendaryVanguard",
+    "HP": 62791878,
+    "fullHealDuration": 864,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "E19Q1WarriorDragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "nova": "eruption1",
+      "cosmicEnergy": "risingTemper1",
+      "crystallineShield": "moltenBarrier1",
+      "fireFlakResist01": "fireFlakResist01"
+    },
+    "attackPower": 569349,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3264"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 81,
+    "upgradeXP": 51989066,
+    "xpRewardMultiplier": 1.5,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 266889938,
+    "nextEvolveLevel": 55,
+    "tierNumber": 13,
+    "rarity": 5
+  },
+  {
+    "identifier": "E19Q1WarriorDragon",
+    "level": 45,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1645510"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 65970685,
+    "fullHealDuration": 864,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "E19Q1WarriorDragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "nova": "eruption1",
+      "cosmicEnergy": "risingTemper1",
+      "crystallineShield": "moltenBarrier1",
+      "fireFlakResist01": "fireFlakResist01"
+    },
+    "attackPower": 598173,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3300"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 82,
+    "upgradeXP": 54621004,
+    "xpRewardMultiplier": 1.5,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 276325488,
+    "nextEvolveLevel": 55,
+    "tierNumber": 13,
+    "rarity": 5
+  },
+  {
+    "identifier": "E19Q1WarriorDragon",
+    "level": 46,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1663560"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 69310425,
+    "fullHealDuration": 864,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "E19Q1WarriorDragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "nova": "eruption1",
+      "cosmicEnergy": "risingTemper1",
+      "crystallineShield": "moltenBarrier1",
+      "fireFlakResist01": "fireFlakResist01"
+    },
+    "attackPower": 628455,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3336"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 83,
+    "upgradeXP": 57386189,
+    "xpRewardMultiplier": 1.5,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 285890342,
+    "nextEvolveLevel": 55,
+    "tierNumber": 13,
+    "rarity": 5
+  },
+  {
+    "identifier": "E19Q1WarriorDragon",
+    "level": 47,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1681609"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 71043176,
+    "fullHealDuration": 864,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "E19Q1WarriorDragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "nova": "eruption1",
+      "cosmicEnergy": "risingTemper1",
+      "crystallineShield": "moltenBarrier1",
+      "fireFlakResist01": "fireFlakResist01"
+    },
+    "attackPower": 644166,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3354"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 84,
+    "upgradeXP": 58820840,
+    "xpRewardMultiplier": 1.5,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 290721258,
+    "nextEvolveLevel": 55,
+    "tierNumber": 13,
+    "rarity": 5
+  },
+  {
+    "identifier": "E19Q1WarriorDragon",
+    "level": 48,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1690634"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "have2LegendaryVanguard",
+    "HP": 74639724,
+    "fullHealDuration": 864,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "E19Q1WarriorDragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "nova": "eruption1",
+      "cosmicEnergy": "risingTemper1",
+      "crystallineShield": "moltenBarrier1",
+      "fireFlakResist01": "fireFlakResist01"
+    },
+    "attackPower": 676777,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3390"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 85,
+    "upgradeXP": 61798635,
+    "xpRewardMultiplier": 1.5,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 300480067,
+    "nextEvolveLevel": 55,
+    "tierNumber": 13,
+    "rarity": 5
+  },
+  {
+    "identifier": "E19Q1WarriorDragon",
+    "level": 49,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1708684"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 76505705,
+    "fullHealDuration": 864,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "E19Q1WarriorDragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "nova": "eruption1",
+      "cosmicEnergy": "risingTemper1",
+      "crystallineShield": "moltenBarrier1",
+      "fireFlakResist01": "fireFlakResist01"
+    },
+    "attackPower": 693696,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3408"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 85,
+    "upgradeXP": 63343596,
+    "xpRewardMultiplier": 1.5,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 305407960,
+    "nextEvolveLevel": 55,
+    "tierNumber": 13,
+    "rarity": 5
+  },
+  {
+    "identifier": "E19Q1WarriorDragon",
+    "level": 50,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1717708"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "haveMythicVanguard",
+    "HP": 78418329,
+    "fullHealDuration": 864,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "E19Q1WarriorDragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "nova": "eruption1",
+      "cosmicEnergy": "risingTemper1",
+      "crystallineShield": "moltenBarrier1",
+      "fireFlakResist01": "fireFlakResist01"
+    },
+    "attackPower": 711039,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3426"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 86,
+    "upgradeXP": 64927184,
+    "xpRewardMultiplier": 1.5,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 310368179,
+    "nextEvolveLevel": 55,
+    "tierNumber": 13,
+    "rarity": 5
+  },
+  {
+    "identifier": "E19Q1WarriorDragon",
+    "level": 51,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1726733"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 82388228,
+    "fullHealDuration": 864,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "E19Q1WarriorDragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "nova": "eruption1",
+      "cosmicEnergy": "risingTemper1",
+      "crystallineShield": "moltenBarrier1",
+      "fireFlakResist01": "fireFlakResist01"
+    },
+    "attackPower": 747035,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3462"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 87,
+    "upgradeXP": 68214118,
+    "xpRewardMultiplier": 1.5,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 320385594,
+    "nextEvolveLevel": 55,
+    "tierNumber": 13,
+    "rarity": 5
+  },
+  {
+    "identifier": "E19Q1WarriorDragon",
+    "level": 52,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1744783"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 86559111,
+    "fullHealDuration": 864,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "E19Q1WarriorDragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "nova": "eruption1",
+      "cosmicEnergy": "risingTemper1",
+      "crystallineShield": "moltenBarrier1",
+      "fireFlakResist01": "fireFlakResist01"
+    },
+    "attackPower": 784854,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3498"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 88,
+    "upgradeXP": 71667449,
+    "xpRewardMultiplier": 1.5,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 330532313,
+    "nextEvolveLevel": 55,
+    "tierNumber": 13,
+    "rarity": 5
+  },
+  {
+    "identifier": "E19Q1WarriorDragon",
+    "level": 53,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1762832"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 90941129,
+    "fullHealDuration": 864,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "E19Q1WarriorDragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "nova": "eruption1",
+      "cosmicEnergy": "risingTemper1",
+      "crystallineShield": "moltenBarrier1",
+      "fireFlakResist01": "fireFlakResist01"
+    },
+    "attackPower": 824587,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3534"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 89,
+    "upgradeXP": 75295608,
+    "xpRewardMultiplier": 1.5,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 340808334,
+    "nextEvolveLevel": 55,
+    "tierNumber": 13,
+    "rarity": 5
+  },
+  {
+    "identifier": "E19Q1WarriorDragon",
+    "level": 54,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1780881"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 95544997,
+    "fullHealDuration": 864,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "E19Q1WarriorDragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "nova": "eruption1",
+      "cosmicEnergy": "risingTemper1",
+      "crystallineShield": "moltenBarrier1",
+      "fireFlakResist01": "fireFlakResist01"
+    },
+    "attackPower": 866331,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3570"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 90,
+    "upgradeXP": 79107445,
+    "xpRewardMultiplier": 1.5,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 351213659,
+    "nextEvolveLevel": 55,
+    "tierNumber": 13,
+    "rarity": 5
+  },
+  {
+    "identifier": "E19Q1WarriorDragon",
+    "level": 55,
+    "upgradeCost": [
+      {
+        "type": "E19Q1WarriorDragonEmpyreanStone",
+        "amount": "1"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "haveLegendaryEmpyrean",
+    "HP": 100381933,
+    "fullHealDuration": 864,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "E19Q1WarriorDragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "nova": "eruption1",
+      "cosmicEnergy": "risingTemper1",
+      "crystallineShield": "moltenBarrier1",
+      "fireFlakResist01": "fireFlakResist01"
+    },
+    "attackPower": 910189,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3606"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 91,
+    "upgradeXP": 83112252,
+    "xpRewardMultiplier": 1.5,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 361748287,
+    "nextEvolveLevel": 0,
+    "tierNumber": 14,
+    "rarity": 5
+  },
+  {
+    "identifier": "E19Q1WarriorDragon",
+    "level": 56,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1816980"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 105463718,
+    "fullHealDuration": 864,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "E19Q1WarriorDragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "nova": "eruption1",
+      "cosmicEnergy": "risingTemper1",
+      "crystallineShield": "moltenBarrier1",
+      "fireFlakResist01": "fireFlakResist01"
+    },
+    "attackPower": 956267,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3642"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 92,
+    "upgradeXP": 87319805,
+    "xpRewardMultiplier": 1.5,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 372412218,
+    "nextEvolveLevel": 0,
+    "tierNumber": 14,
+    "rarity": 5
+  },
+  {
+    "identifier": "E19Q1WarriorDragon",
+    "level": 57,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1835030"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 110802770,
+    "fullHealDuration": 864,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "E19Q1WarriorDragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "nova": "eruption1",
+      "cosmicEnergy": "risingTemper1",
+      "crystallineShield": "moltenBarrier1",
+      "fireFlakResist01": "fireFlakResist01"
+    },
+    "attackPower": 1004678,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3678"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 93,
+    "upgradeXP": 91740362,
+    "xpRewardMultiplier": 1.5,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 383205453,
+    "nextEvolveLevel": 0,
+    "tierNumber": 14,
+    "rarity": 5
+  },
+  {
+    "identifier": "E19Q1WarriorDragon",
+    "level": 58,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1853079"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 116412112,
+    "fullHealDuration": 864,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "E19Q1WarriorDragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "nova": "eruption1",
+      "cosmicEnergy": "risingTemper1",
+      "crystallineShield": "moltenBarrier1",
+      "fireFlakResist01": "fireFlakResist01"
+    },
+    "attackPower": 1055540,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3714"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 94,
+    "upgradeXP": 96384710,
+    "xpRewardMultiplier": 1.5,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 394127990,
+    "nextEvolveLevel": 0,
+    "tierNumber": 14,
+    "rarity": 5
+  },
+  {
+    "identifier": "E19Q1WarriorDragon",
+    "level": 59,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1871129"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 119322396,
+    "fullHealDuration": 864,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "E19Q1WarriorDragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "nova": "eruption1",
+      "cosmicEnergy": "risingTemper1",
+      "crystallineShield": "moltenBarrier1",
+      "fireFlakResist01": "fireFlakResist01"
+    },
+    "attackPower": 1081929,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3732"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 94,
+    "upgradeXP": 98794327,
+    "xpRewardMultiplier": 1.5,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 399637748,
+    "nextEvolveLevel": 0,
+    "tierNumber": 14,
+    "rarity": 5
+  },
+  {
+    "identifier": "E19Q1WarriorDragon",
+    "level": 60,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1880154"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 125363068,
+    "fullHealDuration": 864,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "E19Q1WarriorDragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "nova": "eruption1",
+      "cosmicEnergy": "risingTemper1",
+      "crystallineShield": "moltenBarrier1",
+      "fireFlakResist01": "fireFlakResist01"
+    },
+    "attackPower": 1136701,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3768"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 95,
+    "upgradeXP": 0,
+    "xpRewardMultiplier": 1.5,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 410754240,
+    "nextEvolveLevel": 0,
+    "tierNumber": 14,
+    "rarity": 5
+  }
+]

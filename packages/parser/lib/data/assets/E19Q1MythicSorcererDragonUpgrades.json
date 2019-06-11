@@ -1,0 +1,2882 @@
+[
+  {
+    "identifier": "E19Q1MythicSorcererDragon",
+    "level": 1,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "0"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 192692,
+    "fullHealDuration": 840,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "E19Q1MythicSorcererDragon_lockon"
+      }
+    ],
+    "abilities": {
+      "umbralSpike": "foxfireBolt1",
+      "dissipate": "kitsuneMischief1",
+      "stealEssence": "trickstersToolkit1",
+      "elementalResist01": "elementalResist01"
+    },
+    "attackPower": 12778,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "210"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 8,
+    "upgradeXP": 54809,
+    "xpRewardMultiplier": 1.5,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 15449,
+    "nextEvolveLevel": 3,
+    "tierNumber": 4,
+    "rarity": 6
+  },
+  {
+    "identifier": "E19Q1MythicSorcererDragon",
+    "level": 2,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "57600"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 424013,
+    "fullHealDuration": 900,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "E19Q1MythicSorcererDragon_lockon"
+      }
+    ],
+    "abilities": {
+      "umbralSpike": "foxfireBolt1",
+      "dissipate": "kitsuneMischief1",
+      "stealEssence": "trickstersToolkit1",
+      "elementalResist01": "elementalResist01"
+    },
+    "attackPower": 24611,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "427"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 13,
+    "upgradeXP": 177866,
+    "xpRewardMultiplier": 1.5,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 65504,
+    "nextEvolveLevel": 3,
+    "tierNumber": 4,
+    "rarity": 6
+  },
+  {
+    "identifier": "E19Q1MythicSorcererDragon",
+    "level": 3,
+    "upgradeCost": [
+      {
+        "type": "E19Q1MythicSorcererDragonGreenStone",
+        "amount": "1"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "have2GreenEpic",
+    "HP": 484767,
+    "fullHealDuration": 900,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "E19Q1MythicSorcererDragon_lockon"
+      }
+    ],
+    "abilities": {
+      "umbralSpike": "foxfireBolt1",
+      "dissipate": "kitsuneMischief1",
+      "stealEssence": "trickstersToolkit1",
+      "elementalResist01": "elementalResist01"
+    },
+    "attackPower": 27812,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "469"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 14,
+    "upgradeXP": 229466,
+    "xpRewardMultiplier": 1.5,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 84626,
+    "nextEvolveLevel": 5,
+    "tierNumber": 5,
+    "rarity": 6
+  },
+  {
+    "identifier": "E19Q1MythicSorcererDragon",
+    "level": 4,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "126000"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 916039,
+    "fullHealDuration": 900,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "E19Q1MythicSorcererDragon_lockon"
+      }
+    ],
+    "abilities": {
+      "umbralSpike": "foxfireBolt1",
+      "dissipate": "kitsuneMischief1",
+      "stealEssence": "trickstersToolkit1",
+      "elementalResist01": "elementalResist01"
+    },
+    "attackPower": 46512,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "679"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 18,
+    "upgradeXP": 501720,
+    "xpRewardMultiplier": 1.5,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 267538,
+    "nextEvolveLevel": 5,
+    "tierNumber": 5,
+    "rarity": 6
+  },
+  {
+    "identifier": "E19Q1MythicSorcererDragon",
+    "level": 5,
+    "upgradeCost": [
+      {
+        "type": "E19Q1MythicSorcererDragonGoldStone",
+        "amount": "1"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "haveGoldLegendary",
+    "HP": 1044033,
+    "fullHealDuration": 900,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "E19Q1MythicSorcererDragon_lockon"
+      }
+    ],
+    "abilities": {
+      "umbralSpike": "foxfireBolt1",
+      "dissipate": "kitsuneMischief1",
+      "stealEssence": "trickstersToolkit1",
+      "elementalResist01": "elementalResist01"
+    },
+    "attackPower": 52763,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "721"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 18,
+    "upgradeXP": 638900,
+    "xpRewardMultiplier": 1.5,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 345896,
+    "nextEvolveLevel": 9,
+    "tierNumber": 6,
+    "rarity": 6
+  },
+  {
+    "identifier": "E19Q1MythicSorcererDragon",
+    "level": 6,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "190800"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 1420717,
+    "fullHealDuration": 900,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "E19Q1MythicSorcererDragon_lockon"
+      }
+    ],
+    "abilities": {
+      "umbralSpike": "foxfireBolt1",
+      "dissipate": "kitsuneMischief1",
+      "stealEssence": "trickstersToolkit1",
+      "elementalResist01": "elementalResist01"
+    },
+    "attackPower": 71678,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "826"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 18,
+    "upgradeXP": 933488,
+    "xpRewardMultiplier": 1.5,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 639388,
+    "nextEvolveLevel": 9,
+    "tierNumber": 6,
+    "rarity": 6
+  },
+  {
+    "identifier": "E19Q1MythicSorcererDragon",
+    "level": 7,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "217800"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "have2LegendaryGold",
+    "HP": 1845438,
+    "fullHealDuration": 900,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "E19Q1MythicSorcererDragon_lockon"
+      }
+    ],
+    "abilities": {
+      "umbralSpike": "foxfireBolt1",
+      "dissipate": "kitsuneMischief1",
+      "stealEssence": "trickstersToolkit1",
+      "elementalResist01": "elementalResist01"
+    },
+    "attackPower": 93182,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "994"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 18,
+    "upgradeXP": 1137348,
+    "xpRewardMultiplier": 1.5,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 1079659,
+    "nextEvolveLevel": 9,
+    "tierNumber": 6,
+    "rarity": 6
+  },
+  {
+    "identifier": "E19Q1MythicSorcererDragon",
+    "level": 8,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "261000"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 2248368,
+    "fullHealDuration": 900,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "E19Q1MythicSorcererDragon_lockon"
+      }
+    ],
+    "abilities": {
+      "umbralSpike": "foxfireBolt1",
+      "dissipate": "kitsuneMischief1",
+      "stealEssence": "trickstersToolkit1",
+      "elementalResist01": "elementalResist01"
+    },
+    "attackPower": 113532,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1162"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 20,
+    "upgradeXP": 1385738,
+    "xpRewardMultiplier": 1.5,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 1602693,
+    "nextEvolveLevel": 9,
+    "tierNumber": 6,
+    "rarity": 6
+  },
+  {
+    "identifier": "E19Q1MythicSorcererDragon",
+    "level": 9,
+    "upgradeCost": [
+      {
+        "type": "E19Q1MythicSorcererDragonPlatinumStone",
+        "amount": "1"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "havePlatinumLegendary",
+    "HP": 2362158,
+    "fullHealDuration": 900,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "E19Q1MythicSorcererDragon_lockon"
+      }
+    ],
+    "abilities": {
+      "umbralSpike": "foxfireBolt1",
+      "dissipate": "kitsuneMischief1",
+      "stealEssence": "trickstersToolkit1",
+      "elementalResist01": "elementalResist01"
+    },
+    "attackPower": 119280,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1204"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 21,
+    "upgradeXP": 1455891,
+    "xpRewardMultiplier": 1.5,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 1769054,
+    "nextEvolveLevel": 13,
+    "tierNumber": 7,
+    "rarity": 6
+  },
+  {
+    "identifier": "E19Q1MythicSorcererDragon",
+    "level": 10,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "315000"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 3176655,
+    "fullHealDuration": 900,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "E19Q1MythicSorcererDragon_lockon"
+      }
+    ],
+    "abilities": {
+      "umbralSpike": "foxfireBolt1",
+      "dissipate": "kitsuneMischief1",
+      "stealEssence": "trickstersToolkit1",
+      "elementalResist01": "elementalResist01"
+    },
+    "attackPower": 156440,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1456"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 25,
+    "upgradeXP": 1957988,
+    "xpRewardMultiplier": 1.5,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 3120281,
+    "nextEvolveLevel": 13,
+    "tierNumber": 7,
+    "rarity": 6
+  },
+  {
+    "identifier": "E19Q1MythicSorcererDragon",
+    "level": 11,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "379800"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "have2LegendaryPlatinum",
+    "HP": 3420854,
+    "fullHealDuration": 900,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "E19Q1MythicSorcererDragon_lockon"
+      }
+    ],
+    "abilities": {
+      "umbralSpike": "foxfireBolt1",
+      "dissipate": "kitsuneMischief1",
+      "stealEssence": "trickstersToolkit1",
+      "elementalResist01": "elementalResist01"
+    },
+    "attackPower": 168468,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1519"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 26,
+    "upgradeXP": 2108537,
+    "xpRewardMultiplier": 1.5,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 3618428,
+    "nextEvolveLevel": 13,
+    "tierNumber": 7,
+    "rarity": 6
+  },
+  {
+    "identifier": "E19Q1MythicSorcererDragon",
+    "level": 12,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "396000"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 3683839,
+    "fullHealDuration": 900,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "E19Q1MythicSorcererDragon_lockon"
+      }
+    ],
+    "abilities": {
+      "umbralSpike": "foxfireBolt1",
+      "dissipate": "kitsuneMischief1",
+      "stealEssence": "trickstersToolkit1",
+      "elementalResist01": "elementalResist01"
+    },
+    "attackPower": 181421,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1582"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 27,
+    "upgradeXP": 2270662,
+    "xpRewardMultiplier": 1.5,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 4196175,
+    "nextEvolveLevel": 13,
+    "tierNumber": 7,
+    "rarity": 6
+  },
+  {
+    "identifier": "E19Q1MythicSorcererDragon",
+    "level": 13,
+    "upgradeCost": [
+      {
+        "type": "E19Q1MythicSorcererDragonSapphireStone",
+        "amount": "1"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "haveLegendarySapphire",
+    "HP": 3775923,
+    "fullHealDuration": 900,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "E19Q1MythicSorcererDragon_lockon"
+      }
+    ],
+    "abilities": {
+      "umbralSpike": "foxfireBolt1",
+      "dissipate": "kitsuneMischief1",
+      "stealEssence": "trickstersToolkit1",
+      "elementalResist01": "elementalResist01"
+    },
+    "attackPower": 185957,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1603"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 27,
+    "upgradeXP": 2327426,
+    "xpRewardMultiplier": 1.5,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 4408635,
+    "nextEvolveLevel": 17,
+    "tierNumber": 8,
+    "rarity": 6
+  },
+  {
+    "identifier": "E19Q1MythicSorcererDragon",
+    "level": 14,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "417600"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 4167859,
+    "fullHealDuration": 900,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "E19Q1MythicSorcererDragon_lockon"
+      }
+    ],
+    "abilities": {
+      "umbralSpike": "foxfireBolt1",
+      "dissipate": "kitsuneMischief1",
+      "stealEssence": "trickstersToolkit1",
+      "elementalResist01": "elementalResist01"
+    },
+    "attackPower": 205261,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1687"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 29,
+    "upgradeXP": 2569036,
+    "xpRewardMultiplier": 1.5,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 5371377,
+    "nextEvolveLevel": 17,
+    "tierNumber": 8,
+    "rarity": 6
+  },
+  {
+    "identifier": "E19Q1MythicSorcererDragon",
+    "level": 15,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "439200"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "have2LegendarySapphire",
+    "HP": 4600454,
+    "fullHealDuration": 900,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "E19Q1MythicSorcererDragon_lockon"
+      }
+    ],
+    "abilities": {
+      "umbralSpike": "foxfireBolt1",
+      "dissipate": "kitsuneMischief1",
+      "stealEssence": "trickstersToolkit1",
+      "elementalResist01": "elementalResist01"
+    },
+    "attackPower": 226569,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1771"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 30,
+    "upgradeXP": 2835731,
+    "xpRewardMultiplier": 1.5,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 6544464,
+    "nextEvolveLevel": 17,
+    "tierNumber": 8,
+    "rarity": 6
+  },
+  {
+    "identifier": "E19Q1MythicSorcererDragon",
+    "level": 16,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "460800"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 5468391,
+    "fullHealDuration": 900,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "E19Q1MythicSorcererDragon_lockon"
+      }
+    ],
+    "abilities": {
+      "umbralSpike": "foxfireBolt1",
+      "dissipate": "kitsuneMischief1",
+      "stealEssence": "trickstersToolkit1",
+      "elementalResist01": "elementalResist01"
+    },
+    "attackPower": 269319,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1918"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 32,
+    "upgradeXP": 3370783,
+    "xpRewardMultiplier": 1.5,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 9246926,
+    "nextEvolveLevel": 17,
+    "tierNumber": 8,
+    "rarity": 6
+  },
+  {
+    "identifier": "E19Q1MythicSorcererDragon",
+    "level": 17,
+    "upgradeCost": [
+      {
+        "type": "E19Q1MythicSorcererDragonGarnetStone",
+        "amount": "1"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "haveLegendaryGarnet",
+    "HP": 5745192,
+    "fullHealDuration": 900,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "E19Q1MythicSorcererDragon_lockon"
+      }
+    ],
+    "abilities": {
+      "umbralSpike": "foxfireBolt1",
+      "dissipate": "kitsuneMischief1",
+      "stealEssence": "trickstersToolkit1",
+      "elementalResist01": "elementalResist01"
+    },
+    "attackPower": 282953,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1960"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 33,
+    "upgradeXP": 3541426,
+    "xpRewardMultiplier": 1.5,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 10206746,
+    "nextEvolveLevel": 21,
+    "tierNumber": 9,
+    "rarity": 6
+  },
+  {
+    "identifier": "E19Q1MythicSorcererDragon",
+    "level": 18,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "509400"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 6036010,
+    "fullHealDuration": 900,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "E19Q1MythicSorcererDragon_lockon"
+      }
+    ],
+    "abilities": {
+      "umbralSpike": "foxfireBolt1",
+      "dissipate": "kitsuneMischief1",
+      "stealEssence": "trickstersToolkit1",
+      "elementalResist01": "elementalResist01"
+    },
+    "attackPower": 297277,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2002"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 34,
+    "upgradeXP": 4941848,
+    "xpRewardMultiplier": 1.5,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 11266400,
+    "nextEvolveLevel": 21,
+    "tierNumber": 9,
+    "rarity": 6
+  },
+  {
+    "identifier": "E19Q1MythicSorcererDragon",
+    "level": 19,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "690931"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "have2LegendaryGarnet",
+    "HP": 6829100,
+    "fullHealDuration": 900,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "E19Q1MythicSorcererDragon_lockon"
+      }
+    ],
+    "abilities": {
+      "umbralSpike": "foxfireBolt1",
+      "dissipate": "kitsuneMischief1",
+      "stealEssence": "trickstersToolkit1",
+      "elementalResist01": "elementalResist01"
+    },
+    "attackPower": 336341,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2107"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 35,
+    "upgradeXP": 5591239,
+    "xpRewardMultiplier": 1.5,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 14421699,
+    "nextEvolveLevel": 21,
+    "tierNumber": 9,
+    "rarity": 6
+  },
+  {
+    "identifier": "E19Q1MythicSorcererDragon",
+    "level": 20,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "726792"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 8960131,
+    "fullHealDuration": 900,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "E19Q1MythicSorcererDragon_lockon"
+      }
+    ],
+    "abilities": {
+      "umbralSpike": "foxfireBolt1",
+      "dissipate": "kitsuneMischief1",
+      "stealEssence": "trickstersToolkit1",
+      "elementalResist01": "elementalResist01"
+    },
+    "attackPower": 441306,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2338"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 39,
+    "upgradeXP": 7336155,
+    "xpRewardMultiplier": 1.5,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 24827179,
+    "nextEvolveLevel": 21,
+    "tierNumber": 9,
+    "rarity": 6
+  },
+  {
+    "identifier": "E19Q1MythicSorcererDragon",
+    "level": 21,
+    "upgradeCost": [
+      {
+        "type": "E19Q1MythicSorcererDragonEmeraldStone",
+        "amount": "1"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "haveLegendaryEmerald",
+    "HP": 9890249,
+    "fullHealDuration": 900,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "E19Q1MythicSorcererDragon_lockon"
+      }
+    ],
+    "abilities": {
+      "umbralSpike": "foxfireBolt1",
+      "dissipate": "kitsuneMischief1",
+      "stealEssence": "trickstersToolkit1",
+      "elementalResist01": "elementalResist01"
+    },
+    "attackPower": 487119,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2422"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 41,
+    "upgradeXP": 8097735,
+    "xpRewardMultiplier": 1.5,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 30249140,
+    "nextEvolveLevel": 25,
+    "tierNumber": 10,
+    "rarity": 6
+  },
+  {
+    "identifier": "E19Q1MythicSorcererDragon",
+    "level": 22,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "834377"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 10916905,
+    "fullHealDuration": 900,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "E19Q1MythicSorcererDragon_lockon"
+      }
+    ],
+    "abilities": {
+      "umbralSpike": "foxfireBolt1",
+      "dissipate": "kitsuneMischief1",
+      "stealEssence": "trickstersToolkit1",
+      "elementalResist01": "elementalResist01"
+    },
+    "attackPower": 537687,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2506"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 43,
+    "upgradeXP": 10932407,
+    "xpRewardMultiplier": 1.5,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 36855452,
+    "nextEvolveLevel": 25,
+    "tierNumber": 10,
+    "rarity": 6
+  },
+  {
+    "identifier": "E19Q1MythicSorcererDragon",
+    "level": 23,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1055604"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "have2LegendaryEmerald",
+    "HP": 11469535,
+    "fullHealDuration": 900,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "E19Q1MythicSorcererDragon_lockon"
+      }
+    ],
+    "abilities": {
+      "umbralSpike": "foxfireBolt1",
+      "dissipate": "kitsuneMischief1",
+      "stealEssence": "trickstersToolkit1",
+      "elementalResist01": "elementalResist01"
+    },
+    "attackPower": 564908,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2548"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 44,
+    "upgradeXP": 11485856,
+    "xpRewardMultiplier": 1.5,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 40681366,
+    "nextEvolveLevel": 25,
+    "tierNumber": 10,
+    "rarity": 6
+  },
+  {
+    "identifier": "E19Q1MythicSorcererDragon",
+    "level": 24,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1073148"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 13301032,
+    "fullHealDuration": 900,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "E19Q1MythicSorcererDragon_lockon"
+      }
+    ],
+    "abilities": {
+      "umbralSpike": "foxfireBolt1",
+      "dissipate": "kitsuneMischief1",
+      "stealEssence": "trickstersToolkit1",
+      "elementalResist01": "elementalResist01"
+    },
+    "attackPower": 655119,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2674"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 47,
+    "upgradeXP": 13320053,
+    "xpRewardMultiplier": 1.5,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 54711330,
+    "nextEvolveLevel": 25,
+    "tierNumber": 10,
+    "rarity": 6
+  },
+  {
+    "identifier": "E19Q1MythicSorcererDragon",
+    "level": 25,
+    "upgradeCost": [
+      {
+        "type": "E19Q1MythicSorcererDragonObsidianStone",
+        "amount": "1"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "haveLegendaryObsidian",
+    "HP": 13633548,
+    "fullHealDuration": 900,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "E19Q1MythicSorcererDragon_lockon"
+      }
+    ],
+    "abilities": {
+      "umbralSpike": "foxfireBolt1",
+      "dissipate": "kitsuneMischief1",
+      "stealEssence": "trickstersToolkit1",
+      "elementalResist01": "elementalResist01"
+    },
+    "attackPower": 671497,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2695"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 47,
+    "upgradeXP": 13653051,
+    "xpRewardMultiplier": 1.5,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 57481153,
+    "nextEvolveLevel": 33,
+    "tierNumber": 11,
+    "rarity": 6
+  },
+  {
+    "identifier": "E19Q1MythicSorcererDragon",
+    "level": 26,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1134555"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 13974375,
+    "fullHealDuration": 900,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "E19Q1MythicSorcererDragon_lockon"
+      }
+    ],
+    "abilities": {
+      "umbralSpike": "foxfireBolt1",
+      "dissipate": "kitsuneMischief1",
+      "stealEssence": "trickstersToolkit1",
+      "elementalResist01": "elementalResist01"
+    },
+    "attackPower": 688284,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2716"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 48,
+    "upgradeXP": 16360272,
+    "xpRewardMultiplier": 1.5,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 60390920,
+    "nextEvolveLevel": 33,
+    "tierNumber": 11,
+    "rarity": 6
+  },
+  {
+    "identifier": "E19Q1MythicSorcererDragon",
+    "level": 27,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1336618"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 15048843,
+    "fullHealDuration": 900,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "E19Q1MythicSorcererDragon_lockon"
+      }
+    ],
+    "abilities": {
+      "umbralSpike": "foxfireBolt1",
+      "dissipate": "kitsuneMischief1",
+      "stealEssence": "trickstersToolkit1",
+      "elementalResist01": "elementalResist01"
+    },
+    "attackPower": 741206,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2779"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 49,
+    "upgradeXP": 17618220,
+    "xpRewardMultiplier": 1.5,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 70034832,
+    "nextEvolveLevel": 33,
+    "tierNumber": 11,
+    "rarity": 6
+  },
+  {
+    "identifier": "E19Q1MythicSorcererDragon",
+    "level": 28,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1367385"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "have2LegendaryObsidian",
+    "HP": 16205919,
+    "fullHealDuration": 900,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "E19Q1MythicSorcererDragon_lockon"
+      }
+    ],
+    "abilities": {
+      "umbralSpike": "foxfireBolt1",
+      "dissipate": "kitsuneMischief1",
+      "stealEssence": "trickstersToolkit1",
+      "elementalResist01": "elementalResist01"
+    },
+    "attackPower": 798197,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2842"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 52,
+    "upgradeXP": 18972887,
+    "xpRewardMultiplier": 1.5,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 81218799,
+    "nextEvolveLevel": 33,
+    "tierNumber": 11,
+    "rarity": 6
+  },
+  {
+    "identifier": "E19Q1MythicSorcererDragon",
+    "level": 29,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1398151"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 17888239,
+    "fullHealDuration": 900,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "E19Q1MythicSorcererDragon_lockon"
+      }
+    ],
+    "abilities": {
+      "umbralSpike": "foxfireBolt1",
+      "dissipate": "kitsuneMischief1",
+      "stealEssence": "trickstersToolkit1",
+      "elementalResist01": "elementalResist01"
+    },
+    "attackPower": 881060,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2926"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 56,
+    "upgradeXP": 20942504,
+    "xpRewardMultiplier": 1.5,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 98446448,
+    "nextEvolveLevel": 33,
+    "tierNumber": 11,
+    "rarity": 6
+  },
+  {
+    "identifier": "E19Q1MythicSorcererDragon",
+    "level": 30,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1439172"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "haveMythicObsidian",
+    "HP": 19263635,
+    "fullHealDuration": 900,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "E19Q1MythicSorcererDragon_lockon"
+      }
+    ],
+    "abilities": {
+      "umbralSpike": "foxfireBolt1",
+      "dissipate": "kitsuneMischief1",
+      "stealEssence": "trickstersToolkit1",
+      "elementalResist01": "elementalResist01"
+    },
+    "attackPower": 948805,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2989"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 59,
+    "upgradeXP": 22552777,
+    "xpRewardMultiplier": 1.5,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 112034547,
+    "nextEvolveLevel": 33,
+    "tierNumber": 11,
+    "rarity": 6
+  },
+  {
+    "identifier": "E19Q1MythicSorcererDragon",
+    "level": 31,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1469938"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 20744799,
+    "fullHealDuration": 900,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "E19Q1MythicSorcererDragon_lockon"
+      }
+    ],
+    "abilities": {
+      "umbralSpike": "foxfireBolt1",
+      "dissipate": "kitsuneMischief1",
+      "stealEssence": "trickstersToolkit1",
+      "elementalResist01": "elementalResist01"
+    },
+    "attackPower": 1021758,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3052"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 61,
+    "upgradeXP": 24286867,
+    "xpRewardMultiplier": 1.5,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 123927305,
+    "nextEvolveLevel": 33,
+    "tierNumber": 11,
+    "rarity": 6
+  },
+  {
+    "identifier": "E19Q1MythicSorcererDragon",
+    "level": 32,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1500704"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 22339848,
+    "fullHealDuration": 900,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "E19Q1MythicSorcererDragon_lockon"
+      }
+    ],
+    "abilities": {
+      "umbralSpike": "foxfireBolt1",
+      "dissipate": "kitsuneMischief1",
+      "stealEssence": "trickstersToolkit1",
+      "elementalResist01": "elementalResist01"
+    },
+    "attackPower": 1100322,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3115"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 62,
+    "upgradeXP": 26154291,
+    "xpRewardMultiplier": 1.5,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 135066359,
+    "nextEvolveLevel": 33,
+    "tierNumber": 11,
+    "rarity": 6
+  },
+  {
+    "identifier": "E19Q1MythicSorcererDragon",
+    "level": 33,
+    "upgradeCost": [
+      {
+        "type": "E19Q1MythicSorcererDragonHarbingerStone",
+        "amount": "1"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "haveLegendaryHarbinger",
+    "HP": 23470796,
+    "fullHealDuration": 900,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "E19Q1MythicSorcererDragon_lockon"
+      }
+    ],
+    "abilities": {
+      "umbralSpike": "foxfireBolt1",
+      "dissipate": "kitsuneMischief1",
+      "stealEssence": "trickstersToolkit1",
+      "elementalResist01": "elementalResist01"
+    },
+    "attackPower": 1156025,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3157"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 63,
+    "upgradeXP": 27478348,
+    "xpRewardMultiplier": 1.5,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 142660489,
+    "nextEvolveLevel": 42,
+    "tierNumber": 12,
+    "rarity": 6
+  },
+  {
+    "identifier": "E19Q1MythicSorcererDragon",
+    "level": 34,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1551981"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 26555003,
+    "fullHealDuration": 900,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "E19Q1MythicSorcererDragon_lockon"
+      }
+    ],
+    "abilities": {
+      "umbralSpike": "foxfireBolt1",
+      "dissipate": "kitsuneMischief1",
+      "stealEssence": "trickstersToolkit1",
+      "elementalResist01": "elementalResist01"
+    },
+    "attackPower": 1307935,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3262"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 66,
+    "upgradeXP": 31089215,
+    "xpRewardMultiplier": 1.5,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 162234143,
+    "nextEvolveLevel": 42,
+    "tierNumber": 12,
+    "rarity": 6
+  },
+  {
+    "identifier": "E19Q1MythicSorcererDragon",
+    "level": 35,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1603258"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 28596816,
+    "fullHealDuration": 900,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "E19Q1MythicSorcererDragon_lockon"
+      }
+    ],
+    "abilities": {
+      "umbralSpike": "foxfireBolt1",
+      "dissipate": "kitsuneMischief1",
+      "stealEssence": "trickstersToolkit1",
+      "elementalResist01": "elementalResist01"
+    },
+    "attackPower": 1408503,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3325"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 67,
+    "upgradeXP": 33479671,
+    "xpRewardMultiplier": 1.5,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 174381762,
+    "nextEvolveLevel": 42,
+    "tierNumber": 12,
+    "rarity": 6
+  },
+  {
+    "identifier": "E19Q1MythicSorcererDragon",
+    "level": 36,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1634024"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "have2LegendaryHarbinger",
+    "HP": 30795598,
+    "fullHealDuration": 900,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "E19Q1MythicSorcererDragon_lockon"
+      }
+    ],
+    "abilities": {
+      "umbralSpike": "foxfireBolt1",
+      "dissipate": "kitsuneMischief1",
+      "stealEssence": "trickstersToolkit1",
+      "elementalResist01": "elementalResist01"
+    },
+    "attackPower": 1516803,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3388"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 69,
+    "upgradeXP": 36053935,
+    "xpRewardMultiplier": 1.5,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 186831950,
+    "nextEvolveLevel": 42,
+    "tierNumber": 12,
+    "rarity": 6
+  },
+  {
+    "identifier": "E19Q1MythicSorcererDragon",
+    "level": 37,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1664791"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 34842326,
+    "fullHealDuration": 900,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "E19Q1MythicSorcererDragon_lockon"
+      }
+    ],
+    "abilities": {
+      "umbralSpike": "foxfireBolt1",
+      "dissipate": "kitsuneMischief1",
+      "stealEssence": "trickstersToolkit1",
+      "elementalResist01": "elementalResist01"
+    },
+    "attackPower": 1716123,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3493"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 71,
+    "upgradeXP": 40791702,
+    "xpRewardMultiplier": 1.5,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 208254640,
+    "nextEvolveLevel": 42,
+    "tierNumber": 12,
+    "rarity": 6
+  },
+  {
+    "identifier": "E19Q1MythicSorcererDragon",
+    "level": 38,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1716067"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "haveMythicHarbinger",
+    "HP": 36606192,
+    "fullHealDuration": 900,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "E19Q1MythicSorcererDragon_lockon"
+      }
+    ],
+    "abilities": {
+      "umbralSpike": "foxfireBolt1",
+      "dissipate": "kitsuneMischief1",
+      "stealEssence": "trickstersToolkit1",
+      "elementalResist01": "elementalResist01"
+    },
+    "attackPower": 1803001,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3535"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 72,
+    "upgradeXP": 42856770,
+    "xpRewardMultiplier": 1.5,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 217059048,
+    "nextEvolveLevel": 42,
+    "tierNumber": 12,
+    "rarity": 6
+  },
+  {
+    "identifier": "E19Q1MythicSorcererDragon",
+    "level": 39,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1736578"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 40406347,
+    "fullHealDuration": 900,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "E19Q1MythicSorcererDragon_lockon"
+      }
+    ],
+    "abilities": {
+      "umbralSpike": "foxfireBolt1",
+      "dissipate": "kitsuneMischief1",
+      "stealEssence": "trickstersToolkit1",
+      "elementalResist01": "elementalResist01"
+    },
+    "attackPower": 1990175,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3619"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 74,
+    "upgradeXP": 47305849,
+    "xpRewardMultiplier": 1.5,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 235071290,
+    "nextEvolveLevel": 42,
+    "tierNumber": 12,
+    "rarity": 6
+  },
+  {
+    "identifier": "E19Q1MythicSorcererDragon",
+    "level": 40,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1777600"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 42451898,
+    "fullHealDuration": 900,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "E19Q1MythicSorcererDragon_lockon"
+      }
+    ],
+    "abilities": {
+      "umbralSpike": "foxfireBolt1",
+      "dissipate": "kitsuneMischief1",
+      "stealEssence": "trickstersToolkit1",
+      "elementalResist01": "elementalResist01"
+    },
+    "attackPower": 2090927,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3661"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 76,
+    "upgradeXP": 49700698,
+    "xpRewardMultiplier": 1.5,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 244279123,
+    "nextEvolveLevel": 42,
+    "tierNumber": 12,
+    "rarity": 6
+  },
+  {
+    "identifier": "E19Q1MythicSorcererDragon",
+    "level": 41,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1798110"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 46858881,
+    "fullHealDuration": 900,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "E19Q1MythicSorcererDragon_lockon"
+      }
+    ],
+    "abilities": {
+      "umbralSpike": "foxfireBolt1",
+      "dissipate": "kitsuneMischief1",
+      "stealEssence": "trickstersToolkit1",
+      "elementalResist01": "elementalResist01"
+    },
+    "attackPower": 2307992,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3745"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 80,
+    "upgradeXP": 54860256,
+    "xpRewardMultiplier": 1.5,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 263098217,
+    "nextEvolveLevel": 42,
+    "tierNumber": 12,
+    "rarity": 6
+  },
+  {
+    "identifier": "E19Q1MythicSorcererDragon",
+    "level": 42,
+    "upgradeCost": [
+      {
+        "type": "E19Q1MythicSorcererDragonVanguardStone",
+        "amount": "1"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "haveLegendaryVanguard",
+    "HP": 50461837,
+    "fullHealDuration": 900,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "E19Q1MythicSorcererDragon_lockon"
+      }
+    ],
+    "abilities": {
+      "umbralSpike": "foxfireBolt1",
+      "dissipate": "kitsuneMischief1",
+      "stealEssence": "trickstersToolkit1",
+      "elementalResist01": "elementalResist01"
+    },
+    "attackPower": 2485454,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3808"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 81,
+    "upgradeXP": 59078484,
+    "xpRewardMultiplier": 1.5,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 277565535,
+    "nextEvolveLevel": 51,
+    "tierNumber": 13,
+    "rarity": 6
+  },
+  {
+    "identifier": "E19Q1MythicSorcererDragon",
+    "level": 43,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1869898"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 53016441,
+    "fullHealDuration": 900,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "E19Q1MythicSorcererDragon_lockon"
+      }
+    ],
+    "abilities": {
+      "umbralSpike": "foxfireBolt1",
+      "dissipate": "kitsuneMischief1",
+      "stealEssence": "trickstersToolkit1",
+      "elementalResist01": "elementalResist01"
+    },
+    "attackPower": 2611280,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3850"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 82,
+    "upgradeXP": 62069323,
+    "xpRewardMultiplier": 1.5,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 287378508,
+    "nextEvolveLevel": 51,
+    "tierNumber": 13,
+    "rarity": 6
+  },
+  {
+    "identifier": "E19Q1MythicSorcererDragon",
+    "level": 44,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1890409"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 57092880,
+    "fullHealDuration": 900,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "E19Q1MythicSorcererDragon_lockon"
+      }
+    ],
+    "abilities": {
+      "umbralSpike": "foxfireBolt1",
+      "dissipate": "kitsuneMischief1",
+      "stealEssence": "trickstersToolkit1",
+      "elementalResist01": "elementalResist01"
+    },
+    "attackPower": 2812062,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3913"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 84,
+    "upgradeXP": 66841864,
+    "xpRewardMultiplier": 1.5,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 302350108,
+    "nextEvolveLevel": 51,
+    "tierNumber": 13,
+    "rarity": 6
+  },
+  {
+    "identifier": "E19Q1MythicSorcererDragon",
+    "level": 45,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1921175"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "have2LegendaryVanguard",
+    "HP": 59983197,
+    "fullHealDuration": 900,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "E19Q1MythicSorcererDragon_lockon"
+      }
+    ],
+    "abilities": {
+      "umbralSpike": "foxfireBolt1",
+      "dissipate": "kitsuneMischief1",
+      "stealEssence": "trickstersToolkit1",
+      "elementalResist01": "elementalResist01"
+    },
+    "attackPower": 2954423,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3955"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 85,
+    "upgradeXP": 70225721,
+    "xpRewardMultiplier": 1.5,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 312499270,
+    "nextEvolveLevel": 51,
+    "tierNumber": 13,
+    "rarity": 6
+  },
+  {
+    "identifier": "E19Q1MythicSorcererDragon",
+    "level": 46,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1941686"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 61482767,
+    "fullHealDuration": 900,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "E19Q1MythicSorcererDragon_lockon"
+      }
+    ],
+    "abilities": {
+      "umbralSpike": "foxfireBolt1",
+      "dissipate": "kitsuneMischief1",
+      "stealEssence": "trickstersToolkit1",
+      "elementalResist01": "elementalResist01"
+    },
+    "attackPower": 3028283,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3976"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 85,
+    "upgradeXP": 71981359,
+    "xpRewardMultiplier": 1.5,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 317624278,
+    "nextEvolveLevel": 51,
+    "tierNumber": 13,
+    "rarity": 6
+  },
+  {
+    "identifier": "E19Q1MythicSorcererDragon",
+    "level": 47,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1951941"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "haveMythicVanguard",
+    "HP": 63019821,
+    "fullHealDuration": 900,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "E19Q1MythicSorcererDragon_lockon"
+      }
+    ],
+    "abilities": {
+      "umbralSpike": "foxfireBolt1",
+      "dissipate": "kitsuneMischief1",
+      "stealEssence": "trickstersToolkit1",
+      "elementalResist01": "elementalResist01"
+    },
+    "attackPower": 3103990,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3997"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 86,
+    "upgradeXP": 73780891,
+    "xpRewardMultiplier": 1.5,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 322782906,
+    "nextEvolveLevel": 51,
+    "tierNumber": 13,
+    "rarity": 6
+  },
+  {
+    "identifier": "E19Q1MythicSorcererDragon",
+    "level": 48,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1962197"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 66210176,
+    "fullHealDuration": 900,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "E19Q1MythicSorcererDragon_lockon"
+      }
+    ],
+    "abilities": {
+      "umbralSpike": "foxfireBolt1",
+      "dissipate": "kitsuneMischief1",
+      "stealEssence": "trickstersToolkit1",
+      "elementalResist01": "elementalResist01"
+    },
+    "attackPower": 3261129,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "4039"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 87,
+    "upgradeXP": 77516043,
+    "xpRewardMultiplier": 1.5,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 333201018,
+    "nextEvolveLevel": 51,
+    "tierNumber": 13,
+    "rarity": 6
+  },
+  {
+    "identifier": "E19Q1MythicSorcererDragon",
+    "level": 49,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1982707"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 71301086,
+    "fullHealDuration": 900,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "E19Q1MythicSorcererDragon_lockon"
+      }
+    ],
+    "abilities": {
+      "umbralSpike": "foxfireBolt1",
+      "dissipate": "kitsuneMischief1",
+      "stealEssence": "trickstersToolkit1",
+      "elementalResist01": "elementalResist01"
+    },
+    "attackPower": 3511879,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "4102"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 88,
+    "upgradeXP": 83476287,
+    "xpRewardMultiplier": 1.5,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 349080327,
+    "nextEvolveLevel": 51,
+    "tierNumber": 13,
+    "rarity": 6
+  },
+  {
+    "identifier": "E19Q1MythicSorcererDragon",
+    "level": 50,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "2013473"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 76783434,
+    "fullHealDuration": 900,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "E19Q1MythicSorcererDragon_lockon"
+      }
+    ],
+    "abilities": {
+      "umbralSpike": "foxfireBolt1",
+      "dissipate": "kitsuneMischief1",
+      "stealEssence": "trickstersToolkit1",
+      "elementalResist01": "elementalResist01"
+    },
+    "attackPower": 3781909,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "4165"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 90,
+    "upgradeXP": 89894824,
+    "xpRewardMultiplier": 1.5,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 365262205,
+    "nextEvolveLevel": 51,
+    "tierNumber": 13,
+    "rarity": 6
+  },
+  {
+    "identifier": "E19Q1MythicSorcererDragon",
+    "level": 51,
+    "upgradeCost": [
+      {
+        "type": "E19Q1MythicSorcererDragonEmpyreanStone",
+        "amount": "1"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "haveLegendaryEmpyrean",
+    "HP": 80670572,
+    "fullHealDuration": 900,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "E19Q1MythicSorcererDragon_lockon"
+      }
+    ],
+    "abilities": {
+      "umbralSpike": "foxfireBolt1",
+      "dissipate": "kitsuneMischief1",
+      "stealEssence": "trickstersToolkit1",
+      "elementalResist01": "elementalResist01"
+    },
+    "attackPower": 3973367,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "4207"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 91,
+    "upgradeXP": 94445741,
+    "xpRewardMultiplier": 1.5,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 376218218,
+    "nextEvolveLevel": 0,
+    "tierNumber": 14,
+    "rarity": 6
+  },
+  {
+    "identifier": "E19Q1MythicSorcererDragon",
+    "level": 52,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "2064750"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 82687317,
+    "fullHealDuration": 900,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "E19Q1MythicSorcererDragon_lockon"
+      }
+    ],
+    "abilities": {
+      "umbralSpike": "foxfireBolt1",
+      "dissipate": "kitsuneMischief1",
+      "stealEssence": "trickstersToolkit1",
+      "elementalResist01": "elementalResist01"
+    },
+    "attackPower": 4072701,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "4228"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 91,
+    "upgradeXP": 96806881,
+    "xpRewardMultiplier": 1.5,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 381746653,
+    "nextEvolveLevel": 0,
+    "tierNumber": 14,
+    "rarity": 6
+  },
+  {
+    "identifier": "E19Q1MythicSorcererDragon",
+    "level": 53,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "2075006"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 86873320,
+    "fullHealDuration": 900,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "E19Q1MythicSorcererDragon_lockon"
+      }
+    ],
+    "abilities": {
+      "umbralSpike": "foxfireBolt1",
+      "dissipate": "kitsuneMischief1",
+      "stealEssence": "trickstersToolkit1",
+      "elementalResist01": "elementalResist01"
+    },
+    "attackPower": 4278882,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "4270"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 92,
+    "upgradeXP": 101707723,
+    "xpRewardMultiplier": 1.5,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 392904379,
+    "nextEvolveLevel": 0,
+    "tierNumber": 14,
+    "rarity": 6
+  },
+  {
+    "identifier": "E19Q1MythicSorcererDragon",
+    "level": 54,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "2095517"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "have2LegendaryEmpyrean",
+    "HP": 89045135,
+    "fullHealDuration": 900,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "E19Q1MythicSorcererDragon_lockon"
+      }
+    ],
+    "abilities": {
+      "umbralSpike": "foxfireBolt1",
+      "dissipate": "kitsuneMischief1",
+      "stealEssence": "trickstersToolkit1",
+      "elementalResist01": "elementalResist01"
+    },
+    "attackPower": 4385854,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "4291"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 93,
+    "upgradeXP": 104250412,
+    "xpRewardMultiplier": 1.5,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 398533671,
+    "nextEvolveLevel": 0,
+    "tierNumber": 14,
+    "rarity": 6
+  },
+  {
+    "identifier": "E19Q1MythicSorcererDragon",
+    "level": 55,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "2105772"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 93553007,
+    "fullHealDuration": 900,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "E19Q1MythicSorcererDragon_lockon"
+      }
+    ],
+    "abilities": {
+      "umbralSpike": "foxfireBolt1",
+      "dissipate": "kitsuneMischief1",
+      "stealEssence": "trickstersToolkit1",
+      "elementalResist01": "elementalResist01"
+    },
+    "attackPower": 4607887,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "4333"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 94,
+    "upgradeXP": 109528080,
+    "xpRewardMultiplier": 1.5,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 409893110,
+    "nextEvolveLevel": 0,
+    "tierNumber": 14,
+    "rarity": 6
+  },
+  {
+    "identifier": "E19Q1MythicSorcererDragon",
+    "level": 56,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "2126283"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 100746320,
+    "fullHealDuration": 900,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "E19Q1MythicSorcererDragon_lockon"
+      }
+    ],
+    "abilities": {
+      "umbralSpike": "foxfireBolt1",
+      "dissipate": "kitsuneMischief1",
+      "stealEssence": "trickstersToolkit1",
+      "elementalResist01": "elementalResist01"
+    },
+    "attackPower": 4962190,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "4396"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 95,
+    "upgradeXP": 117949750,
+    "xpRewardMultiplier": 1.5,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 427184410,
+    "nextEvolveLevel": 0,
+    "tierNumber": 14,
+    "rarity": 6
+  },
+  {
+    "identifier": "E19Q1MythicSorcererDragon",
+    "level": 57,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "2157049"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "haveMythicEmpyrean",
+    "HP": 103264964,
+    "fullHealDuration": 900,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "E19Q1MythicSorcererDragon_lockon"
+      }
+    ],
+    "abilities": {
+      "umbralSpike": "foxfireBolt1",
+      "dissipate": "kitsuneMischief1",
+      "stealEssence": "trickstersToolkit1",
+      "elementalResist01": "elementalResist01"
+    },
+    "attackPower": 5086244,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "4417"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 96,
+    "upgradeXP": 120898490,
+    "xpRewardMultiplier": 1.5,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 433015414,
+    "nextEvolveLevel": 0,
+    "tierNumber": 14,
+    "rarity": 6
+  },
+  {
+    "identifier": "E19Q1MythicSorcererDragon",
+    "level": 58,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "2167304"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 108492722,
+    "fullHealDuration": 900,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "E19Q1MythicSorcererDragon_lockon"
+      }
+    ],
+    "abilities": {
+      "umbralSpike": "foxfireBolt1",
+      "dissipate": "kitsuneMischief1",
+      "stealEssence": "trickstersToolkit1",
+      "elementalResist01": "elementalResist01"
+    },
+    "attackPower": 5343735,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "4459"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 97,
+    "upgradeXP": 127018968,
+    "xpRewardMultiplier": 1.5,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 444778279,
+    "nextEvolveLevel": 0,
+    "tierNumber": 14,
+    "rarity": 6
+  },
+  {
+    "identifier": "E19Q1MythicSorcererDragon",
+    "level": 59,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "2187815"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 116834729,
+    "fullHealDuration": 900,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "E19Q1MythicSorcererDragon_lockon"
+      }
+    ],
+    "abilities": {
+      "umbralSpike": "foxfireBolt1",
+      "dissipate": "kitsuneMischief1",
+      "stealEssence": "trickstersToolkit1",
+      "elementalResist01": "elementalResist01"
+    },
+    "attackPower": 5754618,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "4522"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 98,
+    "upgradeXP": 136785522,
+    "xpRewardMultiplier": 1.5,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 462674718,
+    "nextEvolveLevel": 0,
+    "tierNumber": 14,
+    "rarity": 6
+  },
+  {
+    "identifier": "E19Q1MythicSorcererDragon",
+    "level": 60,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "2218581"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 128963608,
+    "fullHealDuration": 900,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "E19Q1MythicSorcererDragon_lockon"
+      }
+    ],
+    "abilities": {
+      "umbralSpike": "foxfireBolt1",
+      "dissipate": "kitsuneMischief1",
+      "stealEssence": "trickstersToolkit1",
+      "elementalResist01": "elementalResist01"
+    },
+    "attackPower": 6352020,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "4606"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 100,
+    "upgradeXP": 0,
+    "xpRewardMultiplier": 1.5,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 487007300,
+    "nextEvolveLevel": 0,
+    "tierNumber": 14,
+    "rarity": 6
+  }
+]

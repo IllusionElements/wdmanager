@@ -1,0 +1,1132 @@
+[
+  {
+    "identifier": "mayBlueDragon",
+    "level": 1,
+    "upgradeCost": [
+      {
+        "type": "mayBlueDragon",
+        "amount": "0"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 75590,
+    "fullHealDuration": 2881,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T3C2WFdragon_flamethrower"
+      }
+    ],
+    "abilities": {},
+    "attackPower": 1116,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "60"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 4,
+    "upgradeXP": 6589,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 816
+  },
+  {
+    "identifier": "mayBlueDragon",
+    "level": 2,
+    "upgradeCost": [
+      {
+        "type": "mayBlueDragon",
+        "amount": "7"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 81689,
+    "fullHealDuration": 3321,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T3C2WFdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "chargedShield": "chargedShield1"
+    },
+    "attackPower": 1190,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "65"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 4,
+    "upgradeXP": 7524,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 1406
+  },
+  {
+    "identifier": "mayBlueDragon",
+    "level": 3,
+    "upgradeCost": [
+      {
+        "type": "mayBlueDragon",
+        "amount": "7"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 102707,
+    "fullHealDuration": 4425,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T3C2WFdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "chargedShield": "chargedShield1"
+    },
+    "attackPower": 1261,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "70"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 4,
+    "upgradeXP": 9652,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 1872
+  },
+  {
+    "identifier": "mayBlueDragon",
+    "level": 4,
+    "upgradeCost": [
+      {
+        "type": "mayBlueDragon",
+        "amount": "7"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 106566,
+    "fullHealDuration": 4818,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T3C2WFdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "chargedShield": "chargedShield1"
+    },
+    "attackPower": 1323,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "75"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 4,
+    "upgradeXP": 12654,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 2045
+  },
+  {
+    "identifier": "mayBlueDragon",
+    "level": 5,
+    "upgradeCost": [
+      {
+        "type": "mayBlueDragon",
+        "amount": "7"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 111599,
+    "fullHealDuration": 5255,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T3C2WFdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "chargedShield": "chargedShield1",
+      "seethingSpark": "seethingSpark1"
+    },
+    "attackPower": 1378,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "80"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 5,
+    "upgradeXP": 16048,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 2968
+  },
+  {
+    "identifier": "mayBlueDragon",
+    "level": 6,
+    "upgradeCost": [
+      {
+        "type": "mayBlueDragon",
+        "amount": "7"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 115801,
+    "fullHealDuration": 5712,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T3C2WFdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "chargedShield": "chargedShield1",
+      "seethingSpark": "seethingSpark1"
+    },
+    "attackPower": 1444,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "85"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 5,
+    "upgradeXP": 20007,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 3219
+  },
+  {
+    "identifier": "mayBlueDragon",
+    "level": 7,
+    "upgradeCost": [
+      {
+        "type": "mayBlueDragon",
+        "amount": "7"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 120227,
+    "fullHealDuration": 6115,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T3C2WFdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "chargedShield": "chargedShield1",
+      "seethingSpark": "seethingSpark1"
+    },
+    "attackPower": 1523,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "90"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 5,
+    "upgradeXP": 22557,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 3510
+  },
+  {
+    "identifier": "mayBlueDragon",
+    "level": 8,
+    "upgradeCost": [
+      {
+        "type": "mayBlueDragon",
+        "amount": "8"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 129089,
+    "fullHealDuration": 6730,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T3C2WFdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "chargedShield": "chargedShield1",
+      "seethingSpark": "seethingSpark1"
+    },
+    "attackPower": 1612,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "97"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 5,
+    "upgradeXP": 25425,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 3999
+  },
+  {
+    "identifier": "mayBlueDragon",
+    "level": 9,
+    "upgradeCost": [
+      {
+        "type": "mayBlueDragon",
+        "amount": "8"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 138563,
+    "fullHealDuration": 7442,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T3C2WFdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "chargedShield": "chargedShield1",
+      "seethingSpark": "seethingSpark1",
+      "archerResist01": "archerResist01"
+    },
+    "attackPower": 1717,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "103"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 6,
+    "upgradeXP": 28408,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 5949
+  },
+  {
+    "identifier": "mayBlueDragon",
+    "level": 10,
+    "upgradeCost": [
+      {
+        "type": "mayBlueDragon",
+        "amount": "8"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 147437,
+    "fullHealDuration": 8210,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T3C2WFdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "chargedShield": "chargedShield1",
+      "seethingSpark": "seethingSpark1",
+      "archerResist01": "archerResist01"
+    },
+    "attackPower": 1839,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "109"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 6,
+    "upgradeXP": 32005,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 6778
+  },
+  {
+    "identifier": "mayBlueDragon",
+    "level": 11,
+    "upgradeCost": [
+      {
+        "type": "mayBlueDragon",
+        "amount": "8"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 158185,
+    "fullHealDuration": 9101,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T3C2WFdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "chargedShield": "chargedShield1",
+      "seethingSpark": "seethingSpark1",
+      "archerResist01": "archerResist01"
+    },
+    "attackPower": 1967,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "115"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 6,
+    "upgradeXP": 36048,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 7779
+  },
+  {
+    "identifier": "mayBlueDragon",
+    "level": 12,
+    "upgradeCost": [
+      {
+        "type": "mayBlueDragon",
+        "amount": "15"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 169673,
+    "fullHealDuration": 10086,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T3C2WFdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "chargedShield": "chargedShield1",
+      "seethingSpark": "seethingSpark1",
+      "archerResist01": "archerResist01"
+    },
+    "attackPower": 2103,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "122"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 6,
+    "upgradeXP": 53478,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 8918
+  },
+  {
+    "identifier": "mayBlueDragon",
+    "level": 13,
+    "upgradeCost": [
+      {
+        "type": "mayBlueDragon",
+        "amount": "33"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 180480,
+    "fullHealDuration": 11120,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T3C2WFdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "chargedShield": "chargedShield1",
+      "seethingSpark": "seethingSpark1",
+      "archerResist01": "archerResist01"
+    },
+    "attackPower": 2251,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "128"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 7,
+    "upgradeXP": 60211,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 10156
+  },
+  {
+    "identifier": "mayBlueDragon",
+    "level": 14,
+    "upgradeCost": [
+      {
+        "type": "mayBlueDragon",
+        "amount": "33"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 193514,
+    "fullHealDuration": 12315,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T3C2WFdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "chargedShield": "chargedShield1",
+      "seethingSpark": "seethingSpark1",
+      "archerResist01": "archerResist01"
+    },
+    "attackPower": 2406,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "134"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 7,
+    "upgradeXP": 67772,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 11640
+  },
+  {
+    "identifier": "mayBlueDragon",
+    "level": 15,
+    "upgradeCost": [
+      {
+        "type": "mayBlueDragon",
+        "amount": "33"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 207439,
+    "fullHealDuration": 13562,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T3C2WFdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "chargedShield": "chargedShield1",
+      "seethingSpark": "seethingSpark1",
+      "archerResist01": "archerResist01"
+    },
+    "attackPower": 2552,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "140"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 7,
+    "upgradeXP": 92555,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 13239
+  },
+  {
+    "identifier": "mayBlueDragon",
+    "level": 16,
+    "upgradeCost": [
+      {
+        "type": "mayBlueDragon",
+        "amount": "33"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 220593,
+    "fullHealDuration": 14786,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T3C2WFdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "chargedShield": "chargedShield1",
+      "seethingSpark": "seethingSpark1",
+      "archerResist01": "archerResist01"
+    },
+    "attackPower": 2693,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "150"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 8,
+    "upgradeXP": 104142,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 14855
+  },
+  {
+    "identifier": "mayBlueDragon",
+    "level": 17,
+    "upgradeCost": [
+      {
+        "type": "mayBlueDragon",
+        "amount": "34"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 266886,
+    "fullHealDuration": 15840,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T3C2WFdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "chargedShield": "chargedShield1",
+      "seethingSpark": "seethingSpark1",
+      "archerResist01": "archerResist01"
+    },
+    "attackPower": 2820,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "160"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 8,
+    "upgradeXP": 136957,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 18824
+  },
+  {
+    "identifier": "mayBlueDragon",
+    "level": 18,
+    "upgradeCost": [
+      {
+        "type": "mayBlueDragon",
+        "amount": "34"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 276987,
+    "fullHealDuration": 15840,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T3C2WFdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "chargedShield": "chargedShield1",
+      "seethingSpark": "seethingSpark1",
+      "archerResist01": "archerResist01"
+    },
+    "attackPower": 2936,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "170"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 8,
+    "upgradeXP": 152878,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 20361
+  },
+  {
+    "identifier": "mayBlueDragon",
+    "level": 19,
+    "upgradeCost": [
+      {
+        "type": "mayBlueDragon",
+        "amount": "34"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 285536,
+    "fullHealDuration": 15840,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T3C2WFdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "chargedShield": "chargedShield1",
+      "seethingSpark": "seethingSpark1",
+      "archerResist01": "archerResist01"
+    },
+    "attackPower": 3046,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "180"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 9,
+    "upgradeXP": 171916,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 21731
+  },
+  {
+    "identifier": "mayBlueDragon",
+    "level": 20,
+    "upgradeCost": [
+      {
+        "type": "mayBlueDragon",
+        "amount": "34"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 296800,
+    "fullHealDuration": 15840,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T3C2WFdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "chargedShield": "chargedShield1",
+      "seethingSpark": "seethingSpark1",
+      "archerResist01": "archerResist01"
+    },
+    "attackPower": 3175,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "190"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 9,
+    "upgradeXP": 180511,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 23590
+  },
+  {
+    "identifier": "mayBlueDragon",
+    "level": 21,
+    "upgradeCost": [
+      {
+        "type": "mayBlueDragon",
+        "amount": "34"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 308672,
+    "fullHealDuration": 15840,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T3C2WFdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "chargedShield": "chargedShield1",
+      "seethingSpark": "seethingSpark1",
+      "archerResist01": "archerResist01"
+    },
+    "attackPower": 3302,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "200"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 9,
+    "upgradeXP": 189536,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 24769
+  },
+  {
+    "identifier": "mayBlueDragon",
+    "level": 22,
+    "upgradeCost": [
+      {
+        "type": "mayBlueDragon",
+        "amount": "34"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 321018,
+    "fullHealDuration": 15840,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T3C2WFdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "chargedShield": "chargedShield1",
+      "seethingSpark": "seethingSpark1",
+      "archerResist01": "archerResist01"
+    },
+    "attackPower": 3434,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "210"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 9,
+    "upgradeXP": 199012,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 26007
+  },
+  {
+    "identifier": "mayBlueDragon",
+    "level": 23,
+    "upgradeCost": [
+      {
+        "type": "mayBlueDragon",
+        "amount": "45"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 333858,
+    "fullHealDuration": 15840,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T3C2WFdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "chargedShield": "chargedShield1",
+      "seethingSpark": "seethingSpark1",
+      "archerResist01": "archerResist01"
+    },
+    "attackPower": 3571,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "220"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 9,
+    "upgradeXP": 208962,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 27307
+  },
+  {
+    "identifier": "mayBlueDragon",
+    "level": 24,
+    "upgradeCost": [
+      {
+        "type": "mayBlueDragon",
+        "amount": "46"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 347212,
+    "fullHealDuration": 15840,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T3C2WFdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "chargedShield": "chargedShield1",
+      "seethingSpark": "seethingSpark1",
+      "archerResist01": "archerResist01"
+    },
+    "attackPower": 3713,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "230"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 9,
+    "upgradeXP": 219410,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 28672
+  },
+  {
+    "identifier": "mayBlueDragon",
+    "level": 25,
+    "upgradeCost": [
+      {
+        "type": "mayBlueDragon",
+        "amount": "46"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 361100,
+    "fullHealDuration": 15840,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T3C2WFdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "chargedShield": "chargedShield1",
+      "seethingSpark": "seethingSpark1",
+      "archerResist01": "archerResist01"
+    },
+    "attackPower": 3861,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "240"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 9,
+    "upgradeXP": 230380,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 30105
+  },
+  {
+    "identifier": "mayBlueDragon",
+    "level": 26,
+    "upgradeCost": [
+      {
+        "type": "mayBlueDragon",
+        "amount": "46"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 375544,
+    "fullHealDuration": 15840,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T3C2WFdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "chargedShield": "chargedShield1",
+      "seethingSpark": "seethingSpark1",
+      "archerResist01": "archerResist01"
+    },
+    "attackPower": 4015,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "250"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 9,
+    "upgradeXP": 0,
+    "xpRewardMultiplier": 1.2,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 31610
+  }
+]

@@ -1,0 +1,2882 @@
+[
+  {
+    "identifier": "E19Q1MythicHunterDragon",
+    "level": 1,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "0"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 181357,
+    "fullHealDuration": 840,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "E19Q1MythicHunterDragon_fireball"
+      }
+    ],
+    "abilities": {
+      "adaptiveBreath": "wayOfTheBlade1",
+      "lockdown": "entrap1",
+      "consume": "fightingSpirit1",
+      "adaptiveResist": "adaptiveImmunity1"
+    },
+    "attackPower": 13530,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "210"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 8,
+    "upgradeXP": 54809,
+    "xpRewardMultiplier": 1.5,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 15449,
+    "nextEvolveLevel": 3,
+    "tierNumber": 4,
+    "rarity": 6
+  },
+  {
+    "identifier": "E19Q1MythicHunterDragon",
+    "level": 2,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "57600"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 399071,
+    "fullHealDuration": 900,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "E19Q1MythicHunterDragon_fireball"
+      }
+    ],
+    "abilities": {
+      "adaptiveBreath": "wayOfTheBlade1",
+      "lockdown": "entrap1",
+      "consume": "fightingSpirit1",
+      "adaptiveResist": "adaptiveImmunity1"
+    },
+    "attackPower": 26059,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "427"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 13,
+    "upgradeXP": 177866,
+    "xpRewardMultiplier": 1.5,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 65504,
+    "nextEvolveLevel": 3,
+    "tierNumber": 4,
+    "rarity": 6
+  },
+  {
+    "identifier": "E19Q1MythicHunterDragon",
+    "level": 3,
+    "upgradeCost": [
+      {
+        "type": "E19Q1MythicHunterDragonGreenStone",
+        "amount": "1"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "have2GreenEpic",
+    "HP": 456251,
+    "fullHealDuration": 900,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "E19Q1MythicHunterDragon_fireball"
+      }
+    ],
+    "abilities": {
+      "adaptiveBreath": "wayOfTheBlade1",
+      "lockdown": "entrap1",
+      "consume": "fightingSpirit1",
+      "adaptiveResist": "adaptiveImmunity1"
+    },
+    "attackPower": 29448,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "469"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 14,
+    "upgradeXP": 229466,
+    "xpRewardMultiplier": 1.5,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 84626,
+    "nextEvolveLevel": 5,
+    "tierNumber": 5,
+    "rarity": 6
+  },
+  {
+    "identifier": "E19Q1MythicHunterDragon",
+    "level": 4,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "126000"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 862155,
+    "fullHealDuration": 900,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "E19Q1MythicHunterDragon_fireball"
+      }
+    ],
+    "abilities": {
+      "adaptiveBreath": "wayOfTheBlade1",
+      "lockdown": "entrap1",
+      "consume": "fightingSpirit1",
+      "adaptiveResist": "adaptiveImmunity1"
+    },
+    "attackPower": 49248,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "679"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 18,
+    "upgradeXP": 501720,
+    "xpRewardMultiplier": 1.5,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 267538,
+    "nextEvolveLevel": 5,
+    "tierNumber": 5,
+    "rarity": 6
+  },
+  {
+    "identifier": "E19Q1MythicHunterDragon",
+    "level": 5,
+    "upgradeCost": [
+      {
+        "type": "E19Q1MythicHunterDragonGoldStone",
+        "amount": "1"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "haveGoldLegendary",
+    "HP": 982620,
+    "fullHealDuration": 900,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "E19Q1MythicHunterDragon_fireball"
+      }
+    ],
+    "abilities": {
+      "adaptiveBreath": "wayOfTheBlade1",
+      "lockdown": "entrap1",
+      "consume": "fightingSpirit1",
+      "adaptiveResist": "adaptiveImmunity1"
+    },
+    "attackPower": 55867,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "721"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 18,
+    "upgradeXP": 638900,
+    "xpRewardMultiplier": 1.5,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 345896,
+    "nextEvolveLevel": 9,
+    "tierNumber": 6,
+    "rarity": 6
+  },
+  {
+    "identifier": "E19Q1MythicHunterDragon",
+    "level": 6,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "190800"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 1337145,
+    "fullHealDuration": 900,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "E19Q1MythicHunterDragon_fireball"
+      }
+    ],
+    "abilities": {
+      "adaptiveBreath": "wayOfTheBlade1",
+      "lockdown": "entrap1",
+      "consume": "fightingSpirit1",
+      "adaptiveResist": "adaptiveImmunity1"
+    },
+    "attackPower": 75895,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "826"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 18,
+    "upgradeXP": 933488,
+    "xpRewardMultiplier": 1.5,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 639388,
+    "nextEvolveLevel": 9,
+    "tierNumber": 6,
+    "rarity": 6
+  },
+  {
+    "identifier": "E19Q1MythicHunterDragon",
+    "level": 7,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "217800"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "have2LegendaryGold",
+    "HP": 1736882,
+    "fullHealDuration": 900,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "E19Q1MythicHunterDragon_fireball"
+      }
+    ],
+    "abilities": {
+      "adaptiveBreath": "wayOfTheBlade1",
+      "lockdown": "entrap1",
+      "consume": "fightingSpirit1",
+      "adaptiveResist": "adaptiveImmunity1"
+    },
+    "attackPower": 98663,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "994"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 18,
+    "upgradeXP": 1137348,
+    "xpRewardMultiplier": 1.5,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 1079659,
+    "nextEvolveLevel": 9,
+    "tierNumber": 6,
+    "rarity": 6
+  },
+  {
+    "identifier": "E19Q1MythicHunterDragon",
+    "level": 8,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "261000"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 2116111,
+    "fullHealDuration": 900,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "E19Q1MythicHunterDragon_fireball"
+      }
+    ],
+    "abilities": {
+      "adaptiveBreath": "wayOfTheBlade1",
+      "lockdown": "entrap1",
+      "consume": "fightingSpirit1",
+      "adaptiveResist": "adaptiveImmunity1"
+    },
+    "attackPower": 120210,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1162"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 20,
+    "upgradeXP": 1385738,
+    "xpRewardMultiplier": 1.5,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 1602693,
+    "nextEvolveLevel": 9,
+    "tierNumber": 6,
+    "rarity": 6
+  },
+  {
+    "identifier": "E19Q1MythicHunterDragon",
+    "level": 9,
+    "upgradeCost": [
+      {
+        "type": "E19Q1MythicHunterDragonPlatinumStone",
+        "amount": "1"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "havePlatinumLegendary",
+    "HP": 2223207,
+    "fullHealDuration": 900,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "E19Q1MythicHunterDragon_fireball"
+      }
+    ],
+    "abilities": {
+      "adaptiveBreath": "wayOfTheBlade1",
+      "lockdown": "entrap1",
+      "consume": "fightingSpirit1",
+      "adaptiveResist": "adaptiveImmunity1"
+    },
+    "attackPower": 126296,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1204"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 21,
+    "upgradeXP": 1455891,
+    "xpRewardMultiplier": 1.5,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 1769054,
+    "nextEvolveLevel": 13,
+    "tierNumber": 7,
+    "rarity": 6
+  },
+  {
+    "identifier": "E19Q1MythicHunterDragon",
+    "level": 10,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "315000"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 2989793,
+    "fullHealDuration": 900,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "E19Q1MythicHunterDragon_fireball"
+      }
+    ],
+    "abilities": {
+      "adaptiveBreath": "wayOfTheBlade1",
+      "lockdown": "entrap1",
+      "consume": "fightingSpirit1",
+      "adaptiveResist": "adaptiveImmunity1"
+    },
+    "attackPower": 165642,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1456"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 25,
+    "upgradeXP": 1957988,
+    "xpRewardMultiplier": 1.5,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 3120281,
+    "nextEvolveLevel": 13,
+    "tierNumber": 7,
+    "rarity": 6
+  },
+  {
+    "identifier": "E19Q1MythicHunterDragon",
+    "level": 11,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "379800"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "have2LegendaryPlatinum",
+    "HP": 3219628,
+    "fullHealDuration": 900,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "E19Q1MythicHunterDragon_fireball"
+      }
+    ],
+    "abilities": {
+      "adaptiveBreath": "wayOfTheBlade1",
+      "lockdown": "entrap1",
+      "consume": "fightingSpirit1",
+      "adaptiveResist": "adaptiveImmunity1"
+    },
+    "attackPower": 178378,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1519"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 26,
+    "upgradeXP": 2108537,
+    "xpRewardMultiplier": 1.5,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 3618428,
+    "nextEvolveLevel": 13,
+    "tierNumber": 7,
+    "rarity": 6
+  },
+  {
+    "identifier": "E19Q1MythicHunterDragon",
+    "level": 12,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "396000"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 3467142,
+    "fullHealDuration": 900,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "E19Q1MythicHunterDragon_fireball"
+      }
+    ],
+    "abilities": {
+      "adaptiveBreath": "wayOfTheBlade1",
+      "lockdown": "entrap1",
+      "consume": "fightingSpirit1",
+      "adaptiveResist": "adaptiveImmunity1"
+    },
+    "attackPower": 192093,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1582"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 27,
+    "upgradeXP": 2270662,
+    "xpRewardMultiplier": 1.5,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 4196175,
+    "nextEvolveLevel": 13,
+    "tierNumber": 7,
+    "rarity": 6
+  },
+  {
+    "identifier": "E19Q1MythicHunterDragon",
+    "level": 13,
+    "upgradeCost": [
+      {
+        "type": "E19Q1MythicHunterDragonSapphireStone",
+        "amount": "1"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "haveLegendarySapphire",
+    "HP": 3553810,
+    "fullHealDuration": 900,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "E19Q1MythicHunterDragon_fireball"
+      }
+    ],
+    "abilities": {
+      "adaptiveBreath": "wayOfTheBlade1",
+      "lockdown": "entrap1",
+      "consume": "fightingSpirit1",
+      "adaptiveResist": "adaptiveImmunity1"
+    },
+    "attackPower": 196896,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1603"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 27,
+    "upgradeXP": 2327426,
+    "xpRewardMultiplier": 1.5,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 4408635,
+    "nextEvolveLevel": 17,
+    "tierNumber": 8,
+    "rarity": 6
+  },
+  {
+    "identifier": "E19Q1MythicHunterDragon",
+    "level": 14,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "417600"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 3922691,
+    "fullHealDuration": 900,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "E19Q1MythicHunterDragon_fireball"
+      }
+    ],
+    "abilities": {
+      "adaptiveBreath": "wayOfTheBlade1",
+      "lockdown": "entrap1",
+      "consume": "fightingSpirit1",
+      "adaptiveResist": "adaptiveImmunity1"
+    },
+    "attackPower": 217335,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1687"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 29,
+    "upgradeXP": 2569036,
+    "xpRewardMultiplier": 1.5,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 5371377,
+    "nextEvolveLevel": 17,
+    "tierNumber": 8,
+    "rarity": 6
+  },
+  {
+    "identifier": "E19Q1MythicHunterDragon",
+    "level": 15,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "439200"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "have2LegendarySapphire",
+    "HP": 4329839,
+    "fullHealDuration": 900,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "E19Q1MythicHunterDragon_fireball"
+      }
+    ],
+    "abilities": {
+      "adaptiveBreath": "wayOfTheBlade1",
+      "lockdown": "entrap1",
+      "consume": "fightingSpirit1",
+      "adaptiveResist": "adaptiveImmunity1"
+    },
+    "attackPower": 239897,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1771"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 30,
+    "upgradeXP": 2835731,
+    "xpRewardMultiplier": 1.5,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 6544464,
+    "nextEvolveLevel": 17,
+    "tierNumber": 8,
+    "rarity": 6
+  },
+  {
+    "identifier": "E19Q1MythicHunterDragon",
+    "level": 16,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "460800"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 5146721,
+    "fullHealDuration": 900,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "E19Q1MythicHunterDragon_fireball"
+      }
+    ],
+    "abilities": {
+      "adaptiveBreath": "wayOfTheBlade1",
+      "lockdown": "entrap1",
+      "consume": "fightingSpirit1",
+      "adaptiveResist": "adaptiveImmunity1"
+    },
+    "attackPower": 285161,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1918"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 32,
+    "upgradeXP": 3370783,
+    "xpRewardMultiplier": 1.5,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 9246926,
+    "nextEvolveLevel": 17,
+    "tierNumber": 8,
+    "rarity": 6
+  },
+  {
+    "identifier": "E19Q1MythicHunterDragon",
+    "level": 17,
+    "upgradeCost": [
+      {
+        "type": "E19Q1MythicHunterDragonGarnetStone",
+        "amount": "1"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "haveLegendaryGarnet",
+    "HP": 5407239,
+    "fullHealDuration": 900,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "E19Q1MythicHunterDragon_fireball"
+      }
+    ],
+    "abilities": {
+      "adaptiveBreath": "wayOfTheBlade1",
+      "lockdown": "entrap1",
+      "consume": "fightingSpirit1",
+      "adaptiveResist": "adaptiveImmunity1"
+    },
+    "attackPower": 299597,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1960"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 33,
+    "upgradeXP": 3541426,
+    "xpRewardMultiplier": 1.5,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 10206746,
+    "nextEvolveLevel": 21,
+    "tierNumber": 9,
+    "rarity": 6
+  },
+  {
+    "identifier": "E19Q1MythicHunterDragon",
+    "level": 18,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "509400"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 5680951,
+    "fullHealDuration": 900,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "E19Q1MythicHunterDragon_fireball"
+      }
+    ],
+    "abilities": {
+      "adaptiveBreath": "wayOfTheBlade1",
+      "lockdown": "entrap1",
+      "consume": "fightingSpirit1",
+      "adaptiveResist": "adaptiveImmunity1"
+    },
+    "attackPower": 314764,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2002"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 34,
+    "upgradeXP": 4941848,
+    "xpRewardMultiplier": 1.5,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 11266400,
+    "nextEvolveLevel": 21,
+    "tierNumber": 9,
+    "rarity": 6
+  },
+  {
+    "identifier": "E19Q1MythicHunterDragon",
+    "level": 19,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "690931"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "have2LegendaryGarnet",
+    "HP": 6427388,
+    "fullHealDuration": 900,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "E19Q1MythicHunterDragon_fireball"
+      }
+    ],
+    "abilities": {
+      "adaptiveBreath": "wayOfTheBlade1",
+      "lockdown": "entrap1",
+      "consume": "fightingSpirit1",
+      "adaptiveResist": "adaptiveImmunity1"
+    },
+    "attackPower": 356126,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2107"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 35,
+    "upgradeXP": 5591239,
+    "xpRewardMultiplier": 1.5,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 14421699,
+    "nextEvolveLevel": 21,
+    "tierNumber": 9,
+    "rarity": 6
+  },
+  {
+    "identifier": "E19Q1MythicHunterDragon",
+    "level": 20,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "726792"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 8433065,
+    "fullHealDuration": 900,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "E19Q1MythicHunterDragon_fireball"
+      }
+    ],
+    "abilities": {
+      "adaptiveBreath": "wayOfTheBlade1",
+      "lockdown": "entrap1",
+      "consume": "fightingSpirit1",
+      "adaptiveResist": "adaptiveImmunity1"
+    },
+    "attackPower": 467266,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2338"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 39,
+    "upgradeXP": 7336155,
+    "xpRewardMultiplier": 1.5,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 24827179,
+    "nextEvolveLevel": 21,
+    "tierNumber": 9,
+    "rarity": 6
+  },
+  {
+    "identifier": "E19Q1MythicHunterDragon",
+    "level": 21,
+    "upgradeCost": [
+      {
+        "type": "E19Q1MythicHunterDragonEmeraldStone",
+        "amount": "1"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "haveLegendaryEmerald",
+    "HP": 9308469,
+    "fullHealDuration": 900,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "E19Q1MythicHunterDragon_fireball"
+      }
+    ],
+    "abilities": {
+      "adaptiveBreath": "wayOfTheBlade1",
+      "lockdown": "entrap1",
+      "consume": "fightingSpirit1",
+      "adaptiveResist": "adaptiveImmunity1"
+    },
+    "attackPower": 515773,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2422"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 41,
+    "upgradeXP": 8097735,
+    "xpRewardMultiplier": 1.5,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 30249140,
+    "nextEvolveLevel": 25,
+    "tierNumber": 10,
+    "rarity": 6
+  },
+  {
+    "identifier": "E19Q1MythicHunterDragon",
+    "level": 22,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "834377"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 10274734,
+    "fullHealDuration": 900,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "E19Q1MythicHunterDragon_fireball"
+      }
+    ],
+    "abilities": {
+      "adaptiveBreath": "wayOfTheBlade1",
+      "lockdown": "entrap1",
+      "consume": "fightingSpirit1",
+      "adaptiveResist": "adaptiveImmunity1"
+    },
+    "attackPower": 569316,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2506"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 43,
+    "upgradeXP": 10932407,
+    "xpRewardMultiplier": 1.5,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 36855452,
+    "nextEvolveLevel": 25,
+    "tierNumber": 10,
+    "rarity": 6
+  },
+  {
+    "identifier": "E19Q1MythicHunterDragon",
+    "level": 23,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1055604"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "have2LegendaryEmerald",
+    "HP": 10794856,
+    "fullHealDuration": 900,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "E19Q1MythicHunterDragon_fireball"
+      }
+    ],
+    "abilities": {
+      "adaptiveBreath": "wayOfTheBlade1",
+      "lockdown": "entrap1",
+      "consume": "fightingSpirit1",
+      "adaptiveResist": "adaptiveImmunity1"
+    },
+    "attackPower": 598137,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2548"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 44,
+    "upgradeXP": 11485856,
+    "xpRewardMultiplier": 1.5,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 40681366,
+    "nextEvolveLevel": 25,
+    "tierNumber": 10,
+    "rarity": 6
+  },
+  {
+    "identifier": "E19Q1MythicHunterDragon",
+    "level": 24,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1073148"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 12518618,
+    "fullHealDuration": 900,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "E19Q1MythicHunterDragon_fireball"
+      }
+    ],
+    "abilities": {
+      "adaptiveBreath": "wayOfTheBlade1",
+      "lockdown": "entrap1",
+      "consume": "fightingSpirit1",
+      "adaptiveResist": "adaptiveImmunity1"
+    },
+    "attackPower": 693655,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2674"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 47,
+    "upgradeXP": 13320053,
+    "xpRewardMultiplier": 1.5,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 54711330,
+    "nextEvolveLevel": 25,
+    "tierNumber": 10,
+    "rarity": 6
+  },
+  {
+    "identifier": "E19Q1MythicHunterDragon",
+    "level": 25,
+    "upgradeCost": [
+      {
+        "type": "E19Q1MythicHunterDragonObsidianStone",
+        "amount": "1"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "haveLegendaryObsidian",
+    "HP": 12831575,
+    "fullHealDuration": 900,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "E19Q1MythicHunterDragon_fireball"
+      }
+    ],
+    "abilities": {
+      "adaptiveBreath": "wayOfTheBlade1",
+      "lockdown": "entrap1",
+      "consume": "fightingSpirit1",
+      "adaptiveResist": "adaptiveImmunity1"
+    },
+    "attackPower": 710996,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2695"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 47,
+    "upgradeXP": 13653051,
+    "xpRewardMultiplier": 1.5,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 57481153,
+    "nextEvolveLevel": 33,
+    "tierNumber": 11,
+    "rarity": 6
+  },
+  {
+    "identifier": "E19Q1MythicHunterDragon",
+    "level": 26,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1134555"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 13152353,
+    "fullHealDuration": 900,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "E19Q1MythicHunterDragon_fireball"
+      }
+    ],
+    "abilities": {
+      "adaptiveBreath": "wayOfTheBlade1",
+      "lockdown": "entrap1",
+      "consume": "fightingSpirit1",
+      "adaptiveResist": "adaptiveImmunity1"
+    },
+    "attackPower": 728771,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2716"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 48,
+    "upgradeXP": 16360272,
+    "xpRewardMultiplier": 1.5,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 60390920,
+    "nextEvolveLevel": 33,
+    "tierNumber": 11,
+    "rarity": 6
+  },
+  {
+    "identifier": "E19Q1MythicHunterDragon",
+    "level": 27,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1336618"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 14163617,
+    "fullHealDuration": 900,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "E19Q1MythicHunterDragon_fireball"
+      }
+    ],
+    "abilities": {
+      "adaptiveBreath": "wayOfTheBlade1",
+      "lockdown": "entrap1",
+      "consume": "fightingSpirit1",
+      "adaptiveResist": "adaptiveImmunity1"
+    },
+    "attackPower": 784806,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2779"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 49,
+    "upgradeXP": 17618220,
+    "xpRewardMultiplier": 1.5,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 70034832,
+    "nextEvolveLevel": 33,
+    "tierNumber": 11,
+    "rarity": 6
+  },
+  {
+    "identifier": "E19Q1MythicHunterDragon",
+    "level": 28,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1367385"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "have2LegendaryObsidian",
+    "HP": 15252630,
+    "fullHealDuration": 900,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "E19Q1MythicHunterDragon_fireball"
+      }
+    ],
+    "abilities": {
+      "adaptiveBreath": "wayOfTheBlade1",
+      "lockdown": "entrap1",
+      "consume": "fightingSpirit1",
+      "adaptiveResist": "adaptiveImmunity1"
+    },
+    "attackPower": 845150,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2842"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 52,
+    "upgradeXP": 18972887,
+    "xpRewardMultiplier": 1.5,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 81218799,
+    "nextEvolveLevel": 33,
+    "tierNumber": 11,
+    "rarity": 6
+  },
+  {
+    "identifier": "E19Q1MythicHunterDragon",
+    "level": 29,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1398151"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 16835990,
+    "fullHealDuration": 900,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "E19Q1MythicHunterDragon_fireball"
+      }
+    ],
+    "abilities": {
+      "adaptiveBreath": "wayOfTheBlade1",
+      "lockdown": "entrap1",
+      "consume": "fightingSpirit1",
+      "adaptiveResist": "adaptiveImmunity1"
+    },
+    "attackPower": 932887,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2926"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 56,
+    "upgradeXP": 20942504,
+    "xpRewardMultiplier": 1.5,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 98446448,
+    "nextEvolveLevel": 33,
+    "tierNumber": 11,
+    "rarity": 6
+  },
+  {
+    "identifier": "E19Q1MythicHunterDragon",
+    "level": 30,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1439172"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "haveMythicObsidian",
+    "HP": 18130480,
+    "fullHealDuration": 900,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "E19Q1MythicHunterDragon_fireball"
+      }
+    ],
+    "abilities": {
+      "adaptiveBreath": "wayOfTheBlade1",
+      "lockdown": "entrap1",
+      "consume": "fightingSpirit1",
+      "adaptiveResist": "adaptiveImmunity1"
+    },
+    "attackPower": 1004617,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2989"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 59,
+    "upgradeXP": 22552777,
+    "xpRewardMultiplier": 1.5,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 112034547,
+    "nextEvolveLevel": 33,
+    "tierNumber": 11,
+    "rarity": 6
+  },
+  {
+    "identifier": "E19Q1MythicHunterDragon",
+    "level": 31,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1469938"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 19524517,
+    "fullHealDuration": 900,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "E19Q1MythicHunterDragon_fireball"
+      }
+    ],
+    "abilities": {
+      "adaptiveBreath": "wayOfTheBlade1",
+      "lockdown": "entrap1",
+      "consume": "fightingSpirit1",
+      "adaptiveResist": "adaptiveImmunity1"
+    },
+    "attackPower": 1081862,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3052"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 61,
+    "upgradeXP": 24286867,
+    "xpRewardMultiplier": 1.5,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 123927305,
+    "nextEvolveLevel": 33,
+    "tierNumber": 11,
+    "rarity": 6
+  },
+  {
+    "identifier": "E19Q1MythicHunterDragon",
+    "level": 32,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1500704"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 21025740,
+    "fullHealDuration": 900,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "E19Q1MythicHunterDragon_fireball"
+      }
+    ],
+    "abilities": {
+      "adaptiveBreath": "wayOfTheBlade1",
+      "lockdown": "entrap1",
+      "consume": "fightingSpirit1",
+      "adaptiveResist": "adaptiveImmunity1"
+    },
+    "attackPower": 1165046,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3115"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 62,
+    "upgradeXP": 26154291,
+    "xpRewardMultiplier": 1.5,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 135066359,
+    "nextEvolveLevel": 33,
+    "tierNumber": 11,
+    "rarity": 6
+  },
+  {
+    "identifier": "E19Q1MythicHunterDragon",
+    "level": 33,
+    "upgradeCost": [
+      {
+        "type": "E19Q1MythicHunterDragonHarbingerStone",
+        "amount": "1"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "haveLegendaryHarbinger",
+    "HP": 22090161,
+    "fullHealDuration": 900,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "E19Q1MythicHunterDragon_fireball"
+      }
+    ],
+    "abilities": {
+      "adaptiveBreath": "wayOfTheBlade1",
+      "lockdown": "entrap1",
+      "consume": "fightingSpirit1",
+      "adaptiveResist": "adaptiveImmunity1"
+    },
+    "attackPower": 1224026,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3157"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 63,
+    "upgradeXP": 27478348,
+    "xpRewardMultiplier": 1.5,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 142660489,
+    "nextEvolveLevel": 42,
+    "tierNumber": 12,
+    "rarity": 6
+  },
+  {
+    "identifier": "E19Q1MythicHunterDragon",
+    "level": 34,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1551981"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 24992944,
+    "fullHealDuration": 900,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "E19Q1MythicHunterDragon_fireball"
+      }
+    ],
+    "abilities": {
+      "adaptiveBreath": "wayOfTheBlade1",
+      "lockdown": "entrap1",
+      "consume": "fightingSpirit1",
+      "adaptiveResist": "adaptiveImmunity1"
+    },
+    "attackPower": 1384873,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3262"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 66,
+    "upgradeXP": 31089215,
+    "xpRewardMultiplier": 1.5,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 162234143,
+    "nextEvolveLevel": 42,
+    "tierNumber": 12,
+    "rarity": 6
+  },
+  {
+    "identifier": "E19Q1MythicHunterDragon",
+    "level": 35,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1603258"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 26914651,
+    "fullHealDuration": 900,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "E19Q1MythicHunterDragon_fireball"
+      }
+    ],
+    "abilities": {
+      "adaptiveBreath": "wayOfTheBlade1",
+      "lockdown": "entrap1",
+      "consume": "fightingSpirit1",
+      "adaptiveResist": "adaptiveImmunity1"
+    },
+    "attackPower": 1491356,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3325"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 67,
+    "upgradeXP": 33479671,
+    "xpRewardMultiplier": 1.5,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 174381762,
+    "nextEvolveLevel": 42,
+    "tierNumber": 12,
+    "rarity": 6
+  },
+  {
+    "identifier": "E19Q1MythicHunterDragon",
+    "level": 36,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1634024"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "have2LegendaryHarbinger",
+    "HP": 28984092,
+    "fullHealDuration": 900,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "E19Q1MythicHunterDragon_fireball"
+      }
+    ],
+    "abilities": {
+      "adaptiveBreath": "wayOfTheBlade1",
+      "lockdown": "entrap1",
+      "consume": "fightingSpirit1",
+      "adaptiveResist": "adaptiveImmunity1"
+    },
+    "attackPower": 1606027,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3388"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 69,
+    "upgradeXP": 36053935,
+    "xpRewardMultiplier": 1.5,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 186831950,
+    "nextEvolveLevel": 42,
+    "tierNumber": 12,
+    "rarity": 6
+  },
+  {
+    "identifier": "E19Q1MythicHunterDragon",
+    "level": 37,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1664791"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 32792778,
+    "fullHealDuration": 900,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "E19Q1MythicHunterDragon_fireball"
+      }
+    ],
+    "abilities": {
+      "adaptiveBreath": "wayOfTheBlade1",
+      "lockdown": "entrap1",
+      "consume": "fightingSpirit1",
+      "adaptiveResist": "adaptiveImmunity1"
+    },
+    "attackPower": 1817071,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3493"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 71,
+    "upgradeXP": 40791702,
+    "xpRewardMultiplier": 1.5,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 208254640,
+    "nextEvolveLevel": 42,
+    "tierNumber": 12,
+    "rarity": 6
+  },
+  {
+    "identifier": "E19Q1MythicHunterDragon",
+    "level": 38,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1716067"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "haveMythicHarbinger",
+    "HP": 34452887,
+    "fullHealDuration": 900,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "E19Q1MythicHunterDragon_fireball"
+      }
+    ],
+    "abilities": {
+      "adaptiveBreath": "wayOfTheBlade1",
+      "lockdown": "entrap1",
+      "consume": "fightingSpirit1",
+      "adaptiveResist": "adaptiveImmunity1"
+    },
+    "attackPower": 1909060,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3535"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 72,
+    "upgradeXP": 42856770,
+    "xpRewardMultiplier": 1.5,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 217059048,
+    "nextEvolveLevel": 42,
+    "tierNumber": 12,
+    "rarity": 6
+  },
+  {
+    "identifier": "E19Q1MythicHunterDragon",
+    "level": 39,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1736578"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 38029503,
+    "fullHealDuration": 900,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "E19Q1MythicHunterDragon_fireball"
+      }
+    ],
+    "abilities": {
+      "adaptiveBreath": "wayOfTheBlade1",
+      "lockdown": "entrap1",
+      "consume": "fightingSpirit1",
+      "adaptiveResist": "adaptiveImmunity1"
+    },
+    "attackPower": 2107244,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3619"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 74,
+    "upgradeXP": 47305849,
+    "xpRewardMultiplier": 1.5,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 235071290,
+    "nextEvolveLevel": 42,
+    "tierNumber": 12,
+    "rarity": 6
+  },
+  {
+    "identifier": "E19Q1MythicHunterDragon",
+    "level": 40,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1777600"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 39954728,
+    "fullHealDuration": 900,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "E19Q1MythicHunterDragon_fireball"
+      }
+    ],
+    "abilities": {
+      "adaptiveBreath": "wayOfTheBlade1",
+      "lockdown": "entrap1",
+      "consume": "fightingSpirit1",
+      "adaptiveResist": "adaptiveImmunity1"
+    },
+    "attackPower": 2213923,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3661"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 76,
+    "upgradeXP": 49700698,
+    "xpRewardMultiplier": 1.5,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 244279123,
+    "nextEvolveLevel": 42,
+    "tierNumber": 12,
+    "rarity": 6
+  },
+  {
+    "identifier": "E19Q1MythicHunterDragon",
+    "level": 41,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1798110"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 44102476,
+    "fullHealDuration": 900,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "E19Q1MythicHunterDragon_fireball"
+      }
+    ],
+    "abilities": {
+      "adaptiveBreath": "wayOfTheBlade1",
+      "lockdown": "entrap1",
+      "consume": "fightingSpirit1",
+      "adaptiveResist": "adaptiveImmunity1"
+    },
+    "attackPower": 2443756,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3745"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 80,
+    "upgradeXP": 54860256,
+    "xpRewardMultiplier": 1.5,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 263098217,
+    "nextEvolveLevel": 42,
+    "tierNumber": 12,
+    "rarity": 6
+  },
+  {
+    "identifier": "E19Q1MythicHunterDragon",
+    "level": 42,
+    "upgradeCost": [
+      {
+        "type": "E19Q1MythicHunterDragonVanguardStone",
+        "amount": "1"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "haveLegendaryVanguard",
+    "HP": 47493494,
+    "fullHealDuration": 900,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "E19Q1MythicHunterDragon_fireball"
+      }
+    ],
+    "abilities": {
+      "adaptiveBreath": "wayOfTheBlade1",
+      "lockdown": "entrap1",
+      "consume": "fightingSpirit1",
+      "adaptiveResist": "adaptiveImmunity1"
+    },
+    "attackPower": 2631657,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3808"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 81,
+    "upgradeXP": 59078484,
+    "xpRewardMultiplier": 1.5,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 277565535,
+    "nextEvolveLevel": 51,
+    "tierNumber": 13,
+    "rarity": 6
+  },
+  {
+    "identifier": "E19Q1MythicHunterDragon",
+    "level": 43,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1869898"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 49897827,
+    "fullHealDuration": 900,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "E19Q1MythicHunterDragon_fireball"
+      }
+    ],
+    "abilities": {
+      "adaptiveBreath": "wayOfTheBlade1",
+      "lockdown": "entrap1",
+      "consume": "fightingSpirit1",
+      "adaptiveResist": "adaptiveImmunity1"
+    },
+    "attackPower": 2764885,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3850"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 82,
+    "upgradeXP": 62069323,
+    "xpRewardMultiplier": 1.5,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 287378508,
+    "nextEvolveLevel": 51,
+    "tierNumber": 13,
+    "rarity": 6
+  },
+  {
+    "identifier": "E19Q1MythicHunterDragon",
+    "level": 44,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1890409"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 53734475,
+    "fullHealDuration": 900,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "E19Q1MythicHunterDragon_fireball"
+      }
+    ],
+    "abilities": {
+      "adaptiveBreath": "wayOfTheBlade1",
+      "lockdown": "entrap1",
+      "consume": "fightingSpirit1",
+      "adaptiveResist": "adaptiveImmunity1"
+    },
+    "attackPower": 2977478,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3913"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 84,
+    "upgradeXP": 66841864,
+    "xpRewardMultiplier": 1.5,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 302350108,
+    "nextEvolveLevel": 51,
+    "tierNumber": 13,
+    "rarity": 6
+  },
+  {
+    "identifier": "E19Q1MythicHunterDragon",
+    "level": 45,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1921175"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "have2LegendaryVanguard",
+    "HP": 56454774,
+    "fullHealDuration": 900,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "E19Q1MythicHunterDragon_fireball"
+      }
+    ],
+    "abilities": {
+      "adaptiveBreath": "wayOfTheBlade1",
+      "lockdown": "entrap1",
+      "consume": "fightingSpirit1",
+      "adaptiveResist": "adaptiveImmunity1"
+    },
+    "attackPower": 3128212,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3955"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 85,
+    "upgradeXP": 70225721,
+    "xpRewardMultiplier": 1.5,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 312499270,
+    "nextEvolveLevel": 51,
+    "tierNumber": 13,
+    "rarity": 6
+  },
+  {
+    "identifier": "E19Q1MythicHunterDragon",
+    "level": 46,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1941686"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 57866133,
+    "fullHealDuration": 900,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "E19Q1MythicHunterDragon_fireball"
+      }
+    ],
+    "abilities": {
+      "adaptiveBreath": "wayOfTheBlade1",
+      "lockdown": "entrap1",
+      "consume": "fightingSpirit1",
+      "adaptiveResist": "adaptiveImmunity1"
+    },
+    "attackPower": 3206417,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3976"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 85,
+    "upgradeXP": 71981359,
+    "xpRewardMultiplier": 1.5,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 317624278,
+    "nextEvolveLevel": 51,
+    "tierNumber": 13,
+    "rarity": 6
+  },
+  {
+    "identifier": "E19Q1MythicHunterDragon",
+    "level": 47,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1951941"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "haveMythicVanguard",
+    "HP": 59312773,
+    "fullHealDuration": 900,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "E19Q1MythicHunterDragon_fireball"
+      }
+    ],
+    "abilities": {
+      "adaptiveBreath": "wayOfTheBlade1",
+      "lockdown": "entrap1",
+      "consume": "fightingSpirit1",
+      "adaptiveResist": "adaptiveImmunity1"
+    },
+    "attackPower": 3286578,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3997"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 86,
+    "upgradeXP": 73780891,
+    "xpRewardMultiplier": 1.5,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 322782906,
+    "nextEvolveLevel": 51,
+    "tierNumber": 13,
+    "rarity": 6
+  },
+  {
+    "identifier": "E19Q1MythicHunterDragon",
+    "level": 48,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1962197"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 62315460,
+    "fullHealDuration": 900,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "E19Q1MythicHunterDragon_fireball"
+      }
+    ],
+    "abilities": {
+      "adaptiveBreath": "wayOfTheBlade1",
+      "lockdown": "entrap1",
+      "consume": "fightingSpirit1",
+      "adaptiveResist": "adaptiveImmunity1"
+    },
+    "attackPower": 3452960,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "4039"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 87,
+    "upgradeXP": 77516043,
+    "xpRewardMultiplier": 1.5,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 333201018,
+    "nextEvolveLevel": 51,
+    "tierNumber": 13,
+    "rarity": 6
+  },
+  {
+    "identifier": "E19Q1MythicHunterDragon",
+    "level": 49,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1982707"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 67106904,
+    "fullHealDuration": 900,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "E19Q1MythicHunterDragon_fireball"
+      }
+    ],
+    "abilities": {
+      "adaptiveBreath": "wayOfTheBlade1",
+      "lockdown": "entrap1",
+      "consume": "fightingSpirit1",
+      "adaptiveResist": "adaptiveImmunity1"
+    },
+    "attackPower": 3718460,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "4102"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 88,
+    "upgradeXP": 83476287,
+    "xpRewardMultiplier": 1.5,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 349080327,
+    "nextEvolveLevel": 51,
+    "tierNumber": 13,
+    "rarity": 6
+  },
+  {
+    "identifier": "E19Q1MythicHunterDragon",
+    "level": 50,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "2013473"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 72266762,
+    "fullHealDuration": 900,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "E19Q1MythicHunterDragon_fireball"
+      }
+    ],
+    "abilities": {
+      "adaptiveBreath": "wayOfTheBlade1",
+      "lockdown": "entrap1",
+      "consume": "fightingSpirit1",
+      "adaptiveResist": "adaptiveImmunity1"
+    },
+    "attackPower": 4004374,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "4165"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 90,
+    "upgradeXP": 89894824,
+    "xpRewardMultiplier": 1.5,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 365262205,
+    "nextEvolveLevel": 51,
+    "tierNumber": 13,
+    "rarity": 6
+  },
+  {
+    "identifier": "E19Q1MythicHunterDragon",
+    "level": 51,
+    "upgradeCost": [
+      {
+        "type": "E19Q1MythicHunterDragonEmpyreanStone",
+        "amount": "1"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "haveLegendaryEmpyrean",
+    "HP": 75925244,
+    "fullHealDuration": 900,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "E19Q1MythicHunterDragon_fireball"
+      }
+    ],
+    "abilities": {
+      "adaptiveBreath": "wayOfTheBlade1",
+      "lockdown": "entrap1",
+      "consume": "fightingSpirit1",
+      "adaptiveResist": "adaptiveImmunity1"
+    },
+    "attackPower": 4207095,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "4207"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 91,
+    "upgradeXP": 94445741,
+    "xpRewardMultiplier": 1.5,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 376218218,
+    "nextEvolveLevel": 0,
+    "tierNumber": 14,
+    "rarity": 6
+  },
+  {
+    "identifier": "E19Q1MythicHunterDragon",
+    "level": 52,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "2064750"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 77823357,
+    "fullHealDuration": 900,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "E19Q1MythicHunterDragon_fireball"
+      }
+    ],
+    "abilities": {
+      "adaptiveBreath": "wayOfTheBlade1",
+      "lockdown": "entrap1",
+      "consume": "fightingSpirit1",
+      "adaptiveResist": "adaptiveImmunity1"
+    },
+    "attackPower": 4312272,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "4228"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 91,
+    "upgradeXP": 96806881,
+    "xpRewardMultiplier": 1.5,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 381746653,
+    "nextEvolveLevel": 0,
+    "tierNumber": 14,
+    "rarity": 6
+  },
+  {
+    "identifier": "E19Q1MythicHunterDragon",
+    "level": 53,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "2075006"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 81763125,
+    "fullHealDuration": 900,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "E19Q1MythicHunterDragon_fireball"
+      }
+    ],
+    "abilities": {
+      "adaptiveBreath": "wayOfTheBlade1",
+      "lockdown": "entrap1",
+      "consume": "fightingSpirit1",
+      "adaptiveResist": "adaptiveImmunity1"
+    },
+    "attackPower": 4530581,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "4270"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 92,
+    "upgradeXP": 101707723,
+    "xpRewardMultiplier": 1.5,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 392904379,
+    "nextEvolveLevel": 0,
+    "tierNumber": 14,
+    "rarity": 6
+  },
+  {
+    "identifier": "E19Q1MythicHunterDragon",
+    "level": 54,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "2095517"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "have2LegendaryEmpyrean",
+    "HP": 83807186,
+    "fullHealDuration": 900,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "E19Q1MythicHunterDragon_fireball"
+      }
+    ],
+    "abilities": {
+      "adaptiveBreath": "wayOfTheBlade1",
+      "lockdown": "entrap1",
+      "consume": "fightingSpirit1",
+      "adaptiveResist": "adaptiveImmunity1"
+    },
+    "attackPower": 4643845,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "4291"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 93,
+    "upgradeXP": 104250412,
+    "xpRewardMultiplier": 1.5,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 398533671,
+    "nextEvolveLevel": 0,
+    "tierNumber": 14,
+    "rarity": 6
+  },
+  {
+    "identifier": "E19Q1MythicHunterDragon",
+    "level": 55,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "2105772"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 88049889,
+    "fullHealDuration": 900,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "E19Q1MythicHunterDragon_fireball"
+      }
+    ],
+    "abilities": {
+      "adaptiveBreath": "wayOfTheBlade1",
+      "lockdown": "entrap1",
+      "consume": "fightingSpirit1",
+      "adaptiveResist": "adaptiveImmunity1"
+    },
+    "attackPower": 4878939,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "4333"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 94,
+    "upgradeXP": 109528080,
+    "xpRewardMultiplier": 1.5,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 409893110,
+    "nextEvolveLevel": 0,
+    "tierNumber": 14,
+    "rarity": 6
+  },
+  {
+    "identifier": "E19Q1MythicHunterDragon",
+    "level": 56,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "2126283"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 94820066,
+    "fullHealDuration": 900,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "E19Q1MythicHunterDragon_fireball"
+      }
+    ],
+    "abilities": {
+      "adaptiveBreath": "wayOfTheBlade1",
+      "lockdown": "entrap1",
+      "consume": "fightingSpirit1",
+      "adaptiveResist": "adaptiveImmunity1"
+    },
+    "attackPower": 5254083,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "4396"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 95,
+    "upgradeXP": 117949750,
+    "xpRewardMultiplier": 1.5,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 427184410,
+    "nextEvolveLevel": 0,
+    "tierNumber": 14,
+    "rarity": 6
+  },
+  {
+    "identifier": "E19Q1MythicHunterDragon",
+    "level": 57,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "2157049"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "haveMythicEmpyrean",
+    "HP": 97190554,
+    "fullHealDuration": 900,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "E19Q1MythicHunterDragon_fireball"
+      }
+    ],
+    "abilities": {
+      "adaptiveBreath": "wayOfTheBlade1",
+      "lockdown": "entrap1",
+      "consume": "fightingSpirit1",
+      "adaptiveResist": "adaptiveImmunity1"
+    },
+    "attackPower": 5385435,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "4417"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 96,
+    "upgradeXP": 120898490,
+    "xpRewardMultiplier": 1.5,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 433015414,
+    "nextEvolveLevel": 0,
+    "tierNumber": 14,
+    "rarity": 6
+  },
+  {
+    "identifier": "E19Q1MythicHunterDragon",
+    "level": 58,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "2167304"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 102110797,
+    "fullHealDuration": 900,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "E19Q1MythicHunterDragon_fireball"
+      }
+    ],
+    "abilities": {
+      "adaptiveBreath": "wayOfTheBlade1",
+      "lockdown": "entrap1",
+      "consume": "fightingSpirit1",
+      "adaptiveResist": "adaptiveImmunity1"
+    },
+    "attackPower": 5658072,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "4459"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 97,
+    "upgradeXP": 127018968,
+    "xpRewardMultiplier": 1.5,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 444778279,
+    "nextEvolveLevel": 0,
+    "tierNumber": 14,
+    "rarity": 6
+  },
+  {
+    "identifier": "E19Q1MythicHunterDragon",
+    "level": 59,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "2187815"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 109962098,
+    "fullHealDuration": 900,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "E19Q1MythicHunterDragon_fireball"
+      }
+    ],
+    "abilities": {
+      "adaptiveBreath": "wayOfTheBlade1",
+      "lockdown": "entrap1",
+      "consume": "fightingSpirit1",
+      "adaptiveResist": "adaptiveImmunity1"
+    },
+    "attackPower": 6093124,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "4522"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 98,
+    "upgradeXP": 136785522,
+    "xpRewardMultiplier": 1.5,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 462674718,
+    "nextEvolveLevel": 0,
+    "tierNumber": 14,
+    "rarity": 6
+  },
+  {
+    "identifier": "E19Q1MythicHunterDragon",
+    "level": 60,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "2218581"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 121377513,
+    "fullHealDuration": 900,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "E19Q1MythicHunterDragon_fireball"
+      }
+    ],
+    "abilities": {
+      "adaptiveBreath": "wayOfTheBlade1",
+      "lockdown": "entrap1",
+      "consume": "fightingSpirit1",
+      "adaptiveResist": "adaptiveImmunity1"
+    },
+    "attackPower": 6725668,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "4606"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 100,
+    "upgradeXP": 0,
+    "xpRewardMultiplier": 1.5,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 487007300,
+    "nextEvolveLevel": 0,
+    "tierNumber": 14,
+    "rarity": 6
+  }
+]

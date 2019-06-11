@@ -1,0 +1,880 @@
+[
+  {
+    "identifier": "E18Q1GoofyDragon",
+    "level": 1,
+    "upgradeCost": [
+      {
+        "type": "piercing",
+        "amount": "0"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 75590,
+    "fullHealDuration": 2881,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "E18Q1GoofyDragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "healDragon": "whiteSuperRejuvenate1"
+    },
+    "attackPower": 1116,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "60"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 4,
+    "upgradeXP": 6589,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 2122
+  },
+  {
+    "identifier": "E18Q1GoofyDragon",
+    "level": 2,
+    "upgradeCost": [
+      {
+        "type": "piercing",
+        "amount": "5411"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 81689,
+    "fullHealDuration": 3321,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "E18Q1GoofyDragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "healDragon": "whiteSuperRejuvenate1"
+    },
+    "attackPower": 1190,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "65"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 4,
+    "upgradeXP": 7524,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 2438
+  },
+  {
+    "identifier": "E18Q1GoofyDragon",
+    "level": 3,
+    "upgradeCost": [
+      {
+        "type": "piercing",
+        "amount": "7426"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 102707,
+    "fullHealDuration": 4425,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "E18Q1GoofyDragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "healDragon": "whiteSuperRejuvenate1"
+    },
+    "attackPower": 1261,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "70"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 4,
+    "upgradeXP": 9652,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 3245
+  },
+  {
+    "identifier": "E18Q1GoofyDragon",
+    "level": 4,
+    "upgradeCost": [
+      {
+        "type": "piercing",
+        "amount": "8109"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 106566,
+    "fullHealDuration": 4818,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "E18Q1GoofyDragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "healDragon": "whiteSuperRejuvenate1",
+      "kamikaze": "bellyFlop1"
+    },
+    "attackPower": 1323,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "75"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 4,
+    "upgradeXP": 12654,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 3545
+  },
+  {
+    "identifier": "E18Q1GoofyDragon",
+    "level": 5,
+    "upgradeCost": [
+      {
+        "type": "piercing",
+        "amount": "8813"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 111599,
+    "fullHealDuration": 5255,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "E18Q1GoofyDragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "healDragon": "whiteSuperRejuvenate1",
+      "kamikaze": "bellyFlop1"
+    },
+    "attackPower": 1378,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "80"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 5,
+    "upgradeXP": 16048,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 3858
+  },
+  {
+    "identifier": "E18Q1GoofyDragon",
+    "level": 6,
+    "upgradeCost": [
+      {
+        "type": "piercing",
+        "amount": "11445"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 115801,
+    "fullHealDuration": 5712,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "E18Q1GoofyDragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "healDragon": "whiteSuperRejuvenate1",
+      "kamikaze": "bellyFlop1"
+    },
+    "attackPower": 1444,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "85"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 5,
+    "upgradeXP": 20007,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 4185
+  },
+  {
+    "identifier": "E18Q1GoofyDragon",
+    "level": 7,
+    "upgradeCost": [
+      {
+        "type": "piercing",
+        "amount": "12338"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 120227,
+    "fullHealDuration": 6115,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "E18Q1GoofyDragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "healDragon": "whiteSuperRejuvenate1",
+      "kamikaze": "bellyFlop1"
+    },
+    "attackPower": 1523,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "90"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 5,
+    "upgradeXP": 22557,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 4563
+  },
+  {
+    "identifier": "E18Q1GoofyDragon",
+    "level": 8,
+    "upgradeCost": [
+      {
+        "type": "piercing",
+        "amount": "13431"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 129089,
+    "fullHealDuration": 6730,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "E18Q1GoofyDragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "healDragon": "whiteSuperRejuvenate1",
+      "kamikaze": "bellyFlop1",
+      "cloak": "cloak1"
+    },
+    "attackPower": 1612,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "97"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 5,
+    "upgradeXP": 25425,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 5199
+  },
+  {
+    "identifier": "E18Q1GoofyDragon",
+    "level": 9,
+    "upgradeCost": [
+      {
+        "type": "piercing",
+        "amount": "16979"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 138563,
+    "fullHealDuration": 7442,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "E18Q1GoofyDragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "healDragon": "whiteSuperRejuvenate1",
+      "kamikaze": "bellyFlop1",
+      "cloak": "cloak1"
+    },
+    "attackPower": 1717,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "103"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 6,
+    "upgradeXP": 28408,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 5949
+  },
+  {
+    "identifier": "E18Q1GoofyDragon",
+    "level": 10,
+    "upgradeCost": [
+      {
+        "type": "piercing",
+        "amount": "18325"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 147437,
+    "fullHealDuration": 8210,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "E18Q1GoofyDragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "healDragon": "whiteSuperRejuvenate1",
+      "kamikaze": "bellyFlop1",
+      "cloak": "cloak1"
+    },
+    "attackPower": 1839,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "109"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 6,
+    "upgradeXP": 32005,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 6778
+  },
+  {
+    "identifier": "E18Q1GoofyDragon",
+    "level": 11,
+    "upgradeCost": [
+      {
+        "type": "piercing",
+        "amount": "19707"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 158185,
+    "fullHealDuration": 9101,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "E18Q1GoofyDragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "healDragon": "whiteSuperRejuvenate1",
+      "kamikaze": "bellyFlop1",
+      "cloak": "cloak1"
+    },
+    "attackPower": 1967,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "115"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 6,
+    "upgradeXP": 36048,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 7779
+  },
+  {
+    "identifier": "E18Q1GoofyDragon",
+    "level": 12,
+    "upgradeCost": [
+      {
+        "type": "piercing",
+        "amount": "23746"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 169673,
+    "fullHealDuration": 10086,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "E18Q1GoofyDragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "healDragon": "whiteSuperRejuvenate1",
+      "kamikaze": "bellyFlop1",
+      "cloak": "cloak1"
+    },
+    "attackPower": 2103,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "122"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 6,
+    "upgradeXP": 53478,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 8918
+  },
+  {
+    "identifier": "E18Q1GoofyDragon",
+    "level": 13,
+    "upgradeCost": [
+      {
+        "type": "piercing",
+        "amount": "33165"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 180480,
+    "fullHealDuration": 11120,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "E18Q1GoofyDragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "healDragon": "whiteSuperRejuvenate1",
+      "kamikaze": "bellyFlop1",
+      "cloak": "cloak1",
+      "ballistaResist01": "ballistaResist01"
+    },
+    "attackPower": 2251,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "128"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 7,
+    "upgradeXP": 60211,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 10156
+  },
+  {
+    "identifier": "E18Q1GoofyDragon",
+    "level": 14,
+    "upgradeCost": [
+      {
+        "type": "piercing",
+        "amount": "34791"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 193514,
+    "fullHealDuration": 12315,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "E18Q1GoofyDragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "healDragon": "whiteSuperRejuvenate1",
+      "kamikaze": "bellyFlop1",
+      "cloak": "cloak1",
+      "ballistaResist01": "ballistaResist01"
+    },
+    "attackPower": 2406,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "134"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 7,
+    "upgradeXP": 67772,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 11640
+  },
+  {
+    "identifier": "E18Q1GoofyDragon",
+    "level": 15,
+    "upgradeCost": [
+      {
+        "type": "piercing",
+        "amount": "45521"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 207439,
+    "fullHealDuration": 13562,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "E18Q1GoofyDragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "healDragon": "whiteSuperRejuvenate1",
+      "kamikaze": "bellyFlop1",
+      "cloak": "cloak1",
+      "ballistaResist01": "ballistaResist01"
+    },
+    "attackPower": 2552,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "140"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 7,
+    "upgradeXP": 92555,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 13239
+  },
+  {
+    "identifier": "E18Q1GoofyDragon",
+    "level": 16,
+    "upgradeCost": [
+      {
+        "type": "piercing",
+        "amount": "59652"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 220593,
+    "fullHealDuration": 14786,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "E18Q1GoofyDragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "healDragon": "whiteSuperRejuvenate1",
+      "kamikaze": "bellyFlop1",
+      "cloak": "cloak1",
+      "ballistaResist01": "ballistaResist01"
+    },
+    "attackPower": 2693,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "150"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 8,
+    "upgradeXP": 104142,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 14855
+  },
+  {
+    "identifier": "E18Q1GoofyDragon",
+    "level": 17,
+    "upgradeCost": [
+      {
+        "type": "piercing",
+        "amount": "63629"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 266886,
+    "fullHealDuration": 15840,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "E18Q1GoofyDragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "healDragon": "whiteSuperRejuvenate1",
+      "kamikaze": "bellyFlop1",
+      "cloak": "cloak1",
+      "ballistaResist01": "ballistaResist01"
+    },
+    "attackPower": 2820,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "160"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 8,
+    "upgradeXP": 136957,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 18824
+  },
+  {
+    "identifier": "E18Q1GoofyDragon",
+    "level": 18,
+    "upgradeCost": [
+      {
+        "type": "piercing",
+        "amount": "79035"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 276987,
+    "fullHealDuration": 15840,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "E18Q1GoofyDragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "healDragon": "whiteSuperRejuvenate1",
+      "kamikaze": "bellyFlop1",
+      "cloak": "cloak1",
+      "ballistaResist01": "ballistaResist01"
+    },
+    "attackPower": 2936,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "170"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 8,
+    "upgradeXP": 152878,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 20361
+  },
+  {
+    "identifier": "E18Q1GoofyDragon",
+    "level": 19,
+    "upgradeCost": [
+      {
+        "type": "piercing",
+        "amount": "83684"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 285536,
+    "fullHealDuration": 15840,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "E18Q1GoofyDragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "healDragon": "whiteSuperRejuvenate1",
+      "kamikaze": "bellyFlop1",
+      "cloak": "cloak1",
+      "ballistaResist01": "ballistaResist01"
+    },
+    "attackPower": 3046,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "180"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 9,
+    "upgradeXP": 171916,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 21731
+  },
+  {
+    "identifier": "E18Q1GoofyDragon",
+    "level": 20,
+    "upgradeCost": [
+      {
+        "type": "piercing",
+        "amount": "88334"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 296800,
+    "fullHealDuration": 15840,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "E18Q1GoofyDragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "healDragon": "whiteSuperRejuvenate1",
+      "kamikaze": "bellyFlop1",
+      "cloak": "cloak1",
+      "ballistaResist01": "ballistaResist01"
+    },
+    "attackPower": 3175,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "190"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 9,
+    "upgradeXP": 0,
+    "xpRewardMultiplier": 1.2,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 23590
+  }
+]

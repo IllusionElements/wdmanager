@@ -1,0 +1,2252 @@
+[
+  {
+    "identifier": "T13C4WFdragon",
+    "level": 1,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "0"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 29633149,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T13C4WFdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "ferociousBarrier": "ferociousBarrier1",
+      "bloodFury": "bloodFury1",
+      "dreadfulRoar": "derisiveShriek1",
+      "elementalResist01": "elementalResist01"
+    },
+    "attackPower": 268689,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3136"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 63,
+    "upgradeXP": 8689360,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 138846614
+  },
+  {
+    "identifier": "T13C4WFdragon",
+    "level": 2,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "811800"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 30373972,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T13C4WFdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "ferociousBarrier": "ferociousBarrier1",
+      "bloodFury": "bloodFury1",
+      "dreadfulRoar": "derisiveShriek1",
+      "elementalResist01": "elementalResist01"
+    },
+    "attackPower": 275406,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3157"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 63,
+    "upgradeXP": 8906593,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 142660489
+  },
+  {
+    "identifier": "T13C4WFdragon",
+    "level": 3,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "817200"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 31133309,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T13C4WFdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "ferociousBarrier": "ferociousBarrier1",
+      "bloodFury": "bloodFury1",
+      "dreadfulRoar": "derisiveShriek1",
+      "elementalResist01": "elementalResist01"
+    },
+    "attackPower": 282291,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3178"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 64,
+    "upgradeXP": 10371994,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 146507982
+  },
+  {
+    "identifier": "T13C4WFdragon",
+    "level": 4,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "822600"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 31911621,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T13C4WFdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "ferociousBarrier": "ferociousBarrier1",
+      "bloodFury": "bloodFury1",
+      "dreadfulRoar": "derisiveShriek1",
+      "elementalResist01": "elementalResist01"
+    },
+    "attackPower": 289349,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3199"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 64,
+    "upgradeXP": 12234252,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 150389094
+  },
+  {
+    "identifier": "T13C4WFdragon",
+    "level": 5,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "828000"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 32709394,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T13C4WFdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "ferociousBarrier": "ferociousBarrier1",
+      "bloodFury": "bloodFury1",
+      "dreadfulRoar": "derisiveShriek1",
+      "elementalResist01": "elementalResist01"
+    },
+    "attackPower": 296582,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3220"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 65,
+    "upgradeXP": 14095391,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 154303825
+  },
+  {
+    "identifier": "T13C4WFdragon",
+    "level": 6,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "833400"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 33527122,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T13C4WFdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "ferociousBarrier": "ferociousBarrier1",
+      "bloodFury": "bloodFury1",
+      "dreadfulRoar": "derisiveShriek1",
+      "elementalResist01": "elementalResist01"
+    },
+    "attackPower": 303997,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3241"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 65,
+    "upgradeXP": 15970845,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 158252175
+  },
+  {
+    "identifier": "T13C4WFdragon",
+    "level": 7,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "838800"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 34365297,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T13C4WFdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "ferociousBarrier": "ferociousBarrier1",
+      "bloodFury": "bloodFury1",
+      "dreadfulRoar": "derisiveShriek1",
+      "elementalResist01": "elementalResist01"
+    },
+    "attackPower": 311597,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3262"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 66,
+    "upgradeXP": 16370116,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 162234143
+  },
+  {
+    "identifier": "T13C4WFdragon",
+    "level": 8,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "844200"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 35224426,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T13C4WFdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "ferociousBarrier": "ferociousBarrier1",
+      "bloodFury": "bloodFury1",
+      "dreadfulRoar": "derisiveShriek1",
+      "elementalResist01": "elementalResist01"
+    },
+    "attackPower": 319387,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3283"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 66,
+    "upgradeXP": 16779366,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 166249731
+  },
+  {
+    "identifier": "T13C4WFdragon",
+    "level": 9,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "849600"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 36105031,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T13C4WFdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "ferociousBarrier": "ferociousBarrier1",
+      "bloodFury": "bloodFury1",
+      "dreadfulRoar": "derisiveShriek1",
+      "elementalResist01": "elementalResist01"
+    },
+    "attackPower": 327371,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3304"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 67,
+    "upgradeXP": 17198847,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 170298937
+  },
+  {
+    "identifier": "T13C4WFdragon",
+    "level": 10,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "855000"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 37007645,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T13C4WFdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "ferociousBarrier": "ferociousBarrier1",
+      "bloodFury": "bloodFury1",
+      "dreadfulRoar": "derisiveShriek1",
+      "elementalResist01": "elementalResist01"
+    },
+    "attackPower": 335556,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3325"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 67,
+    "upgradeXP": 17628817,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 174381762
+  },
+  {
+    "identifier": "T13C4WFdragon",
+    "level": 11,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "860400"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 37932821,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T13C4WFdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "ferociousBarrier": "ferociousBarrier1",
+      "bloodFury": "bloodFury1",
+      "dreadfulRoar": "derisiveShriek1",
+      "elementalResist01": "elementalResist01"
+    },
+    "attackPower": 343944,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3346"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 68,
+    "upgradeXP": 18069537,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 178498206
+  },
+  {
+    "identifier": "T13C4WFdragon",
+    "level": 12,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "865800"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 38881124,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T13C4WFdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "ferociousBarrier": "ferociousBarrier1",
+      "bloodFury": "bloodFury1",
+      "dreadfulRoar": "derisiveShriek1",
+      "elementalResist01": "elementalResist01"
+    },
+    "attackPower": 352543,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3367"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 68,
+    "upgradeXP": 18521272,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 182648268
+  },
+  {
+    "identifier": "T13C4WFdragon",
+    "level": 13,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "871200"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 39853126,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T13C4WFdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "ferociousBarrier": "ferociousBarrier1",
+      "bloodFury": "bloodFury1",
+      "dreadfulRoar": "derisiveShriek1",
+      "elementalResist01": "elementalResist01"
+    },
+    "attackPower": 361356,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3388"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 69,
+    "upgradeXP": 18984303,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 186831950
+  },
+  {
+    "identifier": "T13C4WFdragon",
+    "level": 14,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "876600"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 40849433,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T13C4WFdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "ferociousBarrier": "ferociousBarrier1",
+      "bloodFury": "bloodFury1",
+      "dreadfulRoar": "derisiveShriek1",
+      "elementalResist01": "elementalResist01"
+    },
+    "attackPower": 370390,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3409"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 69,
+    "upgradeXP": 19458908,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 191049250
+  },
+  {
+    "identifier": "T13C4WFdragon",
+    "level": 15,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "882000"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 41870651,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T13C4WFdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "ferociousBarrier": "ferociousBarrier1",
+      "bloodFury": "bloodFury1",
+      "dreadfulRoar": "derisiveShriek1",
+      "elementalResist01": "elementalResist01"
+    },
+    "attackPower": 379650,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3430"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 70,
+    "upgradeXP": 19945378,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 195300169
+  },
+  {
+    "identifier": "T13C4WFdragon",
+    "level": 16,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "887400"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 42917401,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T13C4WFdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "ferociousBarrier": "ferociousBarrier1",
+      "bloodFury": "bloodFury1",
+      "dreadfulRoar": "derisiveShriek1",
+      "elementalResist01": "elementalResist01"
+    },
+    "attackPower": 389141,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3451"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 70,
+    "upgradeXP": 20444013,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 199584707
+  },
+  {
+    "identifier": "T13C4WFdragon",
+    "level": 17,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "892800"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 43990326,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T13C4WFdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "ferociousBarrier": "ferociousBarrier1",
+      "bloodFury": "bloodFury1",
+      "dreadfulRoar": "derisiveShriek1",
+      "elementalResist01": "elementalResist01"
+    },
+    "attackPower": 398870,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3472"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 71,
+    "upgradeXP": 20955111,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 203902864
+  },
+  {
+    "identifier": "T13C4WFdragon",
+    "level": 18,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "898200"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 45090069,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T13C4WFdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "ferociousBarrier": "ferociousBarrier1",
+      "bloodFury": "bloodFury1",
+      "dreadfulRoar": "derisiveShriek1",
+      "elementalResist01": "elementalResist01"
+    },
+    "attackPower": 408841,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3493"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 71,
+    "upgradeXP": 28528419,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 208254640
+  },
+  {
+    "identifier": "T13C4WFdragon",
+    "level": 19,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1200163"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 46217301,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T13C4WFdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "ferociousBarrier": "ferociousBarrier1",
+      "bloodFury": "bloodFury1",
+      "dreadfulRoar": "derisiveShriek1",
+      "elementalResist01": "elementalResist01"
+    },
+    "attackPower": 419062,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3514"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 72,
+    "upgradeXP": 29241625,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 212640034
+  },
+  {
+    "identifier": "T13C4WFdragon",
+    "level": 20,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1207335"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 47372719,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T13C4WFdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "ferociousBarrier": "ferociousBarrier1",
+      "bloodFury": "bloodFury1",
+      "dreadfulRoar": "derisiveShriek1",
+      "elementalResist01": "elementalResist01"
+    },
+    "attackPower": 429539,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3535"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 72,
+    "upgradeXP": 29972662,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 217059048
+  },
+  {
+    "identifier": "T13C4WFdragon",
+    "level": 21,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1214508"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 48557030,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T13C4WFdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "ferociousBarrier": "ferociousBarrier1",
+      "bloodFury": "bloodFury1",
+      "dreadfulRoar": "derisiveShriek1",
+      "elementalResist01": "elementalResist01"
+    },
+    "attackPower": 440277,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3556"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 73,
+    "upgradeXP": 30721978,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 221511680
+  },
+  {
+    "identifier": "T13C4WFdragon",
+    "level": 22,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1221680"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 49770941,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T13C4WFdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "ferociousBarrier": "ferociousBarrier1",
+      "bloodFury": "bloodFury1",
+      "dreadfulRoar": "derisiveShriek1",
+      "elementalResist01": "elementalResist01"
+    },
+    "attackPower": 451284,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3577"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 73,
+    "upgradeXP": 38515022,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 225997931
+  },
+  {
+    "identifier": "T13C4WFdragon",
+    "level": 23,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1502992"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 51015198,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T13C4WFdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "ferociousBarrier": "ferociousBarrier1",
+      "bloodFury": "bloodFury1",
+      "dreadfulRoar": "derisiveShriek1",
+      "elementalResist01": "elementalResist01"
+    },
+    "attackPower": 462566,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3598"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 74,
+    "upgradeXP": 39477895,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 230517801
+  },
+  {
+    "identifier": "T13C4WFdragon",
+    "level": 24,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1511765"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 52290566,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T13C4WFdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "ferociousBarrier": "ferociousBarrier1",
+      "bloodFury": "bloodFury1",
+      "dreadfulRoar": "derisiveShriek1",
+      "elementalResist01": "elementalResist01"
+    },
+    "attackPower": 474130,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3619"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 74,
+    "upgradeXP": 40464840,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 235071290
+  },
+  {
+    "identifier": "T13C4WFdragon",
+    "level": 25,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1520537"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 53597818,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T13C4WFdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "ferociousBarrier": "ferociousBarrier1",
+      "bloodFury": "bloodFury1",
+      "dreadfulRoar": "derisiveShriek1",
+      "elementalResist01": "elementalResist01"
+    },
+    "attackPower": 485984,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3640"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 75,
+    "upgradeXP": 41476456,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 239658397
+  },
+  {
+    "identifier": "T13C4WFdragon",
+    "level": 26,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1529309"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 54937751,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T13C4WFdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "ferociousBarrier": "ferociousBarrier1",
+      "bloodFury": "bloodFury1",
+      "dreadfulRoar": "derisiveShriek1",
+      "elementalResist01": "elementalResist01"
+    },
+    "attackPower": 498133,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3661"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 76,
+    "upgradeXP": 49700698,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 244279123
+  },
+  {
+    "identifier": "T13C4WFdragon",
+    "level": 27,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1798110"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 56311176,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T13C4WFdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "ferociousBarrier": "ferociousBarrier1",
+      "bloodFury": "bloodFury1",
+      "dreadfulRoar": "derisiveShriek1",
+      "elementalResist01": "elementalResist01"
+    },
+    "attackPower": 510586,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3682"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 77,
+    "upgradeXP": 50943209,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 248933469
+  },
+  {
+    "identifier": "T13C4WFdragon",
+    "level": 28,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1808366"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 57718927,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T13C4WFdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "ferociousBarrier": "ferociousBarrier1",
+      "bloodFury": "bloodFury1",
+      "dreadfulRoar": "derisiveShriek1",
+      "elementalResist01": "elementalResist01"
+    },
+    "attackPower": 523351,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3703"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 78,
+    "upgradeXP": 52216785,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 253621433
+  },
+  {
+    "identifier": "T13C4WFdragon",
+    "level": 29,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1818621"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 59161876,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T13C4WFdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "ferociousBarrier": "ferociousBarrier1",
+      "bloodFury": "bloodFury1",
+      "dreadfulRoar": "derisiveShriek1",
+      "elementalResist01": "elementalResist01"
+    },
+    "attackPower": 536435,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3724"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 79,
+    "upgradeXP": 53522204,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 258343015
+  },
+  {
+    "identifier": "T13C4WFdragon",
+    "level": 30,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1828877"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 60640905,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T13C4WFdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "ferociousBarrier": "ferociousBarrier1",
+      "bloodFury": "bloodFury1",
+      "dreadfulRoar": "derisiveShriek1",
+      "elementalResist01": "elementalResist01"
+    },
+    "attackPower": 549846,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3745"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 80,
+    "upgradeXP": 54860256,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 263098217
+  },
+  {
+    "identifier": "T13C4WFdragon",
+    "level": 31,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1839132"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 62156908,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T13C4WFdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "ferociousBarrier": "ferociousBarrier1",
+      "bloodFury": "bloodFury1",
+      "dreadfulRoar": "derisiveShriek1",
+      "elementalResist01": "elementalResist01"
+    },
+    "attackPower": 563592,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3766"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 80,
+    "upgradeXP": 56231757,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 267887038
+  },
+  {
+    "identifier": "T13C4WFdragon",
+    "level": 32,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1849387"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 63710809,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T13C4WFdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "ferociousBarrier": "ferociousBarrier1",
+      "bloodFury": "bloodFury1",
+      "dreadfulRoar": "derisiveShriek1",
+      "elementalResist01": "elementalResist01"
+    },
+    "attackPower": 577681,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3787"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 81,
+    "upgradeXP": 57637548,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 272709477
+  },
+  {
+    "identifier": "T13C4WFdragon",
+    "level": 33,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1859643"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 65303553,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T13C4WFdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "ferociousBarrier": "ferociousBarrier1",
+      "bloodFury": "bloodFury1",
+      "dreadfulRoar": "derisiveShriek1",
+      "elementalResist01": "elementalResist01"
+    },
+    "attackPower": 592123,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3808"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 81,
+    "upgradeXP": 59078484,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 277565535
+  },
+  {
+    "identifier": "T13C4WFdragon",
+    "level": 34,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1869898"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 66936123,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T13C4WFdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "ferociousBarrier": "ferociousBarrier1",
+      "bloodFury": "bloodFury1",
+      "dreadfulRoar": "derisiveShriek1",
+      "elementalResist01": "elementalResist01"
+    },
+    "attackPower": 606926,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3829"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 82,
+    "upgradeXP": 60555442,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 282455212
+  },
+  {
+    "identifier": "T13C4WFdragon",
+    "level": 35,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1880154"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 68609512,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T13C4WFdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "ferociousBarrier": "ferociousBarrier1",
+      "bloodFury": "bloodFury1",
+      "dreadfulRoar": "derisiveShriek1",
+      "elementalResist01": "elementalResist01"
+    },
+    "attackPower": 622099,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3850"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 82,
+    "upgradeXP": 62069323,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 287378508
+  },
+  {
+    "identifier": "T13C4WFdragon",
+    "level": 36,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1890409"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 70324736,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T13C4WFdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "ferociousBarrier": "ferociousBarrier1",
+      "bloodFury": "bloodFury1",
+      "dreadfulRoar": "derisiveShriek1",
+      "elementalResist01": "elementalResist01"
+    },
+    "attackPower": 637652,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3871"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 83,
+    "upgradeXP": 63621055,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 292335423
+  },
+  {
+    "identifier": "T13C4WFdragon",
+    "level": 37,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1900664"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 72082842,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T13C4WFdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "ferociousBarrier": "ferociousBarrier1",
+      "bloodFury": "bloodFury1",
+      "dreadfulRoar": "derisiveShriek1",
+      "elementalResist01": "elementalResist01"
+    },
+    "attackPower": 653593,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3892"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 83,
+    "upgradeXP": 65211579,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 297325956
+  },
+  {
+    "identifier": "T13C4WFdragon",
+    "level": 38,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1910920"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 73884903,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T13C4WFdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "ferociousBarrier": "ferociousBarrier1",
+      "bloodFury": "bloodFury1",
+      "dreadfulRoar": "derisiveShriek1",
+      "elementalResist01": "elementalResist01"
+    },
+    "attackPower": 669933,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3913"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 84,
+    "upgradeXP": 66841864,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 302350108
+  },
+  {
+    "identifier": "T13C4WFdragon",
+    "level": 39,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1921175"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 75732019,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T13C4WFdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "ferociousBarrier": "ferociousBarrier1",
+      "bloodFury": "bloodFury1",
+      "dreadfulRoar": "derisiveShriek1",
+      "elementalResist01": "elementalResist01"
+    },
+    "attackPower": 686681,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3934"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 84,
+    "upgradeXP": 68512904,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 307407880
+  },
+  {
+    "identifier": "T13C4WFdragon",
+    "level": 40,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1931430"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 77625313,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T13C4WFdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "ferociousBarrier": "ferociousBarrier1",
+      "bloodFury": "bloodFury1",
+      "dreadfulRoar": "derisiveShriek1",
+      "elementalResist01": "elementalResist01"
+    },
+    "attackPower": 703848,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3955"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 85,
+    "upgradeXP": 70225721,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 312499270
+  },
+  {
+    "identifier": "T13C4WFdragon",
+    "level": 41,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1941686"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 79565933,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T13C4WFdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "ferociousBarrier": "ferociousBarrier1",
+      "bloodFury": "bloodFury1",
+      "dreadfulRoar": "derisiveShriek1",
+      "elementalResist01": "elementalResist01"
+    },
+    "attackPower": 721444,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3976"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 85,
+    "upgradeXP": 71981359,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 317624278
+  },
+  {
+    "identifier": "T13C4WFdragon",
+    "level": 42,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1951941"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 81555062,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T13C4WFdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "ferociousBarrier": "ferociousBarrier1",
+      "bloodFury": "bloodFury1",
+      "dreadfulRoar": "derisiveShriek1",
+      "elementalResist01": "elementalResist01"
+    },
+    "attackPower": 739480,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3997"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 86,
+    "upgradeXP": 73780891,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 322782906
+  },
+  {
+    "identifier": "T13C4WFdragon",
+    "level": 43,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1962197"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 83593920,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T13C4WFdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "ferociousBarrier": "ferociousBarrier1",
+      "bloodFury": "bloodFury1",
+      "dreadfulRoar": "derisiveShriek1",
+      "elementalResist01": "elementalResist01"
+    },
+    "attackPower": 757967,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "4018"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 86,
+    "upgradeXP": 75625412,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 327975153
+  },
+  {
+    "identifier": "T13C4WFdragon",
+    "level": 44,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1972452"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 85683757,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T13C4WFdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "ferociousBarrier": "ferociousBarrier1",
+      "bloodFury": "bloodFury1",
+      "dreadfulRoar": "derisiveShriek1",
+      "elementalResist01": "elementalResist01"
+    },
+    "attackPower": 776916,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "4039"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 87,
+    "upgradeXP": 77516043,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 333201018
+  },
+  {
+    "identifier": "T13C4WFdragon",
+    "level": 45,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1982707"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 87825843,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T13C4WFdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "ferociousBarrier": "ferociousBarrier1",
+      "bloodFury": "bloodFury1",
+      "dreadfulRoar": "derisiveShriek1",
+      "elementalResist01": "elementalResist01"
+    },
+    "attackPower": 796339,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "4060"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 87,
+    "upgradeXP": 79453940,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 338460502
+  },
+  {
+    "identifier": "T13C4WFdragon",
+    "level": 46,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1992963"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 90021475,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T13C4WFdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "ferociousBarrier": "ferociousBarrier1",
+      "bloodFury": "bloodFury1",
+      "dreadfulRoar": "derisiveShriek1",
+      "elementalResist01": "elementalResist01"
+    },
+    "attackPower": 816248,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "4081"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 88,
+    "upgradeXP": 81440284,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 343753605
+  },
+  {
+    "identifier": "T13C4WFdragon",
+    "level": 47,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "2003218"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 92271993,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T13C4WFdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "ferociousBarrier": "ferociousBarrier1",
+      "bloodFury": "bloodFury1",
+      "dreadfulRoar": "derisiveShriek1",
+      "elementalResist01": "elementalResist01"
+    },
+    "attackPower": 836654,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "4102"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 88,
+    "upgradeXP": 83476287,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 349080327
+  },
+  {
+    "identifier": "T13C4WFdragon",
+    "level": 48,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "2013473"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 94578774,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T13C4WFdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "ferociousBarrier": "ferociousBarrier1",
+      "bloodFury": "bloodFury1",
+      "dreadfulRoar": "derisiveShriek1",
+      "elementalResist01": "elementalResist01"
+    },
+    "attackPower": 857570,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "4123"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 89,
+    "upgradeXP": 85563191,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 354440667
+  },
+  {
+    "identifier": "T13C4WFdragon",
+    "level": 49,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "2023729"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 96943230,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T13C4WFdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "ferociousBarrier": "ferociousBarrier1",
+      "bloodFury": "bloodFury1",
+      "dreadfulRoar": "derisiveShriek1",
+      "elementalResist01": "elementalResist01"
+    },
+    "attackPower": 879009,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "4144"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 89,
+    "upgradeXP": 87702269,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 359834627
+  },
+  {
+    "identifier": "T13C4WFdragon",
+    "level": 50,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "2033984"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 99366797,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T13C4WFdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "ferociousBarrier": "ferociousBarrier1",
+      "bloodFury": "bloodFury1",
+      "dreadfulRoar": "derisiveShriek1",
+      "elementalResist01": "elementalResist01"
+    },
+    "attackPower": 900985,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "4165"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 90,
+    "upgradeXP": 0,
+    "xpRewardMultiplier": 1.2,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 365262205
+  }
+]

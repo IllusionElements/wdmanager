@@ -1,0 +1,641 @@
+[
+  {
+    "identifier": "T6C1WDdragon",
+    "level": 1,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "0"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 180382,
+    "fullHealDuration": 12329,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T6C1WDdragon_flamethrower"
+      }
+    ],
+    "abilities": {},
+    "attackPower": 2219,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "112"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 7,
+    "upgradeXP": 33123,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 5092
+  },
+  {
+    "identifier": "T6C1WDdragon",
+    "level": 2,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "32400"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 191820,
+    "fullHealDuration": 13442,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T6C1WDdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "intimidatingRoar": "intimidatingRoar1"
+    },
+    "attackPower": 2342,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "120"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 8,
+    "upgradeXP": 42343,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 8570
+  },
+  {
+    "identifier": "T6C1WDdragon",
+    "level": 3,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "34560"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 232075,
+    "fullHealDuration": 14400,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T6C1WDdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "intimidatingRoar": "intimidatingRoar1"
+    },
+    "attackPower": 2452,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "128"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 8,
+    "upgradeXP": 54815,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 10860
+  },
+  {
+    "identifier": "T6C1WDdragon",
+    "level": 4,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "36720"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 240858,
+    "fullHealDuration": 14400,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T6C1WDdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "intimidatingRoar": "intimidatingRoar1"
+    },
+    "attackPower": 2554,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "136"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 8,
+    "upgradeXP": 68776,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 11747
+  },
+  {
+    "identifier": "T6C1WDdragon",
+    "level": 5,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "38880"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 248293,
+    "fullHealDuration": 14400,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T6C1WDdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "intimidatingRoar": "intimidatingRoar1",
+      "archerResist01": "archerResist01"
+    },
+    "attackPower": 2648,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "144"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 9,
+    "upgradeXP": 85493,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 16716
+  },
+  {
+    "identifier": "T6C1WDdragon",
+    "level": 6,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "41040"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 258087,
+    "fullHealDuration": 14400,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T6C1WDdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "intimidatingRoar": "intimidatingRoar1",
+      "archerResist01": "archerResist01"
+    },
+    "attackPower": 2761,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "152"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 9,
+    "upgradeXP": 96118,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 18146
+  },
+  {
+    "identifier": "T6C1WDdragon",
+    "level": 7,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "43200"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 268440,
+    "fullHealDuration": 14400,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T6C1WDdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "intimidatingRoar": "intimidatingRoar1",
+      "archerResist01": "archerResist01"
+    },
+    "attackPower": 2898,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "160"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 9,
+    "upgradeXP": 107264,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 19800
+  },
+  {
+    "identifier": "T6C1WDdragon",
+    "level": 8,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "46440"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 285291,
+    "fullHealDuration": 14400,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T6C1WDdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "intimidatingRoar": "intimidatingRoar1",
+      "archerResist01": "archerResist01"
+    },
+    "attackPower": 3065,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "172"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 10,
+    "upgradeXP": 120557,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 22275
+  },
+  {
+    "identifier": "T6C1WDdragon",
+    "level": 9,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "49680"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 305366,
+    "fullHealDuration": 14400,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T6C1WDdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "intimidatingRoar": "intimidatingRoar1",
+      "archerResist01": "archerResist01"
+    },
+    "attackPower": 3254,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "184"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 10,
+    "upgradeXP": 179930,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 25300
+  },
+  {
+    "identifier": "T6C1WDdragon",
+    "level": 10,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "70289"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 326794,
+    "fullHealDuration": 14400,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T6C1WDdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "intimidatingRoar": "intimidatingRoar1",
+      "archerResist01": "archerResist01"
+    },
+    "attackPower": 3473,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "196"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 11,
+    "upgradeXP": 200742,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 28905
+  },
+  {
+    "identifier": "T6C1WDdragon",
+    "level": 11,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "74592"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 347230,
+    "fullHealDuration": 14400,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T6C1WDdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "intimidatingRoar": "intimidatingRoar1",
+      "archerResist01": "archerResist01"
+    },
+    "attackPower": 3711,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "208"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 11,
+    "upgradeXP": 262679,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 32784
+  },
+  {
+    "identifier": "T6C1WDdragon",
+    "level": 12,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "96496"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 371485,
+    "fullHealDuration": 14400,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T6C1WDdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "intimidatingRoar": "intimidatingRoar1",
+      "archerResist01": "archerResist01"
+    },
+    "attackPower": 3959,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "220"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 12,
+    "upgradeXP": 280979,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 37436
+  },
+  {
+    "identifier": "T6C1WDdragon",
+    "level": 13,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "101759"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 397354,
+    "fullHealDuration": 14400,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T6C1WDdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "intimidatingRoar": "intimidatingRoar1",
+      "archerResist01": "archerResist01"
+    },
+    "attackPower": 4223,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "232"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 12,
+    "upgradeXP": 348941,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 42700
+  },
+  {
+    "identifier": "T6C1WDdragon",
+    "level": 14,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "125116"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 422094,
+    "fullHealDuration": 14400,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T6C1WDdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "intimidatingRoar": "intimidatingRoar1",
+      "archerResist01": "archerResist01"
+    },
+    "attackPower": 4511,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "244"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 13,
+    "upgradeXP": 373148,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 48450
+  },
+  {
+    "identifier": "T6C1WDdragon",
+    "level": 15,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "131269"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 451363,
+    "fullHealDuration": 14400,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T6C1WDdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "intimidatingRoar": "intimidatingRoar1",
+      "archerResist01": "archerResist01"
+    },
+    "attackPower": 4810,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "256"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 13,
+    "upgradeXP": 0,
+    "xpRewardMultiplier": 1.2,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 55276
+  }
+]

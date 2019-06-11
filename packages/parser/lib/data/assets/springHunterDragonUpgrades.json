@@ -1,0 +1,2384 @@
+[
+  {
+    "identifier": "springHunterDragon",
+    "level": 1,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "34272"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 150865,
+    "fullHealDuration": 13562,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T8C3HIdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "stealEssence": "stealEssence1",
+      "cloak": "cloak1"
+    },
+    "attackPower": 11342,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "140"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 7,
+    "upgradeXP": 56974,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 13239,
+    "nextEvolveLevel": 7,
+    "tierNumber": 4,
+    "rarity": 5
+  },
+  {
+    "identifier": "springHunterDragon",
+    "level": 2,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "39168"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 194099,
+    "fullHealDuration": 15840,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T8C3HIdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "stealEssence": "stealEssence1",
+      "cloak": "cloak1"
+    },
+    "attackPower": 12532,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "160"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 8,
+    "upgradeXP": 95783,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 18824,
+    "nextEvolveLevel": 7,
+    "tierNumber": 4,
+    "rarity": 5
+  },
+  {
+    "identifier": "springHunterDragon",
+    "level": 3,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "58526"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 207663,
+    "fullHealDuration": 15840,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T8C3HIdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "stealEssence": "stealEssence1",
+      "cloak": "cloak1"
+    },
+    "attackPower": 13534,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "180"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 9,
+    "upgradeXP": 120232,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 21731,
+    "nextEvolveLevel": 7,
+    "tierNumber": 4,
+    "rarity": 5
+  },
+  {
+    "identifier": "springHunterDragon",
+    "level": 4,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "79536"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 224514,
+    "fullHealDuration": 15840,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T8C3HIdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "stealEssence": "stealEssence1",
+      "cloak": "cloak1"
+    },
+    "attackPower": 14812,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "200"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 9,
+    "upgradeXP": 184501,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 25740,
+    "nextEvolveLevel": 7,
+    "tierNumber": 4,
+    "rarity": 5
+  },
+  {
+    "identifier": "springHunterDragon",
+    "level": 5,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "106930"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 255397,
+    "fullHealDuration": 15840,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T8C3HIdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "stealEssence": "stealEssence1",
+      "cloak": "cloak1"
+    },
+    "attackPower": 16631,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "230"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 10,
+    "upgradeXP": 215866,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 32890,
+    "nextEvolveLevel": 7,
+    "tierNumber": 4,
+    "rarity": 5
+  },
+  {
+    "identifier": "springHunterDragon",
+    "level": 6,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "112811"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 290410,
+    "fullHealDuration": 15840,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T8C3HIdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "stealEssence": "stealEssence1",
+      "cloak": "cloak1"
+    },
+    "attackPower": 18965,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "260"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 11,
+    "upgradeXP": 252563,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 42619,
+    "nextEvolveLevel": 7,
+    "tierNumber": 4,
+    "rarity": 5
+  },
+  {
+    "identifier": "springHunterDragon",
+    "level": 7,
+    "upgradeCost": [
+      {
+        "type": "springHunterGreenStone",
+        "amount": "1"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "have2GreenEpic",
+    "HP": 410330,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T8C3HIdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "stealEssence": "stealEssence1",
+      "cloak": "cloak1",
+      "risingPhoenix": "resurrection1"
+    },
+    "attackPower": 26720,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "384"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 13,
+    "upgradeXP": 271862,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 71859,
+    "nextEvolveLevel": 13,
+    "tierNumber": 5,
+    "rarity": 5
+  },
+  {
+    "identifier": "springHunterDragon",
+    "level": 8,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "125562"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 465916,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T8C3HIdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "stealEssence": "stealEssence1",
+      "cloak": "cloak1",
+      "risingPhoenix": "resurrection1"
+    },
+    "attackPower": 29869,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "420"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 14,
+    "upgradeXP": 308628,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 91190,
+    "nextEvolveLevel": 13,
+    "tierNumber": 5,
+    "rarity": 5
+  },
+  {
+    "identifier": "springHunterDragon",
+    "level": 9,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "132468"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 575379,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T8C3HIdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "stealEssence": "stealEssence1",
+      "cloak": "cloak1",
+      "risingPhoenix": "resurrection1"
+    },
+    "attackPower": 32638,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "456"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 15,
+    "upgradeXP": 465181,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 123032,
+    "nextEvolveLevel": 13,
+    "tierNumber": 5,
+    "rarity": 5
+  },
+  {
+    "identifier": "springHunterDragon",
+    "level": 10,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "139753"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 619291,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T8C3HIdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "stealEssence": "stealEssence1",
+      "cloak": "cloak1",
+      "risingPhoenix": "resurrection1"
+    },
+    "attackPower": 35409,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "492"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 16,
+    "upgradeXP": 530981,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 143712,
+    "nextEvolveLevel": 13,
+    "tierNumber": 5,
+    "rarity": 5
+  },
+  {
+    "identifier": "springHunterDragon",
+    "level": 11,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "147440"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 684781,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T8C3HIdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "stealEssence": "stealEssence1",
+      "cloak": "cloak1",
+      "risingPhoenix": "resurrection1"
+    },
+    "attackPower": 39295,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "528"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 17,
+    "upgradeXP": 589581,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 176280,
+    "nextEvolveLevel": 13,
+    "tierNumber": 5,
+    "rarity": 5
+  },
+  {
+    "identifier": "springHunterDragon",
+    "level": 12,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "155549"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 781029,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T8C3HIdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "stealEssence": "stealEssence1",
+      "cloak": "cloak1",
+      "risingPhoenix": "resurrection1"
+    },
+    "attackPower": 44401,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "564"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 18,
+    "upgradeXP": 648181,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 227211,
+    "nextEvolveLevel": 13,
+    "tierNumber": 5,
+    "rarity": 5
+  },
+  {
+    "identifier": "springHunterDragon",
+    "level": 13,
+    "upgradeCost": [
+      {
+        "type": "springHunterGoldStone",
+        "amount": "1"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "haveGoldLegendary",
+    "HP": 828995,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T8C3HIdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "stealEssence": "stealEssence1",
+      "cloak": "cloak1",
+      "risingPhoenix": "resurrection1",
+      "iceTurretResist01": "iceTurretResist01"
+    },
+    "attackPower": 47354,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "582"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 18,
+    "upgradeXP": 706781,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 257248,
+    "nextEvolveLevel": 21,
+    "tierNumber": 6,
+    "rarity": 5
+  },
+  {
+    "identifier": "springHunterDragon",
+    "level": 14,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "173130"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 1002676,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T8C3HIdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "stealEssence": "stealEssence1",
+      "cloak": "cloak1",
+      "risingPhoenix": "resurrection1",
+      "iceTurretResist01": "iceTurretResist01"
+    },
+    "attackPower": 57273,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "636"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 18,
+    "upgradeXP": 765381,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 376319,
+    "nextEvolveLevel": 21,
+    "tierNumber": 6,
+    "rarity": 5
+  },
+  {
+    "identifier": "springHunterDragon",
+    "level": 15,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "182652"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 1211762,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T8C3HIdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "stealEssence": "stealEssence1",
+      "cloak": "cloak1",
+      "risingPhoenix": "resurrection1",
+      "iceTurretResist01": "iceTurretResist01"
+    },
+    "attackPower": 68934,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "690"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 18,
+    "upgradeXP": 823981,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 547349,
+    "nextEvolveLevel": 21,
+    "tierNumber": 6,
+    "rarity": 5
+  },
+  {
+    "identifier": "springHunterDragon",
+    "level": 16,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "192698"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 1426119,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T8C3HIdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "stealEssence": "stealEssence1",
+      "cloak": "cloak1",
+      "risingPhoenix": "resurrection1",
+      "iceTurretResist01": "iceTurretResist01"
+    },
+    "attackPower": 80191,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "744"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 19,
+    "upgradeXP": 882581,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 749362,
+    "nextEvolveLevel": 21,
+    "tierNumber": 6,
+    "rarity": 5
+  },
+  {
+    "identifier": "springHunterDragon",
+    "level": 17,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "203296"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "have2LegendaryGold",
+    "HP": 1550871,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T8C3HIdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "stealEssence": "stealEssence1",
+      "cloak": "cloak1",
+      "risingPhoenix": "resurrection1",
+      "iceTurretResist01": "iceTurretResist01"
+    },
+    "attackPower": 88096,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "798"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 19,
+    "upgradeXP": 941181,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 895245,
+    "nextEvolveLevel": 21,
+    "tierNumber": 6,
+    "rarity": 5
+  },
+  {
+    "identifier": "springHunterDragon",
+    "level": 18,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "214477"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 1670079,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T8C3HIdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "stealEssence": "stealEssence1",
+      "cloak": "cloak1",
+      "risingPhoenix": "resurrection1",
+      "iceTurretResist01": "iceTurretResist01"
+    },
+    "attackPower": 94869,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "852"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 20,
+    "upgradeXP": 999781,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 1038133,
+    "nextEvolveLevel": 21,
+    "tierNumber": 6,
+    "rarity": 5
+  },
+  {
+    "identifier": "springHunterDragon",
+    "level": 19,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "226274"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 1798461,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T8C3HIdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "stealEssence": "stealEssence1",
+      "cloak": "cloak1",
+      "risingPhoenix": "resurrection1",
+      "iceTurretResist01": "iceTurretResist01"
+    },
+    "attackPower": 102163,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "906"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 21,
+    "upgradeXP": 1044683,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 1203895,
+    "nextEvolveLevel": 21,
+    "tierNumber": 6,
+    "rarity": 5
+  },
+  {
+    "identifier": "springHunterDragon",
+    "level": 20,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "238719"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 1936708,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T8C3HIdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "stealEssence": "stealEssence1",
+      "cloak": "cloak1",
+      "risingPhoenix": "resurrection1",
+      "iceTurretResist01": "iceTurretResist01"
+    },
+    "attackPower": 110018,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "960"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 22,
+    "upgradeXP": 1117811,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 1396122,
+    "nextEvolveLevel": 21,
+    "tierNumber": 6,
+    "rarity": 5
+  },
+  {
+    "identifier": "springHunterDragon",
+    "level": 21,
+    "upgradeCost": [
+      {
+        "type": "springHunterPlatinumStone",
+        "amount": "1"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "havePlatinumLegendary",
+    "HP": 2034722,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T8C3HIdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "stealEssence": "stealEssence1",
+      "cloak": "cloak1",
+      "risingPhoenix": "resurrection1",
+      "iceTurretResist01": "iceTurretResist01"
+    },
+    "attackPower": 115587,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "996"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 23,
+    "upgradeXP": 1229592,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 1541051,
+    "nextEvolveLevel": 29,
+    "tierNumber": 7,
+    "rarity": 5
+  },
+  {
+    "identifier": "springHunterDragon",
+    "level": 22,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "265700"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 2191124,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T8C3HIdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "stealEssence": "stealEssence1",
+      "cloak": "cloak1",
+      "risingPhoenix": "resurrection1",
+      "iceTurretResist01": "iceTurretResist01"
+    },
+    "attackPower": 124474,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1050"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 24,
+    "upgradeXP": 1352551,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 1787102,
+    "nextEvolveLevel": 29,
+    "tierNumber": 7,
+    "rarity": 5
+  },
+  {
+    "identifier": "springHunterDragon",
+    "level": 23,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "280313"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 2359564,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T8C3HIdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "stealEssence": "stealEssence1",
+      "cloak": "cloak1",
+      "risingPhoenix": "resurrection1",
+      "iceTurretResist01": "iceTurretResist01"
+    },
+    "attackPower": 134045,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1104"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 25,
+    "upgradeXP": 1487806,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 2072429,
+    "nextEvolveLevel": 29,
+    "tierNumber": 7,
+    "rarity": 5
+  },
+  {
+    "identifier": "springHunterDragon",
+    "level": 24,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "295731"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 2540974,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T8C3HIdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "stealEssence": "stealEssence1",
+      "cloak": "cloak1",
+      "risingPhoenix": "resurrection1",
+      "iceTurretResist01": "iceTurretResist01"
+    },
+    "attackPower": 144351,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1158"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 26,
+    "upgradeXP": 1636587,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 2403434,
+    "nextEvolveLevel": 29,
+    "tierNumber": 7,
+    "rarity": 5
+  },
+  {
+    "identifier": "springHunterDragon",
+    "level": 25,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "311996"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 2736314,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T8C3HIdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "stealEssence": "stealEssence1",
+      "cloak": "cloak1",
+      "risingPhoenix": "resurrection1",
+      "iceTurretResist01": "iceTurretResist01"
+    },
+    "attackPower": 155450,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1212"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 26,
+    "upgradeXP": 1800246,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 2787130,
+    "nextEvolveLevel": 29,
+    "tierNumber": 7,
+    "rarity": 5
+  },
+  {
+    "identifier": "springHunterDragon",
+    "level": 26,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "329156"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "have2LegendaryPlatinum",
+    "HP": 2946652,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T8C3HIdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "stealEssence": "stealEssence1",
+      "cloak": "cloak1",
+      "risingPhoenix": "resurrection1",
+      "iceTurretResist01": "iceTurretResist01"
+    },
+    "attackPower": 163253,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1266"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 26,
+    "upgradeXP": 1980271,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 3152119,
+    "nextEvolveLevel": 29,
+    "tierNumber": 7,
+    "rarity": 5
+  },
+  {
+    "identifier": "springHunterDragon",
+    "level": 27,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "347259"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 3020303,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T8C3HIdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "stealEssence": "stealEssence1",
+      "cloak": "cloak1",
+      "risingPhoenix": "resurrection1",
+      "iceTurretResist01": "iceTurretResist01"
+    },
+    "attackPower": 167334,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1284"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 26,
+    "upgradeXP": 2178298,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 3311685,
+    "nextEvolveLevel": 29,
+    "tierNumber": 7,
+    "rarity": 5
+  },
+  {
+    "identifier": "springHunterDragon",
+    "level": 28,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "366358"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 3095796,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T8C3HIdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "stealEssence": "stealEssence1",
+      "cloak": "cloak1",
+      "risingPhoenix": "resurrection1",
+      "iceTurretResist01": "iceTurretResist01"
+    },
+    "attackPower": 171517,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1284"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 26,
+    "upgradeXP": 2396128,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 3479258,
+    "nextEvolveLevel": 29,
+    "tierNumber": 7,
+    "rarity": 5
+  },
+  {
+    "identifier": "springHunterDragon",
+    "level": 29,
+    "upgradeCost": [
+      {
+        "type": "springHunterSapphireStone",
+        "amount": "1"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "haveLegendarySapphire",
+    "HP": 3252490,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T8C3HIdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "stealEssence": "stealEssence1",
+      "cloak": "cloak1",
+      "risingPhoenix": "resurrection1",
+      "iceTurretResist01": "iceTurretResist01"
+    },
+    "attackPower": 180200,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1338"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 27,
+    "upgradeXP": 2635741,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 3840428,
+    "nextEvolveLevel": 36,
+    "tierNumber": 8,
+    "rarity": 5
+  },
+  {
+    "identifier": "springHunterDragon",
+    "level": 30,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "407766"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 3417125,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T8C3HIdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "stealEssence": "stealEssence1",
+      "cloak": "cloak1",
+      "risingPhoenix": "resurrection1",
+      "iceTurretResist01": "iceTurretResist01"
+    },
+    "attackPower": 189323,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1374"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 27,
+    "upgradeXP": 2899315,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 4239073,
+    "nextEvolveLevel": 36,
+    "tierNumber": 8,
+    "rarity": 5
+  },
+  {
+    "identifier": "springHunterDragon",
+    "level": 31,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "430193"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 3590095,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T8C3HIdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "stealEssence": "stealEssence1",
+      "cloak": "cloak1",
+      "risingPhoenix": "resurrection1",
+      "iceTurretResist01": "iceTurretResist01"
+    },
+    "attackPower": 198907,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1410"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 28,
+    "upgradeXP": 3189247,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 4679076,
+    "nextEvolveLevel": 36,
+    "tierNumber": 8,
+    "rarity": 5
+  },
+  {
+    "identifier": "springHunterDragon",
+    "level": 32,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "453854"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 3771818,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T8C3HIdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "stealEssence": "stealEssence1",
+      "cloak": "cloak1",
+      "risingPhoenix": "resurrection1",
+      "iceTurretResist01": "iceTurretResist01"
+    },
+    "attackPower": 208976,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1446"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 29,
+    "upgradeXP": 3508172,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 5164786,
+    "nextEvolveLevel": 36,
+    "tierNumber": 8,
+    "rarity": 5
+  },
+  {
+    "identifier": "springHunterDragon",
+    "level": 33,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "478816"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "have2LegendarySapphire",
+    "HP": 3962730,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T8C3HIdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "stealEssence": "stealEssence1",
+      "cloak": "cloak1",
+      "risingPhoenix": "resurrection1",
+      "iceTurretResist01": "iceTurretResist01"
+    },
+    "attackPower": 219555,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1482"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 29,
+    "upgradeXP": 3858989,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 5701042,
+    "nextEvolveLevel": 36,
+    "tierNumber": 8,
+    "rarity": 5
+  },
+  {
+    "identifier": "springHunterDragon",
+    "level": 34,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "505151"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 4163307,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T8C3HIdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "stealEssence": "stealEssence1",
+      "cloak": "cloak1",
+      "risingPhoenix": "resurrection1",
+      "iceTurretResist01": "iceTurretResist01"
+    },
+    "attackPower": 230670,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1518"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 30,
+    "upgradeXP": 4244888,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 6292754,
+    "nextEvolveLevel": 36,
+    "tierNumber": 8,
+    "rarity": 5
+  },
+  {
+    "identifier": "springHunterDragon",
+    "level": 35,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "532934"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 4374056,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T8C3HIdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "stealEssence": "stealEssence1",
+      "cloak": "cloak1",
+      "risingPhoenix": "resurrection1",
+      "iceTurretResist01": "iceTurretResist01"
+    },
+    "attackPower": 242348,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1554"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 31,
+    "upgradeXP": 4478357,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 6945951,
+    "nextEvolveLevel": 36,
+    "tierNumber": 8,
+    "rarity": 5
+  },
+  {
+    "identifier": "springHunterDragon",
+    "level": 36,
+    "upgradeCost": [
+      {
+        "type": "springHunterGarnetStone",
+        "amount": "1"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "haveLegendaryGarnet",
+    "HP": 4710344,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T8C3HIdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "stealEssence": "stealEssence1",
+      "cloak": "cloak1",
+      "risingPhoenix": "resurrection1",
+      "iceTurretResist01": "iceTurretResist01"
+    },
+    "attackPower": 260981,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1572"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 31,
+    "upgradeXP": 4724667,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 8055060,
+    "nextEvolveLevel": 46,
+    "tierNumber": 9,
+    "rarity": 5
+  },
+  {
+    "identifier": "springHunterDragon",
+    "level": 37,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "593169"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 4828084,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T8C3HIdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "stealEssence": "stealEssence1",
+      "cloak": "cloak1",
+      "risingPhoenix": "resurrection1",
+      "iceTurretResist01": "iceTurretResist01"
+    },
+    "attackPower": 267506,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1590"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 31,
+    "upgradeXP": 4984524,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 8462897,
+    "nextEvolveLevel": 46,
+    "tierNumber": 9,
+    "rarity": 5
+  },
+  {
+    "identifier": "springHunterDragon",
+    "level": 38,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "625793"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 5072473,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T8C3HIdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "stealEssence": "stealEssence1",
+      "cloak": "cloak1",
+      "risingPhoenix": "resurrection1",
+      "iceTurretResist01": "iceTurretResist01"
+    },
+    "attackPower": 281048,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1626"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 32,
+    "upgradeXP": 5258673,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 9341358,
+    "nextEvolveLevel": 46,
+    "tierNumber": 9,
+    "rarity": 5
+  },
+  {
+    "identifier": "springHunterDragon",
+    "level": 39,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "660212"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 5329237,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T8C3HIdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "stealEssence": "stealEssence1",
+      "cloak": "cloak1",
+      "risingPhoenix": "resurrection1",
+      "iceTurretResist01": "iceTurretResist01"
+    },
+    "attackPower": 295276,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1662"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 33,
+    "upgradeXP": 5547900,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 10311113,
+    "nextEvolveLevel": 46,
+    "tierNumber": 9,
+    "rarity": 5
+  },
+  {
+    "identifier": "springHunterDragon",
+    "level": 40,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "696523"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 5598998,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T8C3HIdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "stealEssence": "stealEssence1",
+      "cloak": "cloak1",
+      "risingPhoenix": "resurrection1",
+      "iceTurretResist01": "iceTurretResist01"
+    },
+    "attackPower": 310224,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1698"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 33,
+    "upgradeXP": 5853035,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 11381334,
+    "nextEvolveLevel": 46,
+    "tierNumber": 9,
+    "rarity": 5
+  },
+  {
+    "identifier": "springHunterDragon",
+    "level": 41,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "734832"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "have2LegendaryGarnet",
+    "HP": 5882410,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T8C3HIdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "stealEssence": "stealEssence1",
+      "cloak": "cloak1",
+      "risingPhoenix": "resurrection1",
+      "iceTurretResist01": "iceTurretResist01"
+    },
+    "attackPower": 325929,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1734"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 34,
+    "upgradeXP": 6174952,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 12562910,
+    "nextEvolveLevel": 46,
+    "tierNumber": 9,
+    "rarity": 5
+  },
+  {
+    "identifier": "springHunterDragon",
+    "level": 42,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "775248"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 6180181,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T8C3HIdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "stealEssence": "stealEssence1",
+      "cloak": "cloak1",
+      "risingPhoenix": "resurrection1",
+      "iceTurretResist01": "iceTurretResist01"
+    },
+    "attackPower": 342428,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1770"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 35,
+    "upgradeXP": 6514574,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 13867018,
+    "nextEvolveLevel": 46,
+    "tierNumber": 9,
+    "rarity": 5
+  },
+  {
+    "identifier": "springHunterDragon",
+    "level": 43,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "817886"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 6493012,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T8C3HIdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "stealEssence": "stealEssence1",
+      "cloak": "cloak1",
+      "risingPhoenix": "resurrection1",
+      "iceTurretResist01": "iceTurretResist01"
+    },
+    "attackPower": 359764,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1806"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 35,
+    "upgradeXP": 6872876,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 15306491,
+    "nextEvolveLevel": 46,
+    "tierNumber": 9,
+    "rarity": 5
+  },
+  {
+    "identifier": "springHunterDragon",
+    "level": 44,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "862870"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 6821684,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T8C3HIdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "stealEssence": "stealEssence1",
+      "cloak": "cloak1",
+      "risingPhoenix": "resurrection1",
+      "iceTurretResist01": "iceTurretResist01"
+    },
+    "attackPower": 377976,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1842"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 36,
+    "upgradeXP": 7250884,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 16895385,
+    "nextEvolveLevel": 46,
+    "tierNumber": 9,
+    "rarity": 5
+  },
+  {
+    "identifier": "springHunterDragon",
+    "level": 45,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "910328"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 7167006,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T8C3HIdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "stealEssence": "stealEssence1",
+      "cloak": "cloak1",
+      "risingPhoenix": "resurrection1",
+      "iceTurretResist01": "iceTurretResist01"
+    },
+    "attackPower": 397111,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1878"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 37,
+    "upgradeXP": 8050100,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 18649207,
+    "nextEvolveLevel": 46,
+    "tierNumber": 9,
+    "rarity": 5
+  },
+  {
+    "identifier": "springHunterDragon",
+    "level": 46,
+    "upgradeCost": [
+      {
+        "type": "springHunterEmeraldStone",
+        "amount": "1"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "haveLegendaryEmerald",
+    "HP": 7346164,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T8C3HIdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "stealEssence": "stealEssence1",
+      "cloak": "cloak1",
+      "risingPhoenix": "resurrection1",
+      "iceTurretResist01": "iceTurretResist01"
+    },
+    "attackPower": 407039,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1932"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 38,
+    "upgradeXP": 8849316,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 19593350,
+    "nextEvolveLevel": 0,
+    "tierNumber": 10,
+    "rarity": 5
+  },
+  {
+    "identifier": "springHunterDragon",
+    "level": 47,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "987806"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 8108716,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T8C3HIdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "stealEssence": "stealEssence1",
+      "cloak": "cloak1",
+      "risingPhoenix": "resurrection1",
+      "iceTurretResist01": "iceTurretResist01"
+    },
+    "attackPower": 449294,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2004"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 39,
+    "upgradeXP": 9648532,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 23872287,
+    "nextEvolveLevel": 0,
+    "tierNumber": 10,
+    "rarity": 5
+  },
+  {
+    "identifier": "springHunterDragon",
+    "level": 48,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1026545"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 8950451,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T8C3HIdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "stealEssence": "stealEssence1",
+      "cloak": "cloak1",
+      "risingPhoenix": "resurrection1",
+      "iceTurretResist01": "iceTurretResist01"
+    },
+    "attackPower": 495935,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2076"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 40,
+    "upgradeXP": 10447748,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 29085711,
+    "nextEvolveLevel": 0,
+    "tierNumber": 10,
+    "rarity": 5
+  },
+  {
+    "identifier": "springHunterDragon",
+    "level": 49,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1065284"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "have2LegendaryEmerald",
+    "HP": 9879552,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T8C3HIdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "stealEssence": "stealEssence1",
+      "cloak": "cloak1",
+      "risingPhoenix": "resurrection1",
+      "iceTurretResist01": "iceTurretResist01"
+    },
+    "attackPower": 547419,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2148"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 40,
+    "upgradeXP": 11246968,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 35437935,
+    "nextEvolveLevel": 0,
+    "tierNumber": 10,
+    "rarity": 5
+  },
+  {
+    "identifier": "springHunterDragon",
+    "level": 50,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1104023"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 10639144,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T8C3HIdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "stealEssence": "stealEssence1",
+      "cloak": "cloak1",
+      "risingPhoenix": "resurrection1",
+      "iceTurretResist01": "iceTurretResist01"
+    },
+    "attackPower": 589510,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2202"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 40,
+    "upgradeXP": 0,
+    "xpRewardMultiplier": 1.2,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 41096917,
+    "nextEvolveLevel": 0,
+    "tierNumber": 10,
+    "rarity": 5
+  }
+]

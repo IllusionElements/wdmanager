@@ -1,0 +1,1777 @@
+[
+  {
+    "identifier": "T14C3HIdragon",
+    "level": 1,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "0"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 33955965,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T14C3HIdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "freezeSpell": "coldSnap1"
+    },
+    "attackPower": 1881525,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3048"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 73,
+    "upgradeXP": 12529881,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 212992000
+  },
+  {
+    "identifier": "T14C3HIdragon",
+    "level": 2,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "809424"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 34804854,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T14C3HIdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "freezeSpell": "coldSnap1"
+    },
+    "attackPower": 1928563,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3066"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 73,
+    "upgradeXP": 12843128,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 217305703
+  },
+  {
+    "identifier": "T14C3HIdragon",
+    "level": 3,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "814176"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 35674964,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T14C3HIdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "freezeSpell": "coldSnap1"
+    },
+    "attackPower": 1976777,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3084"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 74,
+    "upgradeXP": 14956209,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 221651732
+  },
+  {
+    "identifier": "T14C3HIdragon",
+    "level": 4,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "818928"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 36566830,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T14C3HIdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "freezeSpell": "coldSnap1"
+    },
+    "attackPower": 2026196,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3102"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 74,
+    "upgradeXP": 17641547,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 226030086
+  },
+  {
+    "identifier": "T14C3HIdragon",
+    "level": 5,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "823680"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 37480992,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T14C3HIdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "freezeSpell": "coldSnap1",
+      "berserk": "scavenge1"
+    },
+    "attackPower": 2076851,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3120"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 75,
+    "upgradeXP": 20325273,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 230440766
+  },
+  {
+    "identifier": "T14C3HIdragon",
+    "level": 6,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "828432"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 38418008,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T14C3HIdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "freezeSpell": "coldSnap1",
+      "berserk": "scavenge1"
+    },
+    "attackPower": 2128772,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3138"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 76,
+    "upgradeXP": 23029640,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 234883773
+  },
+  {
+    "identifier": "T14C3HIdragon",
+    "level": 7,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "833184"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 39378445,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T14C3HIdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "freezeSpell": "coldSnap1",
+      "berserk": "scavenge1"
+    },
+    "attackPower": 2181991,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3156"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 77,
+    "upgradeXP": 23605378,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 239359104
+  },
+  {
+    "identifier": "T14C3HIdragon",
+    "level": 8,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "837936"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 40362886,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T14C3HIdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "freezeSpell": "coldSnap1",
+      "berserk": "scavenge1"
+    },
+    "attackPower": 2236541,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3174"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 78,
+    "upgradeXP": 24195510,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 243866762
+  },
+  {
+    "identifier": "T14C3HIdragon",
+    "level": 9,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "842688"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 41371942,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T14C3HIdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "freezeSpell": "coldSnap1",
+      "berserk": "scavenge1",
+      "cloak": "cloak1"
+    },
+    "attackPower": 2292454,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3192"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 79,
+    "upgradeXP": 24800398,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 248406746
+  },
+  {
+    "identifier": "T14C3HIdragon",
+    "level": 10,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "847440"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 42406227,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T14C3HIdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "freezeSpell": "coldSnap1",
+      "berserk": "scavenge1",
+      "cloak": "cloak1"
+    },
+    "attackPower": 2349766,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3210"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 80,
+    "upgradeXP": 25420407,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 252979055
+  },
+  {
+    "identifier": "T14C3HIdragon",
+    "level": 11,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "852192"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 43466370,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T14C3HIdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "freezeSpell": "coldSnap1",
+      "berserk": "scavenge1",
+      "cloak": "cloak1"
+    },
+    "attackPower": 2408509,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3228"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 80,
+    "upgradeXP": 26055914,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 257583690
+  },
+  {
+    "identifier": "T14C3HIdragon",
+    "level": 12,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "856944"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 44553014,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T14C3HIdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "freezeSpell": "coldSnap1",
+      "berserk": "scavenge1",
+      "cloak": "cloak1"
+    },
+    "attackPower": 2468722,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3246"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 81,
+    "upgradeXP": 26707311,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 262220651
+  },
+  {
+    "identifier": "T14C3HIdragon",
+    "level": 13,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "861696"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 45666821,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T14C3HIdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "freezeSpell": "coldSnap1",
+      "berserk": "scavenge1",
+      "cloak": "cloak1"
+    },
+    "attackPower": 2530440,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3264"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 81,
+    "upgradeXP": 27374992,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 266889938
+  },
+  {
+    "identifier": "T14C3HIdragon",
+    "level": 14,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "866448"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 46808477,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T14C3HIdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "freezeSpell": "coldSnap1",
+      "berserk": "scavenge1",
+      "cloak": "cloak1",
+      "adaptiveResist": "adaptiveFlakResist1"
+    },
+    "attackPower": 2593701,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3282"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 82,
+    "upgradeXP": 28059365,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 271591550
+  },
+  {
+    "identifier": "T14C3HIdragon",
+    "level": 15,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "871200"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 47978680,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T14C3HIdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "freezeSpell": "coldSnap1",
+      "berserk": "scavenge1",
+      "cloak": "cloak1",
+      "adaptiveResist": "adaptiveFlakResist1"
+    },
+    "attackPower": 2658543,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3300"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 82,
+    "upgradeXP": 28760847,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 276325488
+  },
+  {
+    "identifier": "T14C3HIdragon",
+    "level": 16,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "875952"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 49178137,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T14C3HIdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "freezeSpell": "coldSnap1",
+      "berserk": "scavenge1",
+      "cloak": "cloak1",
+      "adaptiveResist": "adaptiveFlakResist1"
+    },
+    "attackPower": 2725006,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3318"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 83,
+    "upgradeXP": 29479868,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 281091753
+  },
+  {
+    "identifier": "T14C3HIdragon",
+    "level": 17,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "880704"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 50407582,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T14C3HIdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "freezeSpell": "coldSnap1",
+      "berserk": "scavenge1",
+      "cloak": "cloak1",
+      "adaptiveResist": "adaptiveFlakResist1"
+    },
+    "attackPower": 2793131,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3336"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 83,
+    "upgradeXP": 30216863,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 285890342
+  },
+  {
+    "identifier": "T14C3HIdragon",
+    "level": 18,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "885456"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 51667765,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T14C3HIdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "freezeSpell": "coldSnap1",
+      "berserk": "scavenge1",
+      "cloak": "cloak1",
+      "adaptiveResist": "adaptiveFlakResist1"
+    },
+    "attackPower": 2862960,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3354"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 84,
+    "upgradeXP": 41137424,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 290721258
+  },
+  {
+    "identifier": "T14C3HIdragon",
+    "level": 19,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1182376"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 52959454,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T14C3HIdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "freezeSpell": "coldSnap1",
+      "berserk": "scavenge1",
+      "cloak": "cloak1",
+      "adaptiveResist": "adaptiveFlakResist1"
+    },
+    "attackPower": 2934533,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3372"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 84,
+    "upgradeXP": 42165856,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 295584500
+  },
+  {
+    "identifier": "T14C3HIdragon",
+    "level": 20,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1188687"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 54283436,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T14C3HIdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "freezeSpell": "coldSnap1",
+      "berserk": "scavenge1",
+      "cloak": "cloak1",
+      "adaptiveResist": "adaptiveFlakResist1"
+    },
+    "attackPower": 3007896,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3390"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 85,
+    "upgradeXP": 43219999,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 300480067
+  },
+  {
+    "identifier": "T14C3HIdragon",
+    "level": 21,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1194999"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 55640513,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T14C3HIdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "freezeSpell": "coldSnap1",
+      "berserk": "scavenge1",
+      "cloak": "cloak1",
+      "adaptiveResist": "adaptiveFlakResist1"
+    },
+    "attackPower": 3083094,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3408"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 85,
+    "upgradeXP": 44300496,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 305407960
+  },
+  {
+    "identifier": "T14C3HIdragon",
+    "level": 22,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1201311"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 57031512,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T14C3HIdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "freezeSpell": "coldSnap1",
+      "berserk": "scavenge1",
+      "cloak": "cloak1",
+      "adaptiveResist": "adaptiveFlakResist1"
+    },
+    "attackPower": 3160171,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3426"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 86,
+    "upgradeXP": 55537914,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 310368179
+  },
+  {
+    "identifier": "T14C3HIdragon",
+    "level": 23,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1477026"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 58457287,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T14C3HIdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "freezeSpell": "coldSnap1",
+      "berserk": "scavenge1",
+      "cloak": "cloak1",
+      "adaptiveResist": "adaptiveFlakResist1"
+    },
+    "attackPower": 3239175,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3444"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 86,
+    "upgradeXP": 56926360,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 315360724
+  },
+  {
+    "identifier": "T14C3HIdragon",
+    "level": 24,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1484746"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 59918711,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T14C3HIdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "freezeSpell": "coldSnap1",
+      "berserk": "scavenge1",
+      "cloak": "cloak1",
+      "adaptiveResist": "adaptiveFlakResist1"
+    },
+    "attackPower": 3320154,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3462"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 87,
+    "upgradeXP": 58349516,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 320385594
+  },
+  {
+    "identifier": "T14C3HIdragon",
+    "level": 25,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1492466"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 61416673,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T14C3HIdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "freezeSpell": "coldSnap1",
+      "berserk": "scavenge1",
+      "cloak": "cloak1",
+      "adaptiveResist": "adaptiveFlakResist1"
+    },
+    "attackPower": 3403158,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3480"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 87,
+    "upgradeXP": 59808251,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 325442790
+  },
+  {
+    "identifier": "T14C3HIdragon",
+    "level": 26,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1500185"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 62952081,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T14C3HIdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "freezeSpell": "coldSnap1",
+      "berserk": "scavenge1",
+      "cloak": "cloak1",
+      "adaptiveResist": "adaptiveFlakResist1"
+    },
+    "attackPower": 3488236,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3498"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 88,
+    "upgradeXP": 71667449,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 330532313
+  },
+  {
+    "identifier": "T14C3HIdragon",
+    "level": 27,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1762832"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 64525869,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T14C3HIdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "freezeSpell": "coldSnap1",
+      "berserk": "scavenge1",
+      "cloak": "cloak1",
+      "adaptiveResist": "adaptiveFlakResist1"
+    },
+    "attackPower": 3575442,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3516"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 88,
+    "upgradeXP": 73459133,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 335654160
+  },
+  {
+    "identifier": "T14C3HIdragon",
+    "level": 28,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1771857"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 66139003,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T14C3HIdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "freezeSpell": "coldSnap1",
+      "berserk": "scavenge1",
+      "cloak": "cloak1",
+      "adaptiveResist": "adaptiveFlakResist1"
+    },
+    "attackPower": 3664828,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3534"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 89,
+    "upgradeXP": 75295608,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 340808334
+  },
+  {
+    "identifier": "T14C3HIdragon",
+    "level": 29,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1780881"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 67792468,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T14C3HIdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "freezeSpell": "coldSnap1",
+      "berserk": "scavenge1",
+      "cloak": "cloak1",
+      "adaptiveResist": "adaptiveFlakResist1"
+    },
+    "attackPower": 3756449,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3552"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 89,
+    "upgradeXP": 77177996,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 345994834
+  },
+  {
+    "identifier": "T14C3HIdragon",
+    "level": 30,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1789906"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 69487271,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T14C3HIdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "freezeSpell": "coldSnap1",
+      "berserk": "scavenge1",
+      "cloak": "cloak1",
+      "adaptiveResist": "adaptiveFlakResist1"
+    },
+    "attackPower": 3850360,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3570"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 90,
+    "upgradeXP": 79107445,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 351213659
+  },
+  {
+    "identifier": "T14C3HIdragon",
+    "level": 31,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1798931"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 71224445,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T14C3HIdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "freezeSpell": "coldSnap1",
+      "berserk": "scavenge1",
+      "cloak": "cloak1",
+      "adaptiveResist": "adaptiveFlakResist1"
+    },
+    "attackPower": 3946618,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3588"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 90,
+    "upgradeXP": 81085126,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 356464810
+  },
+  {
+    "identifier": "T14C3HIdragon",
+    "level": 32,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1807956"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 73005043,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T14C3HIdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "freezeSpell": "coldSnap1",
+      "berserk": "scavenge1",
+      "cloak": "cloak1",
+      "adaptiveResist": "adaptiveFlakResist1"
+    },
+    "attackPower": 4045284,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3606"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 91,
+    "upgradeXP": 83112252,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 361748287
+  },
+  {
+    "identifier": "T14C3HIdragon",
+    "level": 33,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1816980"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 74830151,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T14C3HIdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "freezeSpell": "coldSnap1",
+      "berserk": "scavenge1",
+      "cloak": "cloak1",
+      "adaptiveResist": "adaptiveFlakResist1"
+    },
+    "attackPower": 4146416,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3624"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 91,
+    "upgradeXP": 85190055,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 367064090
+  },
+  {
+    "identifier": "T14C3HIdragon",
+    "level": 34,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1826005"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 76700886,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T14C3HIdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "freezeSpell": "coldSnap1",
+      "berserk": "scavenge1",
+      "cloak": "cloak1",
+      "adaptiveResist": "adaptiveFlakResist1"
+    },
+    "attackPower": 4250076,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3642"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 92,
+    "upgradeXP": 87319805,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 372412218
+  },
+  {
+    "identifier": "T14C3HIdragon",
+    "level": 35,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1835030"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 78618389,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T14C3HIdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "freezeSpell": "coldSnap1",
+      "berserk": "scavenge1",
+      "cloak": "cloak1",
+      "adaptiveResist": "adaptiveFlakResist1"
+    },
+    "attackPower": 4356328,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3660"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 92,
+    "upgradeXP": 89502796,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 377792672
+  },
+  {
+    "identifier": "T14C3HIdragon",
+    "level": 36,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1844055"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 80583833,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T14C3HIdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "freezeSpell": "coldSnap1",
+      "berserk": "scavenge1",
+      "cloak": "cloak1",
+      "adaptiveResist": "adaptiveFlakResist1"
+    },
+    "attackPower": 4465236,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3678"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 93,
+    "upgradeXP": 91740362,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 383205453
+  },
+  {
+    "identifier": "T14C3HIdragon",
+    "level": 37,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1853079"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 82598413,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T14C3HIdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "freezeSpell": "coldSnap1",
+      "berserk": "scavenge1",
+      "cloak": "cloak1",
+      "adaptiveResist": "adaptiveFlakResist1"
+    },
+    "attackPower": 4576866,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3696"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 93,
+    "upgradeXP": 94033867,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 388650558
+  },
+  {
+    "identifier": "T14C3HIdragon",
+    "level": 38,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1862104"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 84663354,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T14C3HIdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "freezeSpell": "coldSnap1",
+      "berserk": "scavenge1",
+      "cloak": "cloak1",
+      "adaptiveResist": "adaptiveFlakResist1"
+    },
+    "attackPower": 4691288,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3714"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 94,
+    "upgradeXP": 96384710,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 394127990
+  },
+  {
+    "identifier": "T14C3HIdragon",
+    "level": 39,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1871129"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 86779925,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T14C3HIdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "freezeSpell": "coldSnap1",
+      "berserk": "scavenge1",
+      "cloak": "cloak1",
+      "adaptiveResist": "adaptiveFlakResist1"
+    },
+    "attackPower": 4808570,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3732"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 94,
+    "upgradeXP": 98794327,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 399637748
+  },
+  {
+    "identifier": "T14C3HIdragon",
+    "level": 40,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1880154"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 91173140,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T14C3HIdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "freezeSpell": "coldSnap1",
+      "berserk": "scavenge1",
+      "cloak": "cloak1",
+      "adaptiveResist": "adaptiveFlakResist1"
+    },
+    "attackPower": 5052003,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3768"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 95,
+    "upgradeXP": 0,
+    "xpRewardMultiplier": 1.2,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 410754240
+  }
+]

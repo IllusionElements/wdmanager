@@ -1,0 +1,1777 @@
+[
+  {
+    "identifier": "T14C3WEdragon",
+    "level": 1,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "0"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 46689452,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T14C3WEdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "shieldAssault": "onslaught1"
+    },
+    "attackPower": 423344,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3048"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 73,
+    "upgradeXP": 12529881,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 212992000
+  },
+  {
+    "identifier": "T14C3WEdragon",
+    "level": 2,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "809424"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 47856674,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T14C3WEdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "shieldAssault": "onslaught1"
+    },
+    "attackPower": 433927,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3066"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 73,
+    "upgradeXP": 12843128,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 217305703
+  },
+  {
+    "identifier": "T14C3WEdragon",
+    "level": 3,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "814176"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 49053075,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T14C3WEdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "shieldAssault": "onslaught1"
+    },
+    "attackPower": 444775,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3084"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 74,
+    "upgradeXP": 14956209,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 221651732
+  },
+  {
+    "identifier": "T14C3WEdragon",
+    "level": 4,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "818928"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 50279391,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T14C3WEdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "shieldAssault": "onslaught1"
+    },
+    "attackPower": 455895,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3102"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 74,
+    "upgradeXP": 17641547,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 226030086
+  },
+  {
+    "identifier": "T14C3WEdragon",
+    "level": 5,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "823680"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 51536364,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T14C3WEdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "shieldAssault": "onslaught1",
+      "bloodFury": "bloodFury1"
+    },
+    "attackPower": 467292,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3120"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 75,
+    "upgradeXP": 20325273,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 230440766
+  },
+  {
+    "identifier": "T14C3WEdragon",
+    "level": 6,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "828432"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 52824760,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T14C3WEdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "shieldAssault": "onslaught1",
+      "bloodFury": "bloodFury1"
+    },
+    "attackPower": 478974,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3138"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 76,
+    "upgradeXP": 23029640,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 234883773
+  },
+  {
+    "identifier": "T14C3WEdragon",
+    "level": 7,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "833184"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 54145361,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T14C3WEdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "shieldAssault": "onslaught1",
+      "bloodFury": "bloodFury1"
+    },
+    "attackPower": 490948,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3156"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 77,
+    "upgradeXP": 23605378,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 239359104
+  },
+  {
+    "identifier": "T14C3WEdragon",
+    "level": 8,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "837936"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 55498968,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T14C3WEdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "shieldAssault": "onslaught1",
+      "bloodFury": "bloodFury1"
+    },
+    "attackPower": 503222,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3174"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 78,
+    "upgradeXP": 24195510,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 243866762
+  },
+  {
+    "identifier": "T14C3WEdragon",
+    "level": 9,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "842688"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 56886419,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T14C3WEdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "shieldAssault": "onslaught1",
+      "bloodFury": "bloodFury1",
+      "darkFlakResist01": "darkFlakResist01"
+    },
+    "attackPower": 515803,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3192"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 79,
+    "upgradeXP": 24800398,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 248406746
+  },
+  {
+    "identifier": "T14C3WEdragon",
+    "level": 10,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "847440"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 58308562,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T14C3WEdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "shieldAssault": "onslaught1",
+      "bloodFury": "bloodFury1",
+      "darkFlakResist01": "darkFlakResist01"
+    },
+    "attackPower": 528698,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3210"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 80,
+    "upgradeXP": 25420407,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 252979055
+  },
+  {
+    "identifier": "T14C3WEdragon",
+    "level": 11,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "852192"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 59766258,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T14C3WEdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "shieldAssault": "onslaught1",
+      "bloodFury": "bloodFury1",
+      "darkFlakResist01": "darkFlakResist01"
+    },
+    "attackPower": 541915,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3228"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 80,
+    "upgradeXP": 26055914,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 257583690
+  },
+  {
+    "identifier": "T14C3WEdragon",
+    "level": 12,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "856944"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 61260394,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T14C3WEdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "shieldAssault": "onslaught1",
+      "bloodFury": "bloodFury1",
+      "darkFlakResist01": "darkFlakResist01"
+    },
+    "attackPower": 555463,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3246"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 81,
+    "upgradeXP": 26707311,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 262220651
+  },
+  {
+    "identifier": "T14C3WEdragon",
+    "level": 13,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "861696"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 62791878,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T14C3WEdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "shieldAssault": "onslaught1",
+      "bloodFury": "bloodFury1",
+      "darkFlakResist01": "darkFlakResist01"
+    },
+    "attackPower": 569349,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3264"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 81,
+    "upgradeXP": 27374992,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 266889938
+  },
+  {
+    "identifier": "T14C3WEdragon",
+    "level": 14,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "866448"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 64361656,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T14C3WEdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "shieldAssault": "onslaught1",
+      "bloodFury": "bloodFury1",
+      "darkFlakResist01": "darkFlakResist01",
+      "fireFlakResist01": "fireFlakResist01"
+    },
+    "attackPower": 583583,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3282"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 82,
+    "upgradeXP": 28059365,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 271591550
+  },
+  {
+    "identifier": "T14C3WEdragon",
+    "level": 15,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "871200"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 65970685,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T14C3WEdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "shieldAssault": "onslaught1",
+      "bloodFury": "bloodFury1",
+      "darkFlakResist01": "darkFlakResist01",
+      "fireFlakResist01": "fireFlakResist01"
+    },
+    "attackPower": 598173,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3300"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 82,
+    "upgradeXP": 28760847,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 276325488
+  },
+  {
+    "identifier": "T14C3WEdragon",
+    "level": 16,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "875952"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 67619938,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T14C3WEdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "shieldAssault": "onslaught1",
+      "bloodFury": "bloodFury1",
+      "darkFlakResist01": "darkFlakResist01",
+      "fireFlakResist01": "fireFlakResist01"
+    },
+    "attackPower": 613127,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3318"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 83,
+    "upgradeXP": 29479868,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 281091753
+  },
+  {
+    "identifier": "T14C3WEdragon",
+    "level": 17,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "880704"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 69310425,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T14C3WEdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "shieldAssault": "onslaught1",
+      "bloodFury": "bloodFury1",
+      "darkFlakResist01": "darkFlakResist01",
+      "fireFlakResist01": "fireFlakResist01"
+    },
+    "attackPower": 628455,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3336"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 83,
+    "upgradeXP": 30216863,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 285890342
+  },
+  {
+    "identifier": "T14C3WEdragon",
+    "level": 18,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "885456"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 71043176,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T14C3WEdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "shieldAssault": "onslaught1",
+      "bloodFury": "bloodFury1",
+      "darkFlakResist01": "darkFlakResist01",
+      "fireFlakResist01": "fireFlakResist01"
+    },
+    "attackPower": 644166,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3354"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 84,
+    "upgradeXP": 41137424,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 290721258
+  },
+  {
+    "identifier": "T14C3WEdragon",
+    "level": 19,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1182376"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 72819249,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T14C3WEdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "shieldAssault": "onslaught1",
+      "bloodFury": "bloodFury1",
+      "darkFlakResist01": "darkFlakResist01",
+      "fireFlakResist01": "fireFlakResist01"
+    },
+    "attackPower": 660270,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3372"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 84,
+    "upgradeXP": 42165856,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 295584500
+  },
+  {
+    "identifier": "T14C3WEdragon",
+    "level": 20,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1188687"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 74639724,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T14C3WEdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "shieldAssault": "onslaught1",
+      "bloodFury": "bloodFury1",
+      "darkFlakResist01": "darkFlakResist01",
+      "fireFlakResist01": "fireFlakResist01"
+    },
+    "attackPower": 676777,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3390"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 85,
+    "upgradeXP": 43219999,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 300480067
+  },
+  {
+    "identifier": "T14C3WEdragon",
+    "level": 21,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1194999"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 76505705,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T14C3WEdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "shieldAssault": "onslaught1",
+      "bloodFury": "bloodFury1",
+      "darkFlakResist01": "darkFlakResist01",
+      "fireFlakResist01": "fireFlakResist01"
+    },
+    "attackPower": 693696,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3408"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 85,
+    "upgradeXP": 44300496,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 305407960
+  },
+  {
+    "identifier": "T14C3WEdragon",
+    "level": 22,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1201311"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 78418329,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T14C3WEdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "shieldAssault": "onslaught1",
+      "bloodFury": "bloodFury1",
+      "darkFlakResist01": "darkFlakResist01",
+      "fireFlakResist01": "fireFlakResist01"
+    },
+    "attackPower": 711039,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3426"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 86,
+    "upgradeXP": 55537914,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 310368179
+  },
+  {
+    "identifier": "T14C3WEdragon",
+    "level": 23,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1477026"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 80378770,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T14C3WEdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "shieldAssault": "onslaught1",
+      "bloodFury": "bloodFury1",
+      "darkFlakResist01": "darkFlakResist01",
+      "fireFlakResist01": "fireFlakResist01"
+    },
+    "attackPower": 728815,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3444"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 86,
+    "upgradeXP": 56926360,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 315360724
+  },
+  {
+    "identifier": "T14C3WEdragon",
+    "level": 24,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1484746"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 82388228,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T14C3WEdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "shieldAssault": "onslaught1",
+      "bloodFury": "bloodFury1",
+      "darkFlakResist01": "darkFlakResist01",
+      "fireFlakResist01": "fireFlakResist01"
+    },
+    "attackPower": 747035,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3462"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 87,
+    "upgradeXP": 58349516,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 320385594
+  },
+  {
+    "identifier": "T14C3WEdragon",
+    "level": 25,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1492466"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 84447926,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T14C3WEdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "shieldAssault": "onslaught1",
+      "bloodFury": "bloodFury1",
+      "darkFlakResist01": "darkFlakResist01",
+      "fireFlakResist01": "fireFlakResist01"
+    },
+    "attackPower": 765711,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3480"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 87,
+    "upgradeXP": 59808251,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 325442790
+  },
+  {
+    "identifier": "T14C3WEdragon",
+    "level": 26,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1500185"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 86559111,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T14C3WEdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "shieldAssault": "onslaught1",
+      "bloodFury": "bloodFury1",
+      "darkFlakResist01": "darkFlakResist01",
+      "fireFlakResist01": "fireFlakResist01"
+    },
+    "attackPower": 784854,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3498"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 88,
+    "upgradeXP": 71667449,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 330532313
+  },
+  {
+    "identifier": "T14C3WEdragon",
+    "level": 27,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1762832"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 88723070,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T14C3WEdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "shieldAssault": "onslaught1",
+      "bloodFury": "bloodFury1",
+      "darkFlakResist01": "darkFlakResist01",
+      "fireFlakResist01": "fireFlakResist01"
+    },
+    "attackPower": 804475,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3516"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 88,
+    "upgradeXP": 73459133,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 335654160
+  },
+  {
+    "identifier": "T14C3WEdragon",
+    "level": 28,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1771857"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 90941129,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T14C3WEdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "shieldAssault": "onslaught1",
+      "bloodFury": "bloodFury1",
+      "darkFlakResist01": "darkFlakResist01",
+      "fireFlakResist01": "fireFlakResist01"
+    },
+    "attackPower": 824587,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3534"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 89,
+    "upgradeXP": 75295608,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 340808334
+  },
+  {
+    "identifier": "T14C3WEdragon",
+    "level": 29,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1780881"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 93214644,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T14C3WEdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "shieldAssault": "onslaught1",
+      "bloodFury": "bloodFury1",
+      "darkFlakResist01": "darkFlakResist01",
+      "fireFlakResist01": "fireFlakResist01"
+    },
+    "attackPower": 845201,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3552"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 89,
+    "upgradeXP": 77177996,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 345994834
+  },
+  {
+    "identifier": "T14C3WEdragon",
+    "level": 30,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1789906"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 95544997,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T14C3WEdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "shieldAssault": "onslaught1",
+      "bloodFury": "bloodFury1",
+      "darkFlakResist01": "darkFlakResist01",
+      "fireFlakResist01": "fireFlakResist01"
+    },
+    "attackPower": 866331,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3570"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 90,
+    "upgradeXP": 79107445,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 351213659
+  },
+  {
+    "identifier": "T14C3WEdragon",
+    "level": 31,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1798931"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 97933612,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T14C3WEdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "shieldAssault": "onslaught1",
+      "bloodFury": "bloodFury1",
+      "darkFlakResist01": "darkFlakResist01",
+      "fireFlakResist01": "fireFlakResist01"
+    },
+    "attackPower": 887990,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3588"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 90,
+    "upgradeXP": 81085126,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 356464810
+  },
+  {
+    "identifier": "T14C3WEdragon",
+    "level": 32,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1807956"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 100381933,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T14C3WEdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "shieldAssault": "onslaught1",
+      "bloodFury": "bloodFury1",
+      "darkFlakResist01": "darkFlakResist01",
+      "fireFlakResist01": "fireFlakResist01"
+    },
+    "attackPower": 910189,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3606"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 91,
+    "upgradeXP": 83112252,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 361748287
+  },
+  {
+    "identifier": "T14C3WEdragon",
+    "level": 33,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1816980"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 102891458,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T14C3WEdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "shieldAssault": "onslaught1",
+      "bloodFury": "bloodFury1",
+      "darkFlakResist01": "darkFlakResist01",
+      "fireFlakResist01": "fireFlakResist01"
+    },
+    "attackPower": 932944,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3624"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 91,
+    "upgradeXP": 85190055,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 367064090
+  },
+  {
+    "identifier": "T14C3WEdragon",
+    "level": 34,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1826005"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 105463718,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T14C3WEdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "shieldAssault": "onslaught1",
+      "bloodFury": "bloodFury1",
+      "darkFlakResist01": "darkFlakResist01",
+      "fireFlakResist01": "fireFlakResist01"
+    },
+    "attackPower": 956267,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3642"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 92,
+    "upgradeXP": 87319805,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 372412218
+  },
+  {
+    "identifier": "T14C3WEdragon",
+    "level": 35,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1835030"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 108100285,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T14C3WEdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "shieldAssault": "onslaught1",
+      "bloodFury": "bloodFury1",
+      "darkFlakResist01": "darkFlakResist01",
+      "fireFlakResist01": "fireFlakResist01"
+    },
+    "attackPower": 980174,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3660"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 92,
+    "upgradeXP": 89502796,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 377792672
+  },
+  {
+    "identifier": "T14C3WEdragon",
+    "level": 36,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1844055"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 110802770,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T14C3WEdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "shieldAssault": "onslaught1",
+      "bloodFury": "bloodFury1",
+      "darkFlakResist01": "darkFlakResist01",
+      "fireFlakResist01": "fireFlakResist01"
+    },
+    "attackPower": 1004678,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3678"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 93,
+    "upgradeXP": 91740362,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 383205453
+  },
+  {
+    "identifier": "T14C3WEdragon",
+    "level": 37,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1853079"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 113572818,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T14C3WEdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "shieldAssault": "onslaught1",
+      "bloodFury": "bloodFury1",
+      "darkFlakResist01": "darkFlakResist01",
+      "fireFlakResist01": "fireFlakResist01"
+    },
+    "attackPower": 1029795,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3696"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 93,
+    "upgradeXP": 94033867,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 388650558
+  },
+  {
+    "identifier": "T14C3WEdragon",
+    "level": 38,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1862104"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 116412112,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T14C3WEdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "shieldAssault": "onslaught1",
+      "bloodFury": "bloodFury1",
+      "darkFlakResist01": "darkFlakResist01",
+      "fireFlakResist01": "fireFlakResist01"
+    },
+    "attackPower": 1055540,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3714"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 94,
+    "upgradeXP": 96384710,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 394127990
+  },
+  {
+    "identifier": "T14C3WEdragon",
+    "level": 39,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1871129"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 119322396,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T14C3WEdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "shieldAssault": "onslaught1",
+      "bloodFury": "bloodFury1",
+      "darkFlakResist01": "darkFlakResist01",
+      "fireFlakResist01": "fireFlakResist01"
+    },
+    "attackPower": 1081929,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3732"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 94,
+    "upgradeXP": 98794327,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 399637748
+  },
+  {
+    "identifier": "T14C3WEdragon",
+    "level": 40,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1880154"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 125363068,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T14C3WEdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "shieldAssault": "onslaught1",
+      "bloodFury": "bloodFury1",
+      "darkFlakResist01": "darkFlakResist01",
+      "fireFlakResist01": "fireFlakResist01"
+    },
+    "attackPower": 1136701,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3768"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 95,
+    "upgradeXP": 0,
+    "xpRewardMultiplier": 1.2,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 410754240
+  }
+]

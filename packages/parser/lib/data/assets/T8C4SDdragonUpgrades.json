@@ -1,0 +1,1577 @@
+[
+  {
+    "identifier": "T8C4SDdragon",
+    "level": 1,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "0"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 2362158,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T6C3SDdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "shadowApophet": "shadowApophet1",
+      "nightfall": "nightfall1",
+      "umbralSpike": "umbralSpike1",
+      "nocturnalFissure": "nocturnalFissure1"
+    },
+    "attackPower": 119280,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1204"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 21,
+    "upgradeXP": 896206,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 1769054
+  },
+  {
+    "identifier": "T8C4SDdragon",
+    "level": 2,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "315000"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 2421192,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T6C3SDdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "shadowApophet": "shadowApophet1",
+      "nightfall": "nightfall1",
+      "umbralSpike": "umbralSpike1",
+      "nocturnalFissure": "nocturnalFissure1"
+    },
+    "attackPower": 122261,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1225"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 21,
+    "upgradeXP": 918609,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 1858586
+  },
+  {
+    "identifier": "T8C4SDdragon",
+    "level": 3,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "320400"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 2481705,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T6C3SDdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "shadowApophet": "shadowApophet1",
+      "nightfall": "nightfall1",
+      "umbralSpike": "umbralSpike1",
+      "nocturnalFissure": "nocturnalFissure1"
+    },
+    "attackPower": 125318,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1246"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 22,
+    "upgradeXP": 1069747,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 1952721
+  },
+  {
+    "identifier": "T8C4SDdragon",
+    "level": 4,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "325800"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 2543735,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T6C3SDdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "shadowApophet": "shadowApophet1",
+      "nightfall": "nightfall1",
+      "umbralSpike": "umbralSpike1",
+      "nocturnalFissure": "nocturnalFissure1"
+    },
+    "attackPower": 128451,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1267"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 22,
+    "upgradeXP": 1261815,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 2051559
+  },
+  {
+    "identifier": "T8C4SDdragon",
+    "level": 5,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "331200"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 2607318,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T6C3SDdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "shadowApophet": "shadowApophet1",
+      "nightfall": "nightfall1",
+      "umbralSpike": "umbralSpike1",
+      "nocturnalFissure": "nocturnalFissure1"
+    },
+    "attackPower": 131662,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1288"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 22,
+    "upgradeXP": 1453767,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 2155326
+  },
+  {
+    "identifier": "T8C4SDdragon",
+    "level": 6,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "336600"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 2672494,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T6C3SDdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "shadowApophet": "shadowApophet1",
+      "nightfall": "nightfall1",
+      "umbralSpike": "umbralSpike1",
+      "nocturnalFissure": "nocturnalFissure1"
+    },
+    "attackPower": 134953,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1309"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 23,
+    "upgradeXP": 1647196,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 2264505
+  },
+  {
+    "identifier": "T8C4SDdragon",
+    "level": 7,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "342000"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 2739302,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T6C3SDdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "shadowApophet": "shadowApophet1",
+      "nightfall": "nightfall1",
+      "umbralSpike": "umbralSpike1",
+      "nocturnalFissure": "nocturnalFissure1"
+    },
+    "attackPower": 138327,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1330"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 23,
+    "upgradeXP": 1688376,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 2379087
+  },
+  {
+    "identifier": "T8C4SDdragon",
+    "level": 8,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "347400"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 2807777,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T6C3SDdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "shadowApophet": "shadowApophet1",
+      "nightfall": "nightfall1",
+      "umbralSpike": "umbralSpike1",
+      "nocturnalFissure": "nocturnalFissure1"
+    },
+    "attackPower": 141785,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1351"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 23,
+    "upgradeXP": 1730585,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 2499571
+  },
+  {
+    "identifier": "T8C4SDdragon",
+    "level": 9,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "352800"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 2877960,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T6C3SDdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "shadowApophet": "shadowApophet1",
+      "nightfall": "nightfall1",
+      "umbralSpike": "umbralSpike1",
+      "nocturnalFissure": "nocturnalFissure1"
+    },
+    "attackPower": 145329,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1372"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 24,
+    "upgradeXP": 1773847,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 2626082
+  },
+  {
+    "identifier": "T8C4SDdragon",
+    "level": 10,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "358200"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 2949896,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T6C3SDdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "shadowApophet": "shadowApophet1",
+      "nightfall": "nightfall1",
+      "umbralSpike": "umbralSpike1",
+      "nocturnalFissure": "nocturnalFissure1"
+    },
+    "attackPower": 148963,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1393"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 24,
+    "upgradeXP": 1818191,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 2759007
+  },
+  {
+    "identifier": "T8C4SDdragon",
+    "level": 11,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "363600"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 3023627,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T6C3SDdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "shadowApophet": "shadowApophet1",
+      "nightfall": "nightfall1",
+      "umbralSpike": "umbralSpike1",
+      "nocturnalFissure": "nocturnalFissure1"
+    },
+    "attackPower": 152686,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1414"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 24,
+    "upgradeXP": 1863645,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 2898615
+  },
+  {
+    "identifier": "T8C4SDdragon",
+    "level": 12,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "369000"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 3099198,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T6C3SDdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "shadowApophet": "shadowApophet1",
+      "nightfall": "nightfall1",
+      "umbralSpike": "umbralSpike1",
+      "nocturnalFissure": "nocturnalFissure1"
+    },
+    "attackPower": 154548,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1435"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 25,
+    "upgradeXP": 1910233,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 3007297
+  },
+  {
+    "identifier": "T8C4SDdragon",
+    "level": 13,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "374400"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 3176655,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T6C3SDdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "shadowApophet": "shadowApophet1",
+      "nightfall": "nightfall1",
+      "umbralSpike": "umbralSpike1",
+      "nocturnalFissure": "nocturnalFissure1"
+    },
+    "attackPower": 156440,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1456"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 25,
+    "upgradeXP": 1957988,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 3120281
+  },
+  {
+    "identifier": "T8C4SDdragon",
+    "level": 14,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "379800"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 3256051,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T6C3SDdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "shadowApophet": "shadowApophet1",
+      "nightfall": "nightfall1",
+      "umbralSpike": "umbralSpike1",
+      "nocturnalFissure": "nocturnalFissure1"
+    },
+    "attackPower": 160351,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1477"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 25,
+    "upgradeXP": 2006937,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 3278204
+  },
+  {
+    "identifier": "T8C4SDdragon",
+    "level": 15,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "385200"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 3337434,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T6C3SDdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "shadowApophet": "shadowApophet1",
+      "nightfall": "nightfall1",
+      "umbralSpike": "umbralSpike1",
+      "nocturnalFissure": "nocturnalFissure1"
+    },
+    "attackPower": 164359,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1498"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 26,
+    "upgradeXP": 2057111,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 3444152
+  },
+  {
+    "identifier": "T8C4SDdragon",
+    "level": 16,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "390600"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 3420854,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T6C3SDdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "shadowApophet": "shadowApophet1",
+      "nightfall": "nightfall1",
+      "umbralSpike": "umbralSpike1",
+      "nocturnalFissure": "nocturnalFissure1"
+    },
+    "attackPower": 168468,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1519"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 26,
+    "upgradeXP": 2108537,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 3618428
+  },
+  {
+    "identifier": "T8C4SDdragon",
+    "level": 17,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "396000"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 3506361,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T6C3SDdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "shadowApophet": "shadowApophet1",
+      "nightfall": "nightfall1",
+      "umbralSpike": "umbralSpike1",
+      "nocturnalFissure": "nocturnalFissure1"
+    },
+    "attackPower": 172680,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1540"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 26,
+    "upgradeXP": 2161250,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 3801618
+  },
+  {
+    "identifier": "T8C4SDdragon",
+    "level": 18,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "401400"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 3594001,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T6C3SDdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "shadowApophet": "shadowApophet1",
+      "nightfall": "nightfall1",
+      "umbralSpike": "umbralSpike1",
+      "nocturnalFissure": "nocturnalFissure1"
+    },
+    "attackPower": 176997,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1561"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 27,
+    "upgradeXP": 2942339,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 3994045
+  },
+  {
+    "identifier": "T8C4SDdragon",
+    "level": 19,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "540313"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 3683839,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T6C3SDdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "shadowApophet": "shadowApophet1",
+      "nightfall": "nightfall1",
+      "umbralSpike": "umbralSpike1",
+      "nocturnalFissure": "nocturnalFissure1"
+    },
+    "attackPower": 181421,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1582"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 27,
+    "upgradeXP": 3015896,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 4196175
+  },
+  {
+    "identifier": "T8C4SDdragon",
+    "level": 20,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "547485"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 3775923,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T6C3SDdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "shadowApophet": "shadowApophet1",
+      "nightfall": "nightfall1",
+      "umbralSpike": "umbralSpike1",
+      "nocturnalFissure": "nocturnalFissure1"
+    },
+    "attackPower": 185957,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1603"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 27,
+    "upgradeXP": 3091290,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 4408635
+  },
+  {
+    "identifier": "T8C4SDdragon",
+    "level": 21,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "554657"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 3870308,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T6C3SDdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "shadowApophet": "shadowApophet1",
+      "nightfall": "nightfall1",
+      "umbralSpike": "umbralSpike1",
+      "nocturnalFissure": "nocturnalFissure1"
+    },
+    "attackPower": 190606,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1624"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 28,
+    "upgradeXP": 3168571,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 4631774
+  },
+  {
+    "identifier": "T8C4SDdragon",
+    "level": 22,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "561830"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 3967055,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T6C3SDdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "shadowApophet": "shadowApophet1",
+      "nightfall": "nightfall1",
+      "umbralSpike": "umbralSpike1",
+      "nocturnalFissure": "nocturnalFissure1"
+    },
+    "attackPower": 195371,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1645"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 28,
+    "upgradeXP": 3972320,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 4866239
+  },
+  {
+    "identifier": "T8C4SDdragon",
+    "level": 23,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "695938"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 4066218,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T6C3SDdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "shadowApophet": "shadowApophet1",
+      "nightfall": "nightfall1",
+      "umbralSpike": "umbralSpike1",
+      "nocturnalFissure": "nocturnalFissure1"
+    },
+    "attackPower": 200255,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1666"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 28,
+    "upgradeXP": 4071626,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 5112696
+  },
+  {
+    "identifier": "T8C4SDdragon",
+    "level": 24,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "704711"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 4167859,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T6C3SDdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "shadowApophet": "shadowApophet1",
+      "nightfall": "nightfall1",
+      "umbralSpike": "umbralSpike1",
+      "nocturnalFissure": "nocturnalFissure1"
+    },
+    "attackPower": 205261,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1687"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 29,
+    "upgradeXP": 4173411,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 5371377
+  },
+  {
+    "identifier": "T8C4SDdragon",
+    "level": 25,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "713483"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 4272035,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T6C3SDdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "shadowApophet": "shadowApophet1",
+      "nightfall": "nightfall1",
+      "umbralSpike": "umbralSpike1",
+      "nocturnalFissure": "nocturnalFissure1"
+    },
+    "attackPower": 210393,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1708"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 29,
+    "upgradeXP": 4277745,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 5643270
+  },
+  {
+    "identifier": "T8C4SDdragon",
+    "level": 26,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "722255"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 4378817,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T6C3SDdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "shadowApophet": "shadowApophet1",
+      "nightfall": "nightfall1",
+      "umbralSpike": "umbralSpike1",
+      "nocturnalFissure": "nocturnalFissure1"
+    },
+    "attackPower": 215652,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1729"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 29,
+    "upgradeXP": 5125964,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 5929084
+  },
+  {
+    "identifier": "T8C4SDdragon",
+    "level": 27,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "854616"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 4488267,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T6C3SDdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "shadowApophet": "shadowApophet1",
+      "nightfall": "nightfall1",
+      "umbralSpike": "umbralSpike1",
+      "nocturnalFissure": "nocturnalFissure1"
+    },
+    "attackPower": 221043,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1750"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 30,
+    "upgradeXP": 5254113,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 6229083
+  },
+  {
+    "identifier": "T8C4SDdragon",
+    "level": 28,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "864871"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 4600454,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T6C3SDdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "shadowApophet": "shadowApophet1",
+      "nightfall": "nightfall1",
+      "umbralSpike": "umbralSpike1",
+      "nocturnalFissure": "nocturnalFissure1"
+    },
+    "attackPower": 226569,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1771"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 30,
+    "upgradeXP": 5385463,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 6544464
+  },
+  {
+    "identifier": "T8C4SDdragon",
+    "level": 29,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "875126"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 4715453,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T6C3SDdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "shadowApophet": "shadowApophet1",
+      "nightfall": "nightfall1",
+      "umbralSpike": "umbralSpike1",
+      "nocturnalFissure": "nocturnalFissure1"
+    },
+    "attackPower": 232233,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1792"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 30,
+    "upgradeXP": 5520098,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 6875672
+  },
+  {
+    "identifier": "T8C4SDdragon",
+    "level": 30,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "885382"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 4833332,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T6C3SDdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "shadowApophet": "shadowApophet1",
+      "nightfall": "nightfall1",
+      "umbralSpike": "umbralSpike1",
+      "nocturnalFissure": "nocturnalFissure1"
+    },
+    "attackPower": 238039,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1813"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 31,
+    "upgradeXP": 5658095,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 7223789
+  },
+  {
+    "identifier": "T8C4SDdragon",
+    "level": 31,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "895637"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 4954160,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T6C3SDdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "shadowApophet": "shadowApophet1",
+      "nightfall": "nightfall1",
+      "umbralSpike": "umbralSpike1",
+      "nocturnalFissure": "nocturnalFissure1"
+    },
+    "attackPower": 243990,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1834"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 31,
+    "upgradeXP": 5799545,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 7589447
+  },
+  {
+    "identifier": "T8C4SDdragon",
+    "level": 32,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "905892"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 5078000,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T6C3SDdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "shadowApophet": "shadowApophet1",
+      "nightfall": "nightfall1",
+      "umbralSpike": "umbralSpike1",
+      "nocturnalFissure": "nocturnalFissure1"
+    },
+    "attackPower": 250090,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1855"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 31,
+    "upgradeXP": 5944533,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 7973770
+  },
+  {
+    "identifier": "T8C4SDdragon",
+    "level": 33,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "916148"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 5204930,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T6C3SDdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "shadowApophet": "shadowApophet1",
+      "nightfall": "nightfall1",
+      "umbralSpike": "umbralSpike1",
+      "nocturnalFissure": "nocturnalFissure1"
+    },
+    "attackPower": 256342,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1876"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 32,
+    "upgradeXP": 6093146,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 8377262
+  },
+  {
+    "identifier": "T8C4SDdragon",
+    "level": 34,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "926403"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 5335033,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T6C3SDdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "shadowApophet": "shadowApophet1",
+      "nightfall": "nightfall1",
+      "umbralSpike": "umbralSpike1",
+      "nocturnalFissure": "nocturnalFissure1"
+    },
+    "attackPower": 262750,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1897"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 32,
+    "upgradeXP": 6245471,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 8801413
+  },
+  {
+    "identifier": "T8C4SDdragon",
+    "level": 35,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "936659"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 5468391,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T6C3SDdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "shadowApophet": "shadowApophet1",
+      "nightfall": "nightfall1",
+      "umbralSpike": "umbralSpike1",
+      "nocturnalFissure": "nocturnalFissure1"
+    },
+    "attackPower": 269319,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1918"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 32,
+    "upgradeXP": 0,
+    "xpRewardMultiplier": 1.2,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 9246926
+  }
+]

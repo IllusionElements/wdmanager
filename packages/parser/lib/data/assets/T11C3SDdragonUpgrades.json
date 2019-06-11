@@ -1,0 +1,1325 @@
+[
+  {
+    "identifier": "T11C3SDdragon",
+    "level": 1,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "0"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 8200406,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T11C3SDdragon_lockon"
+      }
+    ],
+    "abilities": {},
+    "attackPower": 403887,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1968"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 38,
+    "upgradeXP": 2847862,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 21627242
+  },
+  {
+    "identifier": "T11C3SDdragon",
+    "level": 2,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "524304"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 8405396,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T11C3SDdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "northernLights": "northernLightsDark1"
+    },
+    "attackPower": 413984,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1986"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 39,
+    "upgradeXP": 2919057,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 22722051
+  },
+  {
+    "identifier": "T11C3SDdragon",
+    "level": 3,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "529056"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 8615511,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T11C3SDdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "northernLights": "northernLightsDark1"
+    },
+    "attackPower": 424333,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2004"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 39,
+    "upgradeXP": 3399328,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 23872287
+  },
+  {
+    "identifier": "T11C3SDdragon",
+    "level": 4,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "533808"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 8830879,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T11C3SDdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "northernLights": "northernLightsDark1"
+    },
+    "attackPower": 434941,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2022"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 39,
+    "upgradeXP": 4009666,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 25080699
+  },
+  {
+    "identifier": "T11C3SDdragon",
+    "level": 5,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "538560"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 9051637,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T11C3SDdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "northernLights": "northernLightsDark1",
+      "chainLightning": "chainLightning1"
+    },
+    "attackPower": 445814,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2040"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 40,
+    "upgradeXP": 4619637,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 26350272
+  },
+  {
+    "identifier": "T11C3SDdragon",
+    "level": 6,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "543312"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 9277918,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T11C3SDdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "northernLights": "northernLightsDark1",
+      "chainLightning": "chainLightning1"
+    },
+    "attackPower": 456960,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2058"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 40,
+    "upgradeXP": 5234300,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 27684241
+  },
+  {
+    "identifier": "T11C3SDdragon",
+    "level": 7,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "548064"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 9509854,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T11C3SDdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "northernLights": "northernLightsDark1",
+      "chainLightning": "chainLightning1"
+    },
+    "attackPower": 468383,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2076"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 41,
+    "upgradeXP": 5365156,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 29085711
+  },
+  {
+    "identifier": "T11C3SDdragon",
+    "level": 8,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "552816"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 9747585,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T11C3SDdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "northernLights": "northernLightsDark1",
+      "chainLightning": "chainLightning1"
+    },
+    "attackPower": 480093,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2094"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 41,
+    "upgradeXP": 5499283,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 30558228
+  },
+  {
+    "identifier": "T11C3SDdragon",
+    "level": 9,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "557568"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 9991259,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T11C3SDdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "northernLights": "northernLightsDark1",
+      "chainLightning": "chainLightning1",
+      "nova": "nova1"
+    },
+    "attackPower": 492095,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2112"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 42,
+    "upgradeXP": 5636766,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 32105211
+  },
+  {
+    "identifier": "T11C3SDdragon",
+    "level": 10,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "562320"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 10241021,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T11C3SDdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "northernLights": "northernLightsDark1",
+      "chainLightning": "chainLightning1",
+      "nova": "nova1"
+    },
+    "attackPower": 504397,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2130"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 42,
+    "upgradeXP": 5777685,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 33730337
+  },
+  {
+    "identifier": "T11C3SDdragon",
+    "level": 11,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "567072"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 10497024,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T11C3SDdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "northernLights": "northernLightsDark1",
+      "chainLightning": "chainLightning1",
+      "nova": "nova1"
+    },
+    "attackPower": 517007,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2148"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 43,
+    "upgradeXP": 5922123,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 35437935
+  },
+  {
+    "identifier": "T11C3SDdragon",
+    "level": 12,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "571824"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 10759431,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T11C3SDdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "northernLights": "northernLightsDark1",
+      "chainLightning": "chainLightning1",
+      "nova": "nova1"
+    },
+    "attackPower": 529932,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2166"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 43,
+    "upgradeXP": 6070176,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 37231828
+  },
+  {
+    "identifier": "T11C3SDdragon",
+    "level": 13,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "576576"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 11028399,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T11C3SDdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "northernLights": "northernLightsDark1",
+      "chainLightning": "chainLightning1",
+      "nova": "nova1"
+    },
+    "attackPower": 543180,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2184"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 44,
+    "upgradeXP": 6221928,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 39116698
+  },
+  {
+    "identifier": "T11C3SDdragon",
+    "level": 14,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "581328"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 11304091,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T11C3SDdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "northernLights": "northernLightsDark1",
+      "chainLightning": "chainLightning1",
+      "nova": "nova1",
+      "cannonResist01": "cannonResist01"
+    },
+    "attackPower": 556760,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2202"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 44,
+    "upgradeXP": 6377476,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 41096917
+  },
+  {
+    "identifier": "T11C3SDdragon",
+    "level": 15,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "586080"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 11586676,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T11C3SDdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "northernLights": "northernLightsDark1",
+      "chainLightning": "chainLightning1",
+      "nova": "nova1",
+      "cannonResist01": "cannonResist01"
+    },
+    "attackPower": 570679,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2220"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 45,
+    "upgradeXP": 6536910,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 43177334
+  },
+  {
+    "identifier": "T11C3SDdragon",
+    "level": 16,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "590833"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 11876323,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T11C3SDdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "northernLights": "northernLightsDark1",
+      "chainLightning": "chainLightning1",
+      "nova": "nova1",
+      "cannonResist01": "cannonResist01"
+    },
+    "attackPower": 584945,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2238"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 45,
+    "upgradeXP": 6700333,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 45363091
+  },
+  {
+    "identifier": "T11C3SDdragon",
+    "level": 17,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "595584"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 12173212,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T11C3SDdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "northernLights": "northernLightsDark1",
+      "chainLightning": "chainLightning1",
+      "nova": "nova1",
+      "cannonResist01": "cannonResist01"
+    },
+    "attackPower": 599569,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2256"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 46,
+    "upgradeXP": 6867840,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 47659622
+  },
+  {
+    "identifier": "T11C3SDdragon",
+    "level": 18,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "600336"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 12477526,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T11C3SDdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "northernLights": "northernLightsDark1",
+      "chainLightning": "chainLightning1",
+      "nova": "nova1",
+      "cannonResist01": "cannonResist01"
+    },
+    "attackPower": 614558,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2274"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 46,
+    "upgradeXP": 9349918,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 50072261
+  },
+  {
+    "identifier": "T11C3SDdragon",
+    "level": 19,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "803679"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 12789454,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T11C3SDdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "northernLights": "northernLightsDark1",
+      "chainLightning": "chainLightning1",
+      "nova": "nova1",
+      "cannonResist01": "cannonResist01"
+    },
+    "attackPower": 629922,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2292"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 47,
+    "upgradeXP": 9583663,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 52607048
+  },
+  {
+    "identifier": "T11C3SDdragon",
+    "level": 20,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "809991"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 13109181,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T11C3SDdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "northernLights": "northernLightsDark1",
+      "chainLightning": "chainLightning1",
+      "nova": "nova1",
+      "cannonResist01": "cannonResist01"
+    },
+    "attackPower": 645670,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2310"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 47,
+    "upgradeXP": 9823251,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 55270340
+  },
+  {
+    "identifier": "T11C3SDdragon",
+    "level": 21,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "816302"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 13436899,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T11C3SDdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "northernLights": "northernLightsDark1",
+      "chainLightning": "chainLightning1",
+      "nova": "nova1",
+      "cannonResist01": "cannonResist01"
+    },
+    "attackPower": 661811,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2328"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 48,
+    "upgradeXP": 10068831,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 58068192
+  },
+  {
+    "identifier": "T11C3SDdragon",
+    "level": 22,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "822614"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 13772810,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T11C3SDdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "northernLights": "northernLightsDark1",
+      "chainLightning": "chainLightning1",
+      "nova": "nova1",
+      "cannonResist01": "cannonResist01"
+    },
+    "attackPower": 678356,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2346"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 48,
+    "upgradeXP": 12622926,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 61007811
+  },
+  {
+    "identifier": "T11C3SDdragon",
+    "level": 23,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1013847"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 14117119,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T11C3SDdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "northernLights": "northernLightsDark1",
+      "chainLightning": "chainLightning1",
+      "nova": "nova1",
+      "cannonResist01": "cannonResist01"
+    },
+    "attackPower": 695315,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2364"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 49,
+    "upgradeXP": 12938499,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 64096321
+  },
+  {
+    "identifier": "T11C3SDdragon",
+    "level": 24,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1021567"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 14470041,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T11C3SDdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "northernLights": "northernLightsDark1",
+      "chainLightning": "chainLightning1",
+      "nova": "nova1",
+      "cannonResist01": "cannonResist01"
+    },
+    "attackPower": 712698,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2382"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 49,
+    "upgradeXP": 13261960,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 67341184
+  },
+  {
+    "identifier": "T11C3SDdragon",
+    "level": 25,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1029287"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 14831782,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T11C3SDdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "northernLights": "northernLightsDark1",
+      "chainLightning": "chainLightning1",
+      "nova": "nova1",
+      "cannonResist01": "cannonResist01"
+    },
+    "attackPower": 730515,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2400"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 50,
+    "upgradeXP": 13593506,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 70750207
+  },
+  {
+    "identifier": "T11C3SDdragon",
+    "level": 26,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1037006"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 15202562,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T11C3SDdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "northernLights": "northernLightsDark1",
+      "chainLightning": "chainLightning1",
+      "nova": "nova1",
+      "cannonResist01": "cannonResist01"
+    },
+    "attackPower": 748778,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2418"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 51,
+    "upgradeXP": 16288921,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 74331972
+  },
+  {
+    "identifier": "T11C3SDdragon",
+    "level": 27,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1221348"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 15582614,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T11C3SDdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "northernLights": "northernLightsDark1",
+      "chainLightning": "chainLightning1",
+      "nova": "nova1",
+      "cannonResist01": "cannonResist01"
+    },
+    "attackPower": 767497,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2436"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 52,
+    "upgradeXP": 16696141,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 78094999
+  },
+  {
+    "identifier": "T11C3SDdragon",
+    "level": 28,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1230373"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 15972165,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T11C3SDdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "northernLights": "northernLightsDark1",
+      "chainLightning": "chainLightning1",
+      "nova": "nova1",
+      "cannonResist01": "cannonResist01"
+    },
+    "attackPower": 786685,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2454"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 53,
+    "upgradeXP": 17113541,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 82048386
+  },
+  {
+    "identifier": "T11C3SDdragon",
+    "level": 29,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1239397"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 16371452,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T11C3SDdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "northernLights": "northernLightsDark1",
+      "chainLightning": "chainLightning1",
+      "nova": "nova1",
+      "cannonResist01": "cannonResist01"
+    },
+    "attackPower": 806352,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2472"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 54,
+    "upgradeXP": 17541374,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 86202043
+  },
+  {
+    "identifier": "T11C3SDdragon",
+    "level": 30,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1248422"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 16780724,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T11C3SDdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "northernLights": "northernLightsDark1",
+      "chainLightning": "chainLightning1",
+      "nova": "nova1",
+      "cannonResist01": "cannonResist01"
+    },
+    "attackPower": 826510,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2490"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 55,
+    "upgradeXP": 0,
+    "xpRewardMultiplier": 1.2,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 88104753
+  }
+]

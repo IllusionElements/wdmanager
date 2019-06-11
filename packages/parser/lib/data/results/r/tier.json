@@ -1,0 +1,58 @@
+[
+  {
+    "tier": 1,
+    "tierName": "Red"
+  },
+  {
+    "tier": 2,
+    "tierName": "Purple"
+  },
+  {
+    "tier": 3,
+    "tierName": "Blue"
+  },
+  {
+    "tier": 4,
+    "tierName": "Orange"
+  },
+  {
+    "tier": 5,
+    "tierName": "Green"
+  },
+  {
+    "tier": 6,
+    "tierName": "Gold"
+  },
+  {
+    "tier": 7,
+    "tierName": "Platinum"
+  },
+  {
+    "tier": 8,
+    "tierName": "Sapphire"
+  },
+  {
+    "tier": 9,
+    "tierName": "Garnet"
+  },
+  {
+    "tier": 10,
+    "tierName": "Emerald"
+  },
+  {
+    "tier": 11,
+    "tierName": "Obsidian"
+  },
+  {
+    "tier": 12,
+    "tierName": "Harbinger"
+  },
+  {
+    "tier": 13,
+    "tierName": "Vanguard"
+  },
+  {
+    "tier": 14,
+    "tierName": "Empyrean"
+  }
+]

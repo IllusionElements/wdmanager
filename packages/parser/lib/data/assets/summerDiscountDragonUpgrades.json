@@ -1,0 +1,2384 @@
+[
+  {
+    "identifier": "summerDiscountDragon",
+    "level": 1,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "34272"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 215737,
+    "fullHealDuration": 13562,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T1C1WFdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "energySyphon": "syphon1",
+      "sacrifice": "whiteSacrifice1"
+    },
+    "attackPower": 2654,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "140"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 7,
+    "upgradeXP": 56974,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 14319,
+    "nextEvolveLevel": 7,
+    "tierNumber": 4,
+    "rarity": 4
+  },
+  {
+    "identifier": "summerDiscountDragon",
+    "level": 2,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "39168"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 277561,
+    "fullHealDuration": 15840,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T1C1WFdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "energySyphon": "syphon1",
+      "sacrifice": "whiteSacrifice1"
+    },
+    "attackPower": 2933,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "160"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 8,
+    "upgradeXP": 95783,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 20360,
+    "nextEvolveLevel": 7,
+    "tierNumber": 4,
+    "rarity": 4
+  },
+  {
+    "identifier": "summerDiscountDragon",
+    "level": 3,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "58526"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 296957,
+    "fullHealDuration": 15840,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T1C1WFdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "energySyphon": "syphon1",
+      "sacrifice": "whiteSacrifice1"
+    },
+    "attackPower": 3168,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "180"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 9,
+    "upgradeXP": 120232,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 23504,
+    "nextEvolveLevel": 7,
+    "tierNumber": 4,
+    "rarity": 4
+  },
+  {
+    "identifier": "summerDiscountDragon",
+    "level": 4,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "79536"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 321054,
+    "fullHealDuration": 15840,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T1C1WFdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "energySyphon": "syphon1",
+      "sacrifice": "whiteSacrifice1"
+    },
+    "attackPower": 3466,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "200"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 9,
+    "upgradeXP": 184501,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 27840,
+    "nextEvolveLevel": 7,
+    "tierNumber": 4,
+    "rarity": 4
+  },
+  {
+    "identifier": "summerDiscountDragon",
+    "level": 5,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "106930"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 365218,
+    "fullHealDuration": 15840,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T1C1WFdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "energySyphon": "syphon1",
+      "sacrifice": "whiteSacrifice1"
+    },
+    "attackPower": 3892,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "230"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 10,
+    "upgradeXP": 215866,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 35574,
+    "nextEvolveLevel": 7,
+    "tierNumber": 4,
+    "rarity": 4
+  },
+  {
+    "identifier": "summerDiscountDragon",
+    "level": 6,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "112811"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 415287,
+    "fullHealDuration": 15840,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T1C1WFdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "energySyphon": "syphon1",
+      "sacrifice": "whiteSacrifice1"
+    },
+    "attackPower": 4439,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "260"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 11,
+    "upgradeXP": 252563,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 46097,
+    "nextEvolveLevel": 7,
+    "tierNumber": 4,
+    "rarity": 4
+  },
+  {
+    "identifier": "summerDiscountDragon",
+    "level": 7,
+    "upgradeCost": [
+      {
+        "type": "summerDiscountGreenStone",
+        "amount": "1"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "have2GreenEpic",
+    "HP": 586772,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T1C1WFdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "energySyphon": "syphon1",
+      "sacrifice": "whiteSacrifice1",
+      "lightningResist01": "lightningResist01"
+    },
+    "attackPower": 6252,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "384"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 13,
+    "upgradeXP": 271862,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 77723,
+    "nextEvolveLevel": 13,
+    "tierNumber": 5,
+    "rarity": 4
+  },
+  {
+    "identifier": "summerDiscountDragon",
+    "level": 8,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "125562"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 666259,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T1C1WFdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "energySyphon": "syphon1",
+      "sacrifice": "whiteSacrifice1",
+      "lightningResist01": "lightningResist01"
+    },
+    "attackPower": 6990,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "420"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 14,
+    "upgradeXP": 308628,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 98631,
+    "nextEvolveLevel": 13,
+    "tierNumber": 5,
+    "rarity": 4
+  },
+  {
+    "identifier": "summerDiscountDragon",
+    "level": 9,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "132468"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 822792,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T1C1WFdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "energySyphon": "syphon1",
+      "sacrifice": "whiteSacrifice1",
+      "lightningResist01": "lightningResist01"
+    },
+    "attackPower": 7638,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "456"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 15,
+    "upgradeXP": 465181,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 133071,
+    "nextEvolveLevel": 13,
+    "tierNumber": 5,
+    "rarity": 4
+  },
+  {
+    "identifier": "summerDiscountDragon",
+    "level": 10,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "139753"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 885586,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T1C1WFdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "energySyphon": "syphon1",
+      "sacrifice": "whiteSacrifice1",
+      "lightningResist01": "lightningResist01"
+    },
+    "attackPower": 8286,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "492"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 16,
+    "upgradeXP": 530981,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 155439,
+    "nextEvolveLevel": 13,
+    "tierNumber": 5,
+    "rarity": 4
+  },
+  {
+    "identifier": "summerDiscountDragon",
+    "level": 11,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "147440"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 979236,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T1C1WFdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "energySyphon": "syphon1",
+      "sacrifice": "whiteSacrifice1",
+      "lightningResist01": "lightningResist01"
+    },
+    "attackPower": 9196,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "528"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 17,
+    "upgradeXP": 589581,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 190664,
+    "nextEvolveLevel": 13,
+    "tierNumber": 5,
+    "rarity": 4
+  },
+  {
+    "identifier": "summerDiscountDragon",
+    "level": 12,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "155549"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 1116872,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T1C1WFdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "energySyphon": "syphon1",
+      "sacrifice": "whiteSacrifice1",
+      "lightningResist01": "lightningResist01"
+    },
+    "attackPower": 10391,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "564"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 18,
+    "upgradeXP": 648181,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 245751,
+    "nextEvolveLevel": 13,
+    "tierNumber": 5,
+    "rarity": 4
+  },
+  {
+    "identifier": "summerDiscountDragon",
+    "level": 13,
+    "upgradeCost": [
+      {
+        "type": "summerDiscountGoldStone",
+        "amount": "1"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "haveGoldLegendary",
+    "HP": 1185463,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T1C1WFdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "energySyphon": "syphon1",
+      "sacrifice": "whiteSacrifice1",
+      "lightningResist01": "lightningResist01",
+      "fireTurretResist01": "fireTurretResist01"
+    },
+    "attackPower": 11081,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "582"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 18,
+    "upgradeXP": 706781,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 278239,
+    "nextEvolveLevel": 21,
+    "tierNumber": 6,
+    "rarity": 4
+  },
+  {
+    "identifier": "summerDiscountDragon",
+    "level": 14,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "173130"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 1433826,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T1C1WFdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "energySyphon": "syphon1",
+      "sacrifice": "whiteSacrifice1",
+      "lightningResist01": "lightningResist01",
+      "fireTurretResist01": "fireTurretResist01"
+    },
+    "attackPower": 13402,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "636"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 18,
+    "upgradeXP": 765381,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 407027,
+    "nextEvolveLevel": 21,
+    "tierNumber": 6,
+    "rarity": 4
+  },
+  {
+    "identifier": "summerDiscountDragon",
+    "level": 15,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "182652"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 1732820,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T1C1WFdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "energySyphon": "syphon1",
+      "sacrifice": "whiteSacrifice1",
+      "lightningResist01": "lightningResist01",
+      "fireTurretResist01": "fireTurretResist01"
+    },
+    "attackPower": 16130,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "690"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 18,
+    "upgradeXP": 823981,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 592013,
+    "nextEvolveLevel": 21,
+    "tierNumber": 6,
+    "rarity": 4
+  },
+  {
+    "identifier": "summerDiscountDragon",
+    "level": 16,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "192698"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 2039350,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T1C1WFdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "energySyphon": "syphon1",
+      "sacrifice": "whiteSacrifice1",
+      "lightningResist01": "lightningResist01",
+      "fireTurretResist01": "fireTurretResist01"
+    },
+    "attackPower": 18765,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "744"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 19,
+    "upgradeXP": 882581,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 810510,
+    "nextEvolveLevel": 21,
+    "tierNumber": 6,
+    "rarity": 5
+  },
+  {
+    "identifier": "summerDiscountDragon",
+    "level": 17,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "203296"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "have2LegendaryGold",
+    "HP": 2217745,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T1C1WFdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "energySyphon": "syphon1",
+      "sacrifice": "whiteSacrifice1",
+      "lightningResist01": "lightningResist01",
+      "fireTurretResist01": "fireTurretResist01"
+    },
+    "attackPower": 20615,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "798"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 19,
+    "upgradeXP": 941181,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 968297,
+    "nextEvolveLevel": 21,
+    "tierNumber": 6,
+    "rarity": 5
+  },
+  {
+    "identifier": "summerDiscountDragon",
+    "level": 18,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "214477"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 2388213,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T1C1WFdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "energySyphon": "syphon1",
+      "sacrifice": "whiteSacrifice1",
+      "lightningResist01": "lightningResist01",
+      "fireTurretResist01": "fireTurretResist01"
+    },
+    "attackPower": 22200,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "852"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 20,
+    "upgradeXP": 999781,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 1122845,
+    "nextEvolveLevel": 21,
+    "tierNumber": 6,
+    "rarity": 5
+  },
+  {
+    "identifier": "summerDiscountDragon",
+    "level": 19,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "226274"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 2571799,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T1C1WFdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "energySyphon": "syphon1",
+      "sacrifice": "whiteSacrifice1",
+      "lightningResist01": "lightningResist01",
+      "fireTurretResist01": "fireTurretResist01"
+    },
+    "attackPower": 23906,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "906"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 21,
+    "upgradeXP": 1044683,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 1302133,
+    "nextEvolveLevel": 21,
+    "tierNumber": 6,
+    "rarity": 5
+  },
+  {
+    "identifier": "summerDiscountDragon",
+    "level": 20,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "238719"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 2769492,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T1C1WFdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "energySyphon": "syphon1",
+      "sacrifice": "whiteSacrifice1",
+      "lightningResist01": "lightningResist01",
+      "fireTurretResist01": "fireTurretResist01"
+    },
+    "attackPower": 25744,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "960"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 22,
+    "upgradeXP": 1117811,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 1510046,
+    "nextEvolveLevel": 21,
+    "tierNumber": 6,
+    "rarity": 5
+  },
+  {
+    "identifier": "summerDiscountDragon",
+    "level": 21,
+    "upgradeCost": [
+      {
+        "type": "summerDiscountPlatinumStone",
+        "amount": "1"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "havePlatinumLegendary",
+    "HP": 2909652,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T1C1WFdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "energySyphon": "syphon1",
+      "sacrifice": "whiteSacrifice1",
+      "lightningResist01": "lightningResist01",
+      "fireTurretResist01": "fireTurretResist01"
+    },
+    "attackPower": 27047,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "996"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 23,
+    "upgradeXP": 1229592,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 1666801,
+    "nextEvolveLevel": 29,
+    "tierNumber": 7,
+    "rarity": 5
+  },
+  {
+    "identifier": "summerDiscountDragon",
+    "level": 22,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "265700"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 3133308,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T1C1WFdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "energySyphon": "syphon1",
+      "sacrifice": "whiteSacrifice1",
+      "lightningResist01": "lightningResist01",
+      "fireTurretResist01": "fireTurretResist01"
+    },
+    "attackPower": 29127,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1050"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 24,
+    "upgradeXP": 1352551,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 1932930,
+    "nextEvolveLevel": 29,
+    "tierNumber": 7,
+    "rarity": 5
+  },
+  {
+    "identifier": "summerDiscountDragon",
+    "level": 23,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "280313"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 3374177,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T1C1WFdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "energySyphon": "syphon1",
+      "sacrifice": "whiteSacrifice1",
+      "lightningResist01": "lightningResist01",
+      "fireTurretResist01": "fireTurretResist01"
+    },
+    "attackPower": 31366,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1104"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 25,
+    "upgradeXP": 1487806,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 2241539,
+    "nextEvolveLevel": 29,
+    "tierNumber": 7,
+    "rarity": 5
+  },
+  {
+    "identifier": "summerDiscountDragon",
+    "level": 24,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "295731"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 3633594,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T1C1WFdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "energySyphon": "syphon1",
+      "sacrifice": "whiteSacrifice1",
+      "lightningResist01": "lightningResist01",
+      "fireTurretResist01": "fireTurretResist01"
+    },
+    "attackPower": 33778,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1158"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 26,
+    "upgradeXP": 1636587,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 2599554,
+    "nextEvolveLevel": 29,
+    "tierNumber": 7,
+    "rarity": 5
+  },
+  {
+    "identifier": "summerDiscountDragon",
+    "level": 25,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "311996"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 3912929,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T1C1WFdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "energySyphon": "syphon1",
+      "sacrifice": "whiteSacrifice1",
+      "lightningResist01": "lightningResist01",
+      "fireTurretResist01": "fireTurretResist01"
+    },
+    "attackPower": 36376,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1212"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 26,
+    "upgradeXP": 1800246,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 3014560,
+    "nextEvolveLevel": 29,
+    "tierNumber": 7,
+    "rarity": 5
+  },
+  {
+    "identifier": "summerDiscountDragon",
+    "level": 26,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "329156"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "have2LegendaryPlatinum",
+    "HP": 4213713,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T1C1WFdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "energySyphon": "syphon1",
+      "sacrifice": "whiteSacrifice1",
+      "lightningResist01": "lightningResist01",
+      "fireTurretResist01": "fireTurretResist01"
+    },
+    "attackPower": 38201,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1266"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 26,
+    "upgradeXP": 1980271,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 3409332,
+    "nextEvolveLevel": 29,
+    "tierNumber": 7,
+    "rarity": 5
+  },
+  {
+    "identifier": "summerDiscountDragon",
+    "level": 27,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "347259"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 4405845,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T1C1WFdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "energySyphon": "syphon1",
+      "sacrifice": "whiteSacrifice1",
+      "lightningResist01": "lightningResist01",
+      "fireTurretResist01": "fireTurretResist01"
+    },
+    "attackPower": 39943,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1284"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 26,
+    "upgradeXP": 2178298,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 3581918,
+    "nextEvolveLevel": 29,
+    "tierNumber": 7,
+    "rarity": 5
+  },
+  {
+    "identifier": "summerDiscountDragon",
+    "level": 28,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "366358"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 4539344,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T1C1WFdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "energySyphon": "syphon1",
+      "sacrifice": "whiteSacrifice1",
+      "lightningResist01": "lightningResist01",
+      "fireTurretResist01": "fireTurretResist01"
+    },
+    "attackPower": 41152,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1284"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 26,
+    "upgradeXP": 2396128,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 3763165,
+    "nextEvolveLevel": 29,
+    "tierNumber": 7,
+    "rarity": 5
+  },
+  {
+    "identifier": "summerDiscountDragon",
+    "level": 29,
+    "upgradeCost": [
+      {
+        "type": "summerDiscountSapphireStone",
+        "amount": "1"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "haveLegendarySapphire",
+    "HP": 4651061,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T1C1WFdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "energySyphon": "syphon1",
+      "sacrifice": "whiteSacrifice1",
+      "lightningResist01": "lightningResist01",
+      "fireTurretResist01": "fireTurretResist01"
+    },
+    "attackPower": 42167,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1338"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 27,
+    "upgradeXP": 2635741,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 4153807,
+    "nextEvolveLevel": 36,
+    "tierNumber": 8,
+    "rarity": 5
+  },
+  {
+    "identifier": "summerDiscountDragon",
+    "level": 30,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "407766"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 4886488,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T1C1WFdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "energySyphon": "syphon1",
+      "sacrifice": "whiteSacrifice1",
+      "lightningResist01": "lightningResist01",
+      "fireTurretResist01": "fireTurretResist01"
+    },
+    "attackPower": 44302,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1374"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 27,
+    "upgradeXP": 2899315,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 4584981,
+    "nextEvolveLevel": 36,
+    "tierNumber": 8,
+    "rarity": 5
+  },
+  {
+    "identifier": "summerDiscountDragon",
+    "level": 31,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "430193"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 5133836,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T1C1WFdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "energySyphon": "syphon1",
+      "sacrifice": "whiteSacrifice1",
+      "lightningResist01": "lightningResist01",
+      "fireTurretResist01": "fireTurretResist01"
+    },
+    "attackPower": 46544,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1410"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 28,
+    "upgradeXP": 3189247,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 5060889,
+    "nextEvolveLevel": 36,
+    "tierNumber": 8,
+    "rarity": 5
+  },
+  {
+    "identifier": "summerDiscountDragon",
+    "level": 32,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "453854"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 5393700,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T1C1WFdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "energySyphon": "syphon1",
+      "sacrifice": "whiteSacrifice1",
+      "lightningResist01": "lightningResist01",
+      "fireTurretResist01": "fireTurretResist01"
+    },
+    "attackPower": 48901,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1446"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 29,
+    "upgradeXP": 3508172,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 5586233,
+    "nextEvolveLevel": 36,
+    "tierNumber": 8,
+    "rarity": 5
+  },
+  {
+    "identifier": "summerDiscountDragon",
+    "level": 33,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "478816"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "have2LegendarySapphire",
+    "HP": 5666704,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T1C1WFdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "energySyphon": "syphon1",
+      "sacrifice": "whiteSacrifice1",
+      "lightningResist01": "lightningResist01",
+      "fireTurretResist01": "fireTurretResist01"
+    },
+    "attackPower": 51376,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1482"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 29,
+    "upgradeXP": 3858989,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 6166247,
+    "nextEvolveLevel": 36,
+    "tierNumber": 8,
+    "rarity": 5
+  },
+  {
+    "identifier": "summerDiscountDragon",
+    "level": 34,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "505151"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 5953529,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T1C1WFdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "energySyphon": "syphon1",
+      "sacrifice": "whiteSacrifice1",
+      "lightningResist01": "lightningResist01",
+      "fireTurretResist01": "fireTurretResist01"
+    },
+    "attackPower": 53977,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1518"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 30,
+    "upgradeXP": 4244888,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 6806243,
+    "nextEvolveLevel": 36,
+    "tierNumber": 8,
+    "rarity": 5
+  },
+  {
+    "identifier": "summerDiscountDragon",
+    "level": 35,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "532934"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 6254900,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T1C1WFdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "energySyphon": "syphon1",
+      "sacrifice": "whiteSacrifice1",
+      "lightningResist01": "lightningResist01",
+      "fireTurretResist01": "fireTurretResist01"
+    },
+    "attackPower": 56710,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1554"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 31,
+    "upgradeXP": 4478357,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 7512741,
+    "nextEvolveLevel": 36,
+    "tierNumber": 8,
+    "rarity": 5
+  },
+  {
+    "identifier": "summerDiscountDragon",
+    "level": 36,
+    "upgradeCost": [
+      {
+        "type": "summerDiscountGarnetStone",
+        "amount": "1"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "haveLegendaryGarnet",
+    "HP": 6735791,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T1C1WFdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "energySyphon": "syphon1",
+      "sacrifice": "whiteSacrifice1",
+      "lightningResist01": "lightningResist01",
+      "fireTurretResist01": "fireTurretResist01"
+    },
+    "attackPower": 61070,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1572"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 31,
+    "upgradeXP": 4724667,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 8712353,
+    "nextEvolveLevel": 46,
+    "tierNumber": 9,
+    "rarity": 5
+  },
+  {
+    "identifier": "summerDiscountDragon",
+    "level": 37,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "593169"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 6904160,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T1C1WFdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "energySyphon": "syphon1",
+      "sacrifice": "whiteSacrifice1",
+      "lightningResist01": "lightningResist01",
+      "fireTurretResist01": "fireTurretResist01"
+    },
+    "attackPower": 62597,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1590"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 31,
+    "upgradeXP": 4984524,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 9153469,
+    "nextEvolveLevel": 46,
+    "tierNumber": 9,
+    "rarity": 5
+  },
+  {
+    "identifier": "summerDiscountDragon",
+    "level": 38,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "625793"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 7253636,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T1C1WFdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "energySyphon": "syphon1",
+      "sacrifice": "whiteSacrifice1",
+      "lightningResist01": "lightningResist01",
+      "fireTurretResist01": "fireTurretResist01"
+    },
+    "attackPower": 65765,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1626"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 32,
+    "upgradeXP": 5258673,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 10103613,
+    "nextEvolveLevel": 46,
+    "tierNumber": 9,
+    "rarity": 5
+  },
+  {
+    "identifier": "summerDiscountDragon",
+    "level": 39,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "660212"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 7620808,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T1C1WFdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "energySyphon": "syphon1",
+      "sacrifice": "whiteSacrifice1",
+      "lightningResist01": "lightningResist01",
+      "fireTurretResist01": "fireTurretResist01"
+    },
+    "attackPower": 69094,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1662"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 33,
+    "upgradeXP": 5547900,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 11152500,
+    "nextEvolveLevel": 46,
+    "tierNumber": 9,
+    "rarity": 5
+  },
+  {
+    "identifier": "summerDiscountDragon",
+    "level": 40,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "696523"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 8006567,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T1C1WFdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "energySyphon": "syphon1",
+      "sacrifice": "whiteSacrifice1",
+      "lightningResist01": "lightningResist01",
+      "fireTurretResist01": "fireTurretResist01"
+    },
+    "attackPower": 72593,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1698"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 33,
+    "upgradeXP": 5853035,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 12310051,
+    "nextEvolveLevel": 46,
+    "tierNumber": 9,
+    "rarity": 5
+  },
+  {
+    "identifier": "summerDiscountDragon",
+    "level": 41,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "734832"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "have2LegendaryGarnet",
+    "HP": 8411846,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T1C1WFdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "energySyphon": "syphon1",
+      "sacrifice": "whiteSacrifice1",
+      "lightningResist01": "lightningResist01",
+      "fireTurretResist01": "fireTurretResist01"
+    },
+    "attackPower": 76267,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1734"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 34,
+    "upgradeXP": 6174952,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 13588043,
+    "nextEvolveLevel": 46,
+    "tierNumber": 9,
+    "rarity": 5
+  },
+  {
+    "identifier": "summerDiscountDragon",
+    "level": 42,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "775248"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 8837659,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T1C1WFdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "energySyphon": "syphon1",
+      "sacrifice": "whiteSacrifice1",
+      "lightningResist01": "lightningResist01",
+      "fireTurretResist01": "fireTurretResist01"
+    },
+    "attackPower": 80129,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1770"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 35,
+    "upgradeXP": 6514574,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 14998567,
+    "nextEvolveLevel": 46,
+    "tierNumber": 9,
+    "rarity": 5
+  },
+  {
+    "identifier": "summerDiscountDragon",
+    "level": 43,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "817886"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 9285008,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T1C1WFdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "energySyphon": "syphon1",
+      "sacrifice": "whiteSacrifice1",
+      "lightningResist01": "lightningResist01",
+      "fireTurretResist01": "fireTurretResist01"
+    },
+    "attackPower": 84185,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1806"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 35,
+    "upgradeXP": 6872876,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 16555501,
+    "nextEvolveLevel": 46,
+    "tierNumber": 9,
+    "rarity": 5
+  },
+  {
+    "identifier": "summerDiscountDragon",
+    "level": 44,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "862870"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 9755009,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T1C1WFdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "energySyphon": "syphon1",
+      "sacrifice": "whiteSacrifice1",
+      "lightningResist01": "lightningResist01",
+      "fireTurretResist01": "fireTurretResist01"
+    },
+    "attackPower": 88447,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1842"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 36,
+    "upgradeXP": 7250884,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 18274048,
+    "nextEvolveLevel": 46,
+    "tierNumber": 9,
+    "rarity": 5
+  },
+  {
+    "identifier": "summerDiscountDragon",
+    "level": 45,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "910328"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 10248818,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T1C1WFdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "energySyphon": "syphon1",
+      "sacrifice": "whiteSacrifice1",
+      "lightningResist01": "lightningResist01",
+      "fireTurretResist01": "fireTurretResist01"
+    },
+    "attackPower": 92924,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1878"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 37,
+    "upgradeXP": 8050100,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 20170982,
+    "nextEvolveLevel": 46,
+    "tierNumber": 9,
+    "rarity": 5
+  },
+  {
+    "identifier": "summerDiscountDragon",
+    "level": 46,
+    "upgradeCost": [
+      {
+        "type": "summerDiscountEmeraldStone",
+        "amount": "1"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "haveLegendaryEmerald",
+    "HP": 10505014,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T1C1WFdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "energySyphon": "syphon1",
+      "sacrifice": "whiteSacrifice1",
+      "lightningResist01": "lightningResist01",
+      "fireTurretResist01": "fireTurretResist01"
+    },
+    "attackPower": 95247,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1932"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 38,
+    "upgradeXP": 8849316,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 21192167,
+    "nextEvolveLevel": 0,
+    "tierNumber": 10,
+    "rarity": 5
+  },
+  {
+    "identifier": "summerDiscountDragon",
+    "level": 47,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "987806"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 11595463,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T1C1WFdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "energySyphon": "syphon1",
+      "sacrifice": "whiteSacrifice1",
+      "lightningResist01": "lightningResist01",
+      "fireTurretResist01": "fireTurretResist01"
+    },
+    "attackPower": 105135,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2004"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 39,
+    "upgradeXP": 9648532,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 25820266,
+    "nextEvolveLevel": 0,
+    "tierNumber": 10,
+    "rarity": 5
+  },
+  {
+    "identifier": "summerDiscountDragon",
+    "level": 48,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1065284"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 14127759,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T1C1WFdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "energySyphon": "syphon1",
+      "sacrifice": "whiteSacrifice1",
+      "lightningResist01": "lightningResist01",
+      "fireTurretResist01": "fireTurretResist01"
+    },
+    "attackPower": 128097,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2148"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 40,
+    "upgradeXP": 11246968,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 38329670,
+    "nextEvolveLevel": 0,
+    "tierNumber": 10,
+    "rarity": 5
+  },
+  {
+    "identifier": "summerDiscountDragon",
+    "level": 49,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1285341"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "haveMythicEmerald",
+    "HP": 16383711,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T1C1WFdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "energySyphon": "syphon1",
+      "sacrifice": "whiteSacrifice1",
+      "lightningResist01": "lightningResist01",
+      "fireTurretResist01": "fireTurretResist01"
+    },
+    "attackPower": 148552,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2632"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 40,
+    "upgradeXP": 14821614,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 47659622,
+    "nextEvolveLevel": 0,
+    "tierNumber": 10,
+    "rarity": 6
+  },
+  {
+    "identifier": "summerDiscountDragon",
+    "level": 50,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1305852"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 17213100,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T1C1WFdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "energySyphon": "syphon1",
+      "sacrifice": "whiteSacrifice1",
+      "lightningResist01": "lightningResist01",
+      "fireTurretResist01": "fireTurretResist01"
+    },
+    "attackPower": 156073,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2674"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 40,
+    "upgradeXP": 0,
+    "xpRewardMultiplier": 1.2,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 52607048,
+    "nextEvolveLevel": 0,
+    "tierNumber": 10,
+    "rarity": 6
+  }
+]

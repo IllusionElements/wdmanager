@@ -1,0 +1,1429 @@
+[
+  {
+    "identifier": "nightshadeSapphireDragon",
+    "level": 1,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "16979"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 100773,
+    "fullHealDuration": 7442,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "Blackblood_fireball"
+      }
+    ],
+    "abilities": {
+      "cloak": "cloak1",
+      "crumbleToDust": "crumbleToDust1"
+    },
+    "attackPower": 7629,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "103"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 6,
+    "upgradeXP": 23263,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 3432,
+    "nextEvolveLevel": 6,
+    "tierNumber": 4,
+    "rarity": 4
+  },
+  {
+    "identifier": "nightshadeSapphireDragon",
+    "level": 2,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "24970"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 131259,
+    "fullHealDuration": 11120,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "Blackblood_fireball"
+      }
+    ],
+    "abilities": {
+      "cloak": "cloak1",
+      "crumbleToDust": "crumbleToDust1"
+    },
+    "attackPower": 10005,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "128"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 7,
+    "upgradeXP": 45333,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 7812,
+    "nextEvolveLevel": 6,
+    "tierNumber": 4,
+    "rarity": 4
+  },
+  {
+    "identifier": "nightshadeSapphireDragon",
+    "level": 3,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "44168"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 194099,
+    "fullHealDuration": 15840,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "Blackblood_fireball"
+      }
+    ],
+    "abilities": {
+      "cloak": "cloak1",
+      "crumbleToDust": "crumbleToDust1"
+    },
+    "attackPower": 12532,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "160"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 8,
+    "upgradeXP": 95783,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 18824,
+    "nextEvolveLevel": 6,
+    "tierNumber": 4,
+    "rarity": 4
+  },
+  {
+    "identifier": "nightshadeSapphireDragon",
+    "level": 4,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "79536"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 224514,
+    "fullHealDuration": 15840,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "Blackblood_fireball"
+      }
+    ],
+    "abilities": {
+      "cloak": "cloak1",
+      "crumbleToDust": "crumbleToDust1"
+    },
+    "attackPower": 14812,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "200"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 9,
+    "upgradeXP": 184501,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 25740,
+    "nextEvolveLevel": 6,
+    "tierNumber": 4,
+    "rarity": 4
+  },
+  {
+    "identifier": "nightshadeSapphireDragon",
+    "level": 5,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "95000"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 290410,
+    "fullHealDuration": 15840,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "Blackblood_fireball"
+      }
+    ],
+    "abilities": {
+      "cloak": "cloak1",
+      "crumbleToDust": "crumbleToDust1"
+    },
+    "attackPower": 18965,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "260"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 11,
+    "upgradeXP": 224000,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 42619,
+    "nextEvolveLevel": 6,
+    "tierNumber": 4,
+    "rarity": 4
+  },
+  {
+    "identifier": "nightshadeSapphireDragon",
+    "level": 6,
+    "upgradeCost": [
+      {
+        "type": "branch2GreenStone",
+        "amount": "1"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "have2GreenEpic",
+    "HP": 337714,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "Blackblood_fireball"
+      }
+    ],
+    "abilities": {
+      "cloak": "cloak1",
+      "crumbleToDust": "crumbleToDust1",
+      "invertSpell": "reverse1"
+    },
+    "attackPower": 21991,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "330"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 12,
+    "upgradeXP": 223834,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 48667,
+    "nextEvolveLevel": 11,
+    "tierNumber": 5,
+    "rarity": 5
+  },
+  {
+    "identifier": "nightshadeSapphireDragon",
+    "level": 7,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "110376"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 410330,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "Blackblood_fireball"
+      }
+    ],
+    "abilities": {
+      "cloak": "cloak1",
+      "crumbleToDust": "crumbleToDust1",
+      "invertSpell": "reverse1"
+    },
+    "attackPower": 26720,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "384"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 13,
+    "upgradeXP": 271862,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 71859,
+    "nextEvolveLevel": 11,
+    "tierNumber": 5,
+    "rarity": 5
+  },
+  {
+    "identifier": "nightshadeSapphireDragon",
+    "level": 8,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "115632"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 553344,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "Blackblood_fireball"
+      }
+    ],
+    "abilities": {
+      "cloak": "cloak1",
+      "crumbleToDust": "crumbleToDust1",
+      "invertSpell": "reverse1"
+    },
+    "attackPower": 31299,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "438"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 15,
+    "upgradeXP": 329844,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 113471,
+    "nextEvolveLevel": 11,
+    "tierNumber": 5,
+    "rarity": 5
+  },
+  {
+    "identifier": "nightshadeSapphireDragon",
+    "level": 9,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "140000"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 619291,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "Blackblood_fireball"
+      }
+    ],
+    "abilities": {
+      "cloak": "cloak1",
+      "crumbleToDust": "crumbleToDust1",
+      "invertSpell": "reverse1",
+      "lightningResist01": "lightningResist01"
+    },
+    "attackPower": 35409,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "492"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 16,
+    "upgradeXP": 530981,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 143712,
+    "nextEvolveLevel": 11,
+    "tierNumber": 5,
+    "rarity": 5
+  },
+  {
+    "identifier": "nightshadeSapphireDragon",
+    "level": 10,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "150000"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 731377,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "Blackblood_fireball"
+      }
+    ],
+    "abilities": {
+      "cloak": "cloak1",
+      "crumbleToDust": "crumbleToDust1",
+      "invertSpell": "reverse1",
+      "lightningResist01": "lightningResist01"
+    },
+    "attackPower": 41676,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "546"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 18,
+    "upgradeXP": 786440,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 199757,
+    "nextEvolveLevel": 11,
+    "tierNumber": 5,
+    "rarity": 5
+  },
+  {
+    "identifier": "nightshadeSapphireDragon",
+    "level": 11,
+    "upgradeCost": [
+      {
+        "type": "branch2GoldStone",
+        "amount": "1"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "haveGoldLegendary",
+    "HP": 885079,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "Blackblood_fireball"
+      }
+    ],
+    "abilities": {
+      "cloak": "cloak1",
+      "crumbleToDust": "crumbleToDust1",
+      "invertSpell": "reverse1",
+      "lightningResist01": "lightningResist01"
+    },
+    "attackPower": 50435,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "600"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 18,
+    "upgradeXP": 825000,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 292531,
+    "nextEvolveLevel": 16,
+    "tierNumber": 6,
+    "rarity": 5
+  },
+  {
+    "identifier": "nightshadeSapphireDragon",
+    "level": 12,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "182160"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 1211762,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "Blackblood_fireball"
+      }
+    ],
+    "abilities": {
+      "cloak": "cloak1",
+      "crumbleToDust": "crumbleToDust1",
+      "invertSpell": "reverse1",
+      "lightningResist01": "lightningResist01"
+    },
+    "attackPower": 68934,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "690"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 18,
+    "upgradeXP": 950000,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 547349,
+    "nextEvolveLevel": 16,
+    "tierNumber": 6,
+    "rarity": 5
+  },
+  {
+    "identifier": "nightshadeSapphireDragon",
+    "level": 13,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "210000"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 1513057,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "Blackblood_fireball"
+      }
+    ],
+    "abilities": {
+      "cloak": "cloak1",
+      "crumbleToDust": "crumbleToDust1",
+      "invertSpell": "reverse1",
+      "lightningResist01": "lightningResist01"
+    },
+    "attackPower": 85788,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "780"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 18,
+    "upgradeXP": 1204834,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 850504,
+    "nextEvolveLevel": 16,
+    "tierNumber": 6,
+    "rarity": 5
+  },
+  {
+    "identifier": "nightshadeSapphireDragon",
+    "level": 14,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "240000"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 1711822,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "Blackblood_fireball"
+      }
+    ],
+    "abilities": {
+      "cloak": "cloak1",
+      "crumbleToDust": "crumbleToDust1",
+      "invertSpell": "reverse1",
+      "lightningResist01": "lightningResist01"
+    },
+    "attackPower": 97240,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "870"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 18,
+    "upgradeXP": 1500000,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 1090674,
+    "nextEvolveLevel": 16,
+    "tierNumber": 6,
+    "rarity": 5
+  },
+  {
+    "identifier": "nightshadeSapphireDragon",
+    "level": 15,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "300000"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 1936708,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "Blackblood_fireball"
+      }
+    ],
+    "abilities": {
+      "cloak": "cloak1",
+      "crumbleToDust": "crumbleToDust1",
+      "invertSpell": "reverse1",
+      "lightningResist01": "lightningResist01"
+    },
+    "attackPower": 110018,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "960"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 18,
+    "upgradeXP": 1700000,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 1396122,
+    "nextEvolveLevel": 16,
+    "tierNumber": 6,
+    "rarity": 5
+  },
+  {
+    "identifier": "nightshadeSapphireDragon",
+    "level": 16,
+    "upgradeCost": [
+      {
+        "type": "branch2PlatinumStone",
+        "amount": "1"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "havePlatinumLegendary",
+    "HP": 2085576,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "Blackblood_fireball"
+      }
+    ],
+    "abilities": {
+      "cloak": "cloak1",
+      "crumbleToDust": "crumbleToDust1",
+      "invertSpell": "reverse1",
+      "lightningResist01": "lightningResist01"
+    },
+    "attackPower": 118477,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1014"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 23,
+    "upgradeXP": 1900000,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 1619027,
+    "nextEvolveLevel": 21,
+    "tierNumber": 7,
+    "rarity": 5
+  },
+  {
+    "identifier": "nightshadeSapphireDragon",
+    "level": 17,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "420000"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 2302023,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "Blackblood_fireball"
+      }
+    ],
+    "abilities": {
+      "cloak": "cloak1",
+      "crumbleToDust": "crumbleToDust1",
+      "invertSpell": "reverse1",
+      "lightningResist01": "lightningResist01"
+    },
+    "attackPower": 130776,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1086"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 24,
+    "upgradeXP": 2150000,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 1972653,
+    "nextEvolveLevel": 21,
+    "tierNumber": 7,
+    "rarity": 5
+  },
+  {
+    "identifier": "nightshadeSapphireDragon",
+    "level": 18,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "440000"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 2479006,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "Blackblood_fireball"
+      }
+    ],
+    "abilities": {
+      "cloak": "cloak1",
+      "crumbleToDust": "crumbleToDust1",
+      "invertSpell": "reverse1",
+      "lightningResist01": "lightningResist01"
+    },
+    "attackPower": 140831,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1140"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 25,
+    "upgradeXP": 2413642,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 2287584,
+    "nextEvolveLevel": 21,
+    "tierNumber": 7,
+    "rarity": 5
+  },
+  {
+    "identifier": "nightshadeSapphireDragon",
+    "level": 19,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "470000"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 2736314,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "Blackblood_fireball"
+      }
+    ],
+    "abilities": {
+      "cloak": "cloak1",
+      "crumbleToDust": "crumbleToDust1",
+      "invertSpell": "reverse1",
+      "lightningResist01": "lightningResist01"
+    },
+    "attackPower": 155450,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1212"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 26,
+    "upgradeXP": 2700000,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 2787130,
+    "nextEvolveLevel": 21,
+    "tierNumber": 7,
+    "rarity": 5
+  },
+  {
+    "identifier": "nightshadeSapphireDragon",
+    "level": 20,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "500000"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 3020303,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "Blackblood_fireball"
+      }
+    ],
+    "abilities": {
+      "cloak": "cloak1",
+      "crumbleToDust": "crumbleToDust1",
+      "invertSpell": "reverse1",
+      "lightningResist01": "lightningResist01"
+    },
+    "attackPower": 167334,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1284"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 26,
+    "upgradeXP": 2950000,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 3311685,
+    "nextEvolveLevel": 21,
+    "tierNumber": 7,
+    "rarity": 5
+  },
+  {
+    "identifier": "nightshadeSapphireDragon",
+    "level": 21,
+    "upgradeCost": [
+      {
+        "type": "branch2SapphireStone",
+        "amount": "1"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "haveLegendarySapphire",
+    "HP": 3502542,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "Blackblood_fireball"
+      }
+    ],
+    "abilities": {
+      "cloak": "cloak1",
+      "crumbleToDust": "crumbleToDust1",
+      "invertSpell": "reverse1",
+      "lightningResist01": "lightningResist01"
+    },
+    "attackPower": 194056,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1392"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 27,
+    "upgradeXP": 3200000,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 4453628,
+    "nextEvolveLevel": 0,
+    "tierNumber": 8,
+    "rarity": 5
+  },
+  {
+    "identifier": "nightshadeSapphireDragon",
+    "level": 22,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "560000"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 3590095,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "Blackblood_fireball"
+      }
+    ],
+    "abilities": {
+      "cloak": "cloak1",
+      "crumbleToDust": "crumbleToDust1",
+      "invertSpell": "reverse1",
+      "lightningResist01": "lightningResist01"
+    },
+    "attackPower": 198907,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1410"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 28,
+    "upgradeXP": 3495641,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 4679076,
+    "nextEvolveLevel": 0,
+    "tierNumber": 8,
+    "rarity": 5
+  },
+  {
+    "identifier": "nightshadeSapphireDragon",
+    "level": 23,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "590000"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 3679836,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "Blackblood_fireball"
+      }
+    ],
+    "abilities": {
+      "cloak": "cloak1",
+      "crumbleToDust": "crumbleToDust1",
+      "invertSpell": "reverse1",
+      "lightningResist01": "lightningResist01"
+    },
+    "attackPower": 203879,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1428"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 28,
+    "upgradeXP": 4083036,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 4916054,
+    "nextEvolveLevel": 0,
+    "tierNumber": 8,
+    "rarity": 5
+  },
+  {
+    "identifier": "nightshadeSapphireDragon",
+    "level": 24,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "620000"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 3771818,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "Blackblood_fireball"
+      }
+    ],
+    "abilities": {
+      "cloak": "cloak1",
+      "crumbleToDust": "crumbleToDust1",
+      "invertSpell": "reverse1",
+      "lightningResist01": "lightningResist01"
+    },
+    "attackPower": 208976,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1446"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 29,
+    "upgradeXP": 3672602,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 5164786,
+    "nextEvolveLevel": 0,
+    "tierNumber": 8,
+    "rarity": 5
+  },
+  {
+    "identifier": "nightshadeSapphireDragon",
+    "level": 25,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "650000"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 3866096,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "Blackblood_fireball"
+      }
+    ],
+    "abilities": {
+      "cloak": "cloak1",
+      "crumbleToDust": "crumbleToDust1",
+      "invertSpell": "reverse1",
+      "lightningResist01": "lightningResist01"
+    },
+    "attackPower": 214201,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1464"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 29,
+    "upgradeXP": 3764416,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 5426221,
+    "nextEvolveLevel": 0,
+    "tierNumber": 8,
+    "rarity": 5
+  },
+  {
+    "identifier": "nightshadeSapphireDragon",
+    "level": 26,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "680000"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 3962730,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "Blackblood_fireball"
+      }
+    ],
+    "abilities": {
+      "cloak": "cloak1",
+      "crumbleToDust": "crumbleToDust1",
+      "invertSpell": "reverse1",
+      "lightningResist01": "lightningResist01"
+    },
+    "attackPower": 219555,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1482"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 29,
+    "upgradeXP": 4510848,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 5701042,
+    "nextEvolveLevel": 0,
+    "tierNumber": 8,
+    "rarity": 5
+  },
+  {
+    "identifier": "nightshadeSapphireDragon",
+    "level": 27,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "710000"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 4061780,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "Blackblood_fireball"
+      }
+    ],
+    "abilities": {
+      "cloak": "cloak1",
+      "crumbleToDust": "crumbleToDust1",
+      "invertSpell": "reverse1",
+      "lightningResist01": "lightningResist01"
+    },
+    "attackPower": 225044,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1500"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 30,
+    "upgradeXP": 4623620,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 5989503,
+    "nextEvolveLevel": 0,
+    "tierNumber": 8,
+    "rarity": 5
+  },
+  {
+    "identifier": "nightshadeSapphireDragon",
+    "level": 28,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "740000"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 4163307,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "Blackblood_fireball"
+      }
+    ],
+    "abilities": {
+      "cloak": "cloak1",
+      "crumbleToDust": "crumbleToDust1",
+      "invertSpell": "reverse1",
+      "lightningResist01": "lightningResist01"
+    },
+    "attackPower": 230670,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1518"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 30,
+    "upgradeXP": 4744207,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 6292754,
+    "nextEvolveLevel": 0,
+    "tierNumber": 8,
+    "rarity": 5
+  },
+  {
+    "identifier": "nightshadeSapphireDragon",
+    "level": 29,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "770000"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 4267379,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "Blackblood_fireball"
+      }
+    ],
+    "abilities": {
+      "cloak": "cloak1",
+      "crumbleToDust": "crumbleToDust1",
+      "invertSpell": "reverse1",
+      "lightningResist01": "lightningResist01"
+    },
+    "attackPower": 236437,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1536"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 30,
+    "upgradeXP": 4857686,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 6611223,
+    "nextEvolveLevel": 0,
+    "tierNumber": 8,
+    "rarity": 5
+  },
+  {
+    "identifier": "nightshadeSapphireDragon",
+    "level": 30,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "780000"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 4374056,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "Blackblood_fireball"
+      }
+    ],
+    "abilities": {
+      "cloak": "cloak1",
+      "crumbleToDust": "crumbleToDust1",
+      "invertSpell": "reverse1",
+      "lightningResist01": "lightningResist01"
+    },
+    "attackPower": 242348,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1554"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 31,
+    "upgradeXP": 0,
+    "xpRewardMultiplier": 1.2,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 6945951,
+    "nextEvolveLevel": 0,
+    "tierNumber": 8,
+    "rarity": 5
+  }
+]

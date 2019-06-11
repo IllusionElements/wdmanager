@@ -1,0 +1,1577 @@
+[
+  {
+    "identifier": "T9C4HIdragon",
+    "level": 1,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "0"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 3642643,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T9C4HIdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "shattershard": "shattershard1",
+      "crystallineShield": "crystallineShield1",
+      "frostbite": "frostbite1",
+      "iceTurretResist01": "iceTurretResist01"
+    },
+    "attackPower": 201818,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1624"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 28,
+    "upgradeXP": 1468515,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 4631774
+  },
+  {
+    "identifier": "T9C4HIdragon",
+    "level": 2,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "423000"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 3733699,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T9C4HIdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "shattershard": "shattershard1",
+      "crystallineShield": "crystallineShield1",
+      "frostbite": "frostbite1",
+      "iceTurretResist01": "iceTurretResist01"
+    },
+    "attackPower": 206863,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1645"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 28,
+    "upgradeXP": 1505227,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 4866239
+  },
+  {
+    "identifier": "T9C4HIdragon",
+    "level": 3,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "428400"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 3827029,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T9C4HIdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "shattershard": "shattershard1",
+      "crystallineShield": "crystallineShield1",
+      "frostbite": "frostbite1",
+      "iceTurretResist01": "iceTurretResist01"
+    },
+    "attackPower": 212035,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1666"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 28,
+    "upgradeXP": 1752882,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 5112696
+  },
+  {
+    "identifier": "T9C4HIdragon",
+    "level": 4,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "433800"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 3922691,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T9C4HIdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "shattershard": "shattershard1",
+      "crystallineShield": "crystallineShield1",
+      "frostbite": "frostbite1",
+      "iceTurretResist01": "iceTurretResist01"
+    },
+    "attackPower": 217335,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1687"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 29,
+    "upgradeXP": 2067604,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 5371377
+  },
+  {
+    "identifier": "T9C4HIdragon",
+    "level": 5,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "439200"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 4020739,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T9C4HIdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "shattershard": "shattershard1",
+      "crystallineShield": "crystallineShield1",
+      "frostbite": "frostbite1",
+      "iceTurretResist01": "iceTurretResist01"
+    },
+    "attackPower": 222769,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1708"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 29,
+    "upgradeXP": 2382138,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 5643270
+  },
+  {
+    "identifier": "T9C4HIdragon",
+    "level": 6,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "444600"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 4121240,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T9C4HIdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "shattershard": "shattershard1",
+      "crystallineShield": "crystallineShield1",
+      "frostbite": "frostbite1",
+      "iceTurretResist01": "iceTurretResist01"
+    },
+    "attackPower": 228338,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1729"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 29,
+    "upgradeXP": 2699091,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 5929084
+  },
+  {
+    "identifier": "T9C4HIdragon",
+    "level": 7,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "450000"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 4224251,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T9C4HIdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "shattershard": "shattershard1",
+      "crystallineShield": "crystallineShield1",
+      "frostbite": "frostbite1",
+      "iceTurretResist01": "iceTurretResist01"
+    },
+    "attackPower": 234046,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1750"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 30,
+    "upgradeXP": 2766568,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 6229083
+  },
+  {
+    "identifier": "T9C4HIdragon",
+    "level": 8,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "455400"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 4329839,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T9C4HIdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "shattershard": "shattershard1",
+      "crystallineShield": "crystallineShield1",
+      "frostbite": "frostbite1",
+      "iceTurretResist01": "iceTurretResist01"
+    },
+    "attackPower": 239897,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1771"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 30,
+    "upgradeXP": 2835731,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 6544464
+  },
+  {
+    "identifier": "T9C4HIdragon",
+    "level": 9,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "460800"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 4438074,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T9C4HIdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "shattershard": "shattershard1",
+      "crystallineShield": "crystallineShield1",
+      "frostbite": "frostbite1",
+      "iceTurretResist01": "iceTurretResist01"
+    },
+    "attackPower": 245894,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1792"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 30,
+    "upgradeXP": 2906623,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 6875672
+  },
+  {
+    "identifier": "T9C4HIdragon",
+    "level": 10,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "466200"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 4549018,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T9C4HIdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "shattershard": "shattershard1",
+      "crystallineShield": "crystallineShield1",
+      "frostbite": "frostbite1",
+      "iceTurretResist01": "iceTurretResist01"
+    },
+    "attackPower": 252041,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1813"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 31,
+    "upgradeXP": 2979286,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 7223789
+  },
+  {
+    "identifier": "T9C4HIdragon",
+    "level": 11,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "471601"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 4662738,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T9C4HIdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "shattershard": "shattershard1",
+      "crystallineShield": "crystallineShield1",
+      "frostbite": "frostbite1",
+      "iceTurretResist01": "iceTurretResist01"
+    },
+    "attackPower": 258342,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1834"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 31,
+    "upgradeXP": 3053767,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 7589447
+  },
+  {
+    "identifier": "T9C4HIdragon",
+    "level": 12,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "477000"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 4779294,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T9C4HIdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "shattershard": "shattershard1",
+      "crystallineShield": "crystallineShield1",
+      "frostbite": "frostbite1",
+      "iceTurretResist01": "iceTurretResist01"
+    },
+    "attackPower": 264801,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1855"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 31,
+    "upgradeXP": 3130111,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 7973770
+  },
+  {
+    "identifier": "T9C4HIdragon",
+    "level": 13,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "482400"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 4898757,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T9C4HIdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "shattershard": "shattershard1",
+      "crystallineShield": "crystallineShield1",
+      "frostbite": "frostbite1",
+      "iceTurretResist01": "iceTurretResist01"
+    },
+    "attackPower": 271421,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1876"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 32,
+    "upgradeXP": 3208363,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 8377262
+  },
+  {
+    "identifier": "T9C4HIdragon",
+    "level": 14,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "487800"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 5021207,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T9C4HIdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "shattershard": "shattershard1",
+      "crystallineShield": "crystallineShield1",
+      "frostbite": "frostbite1",
+      "iceTurretResist01": "iceTurretResist01"
+    },
+    "attackPower": 278206,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1897"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 32,
+    "upgradeXP": 3288571,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 8801413
+  },
+  {
+    "identifier": "T9C4HIdragon",
+    "level": 15,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "493200"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 5146721,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T9C4HIdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "shattershard": "shattershard1",
+      "crystallineShield": "crystallineShield1",
+      "frostbite": "frostbite1",
+      "iceTurretResist01": "iceTurretResist01"
+    },
+    "attackPower": 285161,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1918"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 32,
+    "upgradeXP": 3370783,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 9246926
+  },
+  {
+    "identifier": "T9C4HIdragon",
+    "level": 16,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "498600"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 5275372,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T9C4HIdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "shattershard": "shattershard1",
+      "crystallineShield": "crystallineShield1",
+      "frostbite": "frostbite1",
+      "iceTurretResist01": "iceTurretResist01"
+    },
+    "attackPower": 292290,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1939"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 33,
+    "upgradeXP": 3455050,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 9715012
+  },
+  {
+    "identifier": "T9C4HIdragon",
+    "level": 17,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "504000"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 5407239,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T9C4HIdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "shattershard": "shattershard1",
+      "crystallineShield": "crystallineShield1",
+      "frostbite": "frostbite1",
+      "iceTurretResist01": "iceTurretResist01"
+    },
+    "attackPower": 299597,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1960"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 33,
+    "upgradeXP": 3541426,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 10206746
+  },
+  {
+    "identifier": "T9C4HIdragon",
+    "level": 18,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "509400"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 5542406,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T9C4HIdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "shattershard": "shattershard1",
+      "crystallineShield": "crystallineShield1",
+      "frostbite": "frostbite1",
+      "iceTurretResist01": "iceTurretResist01"
+    },
+    "attackPower": 307087,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1981"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 33,
+    "upgradeXP": 4821317,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 10723557
+  },
+  {
+    "identifier": "T9C4HIdragon",
+    "level": 19,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "683758"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 5680951,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T9C4HIdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "shattershard": "shattershard1",
+      "crystallineShield": "crystallineShield1",
+      "frostbite": "frostbite1",
+      "iceTurretResist01": "iceTurretResist01"
+    },
+    "attackPower": 314764,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2002"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 34,
+    "upgradeXP": 4941848,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 11266400
+  },
+  {
+    "identifier": "T9C4HIdragon",
+    "level": 20,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "690931"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 5822958,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T9C4HIdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "shattershard": "shattershard1",
+      "crystallineShield": "crystallineShield1",
+      "frostbite": "frostbite1",
+      "iceTurretResist01": "iceTurretResist01"
+    },
+    "attackPower": 322633,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2023"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 34,
+    "upgradeXP": 5065392,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 11836587
+  },
+  {
+    "identifier": "T9C4HIdragon",
+    "level": 21,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "698103"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 5968511,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T9C4HIdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "shattershard": "shattershard1",
+      "crystallineShield": "crystallineShield1",
+      "frostbite": "frostbite1",
+      "iceTurretResist01": "iceTurretResist01"
+    },
+    "attackPower": 330698,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2044"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 34,
+    "upgradeXP": 5192023,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 12435804
+  },
+  {
+    "identifier": "T9C4HIdragon",
+    "level": 22,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "705275"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 6117706,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T9C4HIdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "shattershard": "shattershard1",
+      "crystallineShield": "crystallineShield1",
+      "frostbite": "frostbite1",
+      "iceTurretResist01": "iceTurretResist01"
+    },
+    "attackPower": 338966,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2065"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 35,
+    "upgradeXP": 6509049,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 13065427
+  },
+  {
+    "identifier": "T9C4HIdragon",
+    "level": 23,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "871385"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 6270635,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T9C4HIdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "shattershard": "shattershard1",
+      "crystallineShield": "crystallineShield1",
+      "frostbite": "frostbite1",
+      "iceTurretResist01": "iceTurretResist01"
+    },
+    "attackPower": 347440,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2086"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 35,
+    "upgradeXP": 6671774,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 13726680
+  },
+  {
+    "identifier": "T9C4HIdragon",
+    "level": 24,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "880157"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 6427388,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T9C4HIdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "shattershard": "shattershard1",
+      "crystallineShield": "crystallineShield1",
+      "frostbite": "frostbite1",
+      "iceTurretResist01": "iceTurretResist01"
+    },
+    "attackPower": 356126,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2107"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 35,
+    "upgradeXP": 6838568,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 14421699
+  },
+  {
+    "identifier": "T9C4HIdragon",
+    "level": 25,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "888930"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 6588055,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T9C4HIdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "shattershard": "shattershard1",
+      "crystallineShield": "crystallineShield1",
+      "frostbite": "frostbite1",
+      "iceTurretResist01": "iceTurretResist01"
+    },
+    "attackPower": 365029,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2128"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 36,
+    "upgradeXP": 7009529,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 15151772
+  },
+  {
+    "identifier": "T9C4HIdragon",
+    "level": 26,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "897702"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 6752733,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T9C4HIdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "shattershard": "shattershard1",
+      "crystallineShield": "crystallineShield1",
+      "frostbite": "frostbite1",
+      "iceTurretResist01": "iceTurretResist01"
+    },
+    "attackPower": 374154,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2149"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 36,
+    "upgradeXP": 8399422,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 15918751
+  },
+  {
+    "identifier": "T9C4HIdragon",
+    "level": 27,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1059723"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 6921530,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T9C4HIdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "shattershard": "shattershard1",
+      "crystallineShield": "crystallineShield1",
+      "frostbite": "frostbite1",
+      "iceTurretResist01": "iceTurretResist01"
+    },
+    "attackPower": 383508,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2170"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 36,
+    "upgradeXP": 8609405,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 16724524
+  },
+  {
+    "identifier": "T9C4HIdragon",
+    "level": 28,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1069979"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 7094552,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T9C4HIdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "shattershard": "shattershard1",
+      "crystallineShield": "crystallineShield1",
+      "frostbite": "frostbite1",
+      "iceTurretResist01": "iceTurretResist01"
+    },
+    "attackPower": 393095,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2191"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 37,
+    "upgradeXP": 8824638,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 17571200
+  },
+  {
+    "identifier": "T9C4HIdragon",
+    "level": 29,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1080234"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 7271903,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T9C4HIdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "shattershard": "shattershard1",
+      "crystallineShield": "crystallineShield1",
+      "frostbite": "frostbite1",
+      "iceTurretResist01": "iceTurretResist01"
+    },
+    "attackPower": 402923,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2212"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 37,
+    "upgradeXP": 9045247,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 18460565
+  },
+  {
+    "identifier": "T9C4HIdragon",
+    "level": 30,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1090489"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 7453686,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T9C4HIdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "shattershard": "shattershard1",
+      "crystallineShield": "crystallineShield1",
+      "frostbite": "frostbite1",
+      "iceTurretResist01": "iceTurretResist01"
+    },
+    "attackPower": 412996,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2233"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 37,
+    "upgradeXP": 9271378,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 19395175
+  },
+  {
+    "identifier": "T9C4HIdragon",
+    "level": 31,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1100745"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 7640010,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T9C4HIdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "shattershard": "shattershard1",
+      "crystallineShield": "crystallineShield1",
+      "frostbite": "frostbite1",
+      "iceTurretResist01": "iceTurretResist01"
+    },
+    "attackPower": 423320,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2254"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 38,
+    "upgradeXP": 9503159,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 20377084
+  },
+  {
+    "identifier": "T9C4HIdragon",
+    "level": 32,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1111000"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 7830994,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T9C4HIdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "shattershard": "shattershard1",
+      "crystallineShield": "crystallineShield1",
+      "frostbite": "frostbite1",
+      "iceTurretResist01": "iceTurretResist01"
+    },
+    "attackPower": 433903,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2275"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 38,
+    "upgradeXP": 9740731,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 21408570
+  },
+  {
+    "identifier": "T9C4HIdragon",
+    "level": 33,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1121255"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 8026750,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T9C4HIdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "shattershard": "shattershard1",
+      "crystallineShield": "crystallineShield1",
+      "frostbite": "frostbite1",
+      "iceTurretResist01": "iceTurretResist01"
+    },
+    "attackPower": 444750,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2296"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 38,
+    "upgradeXP": 9984246,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 22492332
+  },
+  {
+    "identifier": "T9C4HIdragon",
+    "level": 34,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1131511"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 8227399,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T9C4HIdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "shattershard": "shattershard1",
+      "crystallineShield": "crystallineShield1",
+      "frostbite": "frostbite1",
+      "iceTurretResist01": "iceTurretResist01"
+    },
+    "attackPower": 455869,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2317"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 39,
+    "upgradeXP": 10233848,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 23630933
+  },
+  {
+    "identifier": "T9C4HIdragon",
+    "level": 35,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1141766"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 8433065,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "T9C4HIdragon_fireball"
+      }
+    ],
+    "abilities": {
+      "shattershard": "shattershard1",
+      "crystallineShield": "crystallineShield1",
+      "frostbite": "frostbite1",
+      "iceTurretResist01": "iceTurretResist01"
+    },
+    "attackPower": 467266,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2338"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 39,
+    "upgradeXP": 0,
+    "xpRewardMultiplier": 1.2,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 24827179
+  }
+]

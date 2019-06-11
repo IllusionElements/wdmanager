@@ -1,0 +1,1325 @@
+[
+  {
+    "identifier": "T9C3WDdragon",
+    "level": 1,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "0"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 4815994,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T9C3WDdragon_flamethrower"
+      }
+    ],
+    "abilities": {},
+    "attackPower": 43663,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1392"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 28,
+    "upgradeXP": 1292294,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 1712934
+  },
+  {
+    "identifier": "T9C3WDdragon",
+    "level": 2,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "372240"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 4936381,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T9C3WDdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "maleficBreath": "maleficBreath109"
+    },
+    "attackPower": 44754,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1410"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 28,
+    "upgradeXP": 1324600,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 2699467
+  },
+  {
+    "identifier": "T9C3WDdragon",
+    "level": 3,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "376992"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 5059774,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T9C3WDdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "maleficBreath": "maleficBreath110"
+    },
+    "attackPower": 45873,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1428"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 28,
+    "upgradeXP": 1542536,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 2836185
+  },
+  {
+    "identifier": "T9C3WDdragon",
+    "level": 4,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "381744"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 5186250,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T9C3WDdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "maleficBreath": "maleficBreath111"
+    },
+    "attackPower": 47020,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1446"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 29,
+    "upgradeXP": 1819491,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 2979684
+  },
+  {
+    "identifier": "T9C3WDdragon",
+    "level": 5,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "386496"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 5315881,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T9C3WDdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "maleficBreath": "maleficBreath112",
+      "heatBlastShield": "heatBlastShield1"
+    },
+    "attackPower": 48196,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1464"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 29,
+    "upgradeXP": 2096281,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 4174016
+  },
+  {
+    "identifier": "T9C3WDdragon",
+    "level": 6,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "391248"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 5448754,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T9C3WDdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "maleficBreath": "maleficBreath113",
+      "heatBlastShield": "heatBlastShield1"
+    },
+    "attackPower": 49400,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1482"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 29,
+    "upgradeXP": 2375200,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 4385417
+  },
+  {
+    "identifier": "T9C3WDdragon",
+    "level": 7,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "396000"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 5584947,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T9C3WDdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "maleficBreath": "maleficBreath114",
+      "heatBlastShield": "heatBlastShield1"
+    },
+    "attackPower": 50635,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1500"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 30,
+    "upgradeXP": 2434580,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 4607310
+  },
+  {
+    "identifier": "T9C3WDdragon",
+    "level": 8,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "400752"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 5724547,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T9C3WDdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "maleficBreath": "maleficBreath115",
+      "heatBlastShield": "heatBlastShield1"
+    },
+    "attackPower": 51901,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1518"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 30,
+    "upgradeXP": 2495443,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 4840580
+  },
+  {
+    "identifier": "T9C3WDdragon",
+    "level": 9,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "405504"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 5867645,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T9C3WDdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "maleficBreath": "maleficBreath116",
+      "heatBlastShield": "heatBlastShield1",
+      "seethingSpark": "seethingSpark1"
+    },
+    "attackPower": 53199,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1536"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 30,
+    "upgradeXP": 2557828,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 6611223
+  },
+  {
+    "identifier": "T9C3WDdragon",
+    "level": 10,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "410256"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 6014327,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T9C3WDdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "maleficBreath": "maleficBreath117",
+      "heatBlastShield": "heatBlastShield1",
+      "seethingSpark": "seethingSpark1"
+    },
+    "attackPower": 54529,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1554"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 31,
+    "upgradeXP": 2621771,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 6945951
+  },
+  {
+    "identifier": "T9C3WDdragon",
+    "level": 11,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "415009"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 6164678,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T9C3WDdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "maleficBreath": "maleficBreath118",
+      "heatBlastShield": "heatBlastShield1",
+      "seethingSpark": "seethingSpark1"
+    },
+    "attackPower": 55892,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1572"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 31,
+    "upgradeXP": 2687315,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 7297545
+  },
+  {
+    "identifier": "T9C3WDdragon",
+    "level": 12,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "419760"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 6318778,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T9C3WDdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "maleficBreath": "maleficBreath119",
+      "heatBlastShield": "heatBlastShield1",
+      "seethingSpark": "seethingSpark1"
+    },
+    "attackPower": 57289,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1590"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 31,
+    "upgradeXP": 2754497,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 7667087
+  },
+  {
+    "identifier": "T9C3WDdragon",
+    "level": 13,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "424512"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 6476722,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T9C3WDdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "maleficBreath": "maleficBreath120",
+      "heatBlastShield": "heatBlastShield1",
+      "seethingSpark": "seethingSpark1"
+    },
+    "attackPower": 58721,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1608"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 32,
+    "upgradeXP": 2823360,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 8055060
+  },
+  {
+    "identifier": "T9C3WDdragon",
+    "level": 14,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "429264"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 6638615,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T9C3WDdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "maleficBreath": "maleficBreath121",
+      "heatBlastShield": "heatBlastShield1",
+      "seethingSpark": "seethingSpark1",
+      "trebuchetResist01": "trebuchetResist01"
+    },
+    "attackPower": 60189,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1626"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 32,
+    "upgradeXP": 2893942,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 8462897
+  },
+  {
+    "identifier": "T9C3WDdragon",
+    "level": 15,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "434016"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 6804559,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T9C3WDdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "maleficBreath": "maleficBreath122",
+      "heatBlastShield": "heatBlastShield1",
+      "seethingSpark": "seethingSpark1",
+      "trebuchetResist01": "trebuchetResist01"
+    },
+    "attackPower": 61694,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1644"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 32,
+    "upgradeXP": 2966289,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 8891275
+  },
+  {
+    "identifier": "T9C3WDdragon",
+    "level": 16,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "438768"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 6974650,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T9C3WDdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "maleficBreath": "maleficBreath123",
+      "heatBlastShield": "heatBlastShield1",
+      "seethingSpark": "seethingSpark1",
+      "trebuchetResist01": "trebuchetResist01"
+    },
+    "attackPower": 63236,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1662"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 33,
+    "upgradeXP": 3040444,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 9341358
+  },
+  {
+    "identifier": "T9C3WDdragon",
+    "level": 17,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "443520"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 7148994,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T9C3WDdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "maleficBreath": "maleficBreath124",
+      "heatBlastShield": "heatBlastShield1",
+      "seethingSpark": "seethingSpark1",
+      "trebuchetResist01": "trebuchetResist01"
+    },
+    "attackPower": 64817,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1680"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 33,
+    "upgradeXP": 3116455,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 9814178
+  },
+  {
+    "identifier": "T9C3WDdragon",
+    "level": 18,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "448272"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 7327700,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T9C3WDdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "maleficBreath": "maleficBreath125",
+      "heatBlastShield": "heatBlastShield1",
+      "seethingSpark": "seethingSpark1",
+      "trebuchetResist01": "trebuchetResist01"
+    },
+    "attackPower": 66437,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1698"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 33,
+    "upgradeXP": 4242759,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 10311113
+  },
+  {
+    "identifier": "T9C3WDdragon",
+    "level": 19,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "601708"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 7510872,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T9C3WDdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "maleficBreath": "maleficBreath126",
+      "heatBlastShield": "heatBlastShield1",
+      "seethingSpark": "seethingSpark1",
+      "trebuchetResist01": "trebuchetResist01"
+    },
+    "attackPower": 68098,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1716"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 34,
+    "upgradeXP": 4348826,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 10833077
+  },
+  {
+    "identifier": "T9C3WDdragon",
+    "level": 20,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "608019"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 7698622,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T9C3WDdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "maleficBreath": "maleficBreath127",
+      "heatBlastShield": "heatBlastShield1",
+      "seethingSpark": "seethingSpark1",
+      "trebuchetResist01": "trebuchetResist01"
+    },
+    "attackPower": 69801,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1734"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 34,
+    "upgradeXP": 4457545,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 11381334
+  },
+  {
+    "identifier": "T9C3WDdragon",
+    "level": 21,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "614331"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 7891060,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T9C3WDdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "maleficBreath": "maleficBreath128",
+      "heatBlastShield": "heatBlastShield1",
+      "seethingSpark": "seethingSpark1",
+      "trebuchetResist01": "trebuchetResist01"
+    },
+    "attackPower": 71546,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1752"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 34,
+    "upgradeXP": 4568980,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 11957504
+  },
+  {
+    "identifier": "T9C3WDdragon",
+    "level": 22,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "620642"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 8088313,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T9C3WDdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "maleficBreath": "maleficBreath129",
+      "heatBlastShield": "heatBlastShield1",
+      "seethingSpark": "seethingSpark1",
+      "trebuchetResist01": "trebuchetResist01"
+    },
+    "attackPower": 73334,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1770"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 35,
+    "upgradeXP": 5727963,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 12562910
+  },
+  {
+    "identifier": "T9C3WDdragon",
+    "level": 23,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "766819"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 8290502,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T9C3WDdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "maleficBreath": "maleficBreath130",
+      "heatBlastShield": "heatBlastShield1",
+      "seethingSpark": "seethingSpark1",
+      "trebuchetResist01": "trebuchetResist01"
+    },
+    "attackPower": 75168,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1788"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 35,
+    "upgradeXP": 5871161,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 13198731
+  },
+  {
+    "identifier": "T9C3WDdragon",
+    "level": 24,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "774538"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 8497749,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T9C3WDdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "maleficBreath": "maleficBreath131",
+      "heatBlastShield": "heatBlastShield1",
+      "seethingSpark": "seethingSpark1",
+      "trebuchetResist01": "trebuchetResist01"
+    },
+    "attackPower": 77047,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1806"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 35,
+    "upgradeXP": 6017939,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 13867018
+  },
+  {
+    "identifier": "T9C3WDdragon",
+    "level": 25,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "782258"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 8710169,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T9C3WDdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "maleficBreath": "maleficBreath132",
+      "heatBlastShield": "heatBlastShield1",
+      "seethingSpark": "seethingSpark1",
+      "trebuchetResist01": "trebuchetResist01"
+    },
+    "attackPower": 78973,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1824"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 36,
+    "upgradeXP": 6168385,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 14569012
+  },
+  {
+    "identifier": "T9C3WDdragon",
+    "level": 26,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "789978"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 8927892,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T9C3WDdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "maleficBreath": "maleficBreath133",
+      "heatBlastShield": "heatBlastShield1",
+      "seethingSpark": "seethingSpark1",
+      "trebuchetResist01": "trebuchetResist01"
+    },
+    "attackPower": 80947,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1842"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 36,
+    "upgradeXP": 7391491,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 15306491
+  },
+  {
+    "identifier": "T9C3WDdragon",
+    "level": 27,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "932556"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 9151061,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T9C3WDdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "maleficBreath": "maleficBreath134",
+      "heatBlastShield": "heatBlastShield1",
+      "seethingSpark": "seethingSpark1",
+      "trebuchetResist01": "trebuchetResist01"
+    },
+    "attackPower": 82971,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1860"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 36,
+    "upgradeXP": 7576277,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 16081273
+  },
+  {
+    "identifier": "T9C3WDdragon",
+    "level": 28,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "941581"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 9379816,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T9C3WDdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "maleficBreath": "maleficBreath135",
+      "heatBlastShield": "heatBlastShield1",
+      "seethingSpark": "seethingSpark1",
+      "trebuchetResist01": "trebuchetResist01"
+    },
+    "attackPower": 85045,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1878"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 37,
+    "upgradeXP": 7765681,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 16895385
+  },
+  {
+    "identifier": "T9C3WDdragon",
+    "level": 29,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "950606"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 9614295,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T9C3WDdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "maleficBreath": "maleficBreath136",
+      "heatBlastShield": "heatBlastShield1",
+      "seethingSpark": "seethingSpark1",
+      "trebuchetResist01": "trebuchetResist01"
+    },
+    "attackPower": 87171,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1896"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 37,
+    "upgradeXP": 7959817,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 17750543
+  },
+  {
+    "identifier": "T9C3WDdragon",
+    "level": 30,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "959631"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 9854633,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "T9C3WDdragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "maleficBreath": "maleficBreath137",
+      "heatBlastShield": "heatBlastShield1",
+      "seethingSpark": "seethingSpark1",
+      "trebuchetResist01": "trebuchetResist01"
+    },
+    "attackPower": 89350,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1914"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 37,
+    "upgradeXP": 0,
+    "xpRewardMultiplier": 1.2,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 18649207
+  }
+]

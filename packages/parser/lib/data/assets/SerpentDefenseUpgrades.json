@@ -1,0 +1,689 @@
+[
+  {
+    "identifier": "SerpentDefenseUpgrades",
+    "level": 1,
+    "upgradeCost": [
+      {
+        "type": ""
+      }
+    ],
+    "upgradeTimeInSeconds": 0,
+    "achievementRequirements": "",
+    "HP": 13500,
+    "fullHealDuration": 300,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "serpent_attackTut"
+      }
+    ],
+    "abilities": {
+      "aoeSpell": "aoe1",
+      "archerResist01": "archerResist01"
+    },
+    "attackPower": 300,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "10"
+      }
+    ],
+    "forwardSpeed": 3,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 1,
+    "upgradeXP": 100,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "100"
+      }
+    ],
+    "powerLevel": 100
+  },
+  {
+    "identifier": "SerpentDefenseUpgrades",
+    "level": 2,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "40"
+      }
+    ],
+    "upgradeTimeInSeconds": 900,
+    "achievementRequirements": "level03",
+    "HP": 9540,
+    "fullHealDuration": 300,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "serpent_attackTut"
+      }
+    ],
+    "abilities": {
+      "aoeSpell": "aoe1",
+      "archerResist01": "archerResist01"
+    },
+    "attackPower": 300,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "10"
+      }
+    ],
+    "forwardSpeed": 3,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 2,
+    "upgradeXP": 150,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "100"
+      }
+    ],
+    "powerLevel": 200
+  },
+  {
+    "identifier": "SerpentDefenseUpgrades",
+    "level": 3,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "230"
+      }
+    ],
+    "upgradeTimeInSeconds": 3600,
+    "achievementRequirements": "level04",
+    "HP": 12340,
+    "fullHealDuration": 300,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "serpent_attackTut"
+      }
+    ],
+    "abilities": {
+      "aoeSpell": "aoe1",
+      "archerResist01": "archerResist01"
+    },
+    "attackPower": 300,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "10"
+      }
+    ],
+    "forwardSpeed": 3,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 2,
+    "upgradeXP": 200,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "100"
+      }
+    ],
+    "powerLevel": 300
+  },
+  {
+    "identifier": "SerpentDefenseUpgrades",
+    "level": 4,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "660"
+      }
+    ],
+    "upgradeTimeInSeconds": 7200,
+    "achievementRequirements": "level05",
+    "HP": 14410,
+    "fullHealDuration": 300,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "serpent_attackTut"
+      }
+    ],
+    "abilities": {
+      "aoeSpell": "aoe1",
+      "archerResist01": "archerResist01"
+    },
+    "attackPower": 300,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "10"
+      }
+    ],
+    "forwardSpeed": 3,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 2,
+    "upgradeXP": 250,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "100"
+      }
+    ],
+    "powerLevel": 400
+  },
+  {
+    "identifier": "SerpentDefenseUpgrades",
+    "level": 5,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1430"
+      }
+    ],
+    "upgradeTimeInSeconds": 10800,
+    "achievementRequirements": "level06",
+    "HP": 14250,
+    "fullHealDuration": 300,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "serpent_attackTut"
+      }
+    ],
+    "abilities": {
+      "aoeSpell": "aoe1",
+      "archerResist01": "archerResist01"
+    },
+    "attackPower": 300,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "10"
+      }
+    ],
+    "forwardSpeed": 3,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 2,
+    "upgradeXP": 300,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "100"
+      }
+    ],
+    "powerLevel": 500
+  },
+  {
+    "identifier": "SerpentDefenseUpgrades",
+    "level": 6,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "2920"
+      }
+    ],
+    "upgradeTimeInSeconds": 16200,
+    "achievementRequirements": "level07",
+    "HP": 18550,
+    "fullHealDuration": 300,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "serpent_attackTut"
+      }
+    ],
+    "abilities": {
+      "aoeSpell": "aoe1",
+      "archerResist01": "archerResist01"
+    },
+    "attackPower": 300,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "10"
+      }
+    ],
+    "forwardSpeed": 3,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 2,
+    "upgradeXP": 350,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "100"
+      }
+    ],
+    "powerLevel": 600
+  },
+  {
+    "identifier": "SerpentDefenseUpgrades",
+    "level": 7,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "9560"
+      }
+    ],
+    "upgradeTimeInSeconds": 28800,
+    "achievementRequirements": "level09",
+    "HP": 33550,
+    "fullHealDuration": 300,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "serpent_attackTut"
+      }
+    ],
+    "abilities": {
+      "aoeSpell": "aoe1",
+      "archerResist01": "archerResist01"
+    },
+    "attackPower": 300,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "10"
+      }
+    ],
+    "forwardSpeed": 3,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 2,
+    "upgradeXP": 400,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "100"
+      }
+    ],
+    "powerLevel": 700
+  },
+  {
+    "identifier": "SerpentDefenseUpgrades",
+    "level": 8,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "38370"
+      }
+    ],
+    "upgradeTimeInSeconds": 54000,
+    "achievementRequirements": "level12",
+    "HP": 53250,
+    "fullHealDuration": 300,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "serpent_attackTut"
+      }
+    ],
+    "abilities": {
+      "aoeSpell": "aoe1",
+      "archerResist01": "archerResist01"
+    },
+    "attackPower": 300,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "10"
+      }
+    ],
+    "forwardSpeed": 3,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 2,
+    "upgradeXP": 450,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "100"
+      }
+    ],
+    "powerLevel": 800
+  },
+  {
+    "identifier": "SerpentDefenseUpgrades",
+    "level": 9,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "173910"
+      }
+    ],
+    "upgradeTimeInSeconds": 108000,
+    "achievementRequirements": "level16",
+    "HP": 82910,
+    "fullHealDuration": 300,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "serpent_attackTut"
+      }
+    ],
+    "abilities": {
+      "aoeSpell": "aoe1",
+      "archerResist01": "archerResist01"
+    },
+    "attackPower": 300,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "10"
+      }
+    ],
+    "forwardSpeed": 3,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 2,
+    "upgradeXP": 500,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "100"
+      }
+    ],
+    "powerLevel": 900
+  },
+  {
+    "identifier": "SerpentDefenseUpgrades",
+    "level": 10,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "173910"
+      }
+    ],
+    "upgradeTimeInSeconds": 108000,
+    "achievementRequirements": "level16",
+    "HP": 82910,
+    "fullHealDuration": 300,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "serpent_attackTut"
+      }
+    ],
+    "abilities": {
+      "aoeSpell": "aoe1",
+      "archerResist01": "archerResist01"
+    },
+    "attackPower": 300,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "10"
+      }
+    ],
+    "forwardSpeed": 3,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 2,
+    "upgradeXP": 550,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "100"
+      }
+    ],
+    "powerLevel": 1000
+  },
+  {
+    "identifier": "SerpentDefenseUpgrades",
+    "level": 11,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "173910"
+      }
+    ],
+    "upgradeTimeInSeconds": 108000,
+    "achievementRequirements": "level16",
+    "HP": 82910,
+    "fullHealDuration": 300,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "serpent_attackTut"
+      }
+    ],
+    "abilities": {
+      "aoeSpell": "aoe1",
+      "archerResist01": "archerResist01"
+    },
+    "attackPower": 300,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "10"
+      }
+    ],
+    "forwardSpeed": 3,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 2,
+    "upgradeXP": 600,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "100"
+      }
+    ],
+    "powerLevel": 1100
+  },
+  {
+    "identifier": "SerpentDefenseUpgrades",
+    "level": 12,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "173910"
+      }
+    ],
+    "upgradeTimeInSeconds": 108000,
+    "achievementRequirements": "level16",
+    "HP": 82910,
+    "fullHealDuration": 300,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "serpent_attackTut"
+      }
+    ],
+    "abilities": {
+      "aoeSpell": "aoe1",
+      "archerResist01": "archerResist01"
+    },
+    "attackPower": 300,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "10"
+      }
+    ],
+    "forwardSpeed": 3,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 2,
+    "upgradeXP": 650,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "100"
+      }
+    ],
+    "powerLevel": 1200
+  },
+  {
+    "identifier": "SerpentDefenseUpgrades",
+    "level": 13,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "173910"
+      }
+    ],
+    "upgradeTimeInSeconds": 108000,
+    "achievementRequirements": "level16",
+    "HP": 82910,
+    "fullHealDuration": 300,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "serpent_attackTut"
+      }
+    ],
+    "abilities": {
+      "aoeSpell": "aoe1",
+      "archerResist01": "archerResist01"
+    },
+    "attackPower": 300,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "10"
+      }
+    ],
+    "forwardSpeed": 3,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 2,
+    "upgradeXP": 700,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "100"
+      }
+    ],
+    "powerLevel": 1300
+  },
+  {
+    "identifier": "SerpentDefenseUpgrades",
+    "level": 14,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "173910"
+      }
+    ],
+    "upgradeTimeInSeconds": 108000,
+    "achievementRequirements": "level16",
+    "HP": 82910,
+    "fullHealDuration": 300,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "serpent_attackTut"
+      }
+    ],
+    "abilities": {
+      "aoeSpell": "aoe1",
+      "archerResist01": "archerResist01"
+    },
+    "attackPower": 300,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "10"
+      }
+    ],
+    "forwardSpeed": 3,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 2,
+    "upgradeXP": 750,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "100"
+      }
+    ],
+    "powerLevel": 1400
+  },
+  {
+    "identifier": "SerpentDefenseUpgrades",
+    "level": 15,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "173910"
+      }
+    ],
+    "upgradeTimeInSeconds": 108000,
+    "achievementRequirements": "level16",
+    "HP": 82910,
+    "fullHealDuration": 300,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "serpent_attackTut"
+      }
+    ],
+    "abilities": {
+      "aoeSpell": "aoe1",
+      "archerResist01": "archerResist01"
+    },
+    "attackPower": 300,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "10"
+      }
+    ],
+    "forwardSpeed": 3,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 2,
+    "upgradeXP": 800,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "100"
+      }
+    ],
+    "powerLevel": 1500
+  },
+  {
+    "identifier": "SerpentDefenseUpgrades",
+    "level": 16,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "173910"
+      }
+    ],
+    "upgradeTimeInSeconds": 108000,
+    "achievementRequirements": "level16",
+    "HP": 82910,
+    "fullHealDuration": 300,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "serpent_attackTut"
+      }
+    ],
+    "abilities": {
+      "aoeSpell": "aoe1",
+      "archerResist01": "archerResist01"
+    },
+    "attackPower": 300,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "10"
+      }
+    ],
+    "forwardSpeed": 3,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 2,
+    "upgradeXP": 850,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "100"
+      }
+    ],
+    "powerLevel": 1600
+  }
+]

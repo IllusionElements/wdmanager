@@ -1,0 +1,1511 @@
+[
+  {
+    "identifier": "earthEvolvingWarrior",
+    "level": 1,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "0"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 239775,
+    "fullHealDuration": 16130,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "earthEvolvingWarrior_flamethrower"
+      }
+    ],
+    "abilities": {
+      "chargedShield": "shieldBlast1",
+      "heatedPiercingBreath": "heatedPiercingBreath1"
+    },
+    "attackPower": 2927,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "180"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 8,
+    "upgradeXP": 48231,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 14855,
+    "nextEvolveLevel": 7,
+    "tierNumber": 4,
+    "rarity": 5,
+    "sceneFile": "drg_ochreWarrior_v1.lvl",
+    "discoveredImage": "dragon_ochreWarrior_v1_discovered_thumbnail.png",
+    "iconFilename": "dragonThumbnail_ochreWarrior_v1_discovered.png"
+  },
+  {
+    "identifier": "earthEvolvingWarrior",
+    "level": 2,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "50688"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 310366,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "earthEvolvingWarrior_flamethrower"
+      }
+    ],
+    "abilities": {
+      "chargedShield": "shieldBlast1",
+      "heatedPiercingBreath": "heatedPiercingBreath1"
+    },
+    "attackPower": 3310,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "216"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 9,
+    "upgradeXP": 68106,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 21731,
+    "nextEvolveLevel": 7,
+    "tierNumber": 4,
+    "rarity": 5,
+    "sceneFile": "drg_ochreWarrior_v1.lvl",
+    "discoveredImage": "dragon_ochreWarrior_v1_discovered_thumbnail.png",
+    "iconFilename": "dragonThumbnail_ochreWarrior_v1_discovered.png"
+  },
+  {
+    "identifier": "earthEvolvingWarrior",
+    "level": 3,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "60192"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 356614,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "earthEvolvingWarrior_flamethrower"
+      }
+    ],
+    "abilities": {
+      "chargedShield": "shieldBlast1",
+      "heatedPiercingBreath": "heatedPiercingBreath1"
+    },
+    "attackPower": 3831,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "258"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 10,
+    "upgradeXP": 109112,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 28958,
+    "nextEvolveLevel": 7,
+    "tierNumber": 4,
+    "rarity": 5,
+    "sceneFile": "drg_ochreWarrior_v1.lvl",
+    "discoveredImage": "dragon_ochreWarrior_v1_discovered_thumbnail.png",
+    "iconFilename": "dragonThumbnail_ochreWarrior_v1_discovered.png"
+  },
+  {
+    "identifier": "earthEvolvingWarrior",
+    "level": 4,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "72864"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 408492,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "earthEvolvingWarrior_flamethrower"
+      }
+    ],
+    "abilities": {
+      "chargedShield": "shieldBlast1",
+      "heatedPiercingBreath": "heatedPiercingBreath1"
+    },
+    "attackPower": 4341,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "294"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 11,
+    "upgradeXP": 157414,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 37577,
+    "nextEvolveLevel": 7,
+    "tierNumber": 4,
+    "rarity": 5,
+    "sceneFile": "drg_ochreWarrior_v1.lvl",
+    "discoveredImage": "dragon_ochreWarrior_v1_discovered_thumbnail.png",
+    "iconFilename": "dragonThumbnail_ochreWarrior_v1_discovered.png"
+  },
+  {
+    "identifier": "earthEvolvingWarrior",
+    "level": 5,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "82368"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 464356,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "earthEvolvingWarrior_flamethrower"
+      }
+    ],
+    "abilities": {
+      "chargedShield": "shieldBlast1",
+      "heatedPiercingBreath": "heatedPiercingBreath1"
+    },
+    "attackPower": 4948,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "330"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 12,
+    "upgradeXP": 202488,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 48667,
+    "nextEvolveLevel": 7,
+    "tierNumber": 4,
+    "rarity": 5,
+    "sceneFile": "drg_ochreWarrior_v1.lvl",
+    "discoveredImage": "dragon_ochreWarrior_v1_discovered_thumbnail.png",
+    "iconFilename": "dragonThumbnail_ochreWarrior_v1_discovered.png"
+  },
+  {
+    "identifier": "earthEvolvingWarrior",
+    "level": 6,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "91872"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 527618,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "earthEvolvingWarrior_flamethrower"
+      }
+    ],
+    "abilities": {
+      "chargedShield": "shieldBlast1",
+      "heatedPiercingBreath": "heatedPiercingBreath1"
+    },
+    "attackPower": 5638,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "366"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 13,
+    "upgradeXP": 254271,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 62985,
+    "nextEvolveLevel": 7,
+    "tierNumber": 4,
+    "rarity": 5,
+    "sceneFile": "drg_ochreWarrior_v1.lvl",
+    "discoveredImage": "dragon_ochreWarrior_v1_discovered_thumbnail.png",
+    "iconFilename": "dragonThumbnail_ochreWarrior_v1_discovered.png"
+  },
+  {
+    "identifier": "earthEvolvingWarrior",
+    "level": 7,
+    "upgradeCost": [
+      {
+        "type": "earthEvolvingWarriorGreenStone",
+        "amount": "1"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "have2GreenEpic",
+    "HP": 603216,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "earthEvolvingWarrior_flamethrower"
+      }
+    ],
+    "abilities": {
+      "chargedShield": "shieldBlast1",
+      "heatedPiercingBreath": "heatedPiercingBreath1"
+    },
+    "attackPower": 6371,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "402"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 14,
+    "upgradeXP": 288732,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 81371,
+    "nextEvolveLevel": 13,
+    "tierNumber": 5,
+    "rarity": 5,
+    "sceneFile": "drg_ochreWarrior_v2.lvl",
+    "discoveredImage": "dragon_ochreWarrior_v2_discovered_thumbnail.png",
+    "iconFilename": "dragonThumbnail_ochreWarrior_v2_discovered.png"
+  },
+  {
+    "identifier": "earthEvolvingWarrior",
+    "level": 8,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "110880"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 760848,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "earthEvolvingWarrior_flamethrower"
+      }
+    ],
+    "abilities": {
+      "chargedShield": "shieldBlast1",
+      "heatedPiercingBreath": "heatedPiercingBreath1"
+    },
+    "attackPower": 7043,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "438"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 15,
+    "upgradeXP": 329839,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 113471,
+    "nextEvolveLevel": 13,
+    "tierNumber": 5,
+    "rarity": 5,
+    "sceneFile": "drg_ochreWarrior_v2.lvl",
+    "discoveredImage": "dragon_ochreWarrior_v2_discovered_thumbnail.png",
+    "iconFilename": "dragonThumbnail_ochreWarrior_v2_discovered.png"
+  },
+  {
+    "identifier": "earthEvolvingWarrior",
+    "level": 9,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "120384"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 817942,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "earthEvolvingWarrior_flamethrower"
+      }
+    ],
+    "abilities": {
+      "chargedShield": "shieldBlast1",
+      "heatedPiercingBreath": "heatedPiercingBreath1"
+    },
+    "attackPower": 7632,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "474"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 16,
+    "upgradeXP": 374215,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 132194,
+    "nextEvolveLevel": 13,
+    "tierNumber": 5,
+    "rarity": 5,
+    "sceneFile": "drg_ochreWarrior_v2.lvl",
+    "discoveredImage": "dragon_ochreWarrior_v2_discovered_thumbnail.png",
+    "iconFilename": "dragonThumbnail_ochreWarrior_v2_discovered.png"
+  },
+  {
+    "identifier": "earthEvolvingWarrior",
+    "level": 10,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "129888"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 886931,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "earthEvolvingWarrior_flamethrower"
+      }
+    ],
+    "abilities": {
+      "chargedShield": "shieldBlast1",
+      "heatedPiercingBreath": "heatedPiercingBreath1",
+      "berserk": "berserk1"
+    },
+    "attackPower": 8366,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "510"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 17,
+    "upgradeXP": 424413,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 157158,
+    "nextEvolveLevel": 13,
+    "tierNumber": 5,
+    "rarity": 5,
+    "sceneFile": "drg_ochreWarrior_v2.lvl",
+    "discoveredImage": "dragon_ochreWarrior_v2_discovered_thumbnail.png",
+    "iconFilename": "dragonThumbnail_ochreWarrior_v2_discovered.png"
+  },
+  {
+    "identifier": "earthEvolvingWarrior",
+    "level": 11,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "139392"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 1005644,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "earthEvolvingWarrior_flamethrower"
+      }
+    ],
+    "abilities": {
+      "chargedShield": "shieldBlast1",
+      "heatedPiercingBreath": "heatedPiercingBreath1",
+      "berserk": "berserk1"
+    },
+    "attackPower": 9377,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "546"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 18,
+    "upgradeXP": 484080,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 199757,
+    "nextEvolveLevel": 13,
+    "tierNumber": 5,
+    "rarity": 5,
+    "sceneFile": "drg_ochreWarrior_v2.lvl",
+    "discoveredImage": "dragon_ochreWarrior_v2_discovered_thumbnail.png",
+    "iconFilename": "dragonThumbnail_ochreWarrior_v2_discovered.png"
+  },
+  {
+    "identifier": "earthEvolvingWarrior",
+    "level": 12,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "148896"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 1139868,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "earthEvolvingWarrior_flamethrower"
+      }
+    ],
+    "abilities": {
+      "chargedShield": "shieldBlast1",
+      "heatedPiercingBreath": "heatedPiercingBreath1",
+      "berserk": "berserk1"
+    },
+    "attackPower": 10655,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "582"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 18,
+    "upgradeXP": 548589,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 257248,
+    "nextEvolveLevel": 13,
+    "tierNumber": 5,
+    "rarity": 5,
+    "sceneFile": "drg_ochreWarrior_v2.lvl",
+    "discoveredImage": "dragon_ochreWarrior_v2_discovered_thumbnail.png",
+    "iconFilename": "dragonThumbnail_ochreWarrior_v2_discovered.png"
+  },
+  {
+    "identifier": "earthEvolvingWarrior",
+    "level": 13,
+    "upgradeCost": [
+      {
+        "type": "earthEvolvingWarriorGoldStone",
+        "amount": "1"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "haveGoldLegendary",
+    "HP": 1299136,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "earthEvolvingWarrior_flamethrower"
+      }
+    ],
+    "abilities": {
+      "chargedShield": "shieldBlast1",
+      "heatedPiercingBreath": "heatedPiercingBreath1",
+      "berserk": "berserk1",
+      "cannonResist01": "cannonResist01"
+    },
+    "attackPower": 12087,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "618"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 18,
+    "upgradeXP": 621502,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 332592,
+    "nextEvolveLevel": 21,
+    "tierNumber": 6,
+    "rarity": 5,
+    "sceneFile": "drg_ochreWarrior_v2.lvl",
+    "discoveredImage": "dragon_ochreWarrior_v2_discovered_thumbnail.png",
+    "iconFilename": "dragonThumbnail_ochreWarrior_v2_discovered.png"
+  },
+  {
+    "identifier": "earthEvolvingWarrior",
+    "level": 14,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "167904"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 1666173,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "earthEvolvingWarrior_flamethrower"
+      }
+    ],
+    "abilities": {
+      "chargedShield": "shieldBlast1",
+      "heatedPiercingBreath": "heatedPiercingBreath1",
+      "berserk": "berserk1",
+      "cannonResist01": "cannonResist01"
+    },
+    "attackPower": 15510,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "690"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 18,
+    "upgradeXP": 796983,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 547349,
+    "nextEvolveLevel": 21,
+    "tierNumber": 6,
+    "rarity": 5,
+    "sceneFile": "drg_ochreWarrior_v2.lvl",
+    "discoveredImage": "dragon_ochreWarrior_v2_discovered_thumbnail.png",
+    "iconFilename": "dragonThumbnail_ochreWarrior_v2_discovered.png"
+  },
+  {
+    "identifier": "earthEvolvingWarrior",
+    "level": 15,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "186912"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 1960913,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "earthEvolvingWarrior_flamethrower"
+      }
+    ],
+    "abilities": {
+      "chargedShield": "shieldBlast1",
+      "heatedPiercingBreath": "heatedPiercingBreath1",
+      "berserk": "berserk1",
+      "cannonResist01": "cannonResist01"
+    },
+    "attackPower": 18043,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "744"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 18,
+    "upgradeXP": 863053,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 749362,
+    "nextEvolveLevel": 21,
+    "tierNumber": 6,
+    "rarity": 5,
+    "sceneFile": "drg_ochreWarrior_v3.lvl",
+    "discoveredImage": "dragon_ochreWarrior_v3_discovered_thumbnail.png",
+    "iconFilename": "dragonThumbnail_ochreWarrior_v3_discovered.png"
+  },
+  {
+    "identifier": "earthEvolvingWarrior",
+    "level": 16,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "201168"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 2132447,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "earthEvolvingWarrior_flamethrower"
+      }
+    ],
+    "abilities": {
+      "chargedShield": "shieldBlast1",
+      "heatedPiercingBreath": "heatedPiercingBreath1",
+      "berserk": "berserk1",
+      "cannonResist01": "cannonResist01"
+    },
+    "attackPower": 19822,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "798"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 18,
+    "upgradeXP": 929407,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 895245,
+    "nextEvolveLevel": 21,
+    "tierNumber": 6,
+    "rarity": 5,
+    "sceneFile": "drg_ochreWarrior_v3.lvl",
+    "discoveredImage": "dragon_ochreWarrior_v3_discovered_thumbnail.png",
+    "iconFilename": "dragonThumbnail_ochreWarrior_v3_discovered.png"
+  },
+  {
+    "identifier": "earthEvolvingWarrior",
+    "level": 17,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "215424"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "have2LegendaryGold",
+    "HP": 2296359,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "earthEvolvingWarrior_flamethrower"
+      }
+    ],
+    "abilities": {
+      "chargedShield": "shieldBlast1",
+      "heatedPiercingBreath": "heatedPiercingBreath1",
+      "berserk": "berserk1",
+      "cannonResist01": "cannonResist01"
+    },
+    "attackPower": 21346,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "852"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 18,
+    "upgradeXP": 1000866,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 1038133,
+    "nextEvolveLevel": 21,
+    "tierNumber": 6,
+    "rarity": 5,
+    "sceneFile": "drg_ochreWarrior_v3.lvl",
+    "discoveredImage": "dragon_ochreWarrior_v3_discovered_thumbnail.png",
+    "iconFilename": "dragonThumbnail_ochreWarrior_v3_discovered.png"
+  },
+  {
+    "identifier": "earthEvolvingWarrior",
+    "level": 18,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "229680"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 2472884,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "earthEvolvingWarrior_flamethrower"
+      }
+    ],
+    "abilities": {
+      "chargedShield": "shieldBlast1",
+      "heatedPiercingBreath": "heatedPiercingBreath1",
+      "berserk": "berserk1",
+      "cannonResist01": "cannonResist01"
+    },
+    "attackPower": 22987,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "906"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 19,
+    "upgradeXP": 1431562,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 1203895,
+    "nextEvolveLevel": 21,
+    "tierNumber": 6,
+    "rarity": 5,
+    "sceneFile": "drg_ochreWarrior_v3.lvl",
+    "discoveredImage": "dragon_ochreWarrior_v3_discovered_thumbnail.png",
+    "iconFilename": "dragonThumbnail_ochreWarrior_v3_discovered.png"
+  },
+  {
+    "identifier": "earthEvolvingWarrior",
+    "level": 19,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "323997"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 2598042,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "earthEvolvingWarrior_flamethrower"
+      }
+    ],
+    "abilities": {
+      "chargedShield": "shieldBlast1",
+      "heatedPiercingBreath": "heatedPiercingBreath1",
+      "berserk": "berserk1",
+      "cannonResist01": "cannonResist01"
+    },
+    "attackPower": 24151,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "942"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 19,
+    "upgradeXP": 1504030,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 1328896,
+    "nextEvolveLevel": 21,
+    "tierNumber": 6,
+    "rarity": 5,
+    "sceneFile": "drg_ochreWarrior_v3.lvl",
+    "discoveredImage": "dragon_ochreWarrior_v3_discovered_thumbnail.png",
+    "iconFilename": "dragonThumbnail_ochreWarrior_v3_discovered.png"
+  },
+  {
+    "identifier": "earthEvolvingWarrior",
+    "level": 20,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "336620"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 2729527,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "earthEvolvingWarrior_flamethrower"
+      }
+    ],
+    "abilities": {
+      "chargedShield": "shieldBlast1",
+      "heatedPiercingBreath": "heatedPiercingBreath1",
+      "berserk": "berserk1",
+      "cannonResist01": "cannonResist01"
+    },
+    "attackPower": 25373,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "978"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 20,
+    "upgradeXP": 1580172,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 1466888,
+    "nextEvolveLevel": 21,
+    "tierNumber": 6,
+    "rarity": 5,
+    "sceneFile": "drg_ochreWarrior_v3.lvl",
+    "discoveredImage": "dragon_ochreWarrior_v3_discovered_thumbnail.png",
+    "iconFilename": "dragonThumbnail_ochreWarrior_v3_discovered.png"
+  },
+  {
+    "identifier": "earthEvolvingWarrior",
+    "level": 21,
+    "upgradeCost": [
+      {
+        "type": "earthEvolvingWarriorPlatinumStone",
+        "amount": "1"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "havePlatinumLegendary",
+    "HP": 2939336,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "earthEvolvingWarrior_flamethrower"
+      }
+    ],
+    "abilities": {
+      "chargedShield": "shieldBlast1",
+      "heatedPiercingBreath": "heatedPiercingBreath1",
+      "berserk": "berserk1",
+      "cannonResist01": "cannonResist01"
+    },
+    "attackPower": 27324,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1032"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 21,
+    "upgradeXP": 1701670,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 1701014,
+    "nextEvolveLevel": 26,
+    "tierNumber": 7,
+    "rarity": 5,
+    "sceneFile": "drg_ochreWarrior_v4.lvl",
+    "discoveredImage": "dragon_ochreWarrior_v4_discovered_thumbnail.png",
+    "iconFilename": "dragonThumbnail_ochreWarrior_v4_discovered.png"
+  },
+  {
+    "identifier": "earthEvolvingWarrior",
+    "level": 22,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "368178"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 3088094,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "earthEvolvingWarrior_flamethrower"
+      }
+    ],
+    "abilities": {
+      "chargedShield": "shieldBlast1",
+      "heatedPiercingBreath": "heatedPiercingBreath1",
+      "berserk": "berserk1",
+      "cannonResist01": "cannonResist01"
+    },
+    "attackPower": 28707,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1068"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 22,
+    "upgradeXP": 2186648,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 1877616,
+    "nextEvolveLevel": 26,
+    "tierNumber": 7,
+    "rarity": 5,
+    "sceneFile": "drg_ochreWarrior_v4.lvl",
+    "discoveredImage": "dragon_ochreWarrior_v4_discovered_thumbnail.png",
+    "iconFilename": "dragonThumbnail_ochreWarrior_v4_discovered.png"
+  },
+  {
+    "identifier": "earthEvolvingWarrior",
+    "level": 23,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "465753"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 3244401,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "earthEvolvingWarrior_flamethrower"
+      }
+    ],
+    "abilities": {
+      "chargedShield": "shieldBlast1",
+      "heatedPiercingBreath": "heatedPiercingBreath1",
+      "berserk": "berserk1",
+      "cannonResist01": "cannonResist01"
+    },
+    "attackPower": 30160,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1104"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 22,
+    "upgradeXP": 2297341,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 2072429,
+    "nextEvolveLevel": 26,
+    "tierNumber": 7,
+    "rarity": 5,
+    "sceneFile": "drg_ochreWarrior_v4.lvl",
+    "discoveredImage": "dragon_ochreWarrior_v4_discovered_thumbnail.png",
+    "iconFilename": "dragonThumbnail_ochreWarrior_v4_discovered.png"
+  },
+  {
+    "identifier": "earthEvolvingWarrior",
+    "level": 24,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "481192"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 3408633,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "earthEvolvingWarrior_flamethrower"
+      }
+    ],
+    "abilities": {
+      "chargedShield": "shieldBlast1",
+      "heatedPiercingBreath": "heatedPiercingBreath1",
+      "berserk": "berserk1",
+      "cannonResist01": "cannonResist01"
+    },
+    "attackPower": 31687,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1140"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 23,
+    "upgradeXP": 2413642,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 2287584,
+    "nextEvolveLevel": 26,
+    "tierNumber": 7,
+    "rarity": 5,
+    "sceneFile": "drg_ochreWarrior_v4.lvl",
+    "discoveredImage": "dragon_ochreWarrior_v4_discovered_thumbnail.png",
+    "iconFilename": "dragonThumbnail_ochreWarrior_v4_discovered.png"
+  },
+  {
+    "identifier": "earthEvolvingWarrior",
+    "level": 25,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "496631"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 3581172,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "earthEvolvingWarrior_flamethrower"
+      }
+    ],
+    "abilities": {
+      "chargedShield": "shieldBlast1",
+      "heatedPiercingBreath": "heatedPiercingBreath1",
+      "berserk": "berserk1",
+      "cannonResist01": "cannonResist01"
+    },
+    "attackPower": 33291,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1176"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 24,
+    "upgradeXP": 2535828,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 2525078,
+    "nextEvolveLevel": 26,
+    "tierNumber": 7,
+    "rarity": 5,
+    "sceneFile": "drg_ochreWarrior_v4.lvl",
+    "discoveredImage": "dragon_ochreWarrior_v4_discovered_thumbnail.png",
+    "iconFilename": "dragonThumbnail_ochreWarrior_v4_discovered.png"
+  },
+  {
+    "identifier": "earthEvolvingWarrior",
+    "level": 26,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "512070"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "have2LegendaryPlatinum",
+    "HP": 3762432,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "earthEvolvingWarrior_flamethrower"
+      }
+    ],
+    "abilities": {
+      "chargedShield": "shieldBlast1",
+      "heatedPiercingBreath": "heatedPiercingBreath1",
+      "berserk": "berserk1",
+      "cannonResist01": "cannonResist01"
+    },
+    "attackPower": 34977,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1212"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 24,
+    "upgradeXP": 3114611,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 2787130,
+    "nextEvolveLevel": 0,
+    "tierNumber": 7,
+    "rarity": 5,
+    "sceneFile": "drg_ochreWarrior_v4.lvl",
+    "discoveredImage": "dragon_ochreWarrior_v4_discovered_thumbnail.png",
+    "iconFilename": "dragonThumbnail_ochreWarrior_v4_discovered.png"
+  },
+  {
+    "identifier": "earthEvolvingWarrior",
+    "level": 27,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "616691"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 3952851,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "earthEvolvingWarrior_flamethrower"
+      }
+    ],
+    "abilities": {
+      "chargedShield": "shieldBlast1",
+      "heatedPiercingBreath": "heatedPiercingBreath1",
+      "berserk": "berserk1",
+      "cannonResist01": "cannonResist01"
+    },
+    "attackPower": 35836,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1248"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 25,
+    "upgradeXP": 3272283,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 3000270,
+    "nextEvolveLevel": 0,
+    "tierNumber": 7,
+    "rarity": 5,
+    "sceneFile": "drg_ochreWarrior_v4.lvl",
+    "discoveredImage": "dragon_ochreWarrior_v4_discovered_thumbnail.png",
+    "iconFilename": "dragonThumbnail_ochreWarrior_v4_discovered.png"
+  },
+  {
+    "identifier": "earthEvolvingWarrior",
+    "level": 28,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "634740"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 4152916,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "earthEvolvingWarrior_flamethrower"
+      }
+    ],
+    "abilities": {
+      "chargedShield": "shieldBlast1",
+      "heatedPiercingBreath": "heatedPiercingBreath1",
+      "berserk": "berserk1",
+      "cannonResist01": "cannonResist01"
+    },
+    "attackPower": 37651,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1284"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 26,
+    "upgradeXP": 3437941,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 3311685,
+    "nextEvolveLevel": 0,
+    "tierNumber": 7,
+    "rarity": 5,
+    "sceneFile": "drg_ochreWarrior_v4.lvl",
+    "discoveredImage": "dragon_ochreWarrior_v4_discovered_thumbnail.png",
+    "iconFilename": "dragonThumbnail_ochreWarrior_v4_discovered.png"
+  },
+  {
+    "identifier": "earthEvolvingWarrior",
+    "level": 29,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "652790"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 4363119,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "earthEvolvingWarrior_flamethrower"
+      }
+    ],
+    "abilities": {
+      "chargedShield": "shieldBlast1",
+      "heatedPiercingBreath": "heatedPiercingBreath1",
+      "berserk": "berserk1",
+      "cannonResist01": "cannonResist01"
+    },
+    "attackPower": 39557,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1320"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 26,
+    "upgradeXP": 3611982,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 3655402,
+    "nextEvolveLevel": 0,
+    "tierNumber": 7,
+    "rarity": 5,
+    "sceneFile": "drg_ochreWarrior_v4.lvl",
+    "discoveredImage": "dragon_ochreWarrior_v4_discovered_thumbnail.png",
+    "iconFilename": "dragonThumbnail_ochreWarrior_v4_discovered.png"
+  },
+  {
+    "identifier": "earthEvolvingWarrior",
+    "level": 30,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "670839"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 4698546,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "earthEvolvingWarrior_flamethrower"
+      }
+    ],
+    "abilities": {
+      "chargedShield": "shieldBlast1",
+      "heatedPiercingBreath": "heatedPiercingBreath1",
+      "berserk": "berserk1",
+      "cannonResist01": "cannonResist01"
+    },
+    "attackPower": 42598,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1374"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 27,
+    "upgradeXP": 0,
+    "xpRewardMultiplier": 1.2,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 4239073,
+    "nextEvolveLevel": 0,
+    "tierNumber": 7,
+    "rarity": 5,
+    "sceneFile": "drg_ochreWarrior_v4.lvl",
+    "discoveredImage": "dragon_ochreWarrior_v4_discovered_thumbnail.png",
+    "iconFilename": "dragonThumbnail_ochreWarrior_v4_discovered.png"
+  }
+]

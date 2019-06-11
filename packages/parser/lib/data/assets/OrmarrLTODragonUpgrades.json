@@ -1,0 +1,1325 @@
+[
+  {
+    "identifier": "OrmarrLTODragon",
+    "level": 1,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "0"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 116551,
+    "fullHealDuration": 8957,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "OrmarrLTODragon_fireball"
+      }
+    ],
+    "abilities": {},
+    "attackPower": 8884,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "131"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 6,
+    "upgradeXP": 24080,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 2607
+  },
+  {
+    "identifier": "OrmarrLTODragon",
+    "level": 2,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "25503"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 125047,
+    "fullHealDuration": 9928,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "OrmarrLTODragon_fireball"
+      }
+    ],
+    "abilities": {
+      "instantKill": "instant1"
+    },
+    "attackPower": 9499,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "138"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 6,
+    "upgradeXP": 27121,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 4488
+  },
+  {
+    "identifier": "OrmarrLTODragon",
+    "level": 3,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "30730"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 134129,
+    "fullHealDuration": 11003,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "OrmarrLTODragon_fireball"
+      }
+    ],
+    "abilities": {
+      "instantKill": "instant1"
+    },
+    "attackPower": 10156,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "146"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 6,
+    "upgradeXP": 34417,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 5145
+  },
+  {
+    "identifier": "OrmarrLTODragon",
+    "level": 4,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "32314"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 142672,
+    "fullHealDuration": 12131,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "OrmarrLTODragon_fireball"
+      }
+    ],
+    "abilities": {
+      "instantKill": "instant1"
+    },
+    "attackPower": 10875,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "153"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 7,
+    "upgradeXP": 44592,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 5859
+  },
+  {
+    "identifier": "OrmarrLTODragon",
+    "level": 5,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "33898"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 152975,
+    "fullHealDuration": 13435,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "OrmarrLTODragon_fireball"
+      }
+    ],
+    "abilities": {
+      "instantKill": "instant1",
+      "kamikaze": "selfDestruct1"
+    },
+    "attackPower": 11621,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "161"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 7,
+    "upgradeXP": 56417,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 8954
+  },
+  {
+    "identifier": "OrmarrLTODragon",
+    "level": 6,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "44352"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 163984,
+    "fullHealDuration": 14794,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "OrmarrLTODragon_fireball"
+      }
+    ],
+    "abilities": {
+      "instantKill": "instant1",
+      "kamikaze": "selfDestruct1"
+    },
+    "attackPower": 12328,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "168"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 7,
+    "upgradeXP": 69635,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 10184
+  },
+  {
+    "identifier": "OrmarrLTODragon",
+    "level": 7,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "47520"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 174382,
+    "fullHealDuration": 16130,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "OrmarrLTODragon_fireball"
+      }
+    ],
+    "abilities": {
+      "instantKill": "instant1",
+      "kamikaze": "selfDestruct1"
+    },
+    "attackPower": 13009,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "180"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 8,
+    "upgradeXP": 78353,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 11427
+  },
+  {
+    "identifier": "OrmarrLTODragon",
+    "level": 8,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "50688"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 210977,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "OrmarrLTODragon_fireball"
+      }
+    ],
+    "abilities": {
+      "instantKill": "instant1",
+      "kamikaze": "selfDestruct1"
+    },
+    "attackPower": 13622,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "192"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 8,
+    "upgradeXP": 88140,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 14480
+  },
+  {
+    "identifier": "OrmarrLTODragon",
+    "level": 9,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "53856"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 218962,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "OrmarrLTODragon_fireball"
+      }
+    ],
+    "abilities": {
+      "instantKill": "instant1",
+      "kamikaze": "selfDestruct1",
+      "cloak": "cloak1"
+    },
+    "attackPower": 14184,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "204"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 8,
+    "upgradeXP": 98387,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 20361
+  },
+  {
+    "identifier": "OrmarrLTODragon",
+    "level": 10,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "57024"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 225721,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "OrmarrLTODragon_fireball"
+      }
+    ],
+    "abilities": {
+      "instantKill": "instant1",
+      "kamikaze": "selfDestruct1",
+      "cloak": "cloak1"
+    },
+    "attackPower": 14711,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "216"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 9,
+    "upgradeXP": 110639,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 21731
+  },
+  {
+    "identifier": "OrmarrLTODragon",
+    "level": 11,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "60192"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 234624,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "OrmarrLTODragon_fireball"
+      }
+    ],
+    "abilities": {
+      "instantKill": "instant1",
+      "kamikaze": "selfDestruct1",
+      "cloak": "cloak1"
+    },
+    "attackPower": 15339,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "228"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 9,
+    "upgradeXP": 124389,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 23590
+  },
+  {
+    "identifier": "OrmarrLTODragon",
+    "level": 12,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "63360"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 244037,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "OrmarrLTODragon_fireball"
+      }
+    ],
+    "abilities": {
+      "instantKill": "instant1",
+      "kamikaze": "selfDestruct1",
+      "cloak": "cloak1"
+    },
+    "attackPower": 16100,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "240"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 9,
+    "upgradeXP": 138812,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 25740
+  },
+  {
+    "identifier": "OrmarrLTODragon",
+    "level": 13,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "68112"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 259356,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "OrmarrLTODragon_fireball"
+      }
+    ],
+    "abilities": {
+      "instantKill": "instant1",
+      "kamikaze": "selfDestruct1",
+      "cloak": "cloak1"
+    },
+    "attackPower": 17026,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "258"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 10,
+    "upgradeXP": 156015,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 28958
+  },
+  {
+    "identifier": "OrmarrLTODragon",
+    "level": 14,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "72864"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 277606,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "OrmarrLTODragon_fireball"
+      }
+    ],
+    "abilities": {
+      "instantKill": "instant1",
+      "kamikaze": "selfDestruct1",
+      "cloak": "cloak1",
+      "lightningResist01": "lightningResist01"
+    },
+    "attackPower": 18077,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "276"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 10,
+    "upgradeXP": 175313,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 32890
+  },
+  {
+    "identifier": "OrmarrLTODragon",
+    "level": 15,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "77616"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 297085,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "OrmarrLTODragon_fireball"
+      }
+    ],
+    "abilities": {
+      "instantKill": "instant1",
+      "kamikaze": "selfDestruct1",
+      "cloak": "cloak1",
+      "lightningResist01": "lightningResist01"
+    },
+    "attackPower": 19292,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "294"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 11,
+    "upgradeXP": 195591,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 37577
+  },
+  {
+    "identifier": "OrmarrLTODragon",
+    "level": 16,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "82368"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 315664,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "OrmarrLTODragon_fireball"
+      }
+    ],
+    "abilities": {
+      "instantKill": "instant1",
+      "kamikaze": "selfDestruct1",
+      "cloak": "cloak1",
+      "lightningResist01": "lightningResist01"
+    },
+    "attackPower": 20614,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "312"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 11,
+    "upgradeXP": 209256,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 42619
+  },
+  {
+    "identifier": "OrmarrLTODragon",
+    "level": 17,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "87120"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 337714,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "OrmarrLTODragon_fireball"
+      }
+    ],
+    "abilities": {
+      "instantKill": "instant1",
+      "kamikaze": "selfDestruct1",
+      "cloak": "cloak1",
+      "lightningResist01": "lightningResist01"
+    },
+    "attackPower": 21991,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "330"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 12,
+    "upgradeXP": 223834,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 48667
+  },
+  {
+    "identifier": "OrmarrLTODragon",
+    "level": 18,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "91872"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 361231,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "OrmarrLTODragon_fireball"
+      }
+    ],
+    "abilities": {
+      "instantKill": "instant1",
+      "kamikaze": "selfDestruct1",
+      "cloak": "cloak1",
+      "lightningResist01": "lightningResist01"
+    },
+    "attackPower": 23460,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "348"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 12,
+    "upgradeXP": 315814,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 55510
+  },
+  {
+    "identifier": "OrmarrLTODragon",
+    "level": 19,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "128337"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 383722,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "OrmarrLTODragon_fireball"
+      }
+    ],
+    "abilities": {
+      "instantKill": "instant1",
+      "kamikaze": "selfDestruct1",
+      "cloak": "cloak1",
+      "lightningResist01": "lightningResist01"
+    },
+    "attackPower": 25057,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "366"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 13,
+    "upgradeXP": 337723,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 62985
+  },
+  {
+    "identifier": "OrmarrLTODragon",
+    "level": 20,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "134648"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 410330,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "OrmarrLTODragon_fireball"
+      }
+    ],
+    "abilities": {
+      "instantKill": "instant1",
+      "kamikaze": "selfDestruct1",
+      "cloak": "cloak1",
+      "lightningResist01": "lightningResist01"
+    },
+    "attackPower": 26720,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "384"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 13,
+    "upgradeXP": 361088,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 71859
+  },
+  {
+    "identifier": "OrmarrLTODragon",
+    "level": 21,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "140960"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 438703,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "OrmarrLTODragon_fireball"
+      }
+    ],
+    "abilities": {
+      "instantKill": "instant1",
+      "kamikaze": "selfDestruct1",
+      "cloak": "cloak1",
+      "lightningResist01": "lightningResist01"
+    },
+    "attackPower": 28316,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "402"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 14,
+    "upgradeXP": 383494,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 81371
+  },
+  {
+    "identifier": "OrmarrLTODragon",
+    "level": 22,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "147271"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 465916,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "OrmarrLTODragon_fireball"
+      }
+    ],
+    "abilities": {
+      "instantKill": "instant1",
+      "kamikaze": "selfDestruct1",
+      "cloak": "cloak1",
+      "lightningResist01": "lightningResist01"
+    },
+    "attackPower": 29869,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "420"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 14,
+    "upgradeXP": 501367,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 91190
+  },
+  {
+    "identifier": "OrmarrLTODragon",
+    "level": 23,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "187845"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 553344,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "OrmarrLTODragon_fireball"
+      }
+    ],
+    "abilities": {
+      "instantKill": "instant1",
+      "kamikaze": "selfDestruct1",
+      "cloak": "cloak1",
+      "lightningResist01": "lightningResist01"
+    },
+    "attackPower": 31299,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "438"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 15,
+    "upgradeXP": 535825,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 113471
+  },
+  {
+    "identifier": "OrmarrLTODragon",
+    "level": 24,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "195565"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 575379,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "OrmarrLTODragon_fireball"
+      }
+    ],
+    "abilities": {
+      "instantKill": "instant1",
+      "kamikaze": "selfDestruct1",
+      "cloak": "cloak1",
+      "lightningResist01": "lightningResist01"
+    },
+    "attackPower": 32638,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "456"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 15,
+    "upgradeXP": 568957,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 123032
+  },
+  {
+    "identifier": "OrmarrLTODragon",
+    "level": 25,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "203285"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 594867,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "OrmarrLTODragon_fireball"
+      }
+    ],
+    "abilities": {
+      "instantKill": "instant1",
+      "kamikaze": "selfDestruct1",
+      "cloak": "cloak1",
+      "lightningResist01": "lightningResist01"
+    },
+    "attackPower": 33917,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "474"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 16,
+    "upgradeXP": 607915,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 132194
+  },
+  {
+    "identifier": "OrmarrLTODragon",
+    "level": 26,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "211004"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 619291,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "OrmarrLTODragon_fireball"
+      }
+    ],
+    "abilities": {
+      "instantKill": "instant1",
+      "kamikaze": "selfDestruct1",
+      "cloak": "cloak1",
+      "lightningResist01": "lightningResist01"
+    },
+    "attackPower": 35409,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "492"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 16,
+    "upgradeXP": 759230,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 143712
+  },
+  {
+    "identifier": "OrmarrLTODragon",
+    "level": 27,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "255701"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 645041,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "OrmarrLTODragon_fireball"
+      }
+    ],
+    "abilities": {
+      "instantKill": "instant1",
+      "kamikaze": "selfDestruct1",
+      "cloak": "cloak1",
+      "lightningResist01": "lightningResist01"
+    },
+    "attackPower": 37181,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "510"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 17,
+    "upgradeXP": 806021,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 157158
+  },
+  {
+    "identifier": "OrmarrLTODragon",
+    "level": 28,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "264726"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 684781,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "OrmarrLTODragon_fireball"
+      }
+    ],
+    "abilities": {
+      "instantKill": "instant1",
+      "kamikaze": "selfDestruct1",
+      "cloak": "cloak1",
+      "lightningResist01": "lightningResist01"
+    },
+    "attackPower": 39295,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "528"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 17,
+    "upgradeXP": 860880,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 176280
+  },
+  {
+    "identifier": "OrmarrLTODragon",
+    "level": 29,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "273751"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 731377,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "OrmarrLTODragon_fireball"
+      }
+    ],
+    "abilities": {
+      "instantKill": "instant1",
+      "kamikaze": "selfDestruct1",
+      "cloak": "cloak1",
+      "lightningResist01": "lightningResist01"
+    },
+    "attackPower": 41676,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "546"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 18,
+    "upgradeXP": 919338,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 199757
+  },
+  {
+    "identifier": "OrmarrLTODragon",
+    "level": 30,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "282776"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 781029,
+    "fullHealDuration": 17280,
+    "attackType": [
+      {
+        "type": "fireball",
+        "amount": "OrmarrLTODragon_fireball"
+      }
+    ],
+    "abilities": {
+      "instantKill": "instant1",
+      "kamikaze": "selfDestruct1",
+      "cloak": "cloak1",
+      "lightningResist01": "lightningResist01"
+    },
+    "attackPower": 44401,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "564"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 18,
+    "upgradeXP": 0,
+    "xpRewardMultiplier": 1.2,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 227211
+  }
+]

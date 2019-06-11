@@ -1,0 +1,2252 @@
+[
+  {
+    "identifier": "T14C4SWdragon",
+    "level": 1,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "0"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 37521341,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T14C4SWdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "thunderstorm": "divineStorm1",
+      "northernLights": "celestialShield1",
+      "sacrifice": "whiteSacrifice1",
+      "elementalResist01": "elementalResist01"
+    },
+    "attackPower": 1848076,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3556"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 73,
+    "upgradeXP": 14238502,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 221511680
+  },
+  {
+    "identifier": "T14C4SWdragon",
+    "level": 2,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "919800"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 38459364,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T14C4SWdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "thunderstorm": "divineStorm1",
+      "northernLights": "celestialShield1",
+      "sacrifice": "whiteSacrifice1",
+      "elementalResist01": "elementalResist01"
+    },
+    "attackPower": 1894278,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3577"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 73,
+    "upgradeXP": 14594464,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 225997931
+  },
+  {
+    "identifier": "T14C4SWdragon",
+    "level": 3,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "925200"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 39420835,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T14C4SWdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "thunderstorm": "divineStorm1",
+      "northernLights": "celestialShield1",
+      "sacrifice": "whiteSacrifice1",
+      "elementalResist01": "elementalResist01"
+    },
+    "attackPower": 1941634,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3598"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 74,
+    "upgradeXP": 16995692,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 230517801
+  },
+  {
+    "identifier": "T14C4SWdragon",
+    "level": 4,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "930600"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 40406347,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T14C4SWdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "thunderstorm": "divineStorm1",
+      "northernLights": "celestialShield1",
+      "sacrifice": "whiteSacrifice1",
+      "elementalResist01": "elementalResist01"
+    },
+    "attackPower": 1990175,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3619"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 74,
+    "upgradeXP": 20047213,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 235071290
+  },
+  {
+    "identifier": "T14C4SWdragon",
+    "level": 5,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "936000"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 41416496,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T14C4SWdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "thunderstorm": "divineStorm1",
+      "northernLights": "celestialShield1",
+      "sacrifice": "whiteSacrifice1",
+      "elementalResist01": "elementalResist01"
+    },
+    "attackPower": 2039929,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3640"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 75,
+    "upgradeXP": 23096901,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 239658397
+  },
+  {
+    "identifier": "T14C4SWdragon",
+    "level": 6,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "941400"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 42451898,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T14C4SWdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "thunderstorm": "divineStorm1",
+      "northernLights": "celestialShield1",
+      "sacrifice": "whiteSacrifice1",
+      "elementalResist01": "elementalResist01"
+    },
+    "attackPower": 2090927,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3661"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 76,
+    "upgradeXP": 26170046,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 244279123
+  },
+  {
+    "identifier": "T14C4SWdragon",
+    "level": 7,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "946800"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 43513181,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T14C4SWdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "thunderstorm": "divineStorm1",
+      "northernLights": "celestialShield1",
+      "sacrifice": "whiteSacrifice1",
+      "elementalResist01": "elementalResist01"
+    },
+    "attackPower": 2143201,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3682"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 77,
+    "upgradeXP": 26824293,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 248933469
+  },
+  {
+    "identifier": "T14C4SWdragon",
+    "level": 8,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "952200"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 44600989,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T14C4SWdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "thunderstorm": "divineStorm1",
+      "northernLights": "celestialShield1",
+      "sacrifice": "whiteSacrifice1",
+      "elementalResist01": "elementalResist01"
+    },
+    "attackPower": 2196780,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3703"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 78,
+    "upgradeXP": 27494898,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 253621433
+  },
+  {
+    "identifier": "T14C4SWdragon",
+    "level": 9,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "957600"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 45715995,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T14C4SWdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "thunderstorm": "divineStorm1",
+      "northernLights": "celestialShield1",
+      "sacrifice": "whiteSacrifice1",
+      "elementalResist01": "elementalResist01"
+    },
+    "attackPower": 2251700,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3724"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 79,
+    "upgradeXP": 28182271,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 258343015
+  },
+  {
+    "identifier": "T14C4SWdragon",
+    "level": 10,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "963000"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 46858881,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T14C4SWdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "thunderstorm": "divineStorm1",
+      "northernLights": "celestialShield1",
+      "sacrifice": "whiteSacrifice1",
+      "elementalResist01": "elementalResist01"
+    },
+    "attackPower": 2307992,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3745"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 80,
+    "upgradeXP": 28886826,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 263098217
+  },
+  {
+    "identifier": "T14C4SWdragon",
+    "level": 11,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "968400"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 48030338,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T14C4SWdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "thunderstorm": "divineStorm1",
+      "northernLights": "celestialShield1",
+      "sacrifice": "whiteSacrifice1",
+      "elementalResist01": "elementalResist01"
+    },
+    "attackPower": 2365691,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3766"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 80,
+    "upgradeXP": 29608993,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 267887038
+  },
+  {
+    "identifier": "T14C4SWdragon",
+    "level": 12,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "973800"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 49231080,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T14C4SWdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "thunderstorm": "divineStorm1",
+      "northernLights": "celestialShield1",
+      "sacrifice": "whiteSacrifice1",
+      "elementalResist01": "elementalResist01"
+    },
+    "attackPower": 2424834,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3787"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 81,
+    "upgradeXP": 30349217,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 272709477
+  },
+  {
+    "identifier": "T14C4SWdragon",
+    "level": 13,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "979200"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 50461837,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T14C4SWdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "thunderstorm": "divineStorm1",
+      "northernLights": "celestialShield1",
+      "sacrifice": "whiteSacrifice1",
+      "elementalResist01": "elementalResist01"
+    },
+    "attackPower": 2485454,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3808"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 81,
+    "upgradeXP": 31107946,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 277565535
+  },
+  {
+    "identifier": "T14C4SWdragon",
+    "level": 14,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "984600"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 51723368,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T14C4SWdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "thunderstorm": "divineStorm1",
+      "northernLights": "celestialShield1",
+      "sacrifice": "whiteSacrifice1",
+      "elementalResist01": "elementalResist01"
+    },
+    "attackPower": 2547590,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3829"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 82,
+    "upgradeXP": 31885642,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 282455212
+  },
+  {
+    "identifier": "T14C4SWdragon",
+    "level": 15,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "990000"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 53016441,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T14C4SWdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "thunderstorm": "divineStorm1",
+      "northernLights": "celestialShield1",
+      "sacrifice": "whiteSacrifice1",
+      "elementalResist01": "elementalResist01"
+    },
+    "attackPower": 2611280,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3850"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 82,
+    "upgradeXP": 32682781,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 287378508
+  },
+  {
+    "identifier": "T14C4SWdragon",
+    "level": 16,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "995400"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 54341841,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T14C4SWdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "thunderstorm": "divineStorm1",
+      "northernLights": "celestialShield1",
+      "sacrifice": "whiteSacrifice1",
+      "elementalResist01": "elementalResist01"
+    },
+    "attackPower": 2676562,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3871"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 83,
+    "upgradeXP": 33499850,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 292335423
+  },
+  {
+    "identifier": "T14C4SWdragon",
+    "level": 17,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1000800"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 55700378,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T14C4SWdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "thunderstorm": "divineStorm1",
+      "northernLights": "celestialShield1",
+      "sacrifice": "whiteSacrifice1",
+      "elementalResist01": "elementalResist01"
+    },
+    "attackPower": 2743476,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3892"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 83,
+    "upgradeXP": 34337345,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 297325956
+  },
+  {
+    "identifier": "T14C4SWdragon",
+    "level": 18,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1006200"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 57092880,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T14C4SWdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "thunderstorm": "divineStorm1",
+      "northernLights": "celestialShield1",
+      "sacrifice": "whiteSacrifice1",
+      "elementalResist01": "elementalResist01"
+    },
+    "attackPower": 2812062,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3913"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 84,
+    "upgradeXP": 46747073,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 302350108
+  },
+  {
+    "identifier": "T14C4SWdragon",
+    "level": 19,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1343609"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 58520197,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T14C4SWdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "thunderstorm": "divineStorm1",
+      "northernLights": "celestialShield1",
+      "sacrifice": "whiteSacrifice1",
+      "elementalResist01": "elementalResist01"
+    },
+    "attackPower": 2882364,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3934"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 84,
+    "upgradeXP": 47915746,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 307407880
+  },
+  {
+    "identifier": "T14C4SWdragon",
+    "level": 20,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1350781"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 59983197,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T14C4SWdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "thunderstorm": "divineStorm1",
+      "northernLights": "celestialShield1",
+      "sacrifice": "whiteSacrifice1",
+      "elementalResist01": "elementalResist01"
+    },
+    "attackPower": 2954423,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3955"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 85,
+    "upgradeXP": 49113636,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 312499270
+  },
+  {
+    "identifier": "T14C4SWdragon",
+    "level": 21,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1357953"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 61482767,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T14C4SWdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "thunderstorm": "divineStorm1",
+      "northernLights": "celestialShield1",
+      "sacrifice": "whiteSacrifice1",
+      "elementalResist01": "elementalResist01"
+    },
+    "attackPower": 3028283,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3976"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 85,
+    "upgradeXP": 50341473,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 317624278
+  },
+  {
+    "identifier": "T14C4SWdragon",
+    "level": 22,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1365126"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 63019821,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T14C4SWdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "thunderstorm": "divineStorm1",
+      "northernLights": "celestialShield1",
+      "sacrifice": "whiteSacrifice1",
+      "elementalResist01": "elementalResist01"
+    },
+    "attackPower": 3103990,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3997"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 86,
+    "upgradeXP": 63111265,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 322782906
+  },
+  {
+    "identifier": "T14C4SWdragon",
+    "level": 23,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1678439"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 64595302,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T14C4SWdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "thunderstorm": "divineStorm1",
+      "northernLights": "celestialShield1",
+      "sacrifice": "whiteSacrifice1",
+      "elementalResist01": "elementalResist01"
+    },
+    "attackPower": 3181590,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "4018"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 86,
+    "upgradeXP": 64689045,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 327975153
+  },
+  {
+    "identifier": "T14C4SWdragon",
+    "level": 24,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1687211"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 66210176,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T14C4SWdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "thunderstorm": "divineStorm1",
+      "northernLights": "celestialShield1",
+      "sacrifice": "whiteSacrifice1",
+      "elementalResist01": "elementalResist01"
+    },
+    "attackPower": 3261129,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "4039"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 87,
+    "upgradeXP": 66306268,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 333201018
+  },
+  {
+    "identifier": "T14C4SWdragon",
+    "level": 25,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1695984"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 67865424,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T14C4SWdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "thunderstorm": "divineStorm1",
+      "northernLights": "celestialShield1",
+      "sacrifice": "whiteSacrifice1",
+      "elementalResist01": "elementalResist01"
+    },
+    "attackPower": 3342657,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "4060"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 87,
+    "upgradeXP": 67963921,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 338460502
+  },
+  {
+    "identifier": "T14C4SWdragon",
+    "level": 26,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1704756"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 69562049,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T14C4SWdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "thunderstorm": "divineStorm1",
+      "northernLights": "celestialShield1",
+      "sacrifice": "whiteSacrifice1",
+      "elementalResist01": "elementalResist01"
+    },
+    "attackPower": 3426223,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "4081"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 88,
+    "upgradeXP": 81440284,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 343753605
+  },
+  {
+    "identifier": "T14C4SWdragon",
+    "level": 27,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "2003218"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 71301086,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T14C4SWdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "thunderstorm": "divineStorm1",
+      "northernLights": "celestialShield1",
+      "sacrifice": "whiteSacrifice1",
+      "elementalResist01": "elementalResist01"
+    },
+    "attackPower": 3511879,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "4102"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 88,
+    "upgradeXP": 83476287,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 349080327
+  },
+  {
+    "identifier": "T14C4SWdragon",
+    "level": 28,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "2013473"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 73083598,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T14C4SWdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "thunderstorm": "divineStorm1",
+      "northernLights": "celestialShield1",
+      "sacrifice": "whiteSacrifice1",
+      "elementalResist01": "elementalResist01"
+    },
+    "attackPower": 3599676,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "4123"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 89,
+    "upgradeXP": 85563191,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 354440667
+  },
+  {
+    "identifier": "T14C4SWdragon",
+    "level": 29,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "2023729"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 74910678,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T14C4SWdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "thunderstorm": "divineStorm1",
+      "northernLights": "celestialShield1",
+      "sacrifice": "whiteSacrifice1",
+      "elementalResist01": "elementalResist01"
+    },
+    "attackPower": 3689667,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "4144"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 89,
+    "upgradeXP": 87702269,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 359834627
+  },
+  {
+    "identifier": "T14C4SWdragon",
+    "level": 30,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "2033984"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 76783434,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T14C4SWdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "thunderstorm": "divineStorm1",
+      "northernLights": "celestialShield1",
+      "sacrifice": "whiteSacrifice1",
+      "elementalResist01": "elementalResist01"
+    },
+    "attackPower": 3781909,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "4165"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 90,
+    "upgradeXP": 89894824,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 365262205
+  },
+  {
+    "identifier": "T14C4SWdragon",
+    "level": 31,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "2044240"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 78703012,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T14C4SWdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "thunderstorm": "divineStorm1",
+      "northernLights": "celestialShield1",
+      "sacrifice": "whiteSacrifice1",
+      "elementalResist01": "elementalResist01"
+    },
+    "attackPower": 3876456,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "4186"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 90,
+    "upgradeXP": 92142188,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 370723402
+  },
+  {
+    "identifier": "T14C4SWdragon",
+    "level": 32,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "2054495"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 80670572,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T14C4SWdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "thunderstorm": "divineStorm1",
+      "northernLights": "celestialShield1",
+      "sacrifice": "whiteSacrifice1",
+      "elementalResist01": "elementalResist01"
+    },
+    "attackPower": 3973367,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "4207"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 91,
+    "upgradeXP": 94445741,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 376218218
+  },
+  {
+    "identifier": "T14C4SWdragon",
+    "level": 33,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "2064750"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 82687317,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T14C4SWdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "thunderstorm": "divineStorm1",
+      "northernLights": "celestialShield1",
+      "sacrifice": "whiteSacrifice1",
+      "elementalResist01": "elementalResist01"
+    },
+    "attackPower": 4072701,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "4228"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 91,
+    "upgradeXP": 96806881,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 381746653
+  },
+  {
+    "identifier": "T14C4SWdragon",
+    "level": 34,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "2075006"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 84754479,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T14C4SWdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "thunderstorm": "divineStorm1",
+      "northernLights": "celestialShield1",
+      "sacrifice": "whiteSacrifice1",
+      "elementalResist01": "elementalResist01"
+    },
+    "attackPower": 4174519,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "4249"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 92,
+    "upgradeXP": 99227051,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 387308707
+  },
+  {
+    "identifier": "T14C4SWdragon",
+    "level": 35,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "2085261"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 86873320,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T14C4SWdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "thunderstorm": "divineStorm1",
+      "northernLights": "celestialShield1",
+      "sacrifice": "whiteSacrifice1",
+      "elementalResist01": "elementalResist01"
+    },
+    "attackPower": 4278882,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "4270"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 92,
+    "upgradeXP": 101707723,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 392904379
+  },
+  {
+    "identifier": "T14C4SWdragon",
+    "level": 36,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "2095517"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 89045135,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T14C4SWdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "thunderstorm": "divineStorm1",
+      "northernLights": "celestialShield1",
+      "sacrifice": "whiteSacrifice1",
+      "elementalResist01": "elementalResist01"
+    },
+    "attackPower": 4385854,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "4291"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 93,
+    "upgradeXP": 104250412,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 398533671
+  },
+  {
+    "identifier": "T14C4SWdragon",
+    "level": 37,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "2105772"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 91271246,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T14C4SWdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "thunderstorm": "divineStorm1",
+      "northernLights": "celestialShield1",
+      "sacrifice": "whiteSacrifice1",
+      "elementalResist01": "elementalResist01"
+    },
+    "attackPower": 4495500,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "4312"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 93,
+    "upgradeXP": 106856667,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 404196581
+  },
+  {
+    "identifier": "T14C4SWdragon",
+    "level": 38,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "2116027"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 93553007,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T14C4SWdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "thunderstorm": "divineStorm1",
+      "northernLights": "celestialShield1",
+      "sacrifice": "whiteSacrifice1",
+      "elementalResist01": "elementalResist01"
+    },
+    "attackPower": 4607887,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "4333"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 94,
+    "upgradeXP": 109528080,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 409893110
+  },
+  {
+    "identifier": "T14C4SWdragon",
+    "level": 39,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "2126283"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 95891817,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T14C4SWdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "thunderstorm": "divineStorm1",
+      "northernLights": "celestialShield1",
+      "sacrifice": "whiteSacrifice1",
+      "elementalResist01": "elementalResist01"
+    },
+    "attackPower": 4723084,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "4354"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 94,
+    "upgradeXP": 227339212,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 415623258
+  },
+  {
+    "identifier": "T14C4SWdragon",
+    "level": 40,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "2136538"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 100746320,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T14C4SWdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "thunderstorm": "divineStorm1",
+      "northernLights": "celestialShield1",
+      "sacrifice": "whiteSacrifice1",
+      "elementalResist01": "elementalResist01"
+    },
+    "attackPower": 4962190,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "4396"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 95,
+    "upgradeXP": 117949750,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 427184410
+  },
+  {
+    "identifier": "T14C4SWdragon",
+    "level": 41,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "2157049"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 103264964,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T14C4SWdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "thunderstorm": "divineStorm1",
+      "northernLights": "celestialShield1",
+      "sacrifice": "whiteSacrifice1",
+      "elementalResist01": "elementalResist01"
+    },
+    "attackPower": 5086244,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "4417"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 96,
+    "upgradeXP": 120898490,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 433015414
+  },
+  {
+    "identifier": "T14C4SWdragon",
+    "level": 42,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "2167304"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 105846574,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T14C4SWdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "thunderstorm": "divineStorm1",
+      "northernLights": "celestialShield1",
+      "sacrifice": "whiteSacrifice1",
+      "elementalResist01": "elementalResist01"
+    },
+    "attackPower": 5213400,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "4438"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 96,
+    "upgradeXP": 123920950,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 438880037
+  },
+  {
+    "identifier": "T14C4SWdragon",
+    "level": 43,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "2177560"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 108492722,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T14C4SWdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "thunderstorm": "divineStorm1",
+      "northernLights": "celestialShield1",
+      "sacrifice": "whiteSacrifice1",
+      "elementalResist01": "elementalResist01"
+    },
+    "attackPower": 5343735,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "4459"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 97,
+    "upgradeXP": 127018968,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 444778279
+  },
+  {
+    "identifier": "T14C4SWdragon",
+    "level": 44,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "2187815"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 111205017,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T14C4SWdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "thunderstorm": "divineStorm1",
+      "northernLights": "celestialShield1",
+      "sacrifice": "whiteSacrifice1",
+      "elementalResist01": "elementalResist01"
+    },
+    "attackPower": 5477328,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "4480"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 97,
+    "upgradeXP": 130194437,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 450710140
+  },
+  {
+    "identifier": "T14C4SWdragon",
+    "level": 45,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "2198070"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 113985121,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T14C4SWdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "thunderstorm": "divineStorm1",
+      "northernLights": "celestialShield1",
+      "sacrifice": "whiteSacrifice1",
+      "elementalResist01": "elementalResist01"
+    },
+    "attackPower": 5614261,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "4501"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 98,
+    "upgradeXP": 133449295,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 456675619
+  },
+  {
+    "identifier": "T14C4SWdragon",
+    "level": 46,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "2208326"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 116834729,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T14C4SWdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "thunderstorm": "divineStorm1",
+      "northernLights": "celestialShield1",
+      "sacrifice": "whiteSacrifice1",
+      "elementalResist01": "elementalResist01"
+    },
+    "attackPower": 5754618,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "4522"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 98,
+    "upgradeXP": 136785522,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 462674718
+  },
+  {
+    "identifier": "T14C4SWdragon",
+    "level": 47,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "2218581"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 119755580,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T14C4SWdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "thunderstorm": "divineStorm1",
+      "northernLights": "celestialShield1",
+      "sacrifice": "whiteSacrifice1",
+      "elementalResist01": "elementalResist01"
+    },
+    "attackPower": 5898483,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "4543"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 99,
+    "upgradeXP": 140205155,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 468707435
+  },
+  {
+    "identifier": "T14C4SWdragon",
+    "level": 48,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "2228836"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 122749453,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T14C4SWdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "thunderstorm": "divineStorm1",
+      "northernLights": "celestialShield1",
+      "sacrifice": "whiteSacrifice1",
+      "elementalResist01": "elementalResist01"
+    },
+    "attackPower": 6045945,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "4564"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 99,
+    "upgradeXP": 143710283,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 474773771
+  },
+  {
+    "identifier": "T14C4SWdragon",
+    "level": 49,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "2239092"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 125818173,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T14C4SWdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "thunderstorm": "divineStorm1",
+      "northernLights": "celestialShield1",
+      "sacrifice": "whiteSacrifice1",
+      "elementalResist01": "elementalResist01"
+    },
+    "attackPower": 6197093,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "4585"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 100,
+    "upgradeXP": 147303037,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 480873726
+  },
+  {
+    "identifier": "T14C4SWdragon",
+    "level": 50,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "2249347"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 128963608,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T14C4SWdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "thunderstorm": "divineStorm1",
+      "northernLights": "celestialShield1",
+      "sacrifice": "whiteSacrifice1",
+      "elementalResist01": "elementalResist01"
+    },
+    "attackPower": 6352020,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "4606"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 100,
+    "upgradeXP": 0,
+    "xpRewardMultiplier": 1.2,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 487007300
+  }
+]

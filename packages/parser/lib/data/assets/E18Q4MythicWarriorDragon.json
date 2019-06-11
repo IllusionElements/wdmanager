@@ -1,0 +1,2882 @@
+[
+  {
+    "identifier": "E18Q4MythicWarriorDragon",
+    "level": 1,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "0"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 249366,
+    "fullHealDuration": 16802,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "E18Q4MythicWarriorDragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "berserk": "wellOfPower1",
+      "dreadfulRoar": "timeStop1",
+      "alterFate": "alterFate1",
+      "elementalResist01": "elementalResist01"
+    },
+    "attackPower": 3045,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "210"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 8,
+    "upgradeXP": 54809,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 15449,
+    "nextEvolveLevel": 3,
+    "tierNumber": 4,
+    "rarity": 6
+  },
+  {
+    "identifier": "E18Q4MythicWarriorDragon",
+    "level": 2,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "57600"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 548722,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "E18Q4MythicWarriorDragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "berserk": "wellOfPower1",
+      "dreadfulRoar": "timeStop1",
+      "alterFate": "alterFate1",
+      "elementalResist01": "elementalResist01"
+    },
+    "attackPower": 5864,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "427"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 13,
+    "upgradeXP": 177866,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 65504,
+    "nextEvolveLevel": 3,
+    "tierNumber": 4,
+    "rarity": 6
+  },
+  {
+    "identifier": "E18Q4MythicWarriorDragon",
+    "level": 3,
+    "upgradeCost": [
+      {
+        "type": "E18Q4MythicWarriorDragonGreenStone",
+        "amount": "1"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "have2GreenEpic",
+    "HP": 627345,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "E18Q4MythicWarriorDragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "berserk": "wellOfPower1",
+      "dreadfulRoar": "timeStop1",
+      "alterFate": "alterFate1",
+      "elementalResist01": "elementalResist01"
+    },
+    "attackPower": 6626,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "469"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 14,
+    "upgradeXP": 229466,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 84626,
+    "nextEvolveLevel": 5,
+    "tierNumber": 5,
+    "rarity": 6
+  },
+  {
+    "identifier": "E18Q4MythicWarriorDragon",
+    "level": 4,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "126000"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 1185463,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "E18Q4MythicWarriorDragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "berserk": "wellOfPower1",
+      "dreadfulRoar": "timeStop1",
+      "alterFate": "alterFate1",
+      "elementalResist01": "elementalResist01"
+    },
+    "attackPower": 11081,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "679"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 18,
+    "upgradeXP": 501720,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 267538,
+    "nextEvolveLevel": 5,
+    "tierNumber": 5,
+    "rarity": 6
+  },
+  {
+    "identifier": "E18Q4MythicWarriorDragon",
+    "level": 5,
+    "upgradeCost": [
+      {
+        "type": "E18Q4MythicWarriorDragonGoldStone",
+        "amount": "1"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "haveGoldLegendary",
+    "HP": 1351102,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "E18Q4MythicWarriorDragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "berserk": "wellOfPower1",
+      "dreadfulRoar": "timeStop1",
+      "alterFate": "alterFate1",
+      "elementalResist01": "elementalResist01"
+    },
+    "attackPower": 12570,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "721"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 18,
+    "upgradeXP": 638900,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 345896,
+    "nextEvolveLevel": 9,
+    "tierNumber": 6,
+    "rarity": 6
+  },
+  {
+    "identifier": "E18Q4MythicWarriorDragon",
+    "level": 6,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "190800"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 1838574,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "E18Q4MythicWarriorDragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "berserk": "wellOfPower1",
+      "dreadfulRoar": "timeStop1",
+      "alterFate": "alterFate1",
+      "elementalResist01": "elementalResist01"
+    },
+    "attackPower": 17077,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "826"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 18,
+    "upgradeXP": 933488,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 639388,
+    "nextEvolveLevel": 9,
+    "tierNumber": 6,
+    "rarity": 6
+  },
+  {
+    "identifier": "E18Q4MythicWarriorDragon",
+    "level": 7,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "217800"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "have2LegendaryGold",
+    "HP": 2388213,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "E18Q4MythicWarriorDragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "berserk": "wellOfPower1",
+      "dreadfulRoar": "timeStop1",
+      "alterFate": "alterFate1",
+      "elementalResist01": "elementalResist01"
+    },
+    "attackPower": 22200,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "994"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 18,
+    "upgradeXP": 1137348,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 1079659,
+    "nextEvolveLevel": 9,
+    "tierNumber": 6,
+    "rarity": 6
+  },
+  {
+    "identifier": "E18Q4MythicWarriorDragon",
+    "level": 8,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "261000"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 2909652,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "E18Q4MythicWarriorDragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "berserk": "wellOfPower1",
+      "dreadfulRoar": "timeStop1",
+      "alterFate": "alterFate1",
+      "elementalResist01": "elementalResist01"
+    },
+    "attackPower": 27048,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1162"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 20,
+    "upgradeXP": 1385738,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 1602693,
+    "nextEvolveLevel": 9,
+    "tierNumber": 6,
+    "rarity": 6
+  },
+  {
+    "identifier": "E18Q4MythicWarriorDragon",
+    "level": 9,
+    "upgradeCost": [
+      {
+        "type": "E18Q4MythicWarriorDragonPlatinumStone",
+        "amount": "1"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "havePlatinumLegendary",
+    "HP": 3056910,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "E18Q4MythicWarriorDragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "berserk": "wellOfPower1",
+      "dreadfulRoar": "timeStop1",
+      "alterFate": "alterFate1",
+      "elementalResist01": "elementalResist01"
+    },
+    "attackPower": 28417,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1204"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 21,
+    "upgradeXP": 1455891,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 1769054,
+    "nextEvolveLevel": 13,
+    "tierNumber": 7,
+    "rarity": 6
+  },
+  {
+    "identifier": "E18Q4MythicWarriorDragon",
+    "level": 10,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "315000"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 4110965,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "E18Q4MythicWarriorDragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "berserk": "wellOfPower1",
+      "dreadfulRoar": "timeStop1",
+      "alterFate": "alterFate1",
+      "elementalResist01": "elementalResist01"
+    },
+    "attackPower": 37270,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1456"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 25,
+    "upgradeXP": 1957988,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 3120281,
+    "nextEvolveLevel": 13,
+    "tierNumber": 7,
+    "rarity": 6
+  },
+  {
+    "identifier": "E18Q4MythicWarriorDragon",
+    "level": 11,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "379800"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "have2LegendaryPlatinum",
+    "HP": 4426988,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "E18Q4MythicWarriorDragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "berserk": "wellOfPower1",
+      "dreadfulRoar": "timeStop1",
+      "alterFate": "alterFate1",
+      "elementalResist01": "elementalResist01"
+    },
+    "attackPower": 40135,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1519"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 26,
+    "upgradeXP": 2108537,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 3618428,
+    "nextEvolveLevel": 13,
+    "tierNumber": 7,
+    "rarity": 6
+  },
+  {
+    "identifier": "E18Q4MythicWarriorDragon",
+    "level": 12,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "396000"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 4767321,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "E18Q4MythicWarriorDragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "berserk": "wellOfPower1",
+      "dreadfulRoar": "timeStop1",
+      "alterFate": "alterFate1",
+      "elementalResist01": "elementalResist01"
+    },
+    "attackPower": 43221,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1582"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 27,
+    "upgradeXP": 2270662,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 4196175,
+    "nextEvolveLevel": 13,
+    "tierNumber": 7,
+    "rarity": 6
+  },
+  {
+    "identifier": "E18Q4MythicWarriorDragon",
+    "level": 13,
+    "upgradeCost": [
+      {
+        "type": "E18Q4MythicWarriorDragonSapphireStone",
+        "amount": "1"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "haveLegendarySapphire",
+    "HP": 4886488,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "E18Q4MythicWarriorDragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "berserk": "wellOfPower1",
+      "dreadfulRoar": "timeStop1",
+      "alterFate": "alterFate1",
+      "elementalResist01": "elementalResist01"
+    },
+    "attackPower": 44302,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1603"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 27,
+    "upgradeXP": 2327426,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 4408635,
+    "nextEvolveLevel": 17,
+    "tierNumber": 8,
+    "rarity": 6
+  },
+  {
+    "identifier": "E18Q4MythicWarriorDragon",
+    "level": 14,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "417600"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 5393700,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "E18Q4MythicWarriorDragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "berserk": "wellOfPower1",
+      "dreadfulRoar": "timeStop1",
+      "alterFate": "alterFate1",
+      "elementalResist01": "elementalResist01"
+    },
+    "attackPower": 48901,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1687"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 29,
+    "upgradeXP": 2569036,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 5371377,
+    "nextEvolveLevel": 17,
+    "tierNumber": 8,
+    "rarity": 6
+  },
+  {
+    "identifier": "E18Q4MythicWarriorDragon",
+    "level": 15,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "439200"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "have2LegendarySapphire",
+    "HP": 5953529,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "E18Q4MythicWarriorDragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "berserk": "wellOfPower1",
+      "dreadfulRoar": "timeStop1",
+      "alterFate": "alterFate1",
+      "elementalResist01": "elementalResist01"
+    },
+    "attackPower": 53977,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1771"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 30,
+    "upgradeXP": 2835731,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 6544464,
+    "nextEvolveLevel": 17,
+    "tierNumber": 8,
+    "rarity": 6
+  },
+  {
+    "identifier": "E18Q4MythicWarriorDragon",
+    "level": 16,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "460800"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 6735791,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "E18Q4MythicWarriorDragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "berserk": "wellOfPower1",
+      "dreadfulRoar": "timeStop1",
+      "alterFate": "alterFate1",
+      "elementalResist01": "elementalResist01"
+    },
+    "attackPower": 61070,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1876"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 32,
+    "upgradeXP": 3208363,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 8377262,
+    "nextEvolveLevel": 17,
+    "tierNumber": 8,
+    "rarity": 6
+  },
+  {
+    "identifier": "E18Q4MythicWarriorDragon",
+    "level": 17,
+    "upgradeCost": [
+      {
+        "type": "E18Q4MythicWarriorDragonGarnetStone",
+        "amount": "1"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "haveLegendaryGarnet",
+    "HP": 7076741,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "E18Q4MythicWarriorDragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "berserk": "wellOfPower1",
+      "dreadfulRoar": "timeStop1",
+      "alterFate": "alterFate1",
+      "elementalResist01": "elementalResist01"
+    },
+    "attackPower": 64162,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1918"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 32,
+    "upgradeXP": 3370783,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 9246926,
+    "nextEvolveLevel": 21,
+    "tierNumber": 9,
+    "rarity": 6
+  },
+  {
+    "identifier": "E18Q4MythicWarriorDragon",
+    "level": 18,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "498600"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 7811307,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "E18Q4MythicWarriorDragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "berserk": "wellOfPower1",
+      "dreadfulRoar": "timeStop1",
+      "alterFate": "alterFate1",
+      "elementalResist01": "elementalResist01"
+    },
+    "attackPower": 70822,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2002"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 34,
+    "upgradeXP": 4941848,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 11266400,
+    "nextEvolveLevel": 21,
+    "tierNumber": 9,
+    "rarity": 6
+  },
+  {
+    "identifier": "E18Q4MythicWarriorDragon",
+    "level": 19,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "690931"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "have2LegendaryGarnet",
+    "HP": 8837659,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "E18Q4MythicWarriorDragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "berserk": "wellOfPower1",
+      "dreadfulRoar": "timeStop1",
+      "alterFate": "alterFate1",
+      "elementalResist01": "elementalResist01"
+    },
+    "attackPower": 80129,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2107"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 35,
+    "upgradeXP": 5591239,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 14421699,
+    "nextEvolveLevel": 21,
+    "tierNumber": 9,
+    "rarity": 6
+  },
+  {
+    "identifier": "E18Q4MythicWarriorDragon",
+    "level": 20,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "726792"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 10767617,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "E18Q4MythicWarriorDragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "berserk": "wellOfPower1",
+      "dreadfulRoar": "timeStop1",
+      "alterFate": "alterFate1",
+      "elementalResist01": "elementalResist01"
+    },
+    "attackPower": 97629,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2275"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 38,
+    "upgradeXP": 6812357,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 21408570,
+    "nextEvolveLevel": 21,
+    "tierNumber": 9,
+    "rarity": 6
+  },
+  {
+    "identifier": "E18Q4MythicWarriorDragon",
+    "level": 21,
+    "upgradeCost": [
+      {
+        "type": "E18Q4MythicWarriorDragonEmeraldStone",
+        "amount": "1"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "haveLegendaryEmerald",
+    "HP": 11036781,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "E18Q4MythicWarriorDragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "berserk": "wellOfPower1",
+      "dreadfulRoar": "timeStop1",
+      "alterFate": "alterFate1",
+      "elementalResist01": "elementalResist01"
+    },
+    "attackPower": 100069,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2296"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 38,
+    "upgradeXP": 6982664,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 22492332,
+    "nextEvolveLevel": 25,
+    "tierNumber": 10,
+    "rarity": 6
+  },
+  {
+    "identifier": "E18Q4MythicWarriorDragon",
+    "level": 22,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "791343"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 14127760,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "E18Q4MythicWarriorDragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "berserk": "wellOfPower1",
+      "dreadfulRoar": "timeStop1",
+      "alterFate": "alterFate1",
+      "elementalResist01": "elementalResist01"
+    },
+    "attackPower": 128097,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2506"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 43,
+    "upgradeXP": 10932407,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 36855452,
+    "nextEvolveLevel": 25,
+    "tierNumber": 10,
+    "rarity": 6
+  },
+  {
+    "identifier": "E18Q4MythicWarriorDragon",
+    "level": 23,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1055604"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "have2LegendaryEmerald",
+    "HP": 14842927,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "E18Q4MythicWarriorDragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "berserk": "wellOfPower1",
+      "dreadfulRoar": "timeStop1",
+      "alterFate": "alterFate1",
+      "elementalResist01": "elementalResist01"
+    },
+    "attackPower": 134581,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2548"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 44,
+    "upgradeXP": 11485856,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 40681366,
+    "nextEvolveLevel": 25,
+    "tierNumber": 10,
+    "rarity": 6
+  },
+  {
+    "identifier": "E18Q4MythicWarriorDragon",
+    "level": 24,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1073148"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 15984133,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "E18Q4MythicWarriorDragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "berserk": "wellOfPower1",
+      "dreadfulRoar": "timeStop1",
+      "alterFate": "alterFate1",
+      "elementalResist01": "elementalResist01"
+    },
+    "attackPower": 144929,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2611"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 45,
+    "upgradeXP": 12369003,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 47177614,
+    "nextEvolveLevel": 25,
+    "tierNumber": 10,
+    "rarity": 6
+  },
+  {
+    "identifier": "E18Q4MythicWarriorDragon",
+    "level": 25,
+    "upgradeCost": [
+      {
+        "type": "E18Q4MythicWarriorDragonObsidianStone",
+        "amount": "1"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "haveLegendaryObsidian",
+    "HP": 16793282,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "E18Q4MythicWarriorDragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "berserk": "wellOfPower1",
+      "dreadfulRoar": "timeStop1",
+      "alterFate": "alterFate1",
+      "elementalResist01": "elementalResist01"
+    },
+    "attackPower": 152266,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2653"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 46,
+    "upgradeXP": 12995179,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 52075152,
+    "nextEvolveLevel": 34,
+    "tierNumber": 11,
+    "rarity": 6
+  },
+  {
+    "identifier": "E18Q4MythicWarriorDragon",
+    "level": 26,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1117010"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 17643415,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "E18Q4MythicWarriorDragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "berserk": "wellOfPower1",
+      "dreadfulRoar": "timeStop1",
+      "alterFate": "alterFate1",
+      "elementalResist01": "elementalResist01"
+    },
+    "attackPower": 159975,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2695"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 47,
+    "upgradeXP": 15961243,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 57481153,
+    "nextEvolveLevel": 34,
+    "tierNumber": 11,
+    "rarity": 6
+  },
+  {
+    "identifier": "E18Q4MythicWarriorDragon",
+    "level": 27,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1326363"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 18536581,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "E18Q4MythicWarriorDragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "berserk": "wellOfPower1",
+      "dreadfulRoar": "timeStop1",
+      "alterFate": "alterFate1",
+      "elementalResist01": "elementalResist01"
+    },
+    "attackPower": 168073,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2737"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 48,
+    "upgradeXP": 16769279,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 63448123,
+    "nextEvolveLevel": 34,
+    "tierNumber": 11,
+    "rarity": 6
+  },
+  {
+    "identifier": "E18Q4MythicWarriorDragon",
+    "level": 28,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1346874"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 19474973,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "E18Q4MythicWarriorDragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "berserk": "wellOfPower1",
+      "dreadfulRoar": "timeStop1",
+      "alterFate": "alterFate1",
+      "elementalResist01": "elementalResist01"
+    },
+    "attackPower": 176582,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2779"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 49,
+    "upgradeXP": 17618220,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 70034832,
+    "nextEvolveLevel": 34,
+    "tierNumber": 11,
+    "rarity": 6
+  },
+  {
+    "identifier": "E18Q4MythicWarriorDragon",
+    "level": 29,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1367385"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "have2LegendaryObsidian",
+    "HP": 20972366,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "E18Q4MythicWarriorDragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "berserk": "wellOfPower1",
+      "dreadfulRoar": "timeStop1",
+      "alterFate": "alterFate1",
+      "elementalResist01": "elementalResist01"
+    },
+    "attackPower": 190159,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2842"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 52,
+    "upgradeXP": 18972887,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 81218799,
+    "nextEvolveLevel": 34,
+    "tierNumber": 11,
+    "rarity": 6
+  },
+  {
+    "identifier": "E18Q4MythicWarriorDragon",
+    "level": 30,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1398151"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 23149486,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "E18Q4MythicWarriorDragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "berserk": "wellOfPower1",
+      "dreadfulRoar": "timeStop1",
+      "alterFate": "alterFate1",
+      "elementalResist01": "elementalResist01"
+    },
+    "attackPower": 209900,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2926"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 56,
+    "upgradeXP": 20942504,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 98446448,
+    "nextEvolveLevel": 34,
+    "tierNumber": 11,
+    "rarity": 6
+  },
+  {
+    "identifier": "E18Q4MythicWarriorDragon",
+    "level": 31,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1439172"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "haveMythicObsidian",
+    "HP": 24929409,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "E18Q4MythicWarriorDragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "berserk": "wellOfPower1",
+      "dreadfulRoar": "timeStop1",
+      "alterFate": "alterFate1",
+      "elementalResist01": "elementalResist01"
+    },
+    "attackPower": 226039,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2989"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 59,
+    "upgradeXP": 22552777,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 112034547,
+    "nextEvolveLevel": 34,
+    "tierNumber": 11,
+    "rarity": 6
+  },
+  {
+    "identifier": "E18Q4MythicWarriorDragon",
+    "level": 32,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1469938"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 26846211,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "E18Q4MythicWarriorDragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "berserk": "wellOfPower1",
+      "dreadfulRoar": "timeStop1",
+      "alterFate": "alterFate1",
+      "elementalResist01": "elementalResist01"
+    },
+    "attackPower": 243419,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3052"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 61,
+    "upgradeXP": 24286867,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 123927305,
+    "nextEvolveLevel": 34,
+    "tierNumber": 11,
+    "rarity": 6
+  },
+  {
+    "identifier": "E18Q4MythicWarriorDragon",
+    "level": 33,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1500704"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 28910392,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "E18Q4MythicWarriorDragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "berserk": "wellOfPower1",
+      "dreadfulRoar": "timeStop1",
+      "alterFate": "alterFate1",
+      "elementalResist01": "elementalResist01"
+    },
+    "attackPower": 262136,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3115"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 62,
+    "upgradeXP": 26154291,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 135066359,
+    "nextEvolveLevel": 34,
+    "tierNumber": 11,
+    "rarity": 6
+  },
+  {
+    "identifier": "E18Q4MythicWarriorDragon",
+    "level": 34,
+    "upgradeCost": [
+      {
+        "type": "E18Q4MythicWarriorDragonHarbingerStone",
+        "amount": "1"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "haveLegendaryHarbinger",
+    "HP": 30373972,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "E18Q4MythicWarriorDragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "berserk": "wellOfPower1",
+      "dreadfulRoar": "timeStop1",
+      "alterFate": "alterFate1",
+      "elementalResist01": "elementalResist01"
+    },
+    "attackPower": 275406,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3157"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 63,
+    "upgradeXP": 27478348,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 142660489,
+    "nextEvolveLevel": 44,
+    "tierNumber": 12,
+    "rarity": 6
+  },
+  {
+    "identifier": "E18Q4MythicWarriorDragon",
+    "level": 35,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1551981"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 34365297,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "E18Q4MythicWarriorDragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "berserk": "wellOfPower1",
+      "dreadfulRoar": "timeStop1",
+      "alterFate": "alterFate1",
+      "elementalResist01": "elementalResist01"
+    },
+    "attackPower": 311597,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3262"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 66,
+    "upgradeXP": 31089215,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 162234143,
+    "nextEvolveLevel": 44,
+    "tierNumber": 12,
+    "rarity": 6
+  },
+  {
+    "identifier": "E18Q4MythicWarriorDragon",
+    "level": 36,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1603258"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 37007645,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "E18Q4MythicWarriorDragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "berserk": "wellOfPower1",
+      "dreadfulRoar": "timeStop1",
+      "alterFate": "alterFate1",
+      "elementalResist01": "elementalResist01"
+    },
+    "attackPower": 335556,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3325"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 67,
+    "upgradeXP": 33479671,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 174381762,
+    "nextEvolveLevel": 44,
+    "tierNumber": 12,
+    "rarity": 6
+  },
+  {
+    "identifier": "E18Q4MythicWarriorDragon",
+    "level": 37,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1634024"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "have2LegendaryHarbinger",
+    "HP": 39853126,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "E18Q4MythicWarriorDragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "berserk": "wellOfPower1",
+      "dreadfulRoar": "timeStop1",
+      "alterFate": "alterFate1",
+      "elementalResist01": "elementalResist01"
+    },
+    "attackPower": 361356,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3388"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 69,
+    "upgradeXP": 36053935,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 186831950,
+    "nextEvolveLevel": 44,
+    "tierNumber": 12,
+    "rarity": 6
+  },
+  {
+    "identifier": "E18Q4MythicWarriorDragon",
+    "level": 38,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1664791"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 42917401,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "E18Q4MythicWarriorDragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "berserk": "wellOfPower1",
+      "dreadfulRoar": "timeStop1",
+      "alterFate": "alterFate1",
+      "elementalResist01": "elementalResist01"
+    },
+    "attackPower": 389141,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3451"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 70,
+    "upgradeXP": 38826135,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 199584707,
+    "nextEvolveLevel": 44,
+    "tierNumber": 12,
+    "rarity": 6
+  },
+  {
+    "identifier": "E18Q4MythicWarriorDragon",
+    "level": 39,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1695557"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 45090069,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "E18Q4MythicWarriorDragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "berserk": "wellOfPower1",
+      "dreadfulRoar": "timeStop1",
+      "alterFate": "alterFate1",
+      "elementalResist01": "elementalResist01"
+    },
+    "attackPower": 408841,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3493"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 71,
+    "upgradeXP": 40791702,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 208254640,
+    "nextEvolveLevel": 44,
+    "tierNumber": 12,
+    "rarity": 6
+  },
+  {
+    "identifier": "E18Q4MythicWarriorDragon",
+    "level": 40,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1716067"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "haveMythicHarbinger",
+    "HP": 47372719,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "E18Q4MythicWarriorDragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "berserk": "wellOfPower1",
+      "dreadfulRoar": "timeStop1",
+      "alterFate": "alterFate1",
+      "elementalResist01": "elementalResist01"
+    },
+    "attackPower": 429539,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3535"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 72,
+    "upgradeXP": 42856770,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 217059048,
+    "nextEvolveLevel": 44,
+    "tierNumber": 12,
+    "rarity": 6
+  },
+  {
+    "identifier": "E18Q4MythicWarriorDragon",
+    "level": 41,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1736578"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 56311176,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "E18Q4MythicWarriorDragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "berserk": "wellOfPower1",
+      "dreadfulRoar": "timeStop1",
+      "alterFate": "alterFate1",
+      "elementalResist01": "elementalResist01"
+    },
+    "attackPower": 510586,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3682"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 77,
+    "upgradeXP": 50943209,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 248933469,
+    "nextEvolveLevel": 44,
+    "tierNumber": 12,
+    "rarity": 6
+  },
+  {
+    "identifier": "E18Q4MythicWarriorDragon",
+    "level": 42,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1808366"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 59161876,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "E18Q4MythicWarriorDragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "berserk": "wellOfPower1",
+      "dreadfulRoar": "timeStop1",
+      "alterFate": "alterFate1",
+      "elementalResist01": "elementalResist01"
+    },
+    "attackPower": 536435,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3724"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 79,
+    "upgradeXP": 53522204,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 258343015,
+    "nextEvolveLevel": 44,
+    "tierNumber": 12,
+    "rarity": 6
+  },
+  {
+    "identifier": "E18Q4MythicWarriorDragon",
+    "level": 43,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1828877"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 62156908,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "E18Q4MythicWarriorDragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "berserk": "wellOfPower1",
+      "dreadfulRoar": "timeStop1",
+      "alterFate": "alterFate1",
+      "elementalResist01": "elementalResist01"
+    },
+    "attackPower": 563592,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3766"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 80,
+    "upgradeXP": 56231757,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 267887038,
+    "nextEvolveLevel": 44,
+    "tierNumber": 12,
+    "rarity": 6
+  },
+  {
+    "identifier": "E18Q4MythicWarriorDragon",
+    "level": 44,
+    "upgradeCost": [
+      {
+        "type": "E18Q4MythicWarriorDragonVanguardStone",
+        "amount": "1"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "haveLegendaryVanguard",
+    "HP": 65303553,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "E18Q4MythicWarriorDragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "berserk": "wellOfPower1",
+      "dreadfulRoar": "timeStop1",
+      "alterFate": "alterFate1",
+      "elementalResist01": "elementalResist01"
+    },
+    "attackPower": 592123,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3808"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 81,
+    "upgradeXP": 59078484,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 277565535,
+    "nextEvolveLevel": 55,
+    "tierNumber": 13,
+    "rarity": 6
+  },
+  {
+    "identifier": "E18Q4MythicWarriorDragon",
+    "level": 45,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1869898"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 68609512,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "E18Q4MythicWarriorDragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "berserk": "wellOfPower1",
+      "dreadfulRoar": "timeStop1",
+      "alterFate": "alterFate1",
+      "elementalResist01": "elementalResist01"
+    },
+    "attackPower": 622099,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3850"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 82,
+    "upgradeXP": 62069323,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 287378508,
+    "nextEvolveLevel": 55,
+    "tierNumber": 13,
+    "rarity": 6
+  },
+  {
+    "identifier": "E18Q4MythicWarriorDragon",
+    "level": 46,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1890409"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 72082842,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "E18Q4MythicWarriorDragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "berserk": "wellOfPower1",
+      "dreadfulRoar": "timeStop1",
+      "alterFate": "alterFate1",
+      "elementalResist01": "elementalResist01"
+    },
+    "attackPower": 653593,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3892"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 83,
+    "upgradeXP": 65211579,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 297325956,
+    "nextEvolveLevel": 55,
+    "tierNumber": 13,
+    "rarity": 6
+  },
+  {
+    "identifier": "E18Q4MythicWarriorDragon",
+    "level": 47,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1910920"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 73884903,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "E18Q4MythicWarriorDragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "berserk": "wellOfPower1",
+      "dreadfulRoar": "timeStop1",
+      "alterFate": "alterFate1",
+      "elementalResist01": "elementalResist01"
+    },
+    "attackPower": 669933,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3913"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 84,
+    "upgradeXP": 66841864,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 302350108,
+    "nextEvolveLevel": 55,
+    "tierNumber": 13,
+    "rarity": 6
+  },
+  {
+    "identifier": "E18Q4MythicWarriorDragon",
+    "level": 48,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1921175"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "have2LegendaryVanguard",
+    "HP": 77625313,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "E18Q4MythicWarriorDragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "berserk": "wellOfPower1",
+      "dreadfulRoar": "timeStop1",
+      "alterFate": "alterFate1",
+      "elementalResist01": "elementalResist01"
+    },
+    "attackPower": 703848,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3955"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 85,
+    "upgradeXP": 70225721,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 312499270,
+    "nextEvolveLevel": 55,
+    "tierNumber": 13,
+    "rarity": 6
+  },
+  {
+    "identifier": "E18Q4MythicWarriorDragon",
+    "level": 49,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1941686"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 79565933,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "E18Q4MythicWarriorDragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "berserk": "wellOfPower1",
+      "dreadfulRoar": "timeStop1",
+      "alterFate": "alterFate1",
+      "elementalResist01": "elementalResist01"
+    },
+    "attackPower": 721444,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3976"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 85,
+    "upgradeXP": 71981359,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 317624278,
+    "nextEvolveLevel": 55,
+    "tierNumber": 13,
+    "rarity": 6
+  },
+  {
+    "identifier": "E18Q4MythicWarriorDragon",
+    "level": 50,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1951941"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "haveMythicVanguard",
+    "HP": 81555062,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "E18Q4MythicWarriorDragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "berserk": "wellOfPower1",
+      "dreadfulRoar": "timeStop1",
+      "alterFate": "alterFate1",
+      "elementalResist01": "elementalResist01"
+    },
+    "attackPower": 739480,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3997"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 86,
+    "upgradeXP": 73780891,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 322782906,
+    "nextEvolveLevel": 55,
+    "tierNumber": 13,
+    "rarity": 6
+  },
+  {
+    "identifier": "E18Q4MythicWarriorDragon",
+    "level": 51,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1962197"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 85683757,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "E18Q4MythicWarriorDragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "berserk": "wellOfPower1",
+      "dreadfulRoar": "timeStop1",
+      "alterFate": "alterFate1",
+      "elementalResist01": "elementalResist01"
+    },
+    "attackPower": 776916,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "4039"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 87,
+    "upgradeXP": 77516043,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 333201018,
+    "nextEvolveLevel": 55,
+    "tierNumber": 13,
+    "rarity": 6
+  },
+  {
+    "identifier": "E18Q4MythicWarriorDragon",
+    "level": 52,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1982707"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 90021475,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "E18Q4MythicWarriorDragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "berserk": "wellOfPower1",
+      "dreadfulRoar": "timeStop1",
+      "alterFate": "alterFate1",
+      "elementalResist01": "elementalResist01"
+    },
+    "attackPower": 816248,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "4081"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 88,
+    "upgradeXP": 81440284,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 343753605,
+    "nextEvolveLevel": 55,
+    "tierNumber": 13,
+    "rarity": 6
+  },
+  {
+    "identifier": "E18Q4MythicWarriorDragon",
+    "level": 53,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "2003218"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 94578774,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "E18Q4MythicWarriorDragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "berserk": "wellOfPower1",
+      "dreadfulRoar": "timeStop1",
+      "alterFate": "alterFate1",
+      "elementalResist01": "elementalResist01"
+    },
+    "attackPower": 857570,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "4123"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 89,
+    "upgradeXP": 85563191,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 354440667,
+    "nextEvolveLevel": 55,
+    "tierNumber": 13,
+    "rarity": 6
+  },
+  {
+    "identifier": "E18Q4MythicWarriorDragon",
+    "level": 54,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "2023729"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 99366797,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "E18Q4MythicWarriorDragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "berserk": "wellOfPower1",
+      "dreadfulRoar": "timeStop1",
+      "alterFate": "alterFate1",
+      "elementalResist01": "elementalResist01"
+    },
+    "attackPower": 900985,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "4165"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 90,
+    "upgradeXP": 89894824,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 365262205,
+    "nextEvolveLevel": 55,
+    "tierNumber": 13,
+    "rarity": 6
+  },
+  {
+    "identifier": "E18Q4MythicWarriorDragon",
+    "level": 55,
+    "upgradeCost": [
+      {
+        "type": "E18Q4MythicWarriorDragonEmpyreanStone",
+        "amount": "1"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "haveLegendaryEmpyrean",
+    "HP": 104397211,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "E18Q4MythicWarriorDragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "berserk": "wellOfPower1",
+      "dreadfulRoar": "timeStop1",
+      "alterFate": "alterFate1",
+      "elementalResist01": "elementalResist01"
+    },
+    "attackPower": 946597,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "4207"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 90,
+    "upgradeXP": 94445741,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 376218218,
+    "nextEvolveLevel": 0,
+    "tierNumber": 14,
+    "rarity": 6
+  },
+  {
+    "identifier": "E18Q4MythicWarriorDragon",
+    "level": 56,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "2064750"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 109682267,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "E18Q4MythicWarriorDragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "berserk": "wellOfPower1",
+      "dreadfulRoar": "timeStop1",
+      "alterFate": "alterFate1",
+      "elementalResist01": "elementalResist01"
+    },
+    "attackPower": 994518,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "4249"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 90,
+    "upgradeXP": 99227051,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 387308707,
+    "nextEvolveLevel": 0,
+    "tierNumber": 14,
+    "rarity": 6
+  },
+  {
+    "identifier": "E18Q4MythicWarriorDragon",
+    "level": 57,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "2085261"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 115234881,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "E18Q4MythicWarriorDragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "berserk": "wellOfPower1",
+      "dreadfulRoar": "timeStop1",
+      "alterFate": "alterFate1",
+      "elementalResist01": "elementalResist01"
+    },
+    "attackPower": 1044865,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "4291"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 90,
+    "upgradeXP": 104250412,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 398533671,
+    "nextEvolveLevel": 0,
+    "tierNumber": 14,
+    "rarity": 6
+  },
+  {
+    "identifier": "E18Q4MythicWarriorDragon",
+    "level": 58,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "2105772"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 121068597,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "E18Q4MythicWarriorDragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "berserk": "wellOfPower1",
+      "dreadfulRoar": "timeStop1",
+      "alterFate": "alterFate1",
+      "elementalResist01": "elementalResist01"
+    },
+    "attackPower": 1097762,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "4333"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 90,
+    "upgradeXP": 109528080,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 409893110,
+    "nextEvolveLevel": 0,
+    "tierNumber": 14,
+    "rarity": 6
+  },
+  {
+    "identifier": "E18Q4MythicWarriorDragon",
+    "level": 59,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "2126283"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 127197662,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "E18Q4MythicWarriorDragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "berserk": "wellOfPower1",
+      "dreadfulRoar": "timeStop1",
+      "alterFate": "alterFate1",
+      "elementalResist01": "elementalResist01"
+    },
+    "attackPower": 1153336,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "4375"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 90,
+    "upgradeXP": 115072931,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 421387024,
+    "nextEvolveLevel": 0,
+    "tierNumber": 14,
+    "rarity": 6
+  },
+  {
+    "identifier": "E18Q4MythicWarriorDragon",
+    "level": 60,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "2146793"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 130377591,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "E18Q4MythicWarriorDragon_flamethrower"
+      }
+    ],
+    "abilities": {
+      "berserk": "wellOfPower1",
+      "dreadfulRoar": "timeStop1",
+      "alterFate": "alterFate1",
+      "elementalResist01": "elementalResist01"
+    },
+    "attackPower": 1182169,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "4396"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage2",
+    "requiredStableLevel": 90,
+    "upgradeXP": 0,
+    "xpRewardMultiplier": 1.2,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 427184410,
+    "nextEvolveLevel": 0,
+    "tierNumber": 14,
+    "rarity": 6
+  }
+]

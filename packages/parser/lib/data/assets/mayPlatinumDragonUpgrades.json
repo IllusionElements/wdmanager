@@ -1,0 +1,875 @@
+[
+  {
+    "identifier": "mayPlatinumDragon",
+    "level": 1,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "0"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 1184498,
+    "fullHealDuration": 15840,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T7C2SEdragon_lockon"
+      }
+    ],
+    "abilities": {},
+    "attackPower": 59896,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "575"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 16,
+    "upgradeXP": 401400,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 210519
+  },
+  {
+    "identifier": "mayPlatinumDragon",
+    "level": 2,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "144432"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 1256788,
+    "fullHealDuration": 15840,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T7C2SEdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "risingPhoenix": "risingPhoenix1"
+    },
+    "attackPower": 63408,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "590"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 17,
+    "upgradeXP": 413733,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 354690
+  },
+  {
+    "identifier": "mayPlatinumDragon",
+    "level": 3,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "148104"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 1331328,
+    "fullHealDuration": 15840,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T7C2SEdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "risingPhoenix": "risingPhoenix1"
+    },
+    "attackPower": 66705,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "605"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 17,
+    "upgradeXP": 481803,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 395275
+  },
+  {
+    "identifier": "mayPlatinumDragon",
+    "level": 4,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "151776"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 1394031,
+    "fullHealDuration": 15840,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T7C2SEdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "risingPhoenix": "risingPhoenix1"
+    },
+    "attackPower": 69677,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "620"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 17,
+    "upgradeXP": 568309,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 432324
+  },
+  {
+    "identifier": "mayPlatinumDragon",
+    "level": 5,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "155448"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 1442950,
+    "fullHealDuration": 15840,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T7C2SEdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "risingPhoenix": "risingPhoenix1",
+      "frozenTomb": "frozenTomb1"
+    },
+    "attackPower": 72294,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "635"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 18,
+    "upgradeXP": 654761,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 619040
+  },
+  {
+    "identifier": "mayPlatinumDragon",
+    "level": 6,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "159120"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 1479013,
+    "fullHealDuration": 15840,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T7C2SEdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "risingPhoenix": "risingPhoenix1",
+      "frozenTomb": "frozenTomb1"
+    },
+    "attackPower": 74540,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "650"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 18,
+    "upgradeXP": 741879,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 654234
+  },
+  {
+    "identifier": "mayPlatinumDragon",
+    "level": 7,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "162792"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 1515976,
+    "fullHealDuration": 15840,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T7C2SEdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "risingPhoenix": "risingPhoenix1",
+      "frozenTomb": "frozenTomb1"
+    },
+    "attackPower": 76545,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "665"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 18,
+    "upgradeXP": 760424,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 688650
+  },
+  {
+    "identifier": "mayPlatinumDragon",
+    "level": 8,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "166464"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 1553861,
+    "fullHealDuration": 15840,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T7C2SEdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "risingPhoenix": "risingPhoenix1",
+      "frozenTomb": "frozenTomb1"
+    },
+    "attackPower": 78459,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "680"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 19,
+    "upgradeXP": 779433,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 723520
+  },
+  {
+    "identifier": "mayPlatinumDragon",
+    "level": 9,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "170136"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 1592696,
+    "fullHealDuration": 15840,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T7C2SEdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "risingPhoenix": "risingPhoenix1",
+      "frozenTomb": "frozenTomb1",
+      "invertSpell": "invert1"
+    },
+    "attackPower": 80420,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "695"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 19,
+    "upgradeXP": 798918,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 988187
+  },
+  {
+    "identifier": "mayPlatinumDragon",
+    "level": 10,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "173808"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 1632502,
+    "fullHealDuration": 15840,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T7C2SEdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "risingPhoenix": "risingPhoenix1",
+      "frozenTomb": "frozenTomb1",
+      "invertSpell": "invert1"
+    },
+    "attackPower": 82430,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "710"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 19,
+    "upgradeXP": 818891,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 1038133
+  },
+  {
+    "identifier": "mayPlatinumDragon",
+    "level": 11,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "177480"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 1673306,
+    "fullHealDuration": 15840,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T7C2SEdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "risingPhoenix": "risingPhoenix1",
+      "frozenTomb": "frozenTomb1",
+      "invertSpell": "invert1"
+    },
+    "attackPower": 84491,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "725"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 20,
+    "upgradeXP": 839362,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 1090674
+  },
+  {
+    "identifier": "mayPlatinumDragon",
+    "level": 12,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "181152"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 1715127,
+    "fullHealDuration": 15840,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T7C2SEdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "risingPhoenix": "risingPhoenix1",
+      "frozenTomb": "frozenTomb1",
+      "invertSpell": "invert1"
+    },
+    "attackPower": 86603,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "740"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 20,
+    "upgradeXP": 1142711,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 1145976
+  },
+  {
+    "identifier": "mayPlatinumDragon",
+    "level": 13,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "245484"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 1757996,
+    "fullHealDuration": 15840,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T7C2SEdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "risingPhoenix": "risingPhoenix1",
+      "frozenTomb": "frozenTomb1",
+      "invertSpell": "invert1"
+    },
+    "attackPower": 88768,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "755"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 20,
+    "upgradeXP": 1171278,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 1203895
+  },
+  {
+    "identifier": "mayPlatinumDragon",
+    "level": 14,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "250361"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 1801937,
+    "fullHealDuration": 15840,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T7C2SEdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "risingPhoenix": "risingPhoenix1",
+      "frozenTomb": "frozenTomb1",
+      "invertSpell": "invert1",
+      "lightningResist01": "lightningResist01"
+    },
+    "attackPower": 90987,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "770"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 21,
+    "upgradeXP": 1200557,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 1264916
+  },
+  {
+    "identifier": "mayPlatinumDragon",
+    "level": 15,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "255238"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 1846972,
+    "fullHealDuration": 15840,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T7C2SEdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "risingPhoenix": "risingPhoenix1",
+      "frozenTomb": "frozenTomb1",
+      "invertSpell": "invert1",
+      "lightningResist01": "lightningResist01"
+    },
+    "attackPower": 93262,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "785"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 21,
+    "upgradeXP": 1505094,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 1328896
+  },
+  {
+    "identifier": "mayPlatinumDragon",
+    "level": 16,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "318144"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 1893132,
+    "fullHealDuration": 15840,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T7C2SEdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "risingPhoenix": "risingPhoenix1",
+      "frozenTomb": "frozenTomb1",
+      "invertSpell": "invert1",
+      "lightningResist01": "lightningResist01"
+    },
+    "attackPower": 95593,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "800"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 21,
+    "upgradeXP": 1542721,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 1396122
+  },
+  {
+    "identifier": "mayPlatinumDragon",
+    "level": 17,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "324109"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 1940446,
+    "fullHealDuration": 15840,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T7C2SEdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "risingPhoenix": "risingPhoenix1",
+      "frozenTomb": "frozenTomb1",
+      "invertSpell": "invert1",
+      "lightningResist01": "lightningResist01"
+    },
+    "attackPower": 97983,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "815"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 22,
+    "upgradeXP": 1848622,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 1466888
+  },
+  {
+    "identifier": "mayPlatinumDragon",
+    "level": 18,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "385876"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 1988941,
+    "fullHealDuration": 15840,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T7C2SEdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "risingPhoenix": "risingPhoenix1",
+      "frozenTomb": "frozenTomb1",
+      "invertSpell": "invert1",
+      "lightningResist01": "lightningResist01"
+    },
+    "attackPower": 100432,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "830"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 22,
+    "upgradeXP": 1894837,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 1541051
+  },
+  {
+    "identifier": "mayPlatinumDragon",
+    "level": 19,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "392850"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 2038650,
+    "fullHealDuration": 15840,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T7C2SEdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "risingPhoenix": "risingPhoenix1",
+      "frozenTomb": "frozenTomb1",
+      "invertSpell": "invert1",
+      "lightningResist01": "lightningResist01"
+    },
+    "attackPower": 102943,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "845"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 22,
+    "upgradeXP": 1942206,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 1619027
+  },
+  {
+    "identifier": "mayPlatinumDragon",
+    "level": 20,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "399824"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 2089601,
+    "fullHealDuration": 15840,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T7C2SEdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "risingPhoenix": "risingPhoenix1",
+      "frozenTomb": "frozenTomb1",
+      "invertSpell": "invert1",
+      "lightningResist01": "lightningResist01"
+    },
+    "attackPower": 105517,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "860"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 22,
+    "upgradeXP": 0,
+    "xpRewardMultiplier": 1.2,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 1701014
+  }
+]

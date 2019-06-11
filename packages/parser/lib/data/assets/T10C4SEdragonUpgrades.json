@@ -1,0 +1,1577 @@
+[
+  {
+    "identifier": "T10C4SEdragon",
+    "level": 1,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "0"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 5745192,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T10C4SEdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "elementalBarrier": "elementalBarrier1",
+      "desiccatingSand": "noxiousVines1",
+      "umbralSpike": "uproot1",
+      "archerResist01": "archerResist01"
+    },
+    "attackPower": 282953,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1960"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 33,
+    "upgradeXP": 2180003,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 10206746
+  },
+  {
+    "identifier": "T10C4SEdragon",
+    "level": 2,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "509400"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 5888807,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T10C4SEdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "elementalBarrier": "elementalBarrier1",
+      "desiccatingSand": "noxiousVines1",
+      "umbralSpike": "uproot1",
+      "archerResist01": "archerResist01"
+    },
+    "attackPower": 290027,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "1981"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 33,
+    "upgradeXP": 2234502,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 10723557
+  },
+  {
+    "identifier": "T10C4SEdragon",
+    "level": 3,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "514800"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 6036010,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T10C4SEdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "elementalBarrier": "elementalBarrier1",
+      "desiccatingSand": "noxiousVines1",
+      "umbralSpike": "uproot1",
+      "archerResist01": "archerResist01"
+    },
+    "attackPower": 297277,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2002"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 34,
+    "upgradeXP": 2602144,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 11266400
+  },
+  {
+    "identifier": "T10C4SEdragon",
+    "level": 4,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "520200"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 6186893,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T10C4SEdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "elementalBarrier": "elementalBarrier1",
+      "desiccatingSand": "noxiousVines1",
+      "umbralSpike": "uproot1",
+      "archerResist01": "archerResist01"
+    },
+    "attackPower": 304709,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2023"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 34,
+    "upgradeXP": 3069349,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 11836587
+  },
+  {
+    "identifier": "T10C4SEdragon",
+    "level": 5,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "525600"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 6341543,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T10C4SEdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "elementalBarrier": "elementalBarrier1",
+      "desiccatingSand": "noxiousVines1",
+      "umbralSpike": "uproot1",
+      "archerResist01": "archerResist01"
+    },
+    "attackPower": 312326,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2044"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 34,
+    "upgradeXP": 3536273,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 12435804
+  },
+  {
+    "identifier": "T10C4SEdragon",
+    "level": 6,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "531000"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 6500063,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T10C4SEdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "elementalBarrier": "elementalBarrier1",
+      "desiccatingSand": "noxiousVines1",
+      "umbralSpike": "uproot1",
+      "archerResist01": "archerResist01"
+    },
+    "attackPower": 320134,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2065"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 35,
+    "upgradeXP": 4006790,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 13065427
+  },
+  {
+    "identifier": "T10C4SEdragon",
+    "level": 7,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "536400"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 6662549,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T10C4SEdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "elementalBarrier": "elementalBarrier1",
+      "desiccatingSand": "noxiousVines1",
+      "umbralSpike": "uproot1",
+      "archerResist01": "archerResist01"
+    },
+    "attackPower": 328138,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2086"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 35,
+    "upgradeXP": 4106958,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 13726680
+  },
+  {
+    "identifier": "T10C4SEdragon",
+    "level": 8,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "541800"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 6829100,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T10C4SEdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "elementalBarrier": "elementalBarrier1",
+      "desiccatingSand": "noxiousVines1",
+      "umbralSpike": "uproot1",
+      "archerResist01": "archerResist01"
+    },
+    "attackPower": 336341,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2107"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 35,
+    "upgradeXP": 4209632,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 14421699
+  },
+  {
+    "identifier": "T10C4SEdragon",
+    "level": 9,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "547200"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 6999808,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T10C4SEdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "elementalBarrier": "elementalBarrier1",
+      "desiccatingSand": "noxiousVines1",
+      "umbralSpike": "uproot1",
+      "archerResist01": "archerResist01"
+    },
+    "attackPower": 344749,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2128"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 36,
+    "upgradeXP": 4314871,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 15151772
+  },
+  {
+    "identifier": "T10C4SEdragon",
+    "level": 10,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "552600"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 7174779,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T10C4SEdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "elementalBarrier": "elementalBarrier1",
+      "desiccatingSand": "noxiousVines1",
+      "umbralSpike": "uproot1",
+      "archerResist01": "archerResist01"
+    },
+    "attackPower": 353368,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2149"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 36,
+    "upgradeXP": 4422740,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 15918751
+  },
+  {
+    "identifier": "T10C4SEdragon",
+    "level": 11,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "558000"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 7354125,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T10C4SEdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "elementalBarrier": "elementalBarrier1",
+      "desiccatingSand": "noxiousVines1",
+      "umbralSpike": "uproot1",
+      "archerResist01": "archerResist01"
+    },
+    "attackPower": 362202,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2170"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 36,
+    "upgradeXP": 4533307,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 16724524
+  },
+  {
+    "identifier": "T10C4SEdragon",
+    "level": 12,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "563400"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 7537961,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T10C4SEdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "elementalBarrier": "elementalBarrier1",
+      "desiccatingSand": "noxiousVines1",
+      "umbralSpike": "uproot1",
+      "archerResist01": "archerResist01"
+    },
+    "attackPower": 371257,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2191"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 37,
+    "upgradeXP": 4646638,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 17571200
+  },
+  {
+    "identifier": "T10C4SEdragon",
+    "level": 13,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "568800"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 7726397,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T10C4SEdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "elementalBarrier": "elementalBarrier1",
+      "desiccatingSand": "noxiousVines1",
+      "umbralSpike": "uproot1",
+      "archerResist01": "archerResist01"
+    },
+    "attackPower": 380538,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2212"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 37,
+    "upgradeXP": 4762801,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 18460565
+  },
+  {
+    "identifier": "T10C4SEdragon",
+    "level": 14,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "574200"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 7919542,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T10C4SEdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "elementalBarrier": "elementalBarrier1",
+      "desiccatingSand": "noxiousVines1",
+      "umbralSpike": "uproot1",
+      "archerResist01": "archerResist01"
+    },
+    "attackPower": 390051,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2233"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 37,
+    "upgradeXP": 4881871,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 19395175
+  },
+  {
+    "identifier": "T10C4SEdragon",
+    "level": 15,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "579600"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 8117511,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T10C4SEdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "elementalBarrier": "elementalBarrier1",
+      "desiccatingSand": "noxiousVines1",
+      "umbralSpike": "uproot1",
+      "archerResist01": "archerResist01"
+    },
+    "attackPower": 399802,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2254"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 38,
+    "upgradeXP": 5003916,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 20377084
+  },
+  {
+    "identifier": "T10C4SEdragon",
+    "level": 16,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "585000"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 8320431,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T10C4SEdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "elementalBarrier": "elementalBarrier1",
+      "desiccatingSand": "noxiousVines1",
+      "umbralSpike": "uproot1",
+      "archerResist01": "archerResist01"
+    },
+    "attackPower": 409797,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2275"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 38,
+    "upgradeXP": 5129010,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 21408570
+  },
+  {
+    "identifier": "T10C4SEdragon",
+    "level": 17,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "590400"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 8528422,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T10C4SEdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "elementalBarrier": "elementalBarrier1",
+      "desiccatingSand": "noxiousVines1",
+      "umbralSpike": "uproot1",
+      "archerResist01": "archerResist01"
+    },
+    "attackPower": 420042,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2296"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 38,
+    "upgradeXP": 5257233,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 22492332
+  },
+  {
+    "identifier": "T10C4SEdragon",
+    "level": 18,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "595800"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 8741612,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T10C4SEdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "elementalBarrier": "elementalBarrier1",
+      "desiccatingSand": "noxiousVines1",
+      "umbralSpike": "uproot1",
+      "archerResist01": "archerResist01"
+    },
+    "attackPower": 430543,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2317"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 39,
+    "upgradeXP": 7157228,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 23630933
+  },
+  {
+    "identifier": "T10C4SEdragon",
+    "level": 19,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "798515"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 8960131,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T10C4SEdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "elementalBarrier": "elementalBarrier1",
+      "desiccatingSand": "noxiousVines1",
+      "umbralSpike": "uproot1",
+      "archerResist01": "archerResist01"
+    },
+    "attackPower": 441306,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2338"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 39,
+    "upgradeXP": 7336155,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 24827179
+  },
+  {
+    "identifier": "T10C4SEdragon",
+    "level": 20,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "805687"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 9184114,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T10C4SEdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "elementalBarrier": "elementalBarrier1",
+      "desiccatingSand": "noxiousVines1",
+      "umbralSpike": "uproot1",
+      "archerResist01": "archerResist01"
+    },
+    "attackPower": 452339,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2359"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 39,
+    "upgradeXP": 7519556,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 26083926
+  },
+  {
+    "identifier": "T10C4SEdragon",
+    "level": 21,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "812860"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 9413702,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T10C4SEdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "elementalBarrier": "elementalBarrier1",
+      "desiccatingSand": "noxiousVines1",
+      "umbralSpike": "uproot1",
+      "archerResist01": "archerResist01"
+    },
+    "attackPower": 463647,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2380"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 40,
+    "upgradeXP": 7707543,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 27404283
+  },
+  {
+    "identifier": "T10C4SEdragon",
+    "level": 22,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "820032"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 9649035,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T10C4SEdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "elementalBarrier": "elementalBarrier1",
+      "desiccatingSand": "noxiousVines1",
+      "umbralSpike": "uproot1",
+      "archerResist01": "archerResist01"
+    },
+    "attackPower": 475238,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2401"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 40,
+    "upgradeXP": 9662666,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 28791611
+  },
+  {
+    "identifier": "T10C4SEdragon",
+    "level": 23,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1011742"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 9890249,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T10C4SEdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "elementalBarrier": "elementalBarrier1",
+      "desiccatingSand": "noxiousVines1",
+      "umbralSpike": "uproot1",
+      "archerResist01": "archerResist01"
+    },
+    "attackPower": 487119,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2422"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 40,
+    "upgradeXP": 9904230,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 30249140
+  },
+  {
+    "identifier": "T10C4SEdragon",
+    "level": 24,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1020514"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 10137489,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T10C4SEdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "elementalBarrier": "elementalBarrier1",
+      "desiccatingSand": "noxiousVines1",
+      "umbralSpike": "uproot1",
+      "archerResist01": "archerResist01"
+    },
+    "attackPower": 499297,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2443"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 40,
+    "upgradeXP": 10151833,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 31780557
+  },
+  {
+    "identifier": "T10C4SEdragon",
+    "level": 25,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1029287"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 10390909,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T10C4SEdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "elementalBarrier": "elementalBarrier1",
+      "desiccatingSand": "noxiousVines1",
+      "umbralSpike": "uproot1",
+      "archerResist01": "archerResist01"
+    },
+    "attackPower": 511779,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2464"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 40,
+    "upgradeXP": 10405629,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 33389419
+  },
+  {
+    "identifier": "T10C4SEdragon",
+    "level": 26,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1038059"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 10650662,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T10C4SEdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "elementalBarrier": "elementalBarrier1",
+      "desiccatingSand": "noxiousVines1",
+      "umbralSpike": "uproot1",
+      "archerResist01": "archerResist01"
+    },
+    "attackPower": 524573,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2485"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 40,
+    "upgradeXP": 12468930,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 35079550
+  },
+  {
+    "identifier": "T10C4SEdragon",
+    "level": 27,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1223809"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 10916905,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T10C4SEdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "elementalBarrier": "elementalBarrier1",
+      "desiccatingSand": "noxiousVines1",
+      "umbralSpike": "uproot1",
+      "archerResist01": "archerResist01"
+    },
+    "attackPower": 537687,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2506"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 40,
+    "upgradeXP": 12780646,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 36855452
+  },
+  {
+    "identifier": "T10C4SEdragon",
+    "level": 28,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1234065"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 11189808,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T10C4SEdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "elementalBarrier": "elementalBarrier1",
+      "desiccatingSand": "noxiousVines1",
+      "umbralSpike": "uproot1",
+      "archerResist01": "archerResist01"
+    },
+    "attackPower": 551129,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2527"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 40,
+    "upgradeXP": 13100160,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 38721102
+  },
+  {
+    "identifier": "T10C4SEdragon",
+    "level": 29,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1244320"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 11469535,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T10C4SEdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "elementalBarrier": "elementalBarrier1",
+      "desiccatingSand": "noxiousVines1",
+      "umbralSpike": "uproot1",
+      "archerResist01": "archerResist01"
+    },
+    "attackPower": 564908,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2548"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 40,
+    "upgradeXP": 13427661,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 40681366
+  },
+  {
+    "identifier": "T10C4SEdragon",
+    "level": 30,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1254575"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 11756255,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T10C4SEdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "elementalBarrier": "elementalBarrier1",
+      "desiccatingSand": "noxiousVines1",
+      "umbralSpike": "uproot1",
+      "archerResist01": "archerResist01"
+    },
+    "attackPower": 579030,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2569"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 40,
+    "upgradeXP": 13763351,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 42740794
+  },
+  {
+    "identifier": "T10C4SEdragon",
+    "level": 31,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1264831"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 12050143,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T10C4SEdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "elementalBarrier": "elementalBarrier1",
+      "desiccatingSand": "noxiousVines1",
+      "umbralSpike": "uproot1",
+      "archerResist01": "archerResist01"
+    },
+    "attackPower": 593506,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2590"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 40,
+    "upgradeXP": 14107429,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 44904428
+  },
+  {
+    "identifier": "T10C4SEdragon",
+    "level": 32,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1275086"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 12351375,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T10C4SEdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "elementalBarrier": "elementalBarrier1",
+      "desiccatingSand": "noxiousVines1",
+      "umbralSpike": "uproot1",
+      "archerResist01": "archerResist01"
+    },
+    "attackPower": 608343,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2611"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 40,
+    "upgradeXP": 14460114,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 47177614
+  },
+  {
+    "identifier": "T10C4SEdragon",
+    "level": 33,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1285341"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 12660140,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T10C4SEdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "elementalBarrier": "elementalBarrier1",
+      "desiccatingSand": "noxiousVines1",
+      "umbralSpike": "uproot1",
+      "archerResist01": "archerResist01"
+    },
+    "attackPower": 623552,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2632"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 40,
+    "upgradeXP": 14821614,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 49566007
+  },
+  {
+    "identifier": "T10C4SEdragon",
+    "level": 34,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1295597"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 12976627,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T10C4SEdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "elementalBarrier": "elementalBarrier1",
+      "desiccatingSand": "noxiousVines1",
+      "umbralSpike": "uproot1",
+      "archerResist01": "archerResist01"
+    },
+    "attackPower": 639140,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2653"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 40,
+    "upgradeXP": 15192151,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 52075152
+  },
+  {
+    "identifier": "T10C4SEdragon",
+    "level": 35,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1305852"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 13301032,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T10C4SEdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "elementalBarrier": "elementalBarrier1",
+      "desiccatingSand": "noxiousVines1",
+      "umbralSpike": "uproot1",
+      "archerResist01": "archerResist01"
+    },
+    "attackPower": 655119,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2674"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 40,
+    "upgradeXP": 0,
+    "xpRewardMultiplier": 1.2,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 54711330
+  }
+]

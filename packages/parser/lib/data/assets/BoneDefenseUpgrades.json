@@ -1,0 +1,689 @@
+[
+  {
+    "identifier": "BoneDefenseUpgrades",
+    "level": 1,
+    "upgradeCost": [
+      {
+        "type": ""
+      }
+    ],
+    "upgradeTimeInSeconds": 0,
+    "achievementRequirements": "",
+    "HP": 1920,
+    "fullHealDuration": 5,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "bone_autoAttackTut"
+      }
+    ],
+    "abilities": {
+      "aoeSpell": "aoe1",
+      "archerResist01": "archerResist01"
+    },
+    "attackPower": 20,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "10"
+      }
+    ],
+    "forwardSpeed": 2,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 1,
+    "upgradeXP": 100,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "100"
+      }
+    ],
+    "powerLevel": 100
+  },
+  {
+    "identifier": "BoneDefenseUpgrades",
+    "level": 2,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "40"
+      }
+    ],
+    "upgradeTimeInSeconds": 900,
+    "achievementRequirements": "level03",
+    "HP": 14310,
+    "fullHealDuration": 300,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "bone_autoAttackTut"
+      }
+    ],
+    "abilities": {
+      "aoeSpell": "aoe1",
+      "archerResist01": "archerResist01"
+    },
+    "attackPower": 30,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "10"
+      }
+    ],
+    "forwardSpeed": 3,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 2,
+    "upgradeXP": 150,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "100"
+      }
+    ],
+    "powerLevel": 200
+  },
+  {
+    "identifier": "BoneDefenseUpgrades",
+    "level": 3,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "230"
+      }
+    ],
+    "upgradeTimeInSeconds": 3600,
+    "achievementRequirements": "level04",
+    "HP": 18510,
+    "fullHealDuration": 300,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "bone_autoAttackTut"
+      }
+    ],
+    "abilities": {
+      "aoeSpell": "aoe1",
+      "archerResist01": "archerResist01"
+    },
+    "attackPower": 30,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "10"
+      }
+    ],
+    "forwardSpeed": 3,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 2,
+    "upgradeXP": 200,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "100"
+      }
+    ],
+    "powerLevel": 300
+  },
+  {
+    "identifier": "BoneDefenseUpgrades",
+    "level": 4,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "660"
+      }
+    ],
+    "upgradeTimeInSeconds": 7200,
+    "achievementRequirements": "level05",
+    "HP": 21620,
+    "fullHealDuration": 300,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "bone_autoAttackTut"
+      }
+    ],
+    "abilities": {
+      "aoeSpell": "aoe1",
+      "archerResist01": "archerResist01"
+    },
+    "attackPower": 30,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "10"
+      }
+    ],
+    "forwardSpeed": 3,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 2,
+    "upgradeXP": 250,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "100"
+      }
+    ],
+    "powerLevel": 400
+  },
+  {
+    "identifier": "BoneDefenseUpgrades",
+    "level": 5,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1430"
+      }
+    ],
+    "upgradeTimeInSeconds": 10800,
+    "achievementRequirements": "level06",
+    "HP": 21370,
+    "fullHealDuration": 300,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "bone_autoAttackTut"
+      }
+    ],
+    "abilities": {
+      "aoeSpell": "aoe1",
+      "archerResist01": "archerResist01"
+    },
+    "attackPower": 30,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "10"
+      }
+    ],
+    "forwardSpeed": 3,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 2,
+    "upgradeXP": 300,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "100"
+      }
+    ],
+    "powerLevel": 500
+  },
+  {
+    "identifier": "BoneDefenseUpgrades",
+    "level": 6,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "2920"
+      }
+    ],
+    "upgradeTimeInSeconds": 16200,
+    "achievementRequirements": "level07",
+    "HP": 27830,
+    "fullHealDuration": 300,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "bone_autoAttackTut"
+      }
+    ],
+    "abilities": {
+      "aoeSpell": "aoe1",
+      "archerResist01": "archerResist01"
+    },
+    "attackPower": 30,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "10"
+      }
+    ],
+    "forwardSpeed": 3,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 2,
+    "upgradeXP": 350,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "100"
+      }
+    ],
+    "powerLevel": 600
+  },
+  {
+    "identifier": "BoneDefenseUpgrades",
+    "level": 7,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "9560"
+      }
+    ],
+    "upgradeTimeInSeconds": 28800,
+    "achievementRequirements": "level09",
+    "HP": 50320,
+    "fullHealDuration": 300,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "bone_autoAttackTut"
+      }
+    ],
+    "abilities": {
+      "aoeSpell": "aoe1",
+      "archerResist01": "archerResist01"
+    },
+    "attackPower": 30,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "10"
+      }
+    ],
+    "forwardSpeed": 3,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 2,
+    "upgradeXP": 400,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "100"
+      }
+    ],
+    "powerLevel": 700
+  },
+  {
+    "identifier": "BoneDefenseUpgrades",
+    "level": 8,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "38370"
+      }
+    ],
+    "upgradeTimeInSeconds": 54000,
+    "achievementRequirements": "level12",
+    "HP": 79880,
+    "fullHealDuration": 300,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "bone_autoAttackTut"
+      }
+    ],
+    "abilities": {
+      "aoeSpell": "aoe1",
+      "archerResist01": "archerResist01"
+    },
+    "attackPower": 30,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "10"
+      }
+    ],
+    "forwardSpeed": 3,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 2,
+    "upgradeXP": 450,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "100"
+      }
+    ],
+    "powerLevel": 800
+  },
+  {
+    "identifier": "BoneDefenseUpgrades",
+    "level": 9,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "173910"
+      }
+    ],
+    "upgradeTimeInSeconds": 108000,
+    "achievementRequirements": "level16",
+    "HP": 124370,
+    "fullHealDuration": 300,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "bone_autoAttackTut"
+      }
+    ],
+    "abilities": {
+      "aoeSpell": "aoe1",
+      "archerResist01": "archerResist01"
+    },
+    "attackPower": 30,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "10"
+      }
+    ],
+    "forwardSpeed": 3,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 2,
+    "upgradeXP": 500,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "100"
+      }
+    ],
+    "powerLevel": 900
+  },
+  {
+    "identifier": "BoneDefenseUpgrades",
+    "level": 10,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "173910"
+      }
+    ],
+    "upgradeTimeInSeconds": 108000,
+    "achievementRequirements": "level16",
+    "HP": 124370,
+    "fullHealDuration": 300,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "bone_autoAttackTut"
+      }
+    ],
+    "abilities": {
+      "aoeSpell": "aoe1",
+      "archerResist01": "archerResist01"
+    },
+    "attackPower": 30,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "10"
+      }
+    ],
+    "forwardSpeed": 3,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 2,
+    "upgradeXP": 550,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "100"
+      }
+    ],
+    "powerLevel": 1000
+  },
+  {
+    "identifier": "BoneDefenseUpgrades",
+    "level": 11,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "173910"
+      }
+    ],
+    "upgradeTimeInSeconds": 108000,
+    "achievementRequirements": "level16",
+    "HP": 124370,
+    "fullHealDuration": 300,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "bone_autoAttackTut"
+      }
+    ],
+    "abilities": {
+      "aoeSpell": "aoe1",
+      "archerResist01": "archerResist01"
+    },
+    "attackPower": 30,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "10"
+      }
+    ],
+    "forwardSpeed": 3,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 2,
+    "upgradeXP": 600,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "100"
+      }
+    ],
+    "powerLevel": 1100
+  },
+  {
+    "identifier": "BoneDefenseUpgrades",
+    "level": 12,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "173910"
+      }
+    ],
+    "upgradeTimeInSeconds": 108000,
+    "achievementRequirements": "level16",
+    "HP": 124370,
+    "fullHealDuration": 300,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "bone_autoAttackTut"
+      }
+    ],
+    "abilities": {
+      "aoeSpell": "aoe1",
+      "archerResist01": "archerResist01"
+    },
+    "attackPower": 30,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "10"
+      }
+    ],
+    "forwardSpeed": 3,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 2,
+    "upgradeXP": 650,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "100"
+      }
+    ],
+    "powerLevel": 1200
+  },
+  {
+    "identifier": "BoneDefenseUpgrades",
+    "level": 13,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "173910"
+      }
+    ],
+    "upgradeTimeInSeconds": 108000,
+    "achievementRequirements": "level16",
+    "HP": 124370,
+    "fullHealDuration": 300,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "bone_autoAttackTut"
+      }
+    ],
+    "abilities": {
+      "aoeSpell": "aoe1",
+      "archerResist01": "archerResist01"
+    },
+    "attackPower": 30,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "10"
+      }
+    ],
+    "forwardSpeed": 3,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 2,
+    "upgradeXP": 700,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "100"
+      }
+    ],
+    "powerLevel": 1300
+  },
+  {
+    "identifier": "BoneDefenseUpgrades",
+    "level": 14,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "173910"
+      }
+    ],
+    "upgradeTimeInSeconds": 108000,
+    "achievementRequirements": "level16",
+    "HP": 124370,
+    "fullHealDuration": 300,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "bone_autoAttackTut"
+      }
+    ],
+    "abilities": {
+      "aoeSpell": "aoe1",
+      "archerResist01": "archerResist01"
+    },
+    "attackPower": 30,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "10"
+      }
+    ],
+    "forwardSpeed": 3,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 2,
+    "upgradeXP": 750,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "100"
+      }
+    ],
+    "powerLevel": 1400
+  },
+  {
+    "identifier": "BoneDefenseUpgrades",
+    "level": 15,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "173910"
+      }
+    ],
+    "upgradeTimeInSeconds": 108000,
+    "achievementRequirements": "level16",
+    "HP": 124370,
+    "fullHealDuration": 300,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "bone_autoAttackTut"
+      }
+    ],
+    "abilities": {
+      "aoeSpell": "aoe1",
+      "archerResist01": "archerResist01"
+    },
+    "attackPower": 30,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "10"
+      }
+    ],
+    "forwardSpeed": 3,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 2,
+    "upgradeXP": 800,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "100"
+      }
+    ],
+    "powerLevel": 1500
+  },
+  {
+    "identifier": "BoneDefenseUpgrades",
+    "level": 16,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "173910"
+      }
+    ],
+    "upgradeTimeInSeconds": 108000,
+    "achievementRequirements": "level16",
+    "HP": 124370,
+    "fullHealDuration": 300,
+    "attackType": [
+      {
+        "type": "flamethrower",
+        "amount": "bone_autoAttackTut"
+      }
+    ],
+    "abilities": {
+      "aoeSpell": "aoe1",
+      "archerResist01": "archerResist01"
+    },
+    "attackPower": 30,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "10"
+      }
+    ],
+    "forwardSpeed": 3,
+    "spellRageIdentifier": "rage1",
+    "requiredStableLevel": 2,
+    "upgradeXP": 850,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "100"
+      }
+    ],
+    "powerLevel": 1600
+  }
+]

@@ -1,0 +1,2252 @@
+[
+  {
+    "identifier": "T12C4SWdragon",
+    "level": 1,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "0"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 13974375,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T12C4SWdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "fluxSpell": "flux1",
+      "absorbMagic": "absorbMagic1",
+      "seekerShots": "seekerShots1",
+      "fireFlakResist01": "fireFlakResist01"
+    },
+    "attackPower": 688284,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2716"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 48,
+    "upgradeXP": 6363452,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 60390920
+  },
+  {
+    "identifier": "T12C4SWdragon",
+    "level": 2,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "703800"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 14323722,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T12C4SWdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "fluxSpell": "flux1",
+      "absorbMagic": "absorbMagic1",
+      "seekerShots": "seekerShots1",
+      "fireFlakResist01": "fireFlakResist01"
+    },
+    "attackPower": 705491,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2737"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 48,
+    "upgradeXP": 6522538,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 63448123
+  },
+  {
+    "identifier": "T12C4SWdragon",
+    "level": 3,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "709200"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 14681804,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T12C4SWdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "fluxSpell": "flux1",
+      "absorbMagic": "absorbMagic1",
+      "seekerShots": "seekerShots1",
+      "fireFlakResist01": "fireFlakResist01"
+    },
+    "attackPower": 723128,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2758"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 49,
+    "upgradeXP": 7595692,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 66660173
+  },
+  {
+    "identifier": "T12C4SWdragon",
+    "level": 4,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "714600"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 15048843,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T12C4SWdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "fluxSpell": "flux1",
+      "absorbMagic": "absorbMagic1",
+      "seekerShots": "seekerShots1",
+      "fireFlakResist01": "fireFlakResist01"
+    },
+    "attackPower": 741206,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2779"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 49,
+    "upgradeXP": 8959473,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 70034832
+  },
+  {
+    "identifier": "T12C4SWdragon",
+    "level": 5,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "720000"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 15425053,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T12C4SWdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "fluxSpell": "flux1",
+      "absorbMagic": "absorbMagic1",
+      "seekerShots": "seekerShots1",
+      "fireFlakResist01": "fireFlakResist01"
+    },
+    "attackPower": 759736,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2800"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 50,
+    "upgradeXP": 10322434,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 73580215
+  },
+  {
+    "identifier": "T12C4SWdragon",
+    "level": 6,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "725400"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 15810665,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T12C4SWdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "fluxSpell": "flux1",
+      "absorbMagic": "absorbMagic1",
+      "seekerShots": "seekerShots1",
+      "fireFlakResist01": "fireFlakResist01"
+    },
+    "attackPower": 778729,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2821"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 51,
+    "upgradeXP": 11695879,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 77305251
+  },
+  {
+    "identifier": "T12C4SWdragon",
+    "level": 7,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "730800"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 16205919,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T12C4SWdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "fluxSpell": "flux1",
+      "absorbMagic": "absorbMagic1",
+      "seekerShots": "seekerShots1",
+      "fireFlakResist01": "fireFlakResist01"
+    },
+    "attackPower": 798197,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2842"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 52,
+    "upgradeXP": 11988274,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 81218799
+  },
+  {
+    "identifier": "T12C4SWdragon",
+    "level": 8,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "736200"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 16611052,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T12C4SWdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "fluxSpell": "flux1",
+      "absorbMagic": "absorbMagic1",
+      "seekerShots": "seekerShots1",
+      "fireFlakResist01": "fireFlakResist01"
+    },
+    "attackPower": 818152,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2863"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 53,
+    "upgradeXP": 12287979,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 85330321
+  },
+  {
+    "identifier": "T12C4SWdragon",
+    "level": 9,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "741600"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 17026310,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T12C4SWdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "fluxSpell": "flux1",
+      "absorbMagic": "absorbMagic1",
+      "seekerShots": "seekerShots1",
+      "fireFlakResist01": "fireFlakResist01"
+    },
+    "attackPower": 838606,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2884"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 54,
+    "upgradeXP": 12595174,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 89650125
+  },
+  {
+    "identifier": "T12C4SWdragon",
+    "level": 10,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "747000"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 17451953,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T12C4SWdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "fluxSpell": "flux1",
+      "absorbMagic": "absorbMagic1",
+      "seekerShots": "seekerShots1",
+      "fireFlakResist01": "fireFlakResist01"
+    },
+    "attackPower": 859571,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2905"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 55,
+    "upgradeXP": 12910053,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 91628943
+  },
+  {
+    "identifier": "T12C4SWdragon",
+    "level": 11,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "752400"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 17888239,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T12C4SWdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "fluxSpell": "flux1",
+      "absorbMagic": "absorbMagic1",
+      "seekerShots": "seekerShots1",
+      "fireFlakResist01": "fireFlakResist01"
+    },
+    "attackPower": 881060,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2926"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 56,
+    "upgradeXP": 13232803,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 98446448
+  },
+  {
+    "identifier": "T12C4SWdragon",
+    "level": 12,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "757800"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 18335432,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T12C4SWdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "fluxSpell": "flux1",
+      "absorbMagic": "absorbMagic1",
+      "seekerShots": "seekerShots1",
+      "fireFlakResist01": "fireFlakResist01"
+    },
+    "attackPower": 903086,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2947"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 57,
+    "upgradeXP": 13563622,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 102923211
+  },
+  {
+    "identifier": "T12C4SWdragon",
+    "level": 13,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "763200"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 18793804,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T12C4SWdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "fluxSpell": "flux1",
+      "absorbMagic": "absorbMagic1",
+      "seekerShots": "seekerShots1",
+      "fireFlakResist01": "fireFlakResist01"
+    },
+    "attackPower": 925663,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2968"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 58,
+    "upgradeXP": 13902711,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 107452536
+  },
+  {
+    "identifier": "T12C4SWdragon",
+    "level": 14,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "768600"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 19263635,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T12C4SWdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "fluxSpell": "flux1",
+      "absorbMagic": "absorbMagic1",
+      "seekerShots": "seekerShots1",
+      "fireFlakResist01": "fireFlakResist01"
+    },
+    "attackPower": 948805,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "2989"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 59,
+    "upgradeXP": 14250276,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 112034547
+  },
+  {
+    "identifier": "T12C4SWdragon",
+    "level": 15,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "774000"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 19745213,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T12C4SWdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "fluxSpell": "flux1",
+      "absorbMagic": "absorbMagic1",
+      "seekerShots": "seekerShots1",
+      "fireFlakResist01": "fireFlakResist01"
+    },
+    "attackPower": 972525,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3010"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 60,
+    "upgradeXP": 14606532,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 116669364
+  },
+  {
+    "identifier": "T12C4SWdragon",
+    "level": 16,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "779400"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 20238837,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T12C4SWdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "fluxSpell": "flux1",
+      "absorbMagic": "absorbMagic1",
+      "seekerShots": "seekerShots1",
+      "fireFlakResist01": "fireFlakResist01"
+    },
+    "attackPower": 996838,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3031"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 60,
+    "upgradeXP": 14971693,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 120281525
+  },
+  {
+    "identifier": "T12C4SWdragon",
+    "level": 17,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "784800"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 20744799,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T12C4SWdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "fluxSpell": "flux1",
+      "absorbMagic": "absorbMagic1",
+      "seekerShots": "seekerShots1",
+      "fireFlakResist01": "fireFlakResist01"
+    },
+    "attackPower": 1021758,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3052"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 61,
+    "upgradeXP": 15345984,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 123927305
+  },
+  {
+    "identifier": "T12C4SWdragon",
+    "level": 18,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "790200"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 21263407,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T12C4SWdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "fluxSpell": "flux1",
+      "absorbMagic": "absorbMagic1",
+      "seekerShots": "seekerShots1",
+      "fireFlakResist01": "fireFlakResist01"
+    },
+    "attackPower": 1047302,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3073"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 61,
+    "upgradeXP": 20892118,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 127606704
+  },
+  {
+    "identifier": "T12C4SWdragon",
+    "level": 19,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1056717"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 21794981,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T12C4SWdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "fluxSpell": "flux1",
+      "absorbMagic": "absorbMagic1",
+      "seekerShots": "seekerShots1",
+      "fireFlakResist01": "fireFlakResist01"
+    },
+    "attackPower": 1073485,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3094"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 62,
+    "upgradeXP": 21414417,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 131319722
+  },
+  {
+    "identifier": "T12C4SWdragon",
+    "level": 20,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1063890"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 22339848,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T12C4SWdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "fluxSpell": "flux1",
+      "absorbMagic": "absorbMagic1",
+      "seekerShots": "seekerShots1",
+      "fireFlakResist01": "fireFlakResist01"
+    },
+    "attackPower": 1100322,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3115"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 62,
+    "upgradeXP": 21949775,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 135066359
+  },
+  {
+    "identifier": "T12C4SWdragon",
+    "level": 21,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1071062"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 22898342,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T12C4SWdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "fluxSpell": "flux1",
+      "absorbMagic": "absorbMagic1",
+      "seekerShots": "seekerShots1",
+      "fireFlakResist01": "fireFlakResist01"
+    },
+    "attackPower": 1127829,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3136"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 63,
+    "upgradeXP": 22498519,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 138846614
+  },
+  {
+    "identifier": "T12C4SWdragon",
+    "level": 22,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1078234"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 23470796,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T12C4SWdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "fluxSpell": "flux1",
+      "absorbMagic": "absorbMagic1",
+      "seekerShots": "seekerShots1",
+      "fireFlakResist01": "fireFlakResist01"
+    },
+    "attackPower": 1156025,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3157"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 63,
+    "upgradeXP": 28205569,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 142660489
+  },
+  {
+    "identifier": "T12C4SWdragon",
+    "level": 23,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1327546"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 24057557,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T12C4SWdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "fluxSpell": "flux1",
+      "absorbMagic": "absorbMagic1",
+      "seekerShots": "seekerShots1",
+      "fireFlakResist01": "fireFlakResist01"
+    },
+    "attackPower": 1184926,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3178"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 64,
+    "upgradeXP": 28910703,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 146507982
+  },
+  {
+    "identifier": "T12C4SWdragon",
+    "level": 24,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1336318"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 24658980,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T12C4SWdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "fluxSpell": "flux1",
+      "absorbMagic": "absorbMagic1",
+      "seekerShots": "seekerShots1",
+      "fireFlakResist01": "fireFlakResist01"
+    },
+    "attackPower": 1214549,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3199"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 64,
+    "upgradeXP": 29633469,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 150389094
+  },
+  {
+    "identifier": "T12C4SWdragon",
+    "level": 25,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1345090"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 25275441,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T12C4SWdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "fluxSpell": "flux1",
+      "absorbMagic": "absorbMagic1",
+      "seekerShots": "seekerShots1",
+      "fireFlakResist01": "fireFlakResist01"
+    },
+    "attackPower": 1244912,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3220"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 65,
+    "upgradeXP": 30374302,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 154303825
+  },
+  {
+    "identifier": "T12C4SWdragon",
+    "level": 26,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1353863"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 25907322,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T12C4SWdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "fluxSpell": "flux1",
+      "absorbMagic": "absorbMagic1",
+      "seekerShots": "seekerShots1",
+      "fireFlakResist01": "fireFlakResist01"
+    },
+    "attackPower": 1276035,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3241"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 65,
+    "upgradeXP": 36397130,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 158252175
+  },
+  {
+    "identifier": "T12C4SWdragon",
+    "level": 27,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1593003"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 26555003,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T12C4SWdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "fluxSpell": "flux1",
+      "absorbMagic": "absorbMagic1",
+      "seekerShots": "seekerShots1",
+      "fireFlakResist01": "fireFlakResist01"
+    },
+    "attackPower": 1307935,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3262"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 66,
+    "upgradeXP": 37307059,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 162234143
+  },
+  {
+    "identifier": "T12C4SWdragon",
+    "level": 28,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1603258"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 27218875,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T12C4SWdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "fluxSpell": "flux1",
+      "absorbMagic": "absorbMagic1",
+      "seekerShots": "seekerShots1",
+      "fireFlakResist01": "fireFlakResist01"
+    },
+    "attackPower": 1340634,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3283"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 66,
+    "upgradeXP": 38239728,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 166249731
+  },
+  {
+    "identifier": "T12C4SWdragon",
+    "level": 29,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1613514"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 27899342,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T12C4SWdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "fluxSpell": "flux1",
+      "absorbMagic": "absorbMagic1",
+      "seekerShots": "seekerShots1",
+      "fireFlakResist01": "fireFlakResist01"
+    },
+    "attackPower": 1374149,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3304"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 67,
+    "upgradeXP": 39195715,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 170298937
+  },
+  {
+    "identifier": "T12C4SWdragon",
+    "level": 30,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1623769"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 28596816,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T12C4SWdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "fluxSpell": "flux1",
+      "absorbMagic": "absorbMagic1",
+      "seekerShots": "seekerShots1",
+      "fireFlakResist01": "fireFlakResist01"
+    },
+    "attackPower": 1408503,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3325"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 67,
+    "upgradeXP": 40175605,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 174381762
+  },
+  {
+    "identifier": "T12C4SWdragon",
+    "level": 31,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1634024"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 29311725,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T12C4SWdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "fluxSpell": "flux1",
+      "absorbMagic": "absorbMagic1",
+      "seekerShots": "seekerShots1",
+      "fireFlakResist01": "fireFlakResist01"
+    },
+    "attackPower": 1443715,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3346"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 68,
+    "upgradeXP": 41179994,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 178498206
+  },
+  {
+    "identifier": "T12C4SWdragon",
+    "level": 32,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1644280"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 30044505,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T12C4SWdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "fluxSpell": "flux1",
+      "absorbMagic": "absorbMagic1",
+      "seekerShots": "seekerShots1",
+      "fireFlakResist01": "fireFlakResist01"
+    },
+    "attackPower": 1479808,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3367"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 68,
+    "upgradeXP": 42209486,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 182648268
+  },
+  {
+    "identifier": "T12C4SWdragon",
+    "level": 33,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1654535"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 30795598,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T12C4SWdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "fluxSpell": "flux1",
+      "absorbMagic": "absorbMagic1",
+      "seekerShots": "seekerShots1",
+      "fireFlakResist01": "fireFlakResist01"
+    },
+    "attackPower": 1516803,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3388"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 69,
+    "upgradeXP": 43264722,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 186831950
+  },
+  {
+    "identifier": "T12C4SWdragon",
+    "level": 34,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1664791"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 31565471,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T12C4SWdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "fluxSpell": "flux1",
+      "absorbMagic": "absorbMagic1",
+      "seekerShots": "seekerShots1",
+      "fireFlakResist01": "fireFlakResist01"
+    },
+    "attackPower": 1554723,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3409"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 69,
+    "upgradeXP": 44346335,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 191049250
+  },
+  {
+    "identifier": "T12C4SWdragon",
+    "level": 35,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1675046"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 32354594,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T12C4SWdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "fluxSpell": "flux1",
+      "absorbMagic": "absorbMagic1",
+      "seekerShots": "seekerShots1",
+      "fireFlakResist01": "fireFlakResist01"
+    },
+    "attackPower": 1593591,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3430"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 70,
+    "upgradeXP": 45454987,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 195300169
+  },
+  {
+    "identifier": "T12C4SWdragon",
+    "level": 36,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1685301"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 33163446,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T12C4SWdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "fluxSpell": "flux1",
+      "absorbMagic": "absorbMagic1",
+      "seekerShots": "seekerShots1",
+      "fireFlakResist01": "fireFlakResist01"
+    },
+    "attackPower": 1633431,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3451"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 70,
+    "upgradeXP": 46591363,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 199584707
+  },
+  {
+    "identifier": "T12C4SWdragon",
+    "level": 37,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1695557"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 33992524,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T12C4SWdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "fluxSpell": "flux1",
+      "absorbMagic": "absorbMagic1",
+      "seekerShots": "seekerShots1",
+      "fireFlakResist01": "fireFlakResist01"
+    },
+    "attackPower": 1674266,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3472"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 71,
+    "upgradeXP": 47756140,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 203902864
+  },
+  {
+    "identifier": "T12C4SWdragon",
+    "level": 38,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1705812"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 34842326,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T12C4SWdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "fluxSpell": "flux1",
+      "absorbMagic": "absorbMagic1",
+      "seekerShots": "seekerShots1",
+      "fireFlakResist01": "fireFlakResist01"
+    },
+    "attackPower": 1716123,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3493"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 71,
+    "upgradeXP": 48950043,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 208254640
+  },
+  {
+    "identifier": "T12C4SWdragon",
+    "level": 39,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1716067"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 35713369,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T12C4SWdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "fluxSpell": "flux1",
+      "absorbMagic": "absorbMagic1",
+      "seekerShots": "seekerShots1",
+      "fireFlakResist01": "fireFlakResist01"
+    },
+    "attackPower": 1759026,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3514"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 72,
+    "upgradeXP": 50173786,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 212640034
+  },
+  {
+    "identifier": "T12C4SWdragon",
+    "level": 40,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1726323"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 36606192,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T12C4SWdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "fluxSpell": "flux1",
+      "absorbMagic": "absorbMagic1",
+      "seekerShots": "seekerShots1",
+      "fireFlakResist01": "fireFlakResist01"
+    },
+    "attackPower": 1803001,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3535"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 72,
+    "upgradeXP": 51428125,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 217059048
+  },
+  {
+    "identifier": "T12C4SWdragon",
+    "level": 41,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1736578"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 37521341,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T12C4SWdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "fluxSpell": "flux1",
+      "absorbMagic": "absorbMagic1",
+      "seekerShots": "seekerShots1",
+      "fireFlakResist01": "fireFlakResist01"
+    },
+    "attackPower": 1848076,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3556"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 73,
+    "upgradeXP": 52713827,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 221511680
+  },
+  {
+    "identifier": "T12C4SWdragon",
+    "level": 42,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1746834"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 38459364,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T12C4SWdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "fluxSpell": "flux1",
+      "absorbMagic": "absorbMagic1",
+      "seekerShots": "seekerShots1",
+      "fireFlakResist01": "fireFlakResist01"
+    },
+    "attackPower": 1894278,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3577"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 73,
+    "upgradeXP": 54031672,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 225997931
+  },
+  {
+    "identifier": "T12C4SWdragon",
+    "level": 43,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1757089"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 39420835,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T12C4SWdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "fluxSpell": "flux1",
+      "absorbMagic": "absorbMagic1",
+      "seekerShots": "seekerShots1",
+      "fireFlakResist01": "fireFlakResist01"
+    },
+    "attackPower": 1941634,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3598"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 74,
+    "upgradeXP": 55382460,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 230517801
+  },
+  {
+    "identifier": "T12C4SWdragon",
+    "level": 44,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1767344"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 40406347,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T12C4SWdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "fluxSpell": "flux1",
+      "absorbMagic": "absorbMagic1",
+      "seekerShots": "seekerShots1",
+      "fireFlakResist01": "fireFlakResist01"
+    },
+    "attackPower": 1990175,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3619"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 74,
+    "upgradeXP": 56767019,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 235071290
+  },
+  {
+    "identifier": "T12C4SWdragon",
+    "level": 45,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1777600"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 41416496,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T12C4SWdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "fluxSpell": "flux1",
+      "absorbMagic": "absorbMagic1",
+      "seekerShots": "seekerShots1",
+      "fireFlakResist01": "fireFlakResist01"
+    },
+    "attackPower": 2039929,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3640"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 75,
+    "upgradeXP": 58186187,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 239658397
+  },
+  {
+    "identifier": "T12C4SWdragon",
+    "level": 46,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1787855"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 42451898,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T12C4SWdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "fluxSpell": "flux1",
+      "absorbMagic": "absorbMagic1",
+      "seekerShots": "seekerShots1",
+      "fireFlakResist01": "fireFlakResist01"
+    },
+    "attackPower": 2090927,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3661"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 76,
+    "upgradeXP": 59640838,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 244279123
+  },
+  {
+    "identifier": "T12C4SWdragon",
+    "level": 47,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1798110"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 43513181,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T12C4SWdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "fluxSpell": "flux1",
+      "absorbMagic": "absorbMagic1",
+      "seekerShots": "seekerShots1",
+      "fireFlakResist01": "fireFlakResist01"
+    },
+    "attackPower": 2143201,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3682"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 77,
+    "upgradeXP": 61131851,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 248933469
+  },
+  {
+    "identifier": "T12C4SWdragon",
+    "level": 48,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1808366"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 44600989,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T12C4SWdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "fluxSpell": "flux1",
+      "absorbMagic": "absorbMagic1",
+      "seekerShots": "seekerShots1",
+      "fireFlakResist01": "fireFlakResist01"
+    },
+    "attackPower": 2196780,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3703"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 78,
+    "upgradeXP": 62660142,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 253621433
+  },
+  {
+    "identifier": "T12C4SWdragon",
+    "level": 49,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1818621"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 45715995,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T12C4SWdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "fluxSpell": "flux1",
+      "absorbMagic": "absorbMagic1",
+      "seekerShots": "seekerShots1",
+      "fireFlakResist01": "fireFlakResist01"
+    },
+    "attackPower": 2251700,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3724"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 79,
+    "upgradeXP": 64226645,
+    "xpRewardMultiplier": 1,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 258343015
+  },
+  {
+    "identifier": "T12C4SWdragon",
+    "level": 50,
+    "upgradeCost": [
+      {
+        "type": "food",
+        "amount": "1828877"
+      }
+    ],
+    "upgradeTimeInSeconds": 1,
+    "achievementRequirements": "",
+    "HP": 46858881,
+    "fullHealDuration": 18000,
+    "attackType": [
+      {
+        "type": "lockon",
+        "amount": "T12C4SWdragon_lockon"
+      }
+    ],
+    "abilities": {
+      "fluxSpell": "flux1",
+      "absorbMagic": "absorbMagic1",
+      "seekerShots": "seekerShots1",
+      "fireFlakResist01": "fireFlakResist01"
+    },
+    "attackPower": 2307992,
+    "battleUseCost": [
+      {
+        "type": "food",
+        "amount": "3745"
+      }
+    ],
+    "forwardSpeed": 4.2,
+    "spellRageIdentifier": "rage3",
+    "requiredStableLevel": 80,
+    "upgradeXP": 0,
+    "xpRewardMultiplier": 1.2,
+    "upgradeReward": [
+      {
+        "type": "experience",
+        "amount": "0"
+      }
+    ],
+    "powerLevel": 263098217
+  }
+]
