@@ -1,23 +1,41 @@
 type Deck {
   _id: ID!
   dragon: Dragon!
-  distribution: Int
-  probability: Float
-  fragments: Int
+  probability: Float!
+  fragments: Int!
 }
 
 interface Parents {
-  id: String
+  _id: ID
   firstParent: Dragon
   secondParent: Dragon
+  children: [Deck]!
 }
 
-type Breeding {
-  id: String
-  parents: Parents
-  eggDistribution: Int
-  eggNumber: Int
-  children: [Deck]
+interface DragonBreeding {
+  _id: ID!
+  distribution: Int!
+  deck: String!
+  parents: Parents!
+}
+
+type Breeding implements DragonBreeding {
+  _id: ID!
+  deck: String!
+  parents: Parents!
+  distribution: Int!
+  eggNumber: Int!
+  children: [Deck!]!
+}
+
+type DragonParents implements DragonBreeding {
+  _id: ID!
+  breedChance: Float!
+  deck: String!
+  distribution: Int!
+  dragon: Dragon!
+  dragonParents: [Dragon!]!
+  parents: Parents!
 }
 
 input Parent {
@@ -26,14 +44,18 @@ input Parent {
 }
 
 input Child {
-  child: ID!
+  id: ID!
 }
-
+input FilterParams {
+  breed: Boolean
+  divine: Boolean
+}
 type Query {
   dragons: [Dragon]
   tiers: [Tier]
-  dragon(name: String!): [Dragon]
+  dragon(name: String!, filter: FilterParams): Dragon
+  partialDragon(name: String!): [Dragon]!
   tier(key: String!): [Tier]
-  dragonParents(child: Child!): [Dragon]
-  dragonChildren(parents: Parent!): [Breeding]
+  dragonParents(child: Child!): [DragonParents!]!
+  dragonChildren(parents: Parent!): [Breeding!]!
 }

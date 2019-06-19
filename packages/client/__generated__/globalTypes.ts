@@ -14,6 +14,20 @@ export enum Rarity {
   RARE = "RARE",
 }
 
+export interface Child {
+  id: string;
+}
+
+export interface FilterParams {
+  breed?: boolean | null;
+  divine?: boolean | null;
+}
+
+export interface Parent {
+  first: string;
+  second: string;
+}
+
 //==============================================================
 // END Enums and Input Objects
 //==============================================================

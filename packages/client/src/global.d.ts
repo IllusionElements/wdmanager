@@ -2,7 +2,7 @@ type Functor<Returns = any, Args extends any[] = []> = (
   ...args: Args
 ) => Returns
 type AnyFunctor = Functor<any, any[]>
-type ArgumentType<T> = T extends Functor<any, infer R> ? R : any[]
+type ArgumentType<T> = T extends (...args: infer R) => any ? R : any[]
 type TemplateString = string | TemplateStringsArray
 class ObjectID {}
 type ID =
@@ -34,3 +34,7 @@ type ExtractPrimitive<T extends Primitive> = T extends ConstructorType<infer U>
   : never
 
 type TypeOf<T> = { [K in keyof T]: ExtractPrimitive<T[K]> }
+
+declare module "@manager/utils" {
+  export const isNull: (u: unknown) => u is null
+}

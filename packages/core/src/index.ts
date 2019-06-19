@@ -2,16 +2,10 @@ import { ApolloServer } from "apollo-server"
 import dotenv from "dotenv"
 import { Breeding, Dragon, Tier, Deck, Query } from "./gql/resolvers"
 import typeDefs from "./schema"
-declare global {
-  type ArgumentType<T extends (...args: any[]) => any> = T extends (
-    ...args: infer U
-  ) => any
-    ? U
-    : any[]
-}
 dotenv.config({
   debug: true
 })
+
 export const server = new ApolloServer({
   typeDefs,
   context: async () => {

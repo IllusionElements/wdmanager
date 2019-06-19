@@ -5,6 +5,7 @@
   "license": "MIT",
   "private": true,
   "dependencies": {
+    "@manager/utils": "^1.0.0",
     "io-ts": "^1.8.6",
     "mongoose": "^5.5.12"
   },

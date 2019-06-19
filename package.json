@@ -9,15 +9,22 @@
   "workspaces": [
     "packages/utils",
     "packages/services",
-    "packages/core"
+    "packages/core",
+    "packages/client"
   ],
   "scripts": {
     "build": "yarn tsc -b tsconfig.build.json",
-    "dev": "yarn nodemon --inspect -r esm ./packages/core/dist && yarn apollo.push",
+    "start": "yarn nodemon --inspect -r esm ./packages/core/dist && yarn apollo.push",
     "tsc.build": "yarn workspaces run build",
     "push": "git push",
     "apollo.push": "npx apollo service:push",
-    "commit": "git add . && git commit -m"
+    "commit": "git add . && git commit -m",
+    "start-client": "yarn workspace @manager/client start",
+    "utils": "yarn workspace @manager/utils",
+    "services": "yarn workspace @manager/services",
+    "core": "yarn workspace @manager/core",
+    "client": "yarn workspace @manager/client",
+    "lerna": "npx lerna"
   },
   "dependencies": {
     "dotenv": "^8.0.0",

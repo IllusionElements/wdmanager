@@ -31,7 +31,6 @@ export class EggService {
     Eggs: typeof Eggs
   }
 
-
   // private static createMatch({
   //   first: firstDragonIdentifier,
   //   second: secondDragonIdentifier,
@@ -69,78 +68,19 @@ export class EggService {
 
   public async findParents(opts: { child: string }) {
     const { db } = this
-    const pipeline = [
-      {
-        $match: {
-          $expr: {
-            $eq: ["$possibleRawEggDistribution.type", "$$id"]
-          }
-        }
-      },
-      {
-        $lookup: {
-          from: "dragons",
-          localField: "firstDragonIdentifier",
-          foreignField: "identifier",
-          as: "firstParent"
-        }
-      },
-      {
-        $lookup: {
-          from: "dragons",
-          localField: "secondDragonIdentifier",
-          foreignField: "identifier",
-          as: "secondParent"
-        }
-      },
-      {
-        $unwind: "$firstParent"
-      },
-      {
-        $unwind: "$secondParent"
-      },
-      {
-        $project: {
-          _id: "$_id",
-          firstDragonIdentifier: {
-            id: "$firstDragonIdentifier",
-            name: "$firstParent.displayName"
-          },
-          secondDragonIdentifier: {
-            id: "$secondDragonIdentifier",
-            name: "$secondParent.displayName"
-          }
-        }
-      }
-    ]
+    const { default: pipeline } = await import("./breedPipeline")
     const deck = db.Eggs.aggregate()
-      .unwind("possibleOutcomeDistribution")
-      .match({ "$possibleOutcomeDistribution.id": opts.child })
-      .project({
-        identifier: "$identifier",
-        id: "$possibleOutcomeDistribution.id"
-      })
-      .lookup({
-        from: "eggs",
-        let: {
-          id: "$identifier"
-        },
-        as: "parents",
-        pipeline
-      })
-      .unwind("parents")
-
-    const parentList = (await deck.exec()) as Result[]
-    const [{ id }] = parentList as ({ id: string })[]
-    const [{ displayName: dragonName }] = ((await Dragons.find({
-      identifier: id
-    }).exec()) as unknown) as IDragon[]
-    return {
-      dragonName,
-      id,
-      parents: parentList.reduce((arr, parent) => [...arr, parent], <
-        Result[]
-      >[])
+    const parentAggregation = deck
+      .match(pipeline.match(opts.child))
+      .lookup(pipeline.$lookup)
+      .unwind(pipeline.$unwind)
+    try {
+      const results = await parentAggregation.exec()
+      console.log({ results })
+      return results
+    } catch (e) {
+      console.log(e)
+      throw new Error("an error has occured")
     }
   }
 }

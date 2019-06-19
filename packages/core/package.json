@@ -6,14 +6,17 @@
   "license": "MIT",
   "private": true,
   "dependencies": {
+    "@manager/services": "^1.0.0",
+    "@manager/utils": "^1.0.0",
     "apollo-server": "^2.6.1",
     "apollo-server-express": "^2.6.1",
     "csvtojson": "^2.0.8",
     "express": "^4.17.1",
     "graphql": "^14.3.1",
+    "idx": "^2.5.6",
     "immer": "^3.1.2",
     "node-fetch": "^2.6.0",
-    "@manager/services": "^1.0.0"
+    "winston": "^3.2.1"
   },
   "devDependencies": {
     "@types/dotenv": "^6.1.1",

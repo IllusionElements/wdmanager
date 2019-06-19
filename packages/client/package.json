@@ -1,27 +1,24 @@
 {
-  "name": "client",
+  "name": "@manager/client",
   "version": "0.1.0",
+  "license": "MIT",
   "private": true,
   "dependencies": {
+    "@manager/utils": "^1.0.0",
     "@material-ui/core": "^4.0.2",
     "@nivo/line": "^0.59.0",
-    "@reach/router": "^1.2.1",
-    "@types/jest": "24.0.13",
-    "@types/node": "12.0.7",
-    "@types/react": "16.8.19",
-    "@types/react-dom": "16.8.4",
     "apollo-cache-inmemory": "^1.6.2",
     "apollo-client": "^2.6.2",
     "apollo-link-http": "^1.5.14",
     "cloudinary-react": "^1.1.1",
     "graphql": "^14.3.1",
-    "graphql-tag.macro": "^2.1.0",
+    "lodash.debounce": "^4.0.8",
     "react": "^16.8.6",
     "react-apollo": "^2.5.6",
     "react-dom": "^16.8.6",
+    "react-router-dom": "^5.0.1",
     "react-scripts": "3.0.1",
-    "reflect-metadata": "^0.1.13",
-    "typescript": "3.5.1"
+    "reflect-metadata": "^0.1.13"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -31,7 +28,8 @@
     "storybook": "start-storybook -p 9009 -s public -c .storybook",
     "build-storybook": "build-storybook -s public",
     "apollo": "npx apollo",
-    "build-dev": "rm -rf ./dist && tsc -p ./"
+    "build-dev": "rm -rf ./dist && tsc -p ./",
+    "dev": "yarn add -D"
   },
   "eslintConfig": {
     "extends": "react-app"
@@ -54,7 +52,19 @@
     "@storybook/addons": "^5.1.3",
     "@storybook/react": "^5.1.3",
     "@types/graphql": "^14.2.0",
+    "@types/jest": "24.0.13",
+    "@types/lodash.debounce": "^4.0.6",
+    "@types/node": "12.0.7",
     "@types/reach__router": "^1.2.4",
-    "@types/storybook__react": "^4.0.2"
+    "@types/react": "16.8.19",
+    "@types/react-dom": "16.8.4",
+    "@types/react-router-dom": "^4.3.3",
+    "@types/storybook__react": "^4.0.2",
+    "awesome-typescript-loader": "^5.2.1",
+    "graphql-tag.macro": "^2.1.0",
+    "prop-types": "^15.7.2",
+    "react-docgen-typescript-loader": "^3.1.0",
+    "react-docgen-typescript-webpack-plugin": "^1.1.0",
+    "typescript": "3.5.1"
   }
 }

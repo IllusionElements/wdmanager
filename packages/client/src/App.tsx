@@ -1,11 +1,7 @@
 import React from "react"
 import logo from "./logo.svg"
-import { NameProvider } from "./components/hooks/useName"
-import { ApolloProvider } from "./components/hooks/useApollo"
 import "./App.css"
-import { ApolloClient } from "apollo-client"
-import { Link } from "@reach/router"
-import Typography from "@material-ui/core/Typography"
+import { Link } from "react-router-dom"
 export const App: React.FC<{ path?: string }> = () => {
   return (
     <div className="App">
@@ -27,20 +23,3 @@ export const App: React.FC<{ path?: string }> = () => {
     </div>
   )
 }
-
-export default <T extends any>(props: {
-  name: string
-  client: ApolloClient<T>
-  path?: string
-  children?: React.ReactNode
-}) => (
-  <ApolloProvider client={props.client || {}}>
-    <NameProvider name={props.name || ""}>
-      <Typography variant="h1" >WELCOME TO DRAGON VAULT</Typography>
-      <Link to="/app">App</Link>
-      <br />
-      <Link to="/dragons">Dragons</Link>
-      {props.children}
-    </NameProvider>
-  </ApolloProvider>
-)

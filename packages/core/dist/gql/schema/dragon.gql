@@ -36,6 +36,7 @@ enum Rarity {
   LEGENDARY
   MYTHIC
 }
+
 type Dragon {
   _id: ID!
   identifier: String!
@@ -60,4 +61,7 @@ type Dragon {
   isDivine: Boolean
   isUnbreedableDragon: Boolean
   levels: [Level]
+  parents: [DragonParents]
+  children(pair: Child): [Breeding]
+  childWithParent(pair: Child!): Breeding
 }
