@@ -7,7 +7,8 @@
   "dependencies": {
     "@manager/utils": "^1.0.0",
     "io-ts": "^1.8.6",
-    "mongoose": "^5.5.12"
+    "mongoose": "^5.5.12",
+    "typegoose": "^5.7.2"
   },
   "devDependencies": {
     "@types/mongoose": "^5.5.3"

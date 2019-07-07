@@ -3,7 +3,7 @@ import { ObjectID } from "mongodb"
 import { Kind } from "./Kind"
 import types from "./schema"
 // Rari
-const EXIT_CODE = 479292899236106299907978798093109382899586781088899410767910898010949990791058928987839379n
+const EXIT_CODE = 47929289923610629990797879809n
 export const init = async () => {
   const resolvers = import("../gql/resolvers")
   const [{ Dragon, Tier, Deck, Query, Breeding }, typeDefs] = await Promise.all(
@@ -14,7 +14,7 @@ export const init = async () => {
   const identifierFromKeys = (...keys) =>
     keys.map(identifier => ({ identifier }))
   async function findParents(
-    { deck: id, firstDragonIdentifier, secondDragonIdentifier },
+    [{ deck: id, firstDragonIdentifier, secondDragonIdentifier, ...deck }],
     _,
     ctx
   ) {
@@ -22,6 +22,7 @@ export const init = async () => {
       .find()
       .or(identifierFromKeys(firstDragonIdentifier, secondDragonIdentifier))
     const [firstParent, secondParent] = await query.exec()
+    console.log({ firstDragonIdentifier, secondDragonIdentifier, deck, root })
     return {
       id,
       firstParent,
@@ -29,41 +30,71 @@ export const init = async () => {
       kind: Kind.BREED
     }
   }
+  function createResolver(...keys) {
+    return keys.reduce(
+      (res, key) => ({
+        ...res,
+        [key]: (root, _, { dragons: { db } }) =>
+          db.findOne(Reflect.get(root, key)).exec()
+      }),
+      {}
+    )
+  }
   return makeExecutableSchema({
     typeDefs,
     resolvers: {
       Parents: {
-        __resolveType(parents) {
-          console.log("schema.resolvers.Parents.__resolveType", {
-            root: parents
-          })
-          if (parents.kind === Kind.BREED) {
-            return Kind.ResolverTypes.BREEDING
+        // __resolveType(parents) {
+        //   setTimeout(
+        //     () =>
+        //       process.nextTick(() =>
+        //         console.log("schema.resolvers.Parents.__resolveType", {
+        //           root: parents
+        //         })
+        //       ),
+        //     1000
+        //   )
+        //   if (parents.kind === Kind.BREED) {
+        //     return Kind.ResolverTypes.BREEDING
+        //   }
+        //   if (parents.kind === Kind.PARENT_DRAG) {
+        //     return Kind.ResolverTypes.DRAGON_PARENTS
+        //   }
+        //   return Kind.ResolverTypes.DRAGON_PARENTS
+        // },
+        // ...createResolver("firstParent", "secondParent"),
+        async firstParent(
+          root,
+          _,
+          {
+            dragons: { db }
           }
-          if (parents.kind === Kind.PARENT_DRAG) {
-            return Kind.ResolverTypes.DRAGON_PARENTS
-          }
-          return Kind.ResolverTypes.DRAGON_PARENTS
+        ) {
+          const res = await db.find({ _id: root.firstParent._id }).exec()
+          console.log("first", { res, root })
+
+          return res[0]
         },
-        children: (root, _, ctx) => {
+        children: async (root, _, ctx) => {
           const {
             eggs: { db }
           } = ctx
-          const { deck } = db
+          const { deck } = await db
             .findOne({
               firstDragonIdentifier: root.firstParent.identifier,
               secondDragonIdentifier: root.secondParent.identifier
             })
             .exec()
 
-          if (!deck) return []
-
-          return Breeding.children(
+          if (!deck) return {}
+          const result = await Breeding.children(
             {
               deck
             },
             ctx
           )
+
+          return result.length === 1 ? result[0] : result
         }
       },
       Breeding: {
@@ -81,13 +112,12 @@ export const init = async () => {
           console.groupEnd("breed.parents")
           return result
         },
-        children: (...args) => {
+        children: async (...args) => {
           const [root] = args
-          console.log({ root })
-          return Breeding.children(...args).then(r => {
-            console.log("info", r)
-            return r
-          })
+          const res = await Breeding.children(...args)
+          const flatRes = res.flat(1)
+          console.log(Object.keys(root[0]._doc))
+          return flatRes.length > 1 ? flatRes : flatRes[0]
         }
       },
       Dragon,

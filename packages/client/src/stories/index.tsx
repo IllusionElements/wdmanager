@@ -6,8 +6,8 @@ import { linkTo } from "@storybook/addon-links"
 //@ts-ignore
 import { Button, Welcome } from "@storybook/react/demo"
 
-import TierList from "../components/TierList"
-import App from "../components/Vault"
+import TierList from "../containers/TierList"
+import App from "../containers/Vault"
 import client from "../apollo/client"
 storiesOf("Welcome", module).add("to Storybook", () => (
   <Welcome showApp={linkTo("Button")} />

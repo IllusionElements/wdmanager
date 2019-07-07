@@ -5,13 +5,13 @@ import { BrowserRouter } from "react-router-dom"
 import "./index.css"
 import client from "./apollo/client"
 import { App } from "./App"
-import Vault from "./components"
+import Vault from "./containers"
 import * as serviceWorker from "./serviceWorker"
-import TierList from "./components/TierList"
+import TierList from "./containers/TierList"
 import { CloudinaryProvider } from "./hooks/useCloudinary"
 import { CircularProgress } from "@material-ui/core"
 
-const DragonMain = React.lazy(() => import("./components/Dragon"))
+const DragonMain = React.lazy(() => import("./containers/Dragon"))
 const Dragon = ({ dragon, ...props }: { dragon?: string; path?: string }) => {
   return <DragonMain dragon={dragon} {...props} />
 }

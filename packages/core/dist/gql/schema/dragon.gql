@@ -3,6 +3,7 @@ type Tier {
   tier: Int
   name: String
   dragons: [Dragon]
+  dragon(name: String!): Dragon
 }
 
 type Cost {
@@ -57,6 +58,7 @@ type Dragon {
   incubatingTime: Int
   incubatorLevel: Int
   canUpgrade: Boolean
+  tier: Tier
   frags: Int
   isDivine: Boolean
   isUnbreedableDragon: Boolean

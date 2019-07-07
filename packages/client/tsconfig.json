@@ -13,14 +13,16 @@
     "moduleResolution": "node",
     "resolveJsonModule": true,
     // "isolatedModules": true,
-    "declaration": false,
+    "declaration": true,
     "baseUrl": "./src",
     "experimentalDecorators": true,
     "outDir": "./dist",
     "jsx": "preserve",
     "noEmit": true,
     "paths": {
-      "@manager/utils": ["../utils/src/*"]
+      "@manager/utils": ["../utils/src/*"],
+      "@vault/hooks": ["./src/hooks/*"],
+      "@vault/hooks/useApollo": ["./src/hooks/useApollo.ts"]
     }
   },
   "include": ["./src/**/*", "./__generated__/globalTypes.ts"],

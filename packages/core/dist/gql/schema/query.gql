@@ -5,7 +5,7 @@ type Deck {
   fragments: Int!
 }
 
-interface Parents {
+type Parents {
   _id: ID
   firstParent: Dragon
   secondParent: Dragon
@@ -55,7 +55,7 @@ type Query {
   tiers: [Tier]
   dragon(name: String!, filter: FilterParams): Dragon
   partialDragon(name: String!): [Dragon]!
-  tier(key: String!): [Tier]
+  tier(key: String!): Tier
   dragonParents(child: Child!): [DragonParents!]!
-  dragonChildren(parents: Parent!): [Breeding!]!
+  dragonChildren(parents: Parent!): Breeding!
 }

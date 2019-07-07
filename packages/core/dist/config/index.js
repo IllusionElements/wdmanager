@@ -1,6 +1,6 @@
 import { ApolloServer } from "apollo-server-express"
 import dotenv from "dotenv"
-
+import context from "./context"
 dotenv.config({
   debug: true
 })
@@ -14,16 +14,11 @@ dotenv.config({
 //   parents: [Dragon!]!
 // }
 
-const setup = async () => {
+// const setup =
+export default async () => {
   const Schema = await import("./initializeSchema")
   return new ApolloServer({
     schema: await Schema.init(),
-    context: async () => {
-      const { default: ctx } = await import("../gql/resolvers/ResolverContext")
-      const secrets = new Map().set("MONGO_URL", process.env.MONGO_URL)
-      return { ...ctx, secrets }
-    }
+    context
   })
 }
-
-export default setup

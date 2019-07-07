@@ -22,14 +22,21 @@ import { service } from "../service"
 import { Eggs } from "./../db/eggs"
 import { Dragons } from "../db/dragon"
 import { Breeds } from "../db/Breeds"
+const LOG = (ns, { console: csl }) => {
+  console.group(ns)
+  console.log(
+    require("util").inspect(csl(), {
+      depth: 20
+    })
+  )
+  console.groupEnd(ns)
+}
 let EggService = (EggService_1 = class EggService {
-  constructor() {
-    this.findChildren = async parents => {
-      const query = { ...parents, db: this.db }
-      const result = await EggService_1.find(query)
-      console.log({ result, query })
-      return result
-    }
+  async findChildren(parents) {
+    const query = { ...parents, db: this.db }
+    const result = await EggService_1.find(query)
+    console.log({ result, query })
+    return result
   }
   async findParents(opts) {
     const { db } = this
@@ -81,7 +88,8 @@ EggService.find = async ({
       secondDragonIdentifier
     })
     .exec()
-  console.log({ data })
+  LOG(`EggService.find`, { console: () => ({ results: data }) })
+
   return data
 }
 
@@ -95,4 +103,5 @@ EggService = EggService_1 = __decorate(
   ],
   EggService
 )
+
 export { EggService }

@@ -4,3 +4,7 @@ export { allSettled } from "./allSettled"
 export function isNull(n) {
   return n === null
 }
+
+export function isNotEmpty(arr) {
+  return arr.length > 0
+}

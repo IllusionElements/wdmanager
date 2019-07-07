@@ -14,7 +14,7 @@
   ],
   "scripts": {
     "build": "yarn tsc -b tsconfig.build.json",
-    "start": "yarn nodemon --inspect -r esm ./packages/core/dist && yarn apollo.push",
+    "start": "yarn nodemon --inspect -r esm ./packages/core/dist",
     "tsc.build": "yarn workspaces run build",
     "push": "git push",
     "apollo.push": "npx apollo service:push",

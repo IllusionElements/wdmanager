@@ -77,3 +77,4 @@ export { lazy } from "./lazy"
 export { pick } from "./pick"
 
 export const loadAllSettledPolyfill = () => require("./allSettled")
+export const isNotEmpty = (arr: any[]) => arr.length > 0 || arr[0] !== undefined
