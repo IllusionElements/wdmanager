@@ -2,7 +2,7 @@ import React, { useMemo } from "react"
 import { CircularProgress, Select, MenuItem } from "@material-ui/core"
 import { useTierQuery } from "./useTierQuery"
 
-export default function TierOptions(props: { setTier: (t: string) => void }) {
+export default function TierOptions(props: { setTier: (t: number) => void }) {
   const {
     updateTier,
     data: { currentTier, tiers },
@@ -28,7 +28,7 @@ export default function TierOptions(props: { setTier: (t: string) => void }) {
     ) =>
       typeof e.currentTarget.value === "number" &&
       updateTier(e.currentTarget.value) &&
-      props.setTier(e.target.name!),
+      props.setTier(Number.parseInt(e.target.name!, 10)),
     [updateTier, props]
   )
   if (loading) {

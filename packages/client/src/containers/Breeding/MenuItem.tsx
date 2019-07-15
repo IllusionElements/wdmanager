@@ -1,49 +1,19 @@
-import React, { useMemo } from "react"
-import PropTypes from "prop-types"
-import deburr from "lodash/deburr"
-import Downshift from "downshift"
-import { createStyles, makeStyles, Theme } from "@material-ui/core/styles"
+import React from "react"
 import TextField, { TextFieldProps } from "@material-ui/core/TextField"
-import Popper from "@material-ui/core/Popper"
-import Paper from "@material-ui/core/Paper"
 import MenuItem, { MenuItemProps } from "@material-ui/core/MenuItem"
-import Chip from "@material-ui/core/Chip"
-import { Dragon } from "./state"
+import { Dragon } from "./Dragon/state"
 
-const useStyles = makeStyles((theme: Theme) =>
-  createStyles({
-    root: {
-      flexGrow: 1,
-      height: 250
-    },
-    container: {
-      flexGrow: 1,
-      position: "relative"
-    },
-    paper: {
-      position: "absolute",
-      zIndex: 1,
-      marginTop: theme.spacing(1),
-      left: 0,
-      right: 0
-    },
-    chip: {
-      margin: theme.spacing(0.5, 0.25)
-    },
-    inputRoot: {
-      flexWrap: "wrap"
-    },
-    inputInput: {
-      width: "auto",
-      flexGrow: 1
-    },
-    divider: {
-      height: theme.spacing(2)
-    }
-  })
-)
 type RenderInputProps = TextFieldProps & {
-  classes: ReturnType<typeof useStyles>
+  classes: Record<
+    | "root"
+    | "container"
+    | "paper"
+    | "chip"
+    | "inputRoot"
+    | "inputInput"
+    | "divider",
+    string
+  >
   ref?: React.Ref<HTMLDivElement>
 }
 
@@ -69,7 +39,7 @@ interface RenderDragonProps {
   dragon: Dragon
   index: number
   itemProps: MenuItemProps<"div", { button?: never }>
-  highlightedIndex: number
+  highlightedIndex: number | null
   selectedItem: string
 }
 
@@ -89,7 +59,6 @@ const memoStyle = <S extends string, T extends number, U extends number>(
     return memoCache.set(a, val) && val
   }
 }
-const createMemoStyle = memoStyle("fontWeight", () => 500, () => 400)
 export const renderDragon: ReactFactory<
   RenderDragonProps
 > = suggestionProps => {
@@ -101,15 +70,17 @@ export const renderDragon: ReactFactory<
     selectedItem
   } = suggestionProps
   const isHighlighted = highlightedIndex === index
-  const isSelected = Boolean(~(selectedItem || "").indexOf(dragon._id))
-  const style = createMemoStyle(isSelected)
+  const isSelected = selectedItem === dragon._id
+
   return (
     <MenuItem
       {...itemProps}
       key={dragon._id}
       selected={isHighlighted}
       component="div"
-      style={style}
+      style={{
+        fontWeight: isSelected ? 500 : 400
+      }}
     >
       {dragon.displayName}
     </MenuItem>

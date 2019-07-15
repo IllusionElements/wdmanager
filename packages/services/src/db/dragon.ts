@@ -57,7 +57,8 @@ const dragSchema = <const>{
 export interface IDragon extends Document, TypeOfSchema<typeof dragSchema> {
   _id: ObjectID
   levels?: Level[]
+  _schema: typeof dragSchema
 }
 const DragonSchema = new Schema(dragSchema)
 
-export const Dragons = model<IDragon>("dragon", DragonSchema)
+export const Dragons = model<Omit<IDragon, "_schema">>("dragon", DragonSchema)

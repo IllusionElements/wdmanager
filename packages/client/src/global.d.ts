@@ -1,6 +1,4 @@
-type Functor<Returns = any, Args extends any[] = []> = (
-  ...args: Args
-) => Returns
+type Functor<Returns, Args extends any[] = []> = (...args: Args) => Returns
 type VoidFunctor<A = [void]> = Functor<void, A extends any[] ? A : [A]>
 type AnyFunctor = Functor<any, any[]>
 type ArgumentType<T> = T extends (...args: infer R) => any ? R : any[]
@@ -60,7 +58,7 @@ type Unpack<T> = T extends Array<infer U>
 type $Value<T, K extends keyof T = keyof T> = T[K]
 type $Keys<T> = keyof T
 
-interface IAction<T, P> {
+interface IAction<T = any, P = any> {
   type: T
   payload: P
 }
@@ -93,7 +91,7 @@ type ReactPropsType<
 > = T extends React.ComponentType<infer Props>
   ? Props
   : React.PropsWithChildren<{}>
-type ReactFactory<T> = Functor<JSXElement, [React.PropsWithChildren<T>]>
+type ReactFactory<T> = Functor<React.ReactNode, [React.PropsWithChildren<T>]>
 
 declare namespace Types {
   export type FN<A extends any[] = [], R = any> = Functor<R, A>
@@ -103,3 +101,10 @@ declare namespace Types {
 type Identity<T, K = null> = K extends $Keys<T> ? T[K] : T
 type MapKeys<T extends Map> = T extends Map<infer K, any> ? K : T
 type AsyncFunctor<A, R> = (...args: A extends any[] ? A : [A]) => Promise<R>
+type ActionPayload<T> = T extends IAction<any, infer Payload> ? Payload : T
+type ActionType<T extends IAction> = T extends IAction<infer Type>
+  ? Type
+  : string
+
+type StringRecord<K extends ObjectKeyType> = Record<K, string>
+type NumberRecord<K extends ObjectKeyType> = Record<K, number>

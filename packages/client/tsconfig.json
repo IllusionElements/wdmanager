@@ -20,11 +20,10 @@
     "jsx": "preserve",
     "noEmit": true,
     "paths": {
-      "@manager/utils": ["../utils/src/*"],
       "@vault/hooks": ["./src/hooks/*"],
       "@vault/hooks/useApollo": ["./src/hooks/useApollo.ts"]
     }
   },
   "include": ["./src/**/*", "./__generated__/globalTypes.ts"],
-  "exclude": ["node_modules"]
+  "exclude": ["node_modules", "../services", "../core"]
 }
