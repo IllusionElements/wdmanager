@@ -1,17 +1,17 @@
-//@ts-nocheck
 import React from "react"
 import ReactDOM from "react-dom"
+import { CircularProgress } from "@material-ui/core"
 import { BrowserRouter, Switch } from "react-router-dom"
-import "./index.css"
 import client from "./apollo/client"
 import { App } from "./App"
 import Vault from "./containers"
-import * as serviceWorker from "./serviceWorker"
 import TierList from "./containers/TierList"
 import { CloudinaryProvider } from "./hooks/useCloudinary"
-import { CircularProgress } from "@material-ui/core"
-import Breeding from "./containers/Breeding"
+import "./index.css"
+import * as serviceWorker from "./serviceWorker"
 const DragonMain = React.lazy(() => import("./containers/Dragon"))
+const Breeding = React.lazy(() => import("./containers/Breeding"))
+
 const Dragon = ({ dragon, ...props }: { dragon?: string; path?: string }) => {
   return <DragonMain dragon={dragon} {...props} />
 }
