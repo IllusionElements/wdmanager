@@ -23,7 +23,7 @@ type ContextValue = [
     | IAction<DragonActions.SET_SECOND_PARENT, Record<"second", string>>
     | {
         type: "SELECT_TIER"
-        payload: { tier: string }
+        payload: { tier: number }
       }
   >
 ]

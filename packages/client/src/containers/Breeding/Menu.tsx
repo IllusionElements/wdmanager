@@ -7,8 +7,12 @@ import { makeStyles, createStyles } from "@material-ui/styles"
 import { Theme, Paper } from "@material-ui/core"
 import { renderInput, renderDragon } from "./MenuItem"
 import { GetLabelPropsOptions, GetItemPropsOptions } from "downshift"
-const useStyles = makeStyles((theme: Theme) =>
-  createStyles({
+const useStyles = makeStyles((theme: Theme) => {
+  if (!theme.spacing) {
+    //@ts-ignore
+    theme.spacing = a => a
+  }
+  return createStyles({
     root: {
       flexGrow: 1,
       height: 250
@@ -37,8 +41,8 @@ const useStyles = makeStyles((theme: Theme) =>
     divider: {
       height: theme.spacing(2)
     }
-  } as const)
-)
+  })
+})
 
 const capitialize = (a: string) =>
   a.substr(0, 1).toLocaleUpperCase() + a.slice(1)

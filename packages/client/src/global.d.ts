@@ -21,7 +21,7 @@ declare module "graphql-tag.macro" {
   import { DocumentNode } from "graphql"
   const gql: (
     literal: TemplateString,
-    ...placeholders: TemplateString[]
+    ...placeholders: Array<TemplateString | DocumentNode>
   ) => DocumentNode
   export default gql
 }

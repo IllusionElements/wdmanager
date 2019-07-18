@@ -1,7 +1,7 @@
 import { useCallback } from "react"
 import debounce from "lodash.debounce"
 
-export default function useDebounce<T extends AnyFunctor>(;
+export default function useDebounce<T extends AnyFunctor>(
   fn: T,
   t: number = 0
 ) {

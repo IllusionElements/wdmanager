@@ -18,7 +18,7 @@ declare namespace Import {
 
   export type Async<K extends ObjectKeyType, T> = Promise<Type<K, T>>
 }
-declare const enum Resp {
+declare enum Resp {
   ASYNC = "ASYNC",
   SYNC = "SYNC"
 }

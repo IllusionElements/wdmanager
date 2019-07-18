@@ -26,7 +26,7 @@ type Dragon = Schema<
   _id: string
 } & { element: string }
 export const children: Dragon[] = []
-export const enum DragonQueryAction {
+export enum DragonQueryAction {
   SET_FIRST_PARENT = "SET_FIRST_PARENT",
   SET_SECOND_PARENT = "SET_SECOND_PARENT",
   SET_DRAGON_RESULTS = "SET_DRAGON_RESULTS",

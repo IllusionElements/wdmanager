@@ -10,6 +10,7 @@ export const App: React.FC<{ path?: string }> = () => {
         <p>
           Edit <code>src/App.tsx</code> and save to reload.
         </p>
+        <Link to="/dragons">Dragons</Link>
         <a
           className="App-link"
           href="https://reactjs.org"
@@ -18,7 +19,6 @@ export const App: React.FC<{ path?: string }> = () => {
         >
           Learn React
         </a>
-        <Link to="/dragons">Dragons</Link>
       </header>
     </div>
   )
