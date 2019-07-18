@@ -26,3 +26,4 @@ export const tier = (root, _, ctx) =>
   ctx.tiers.db.findOne({
     tier: root.defaultTierNumber
   })
+export const element = ({ elementIdentifier }) => elementIdentifier

@@ -18,13 +18,59 @@ export const dragons: DragonResults = {
 type Schema<T> = {
   [K in keyof T]: T[K] extends AnyFunctor ? ReturnType<T[K]> : T[K]
 }
-type Dragon = Schema<
-  ArgumentType<
-    typeof import("../../../../core/dist/gql/resolvers/Dragon/lazy").Dragon["rarity"]
-  >[0]["_schema"]
-> & {
+interface DragonSchema {
   _id: string
-} & { element: string }
+  identifier: String
+  inBundle: Number
+  displayName: String
+  defaultSceneFile: String
+  dragonClass: String
+  dragonType: String
+  defaultRarity: Number
+  elementIdentifier: String
+  displayDescription: String
+  defaultDiscoveredImage: String
+  undiscoveredImage: String
+  defaultIconFilename: String
+  iconFilenameLocked: String
+  upgradeCSVFileName: String
+  fidgets: String
+  minRange: Number
+  unlockAchievement: String
+  attackStartVal: Number
+  sellBasePrice: String
+  unavailableSpellTypes: String
+  showcaseNodeLocation: String
+  isAttainable: Number
+  sortPriority: Number
+  minDragonLevelForBreeding: Number
+  minBreedingCaveBuildingLevelToBreed: Number
+  incubationBuildingLevelRequirement: Number
+  defaultMaxLevel: Number
+  researchMaxLevelIncrease: Number
+  eggCurrencyType: String
+  eggDisplaySceneFile: String
+  defaultAttackBoostRange: String
+  defaultHPBoostRange: String
+  canSell: Number
+  canUpgrade: Number
+  canBeSummoned: Number
+  deathPenaltyPercentage: Number
+  defaultTierNumber: Number
+  showInStable: Number
+  priorityWithinTier: Number
+  numberOfFragmentsNeeded: Number
+  isShrineDragon: Number
+  isGoldDragon: Number
+  limitedTimeOfferDragonActiveEvent: String
+  limitedTimeOfferDragonParentsInfoFile: String
+  isEvolveDragon: Number
+  canPlaceIntoPerch: Number
+  isUnbreedableDragon: Number
+  buffEndTime: Number
+  h: String
+}
+interface Dragon extends Schema<DragonSchema>, Record<"element", string> {}
 export const children: Dragon[] = []
 export enum DragonQueryAction {
   SET_FIRST_PARENT = "SET_FIRST_PARENT",

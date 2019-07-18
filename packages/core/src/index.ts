@@ -1,7 +1,22 @@
 import { ApolloServer } from "apollo-server"
 import dotenv from "dotenv"
 import { Breeding, Dragon, Tier, Deck, Query } from "./gql/resolvers"
+import ctx from "./gql/resolvers/ResolverContext"
 import typeDefs from "./schema"
+import Dataloader from "dataloader"
+import { ITier } from "services/src/db"
+
+const loader = new Dataloader<string[], ITier | ITier[]>(keys => {
+  if (keys.length === 1) {
+    const [tier] = keys
+    return ctx.tiers.db.findOne({ tier }).exec()
+  }
+
+  return ctx.tiers.db
+    .where("_id")
+    .in(keys)
+    .exec()
+})
 dotenv.config({
   debug: true
 })
@@ -9,7 +24,6 @@ dotenv.config({
 export const server = new ApolloServer({
   typeDefs,
   context: async () => {
-    const { default: ctx } = await import("./gql/resolvers/ResolverContext")
     const secrets = new Map().set("MONGO_URL", process.env.MONGO_URL)
     return { ...ctx, secrets }
   },

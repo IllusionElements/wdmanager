@@ -13,7 +13,7 @@ declare const context: {
     readonly db: Model<import("../../../../services/src").IEggs, {}>
     readonly service: EggService
   }
-  readonly eggs: {
+  readonly deck: {
     readonly db: Model<import("../../../../services/src").Deck, {}>
     readonly service: {}
   }
