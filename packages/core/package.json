@@ -8,7 +8,7 @@
   "dependencies": {
     "@manager/services": "^1.0.0",
     "@manager/utils": "^1.0.0",
-    "apollo-server": "^2.6.1",
+    "apollo-server": "^2.25.4",
     "apollo-server-express": "^2.6.1",
     "csvtojson": "^2.0.8",
     "dataloader": "^1.4.0",
